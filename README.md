@@ -1,36 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FIA Job Prep
 
-## Getting Started
+> **Prepare Smart, Get Selected.** A mobile-first MCQ practice platform for candidates preparing for FIA (Federal Investigation Agency) jobs in Pakistan.
 
-First, run the development server:
+Built with **Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4 · Prisma · NextAuth v5**.
+
+Registration is **manual and WhatsApp-gated** — students can't self-register. The owner creates accounts and shares credentials over WhatsApp (**+92 341 5298183**).
+
+---
+
+## Quick start
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+cp .env.example .env        # AUTH_SECRET is pre-filled for local dev
+npx prisma migrate dev      # create the SQLite database
+npx prisma db seed          # 250 MCQs · 10 tests · 5 subjects · demo + admin users
+npm run dev                 # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Seeded accounts
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Role  | Email                   | Password         | Notes                                  |
+| ----- | ----------------------- | ---------------- | -------------------------------------- |
+| Admin | `admin@fiajobprep.com`  | `Admin@FIA2024!` | Can create users at `/admin/users/new` |
+| Demo  | `demo@fiajobprep.com`   | `Demo@1234`      | Forced to set a new password on login  |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## How registration works (owner workflow)
 
-To learn more about Next.js, take a look at the following resources:
+1. A visitor taps **Register on WhatsApp** on the landing page → WhatsApp opens with a pre-filled message to the owner.
+2. The owner signs in as admin and visits **`/admin/users/new`** to create the account. A temporary password is generated automatically.
+3. The owner taps **Copy WhatsApp message** and sends the credentials to the student.
+4. The student signs in at `/login`. Because `mustChangePassword` is `true`, they're redirected to `/account/change-password` before they can use the app.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The owner number lives in `NEXT_PUBLIC_OWNER_WHATSAPP` (`.env`) with a fallback in `src/lib/whatsapp.ts` — keep both in sync.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Scripts
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| Command            | Description                                       |
+| ------------------ | ------------------------------------------------- |
+| `npm run dev`      | Start the dev server                              |
+| `npm run build`    | Production build                                  |
+| `npm run lint`     | ESLint                                            |
+| `npm run db:migrate` | `prisma migrate dev`                            |
+| `npm run db:seed`  | Seed subjects, tests, MCQs, and accounts          |
+| `npm run db:reset` | Drop, re-migrate, and re-seed the database        |
+| `npm run db:studio`| Browse the data in Prisma Studio                  |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Project structure
+
+```
+src/
+  app/
+    (marketing)/        # public landing page  →  /
+    (auth)/             # /login, /register (WhatsApp redirect)
+    (account)/          # /account/change-password (first-login gate target)
+    (app)/              # protected: /dashboard, /subjects, /progress, /admin
+    (quiz)/             # focused, full-bleed: /tests/[id], /tests/[id]/result
+    demo/               # public 10-question sampler  →  /demo
+    api/auth/[...nextauth]/route.ts
+    sitemap.ts · robots.ts · opengraph-image.tsx
+  components/
+    brand/ ui/ app/ marketing/
+  lib/
+    auth.ts auth-helpers.ts db.ts queries.ts stats.ts
+    attempt-actions.ts whatsapp.ts subjects.ts utils.ts
+prisma/
+  schema.prisma · seed.ts · dev.db (generated)
+```
+
+### Auth & route protection
+
+- `src/lib/auth.ts` — NextAuth v5 credentials provider, JWT sessions.
+- Protected pages call `getCurrentUser()` / `requireAdmin()` (server-side, DB-authoritative).
+- The first-login password gate reads `mustChangePassword` from the **database** (not the JWT), so changing the password and navigating to `/dashboard` just works — no token refresh needed.
+
+### Quiz engine
+
+- Server actions in `src/lib/attempt-actions.ts` (`startAttempt`, `saveProgress`, `submitAttempt`).
+- The timer is derived from `attempt.startedAt`, so a refresh never resets it; answers autosave (debounced) so progress survives reloads.
+- **Scoring is always done server-side** — the client never receives `correctIndex` until the result page.
+
+---
+
+## Switching to PostgreSQL (production)
+
+The schema is Postgres-portable on purpose: `options`/`answers` use `Json` and enums are stored as `String`, so only the datasource changes.
+
+1. In `prisma/schema.prisma`, set `provider = "postgresql"`.
+2. Set `DATABASE_URL` to your Neon/Supabase connection string.
+3. `npx prisma migrate dev --name init && npx prisma db seed`.
+4. Deploy to Vercel. Set `AUTH_SECRET` (`openssl rand -base64 32`), `AUTH_URL` (your domain), `DATABASE_URL`, and `NEXT_PUBLIC_OWNER_WHATSAPP` in the project env.
+
+---
+
+## Adding more questions
+
+The seed currently ships **50 MCQs per subject** (250 total), split into two 25-question tests each. To grow the bank, append to the arrays in `prisma/seed.ts` and re-run `npm run db:seed`. See `MCQ_Scraper_Instructions.md` for the planned scraping pipeline (target ~1,200 MCQs / 24 tests).

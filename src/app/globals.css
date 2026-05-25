@@ -1,26 +1,80 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ─────────────────────────────────────────────
+   FIA Job Prep — Design System (Tailwind v4)
+   Emerald primary, dark slate surfaces, generous
+   whitespace, rounded cards, subtle shadows.
+   ───────────────────────────────────────────── */
+
+@theme {
+  /* Brand */
+  --color-primary: #10b981; /* emerald-500 */
+  --color-primary-dark: #047857; /* emerald-700 */
+  --color-primary-light: #d1fae5; /* emerald-100 */
+
+  /* Surfaces */
+  --color-surface: #ffffff;
+  --color-surface-muted: #f8fafc; /* slate-50 */
+  --color-surface-dark: #0f172a; /* slate-900 */
+
+  /* Ink (text) */
+  --color-ink: #0f172a;
+  --color-ink-muted: #475569; /* slate-600 */
+  --color-ink-soft: #94a3b8; /* slate-400 */
+
+  /* Status */
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+
+  /* Typography */
+  --font-display: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, "JetBrains Mono", monospace;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@layer base {
+  * {
+    border-color: var(--color-slate-200, #e2e8f0);
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-surface-muted);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4, h5 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+
+  /* Accessible focus ring everywhere */
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Soft emerald radial blob used behind the hero art */
+@utility bg-hero-blob {
+  background-image: radial-gradient(
+    circle at 50% 40%,
+    rgba(16, 185, 129, 0.28),
+    rgba(16, 185, 129, 0.06) 45%,
+    transparent 70%
+  );
+}
+
+/* Thin tappable scrollbar for the question palette */
+@utility scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-ink-soft) transparent;
 }

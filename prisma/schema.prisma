@@ -1,0 +1,82 @@
+// FIA Job Prep — Prisma schema
+//
+// DB: SQLite for local dev (zero-setup). The schema is kept Postgres-portable:
+//   - `options` / `answers` use `Json` (works on SQLite AND PostgreSQL).
+//   - `role` / `difficulty` are stored as `String` (SQLite has no native enums).
+// To deploy on Neon/Supabase, change `provider` to "postgresql" and point
+// DATABASE_URL at the cloud connection string — no field changes required.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                 String    @id @default(cuid())
+  email              String    @unique
+  name               String
+  passwordHash       String
+  mustChangePassword Boolean   @default(true)
+  isActive           Boolean   @default(true)
+  role               String    @default("STUDENT") // STUDENT | ADMIN
+  createdAt          DateTime  @default(now())
+  attempts           Attempt[]
+}
+
+model Subject {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  title       String
+  description String
+  order       Int     @default(0)
+  tests       Test[]
+}
+
+model Test {
+  id          String     @id @default(cuid())
+  subjectId   String
+  subject     Subject    @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  number      Int // 1, 2, 3 ... contiguous per subject
+  title       String
+  difficulty  String     @default("MEDIUM") // EASY | MEDIUM | HARD
+  durationMin Int        @default(30)
+  isPublished Boolean    @default(true)
+  createdAt   DateTime   @default(now())
+  questions   Question[]
+  attempts    Attempt[]
+
+  @@unique([subjectId, number])
+}
+
+model Question {
+  id           String @id @default(cuid())
+  testId       String
+  test         Test   @relation(fields: [testId], references: [id], onDelete: Cascade)
+  order        Int
+  text         String
+  options      Json // string[] — exactly 4 options
+  correctIndex Int // 0..3
+  explanation  String
+}
+
+model Attempt {
+  id          String    @id @default(cuid())
+  userId      String
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  testId      String
+  test        Test      @relation(fields: [testId], references: [id], onDelete: Cascade)
+  answers     Json // [{ questionId, selectedIndex | null, markedForReview }]
+  score       Int
+  total       Int
+  accuracy    Float
+  startedAt   DateTime
+  submittedAt DateTime?
+  createdAt   DateTime  @default(now())
+
+  @@index([userId])
+  @@index([testId])
+}
