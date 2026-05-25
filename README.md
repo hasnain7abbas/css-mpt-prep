@@ -1,104 +1,150 @@
+<div align="center">
+
+<img src="./public/logo.svg" alt="FIA Job Prep" width="96" />
+
 # FIA Job Prep
 
-> **Prepare Smart, Get Selected.** A mobile-first MCQ practice platform for candidates preparing for FIA (Federal Investigation Agency) jobs in Pakistan.
+### Prepare Smart, Get Selected.
 
-Built with **Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4 · Prisma · NextAuth v5**.
+A mobile-first MCQ practice platform for candidates preparing for **FIA (Federal Investigation Agency)** jobs in Pakistan — timed mocks, past-paper questions, instant explanations, and real progress tracking.
 
-Registration is **manual and WhatsApp-gated** — students can't self-register. The owner creates accounts and shares credentials over WhatsApp (**+92 341 5298183**).
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-000?logo=next.js&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-19-149ECA?logo=react&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-v4-38BDF8?logo=tailwindcss&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white">
+  <img alt="Auth.js" src="https://img.shields.io/badge/Auth.js-v5-000?logo=auth0&logoColor=white">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+</p>
+
+<p>
+  <a href="https://github.com/hasnain7abbas/fia-job-prep/actions/workflows/ci.yml">
+    <img alt="CI" src="https://github.com/hasnain7abbas/fia-job-prep/actions/workflows/ci.yml/badge.svg">
+  </a>
+</p>
+
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhasnain7abbas%2Ffia-job-prep&env=AUTH_SECRET,DATABASE_URL,NEXT_PUBLIC_OWNER_WHATSAPP&envDescription=Auth%20secret%2C%20a%20Postgres%20connection%20string%2C%20and%20the%20owner%20WhatsApp%20number">
+  <img alt="Deploy with Vercel" src="https://vercel.com/button">
+</a>
+
+</div>
 
 ---
+
+## Overview
+
+FIA Job Prep is a complete, exam-style practice app. Registration is **manual and WhatsApp-gated** — candidates can't self-register; the owner creates accounts and shares credentials over WhatsApp. Students then take **timed, auto-graded MCQ tests** with instant per-question explanations and watch their accuracy, streak, and weak areas improve over time.
+
+The question bank ships with **~1,357 MCQs across 54 tests** in five subjects (English, General Knowledge, Pakistan Studies, Computer, Islamic Studies).
+
+## Highlights
+
+- 🔐 **WhatsApp-gated onboarding** — no public sign-up; the owner provisions accounts and the first login forces a password change.
+- ⏱️ **Timed quiz engine** — server-anchored countdown (survives refreshes), auto-submit at zero, mark-for-review, and a colour-coded question palette.
+- 💾 **Crash-safe progress** — answers autosave; reloading never loses work.
+- ✅ **Server-side scoring** — the correct answer never reaches the browser until the result page, with full explanations for every question.
+- 📊 **Progress tracking** — overall accuracy, 30-day trend, per-subject breakdown, a 12-week activity heatmap, and a recent-attempts table.
+- 🧑‍💼 **Admin** — create student accounts with auto-generated temporary passwords and a copy-ready WhatsApp message.
+- 🧪 **Public demo** — a 10-question sampler at `/demo`, no login required.
+- 📱 **Mobile-first & accessible** — built for 360 px first, keyboard-reachable, AA contrast.
 
 ## Quick start
 
 ```bash
+git clone https://github.com/hasnain7abbas/fia-job-prep.git
+cd fia-job-prep
 npm install
 cp .env.example .env        # AUTH_SECRET is pre-filled for local dev
-npx prisma migrate dev      # create the SQLite database
-npx prisma db seed          # 250 MCQs · 10 tests · 5 subjects · demo + admin users
+npx prisma migrate dev      # creates the local SQLite database
+npm run db:seed             # ~1,357 MCQs + admin & demo accounts
 npm run dev                 # http://localhost:3000
 ```
 
 ### Seeded accounts
 
-| Role  | Email                   | Password         | Notes                                  |
-| ----- | ----------------------- | ---------------- | -------------------------------------- |
-| Admin | `admin@fiajobprep.com`  | `Admin@FIA2024!` | Can create users at `/admin/users/new` |
-| Demo  | `demo@fiajobprep.com`   | `Demo@1234`      | Forced to set a new password on login  |
+| Role  | Email                  | Password         | Notes                                   |
+| ----- | ---------------------- | ---------------- | --------------------------------------- |
+| Admin | `admin@fiajobprep.com` | `Admin@FIA2024!` | Create users at `/admin/users/new`      |
+| Demo  | `demo@fiajobprep.com`  | `Demo@1234`      | Forced to set a new password on login   |
 
----
+> **Change these before going live.** Update the seeded admin password and generate a fresh `AUTH_SECRET`.
 
-## How registration works (owner workflow)
+## How registration works (owner flow)
 
-1. A visitor taps **Register on WhatsApp** on the landing page → WhatsApp opens with a pre-filled message to the owner.
-2. The owner signs in as admin and visits **`/admin/users/new`** to create the account. A temporary password is generated automatically.
-3. The owner taps **Copy WhatsApp message** and sends the credentials to the student.
-4. The student signs in at `/login`. Because `mustChangePassword` is `true`, they're redirected to `/account/change-password` before they can use the app.
+1. A visitor taps **Register on WhatsApp** → WhatsApp opens with a pre-filled message to the owner.
+2. The owner signs in as admin → **`/admin/users/new`** → creates the account (temporary password auto-generated).
+3. The owner taps **Copy WhatsApp message** and sends the credentials.
+4. The student signs in, is forced to set a new password, and lands on the dashboard.
 
-The owner number lives in `NEXT_PUBLIC_OWNER_WHATSAPP` (`.env`) with a fallback in `src/lib/whatsapp.ts` — keep both in sync.
+The owner number lives in `NEXT_PUBLIC_OWNER_WHATSAPP` with a fallback in `src/lib/whatsapp.ts`.
 
----
+## Tech stack
 
-## Scripts
-
-| Command            | Description                                       |
-| ------------------ | ------------------------------------------------- |
-| `npm run dev`      | Start the dev server                              |
-| `npm run build`    | Production build                                  |
-| `npm run lint`     | ESLint                                            |
-| `npm run db:migrate` | `prisma migrate dev`                            |
-| `npm run db:seed`  | Seed subjects, tests, MCQs, and accounts          |
-| `npm run db:reset` | Drop, re-migrate, and re-seed the database        |
-| `npm run db:studio`| Browse the data in Prisma Studio                  |
-
----
+| Layer      | Choice                                              |
+| ---------- | --------------------------------------------------- |
+| Framework  | Next.js 16 (App Router, RSC, Server Actions)        |
+| Language   | TypeScript (strict)                                 |
+| Styling    | Tailwind CSS v4 (`@theme` tokens) + Radix primitives|
+| Auth       | Auth.js / NextAuth v5 (credentials, JWT sessions)   |
+| ORM / DB   | Prisma · SQLite (local) → PostgreSQL (production)   |
+| Validation | Zod + react-hook-form                               |
+| Icons      | lucide-react · Toasts: sonner                       |
 
 ## Project structure
 
 ```
 src/
   app/
-    (marketing)/        # public landing page  →  /
-    (auth)/             # /login, /register (WhatsApp redirect)
-    (account)/          # /account/change-password (first-login gate target)
-    (app)/              # protected: /dashboard, /subjects, /progress, /admin
-    (quiz)/             # focused, full-bleed: /tests/[id], /tests/[id]/result
-    demo/               # public 10-question sampler  →  /demo
-    api/auth/[...nextauth]/route.ts
+    (marketing)/   # public landing  → /
+    (auth)/        # /login, /register (WhatsApp redirect)
+    (account)/     # /account/change-password (first-login gate)
+    (app)/         # protected: dashboard, subjects, progress, admin
+    (quiz)/        # focused: /tests/[id] + /tests/[id]/result
+    demo/          # public 10-question sampler
     sitemap.ts · robots.ts · opengraph-image.tsx
-  components/
-    brand/ ui/ app/ marketing/
-  lib/
-    auth.ts auth-helpers.ts db.ts queries.ts stats.ts
-    attempt-actions.ts whatsapp.ts subjects.ts utils.ts
+  components/ (brand · ui · app · marketing)
+  lib/ (auth · db · queries · stats · attempt-actions · whatsapp · subjects)
 prisma/
-  schema.prisma · seed.ts · dev.db (generated)
+  schema.prisma · seed.ts
+  lib/mcq.ts · generators.ts · data/*.ts   # MCQ generator + factual datasets
 ```
 
-### Auth & route protection
+## Scripts
 
-- `src/lib/auth.ts` — NextAuth v5 credentials provider, JWT sessions.
-- Protected pages call `getCurrentUser()` / `requireAdmin()` (server-side, DB-authoritative).
-- The first-login password gate reads `mustChangePassword` from the **database** (not the JWT), so changing the password and navigating to `/dashboard` just works — no token refresh needed.
+| Command            | Description                              |
+| ------------------ | ---------------------------------------- |
+| `npm run dev`      | Start the dev server                     |
+| `npm run build`    | Production build                         |
+| `npm run lint`     | ESLint                                   |
+| `npm run db:seed`  | Seed subjects, tests, MCQs, and accounts |
+| `npm run db:reset` | Drop, re-migrate, and re-seed            |
+| `npm run db:studio`| Browse data in Prisma Studio             |
 
-### Quiz engine
+## Deployment
 
-- Server actions in `src/lib/attempt-actions.ts` (`startAttempt`, `saveProgress`, `submitAttempt`).
-- The timer is derived from `attempt.startedAt`, so a refresh never resets it; answers autosave (debounced) so progress survives reloads.
-- **Scoring is always done server-side** — the client never receives `correctIndex` until the result page.
+> ⚠️ **Not GitHub Pages.** This is a full-stack app (auth, database, server actions), so it needs a Node.js host — GitHub Pages serves static files only. Deploy to **Vercel** (recommended) or any Node host, backed by a managed **PostgreSQL** database. SQLite is for local development only.
 
----
-
-## Switching to PostgreSQL (production)
-
-The schema is Postgres-portable on purpose: `options`/`answers` use `Json` and enums are stored as `String`, so only the datasource changes.
+**Vercel + Neon/Supabase (recommended):**
 
 1. In `prisma/schema.prisma`, set `provider = "postgresql"`.
-2. Set `DATABASE_URL` to your Neon/Supabase connection string.
-3. `npx prisma migrate dev --name init && npx prisma db seed`.
-4. Deploy to Vercel. Set `AUTH_SECRET` (`openssl rand -base64 32`), `AUTH_URL` (your domain), `DATABASE_URL`, and `NEXT_PUBLIC_OWNER_WHATSAPP` in the project env.
+2. Create a Postgres database (e.g. [Neon](https://neon.tech) free tier) and copy its connection string.
+3. Click **Deploy with Vercel** above (or import the repo in Vercel) and set the env vars:
+   - `DATABASE_URL` — your Postgres connection string
+   - `AUTH_SECRET` — `openssl rand -base64 32`
+   - `NEXT_PUBLIC_OWNER_WHATSAPP` — owner number (no `+`, e.g. `923415298183`)
+4. After the first deploy, run migrations + seed against the DB:
+   ```bash
+   DATABASE_URL="<your-postgres-url>" npx prisma migrate deploy
+   DATABASE_URL="<your-postgres-url>" npm run db:seed
+   ```
 
----
+The schema is Postgres-portable by design (`Json` columns, string-based enums), so only the datasource changes.
 
-## Adding more questions
+## Growing the question bank
 
-The seed currently ships **50 MCQs per subject** (250 total), split into two 25-question tests each. To grow the bank, append to the arrays in `prisma/seed.ts` and re-run `npm run db:seed`. See `MCQ_Scraper_Instructions.md` for the planned scraping pipeline (target ~1,200 MCQs / 24 tests).
+The bank combines the original hand-written MCQs with a deterministic generator (`prisma/lib/mcq.ts`) over curated factual datasets in `prisma/data/`. Add entries to those datasets (or new `Curated[]` arrays) and run `npm run db:seed` to regenerate. See `MCQ_Scraper_Instructions.md` for the longer-term expansion plan.
+
+## License
+
+[MIT](./LICENSE) © hasnain7abbas

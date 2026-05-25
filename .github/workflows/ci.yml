@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    name: Lint & build
+    runs-on: ubuntu-latest
+    env:
+      # Dummy values — only needed so the build can construct clients.
+      # No live database is touched (all DB-backed pages render at request time).
+      DATABASE_URL: "file:./dev.db"
+      AUTH_SECRET: "ci-placeholder-secret-not-used-at-runtime-0000000000"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npx prisma generate
+      - run: npm run lint
+      - run: npm run build

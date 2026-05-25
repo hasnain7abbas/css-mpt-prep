@@ -12,6 +12,10 @@ export const metadata: Metadata = {
   description: "Try 10 sample FIA-style MCQs — no login required.",
 };
 
+// Rendered at request time (it reads the DB), so the production build never
+// needs a live database connection.
+export const dynamic = "force-dynamic";
+
 export default async function DemoPage() {
   // 2 questions from each subject's first test → a 10-question public sampler.
   const tests = await prisma.test.findMany({
