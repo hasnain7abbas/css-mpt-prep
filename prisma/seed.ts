@@ -9,6 +9,8 @@
 
 import { PrismaClient } from "@prisma/client";
 import bcrypt from "bcryptjs";
+import { generatedBySlug } from "./generators";
+import { dedupeByText } from "./lib/mcq";
 
 // SQLite has no native enums; difficulty is stored as a string.
 type Difficulty = "EASY" | "MEDIUM" | "HARD";
@@ -1730,9 +1732,8 @@ const islamicStudiesMCQs: MCQ[] = [
 // (expand to multiple tests by slicing the arrays)
 // ─────────────────────────────────────────────
 
-// Full 50-question bank per subject. Split into contiguous tests below so the
-// catalog has multiple tests and the difficulty filter is meaningful.
-const subjectBanks: Record<string, MCQ[]> = {
+// Hand-written banks per subject (the original 250 past-paper MCQs).
+const handWritten: Record<string, MCQ[]> = {
   "english": englishMCQs,
   "general-knowledge": gkMCQs,
   "pakistan-studies": pakStudiesMCQs,
@@ -1740,11 +1741,51 @@ const subjectBanks: Record<string, MCQ[]> = {
   "islamic-studies": islamicStudiesMCQs,
 };
 
+// Large generated banks (capitals, currencies, elements, vocab, acronyms, …).
+const generated = generatedBySlug();
+
 const QUESTIONS_PER_TEST = 25;
 
-function chunk<T>(arr: T[], size: number): T[][] {
+// Deterministic shuffle (seeded by subject) so re-seeding is reproducible but
+// each test still mixes topics rather than grouping all capitals together.
+function seededShuffle<T>(arr: T[], seedStr: string): T[] {
+  let seed = 0;
+  for (const ch of seedStr) seed = (seed * 31 + ch.charCodeAt(0)) >>> 0;
+  const rnd = () => {
+    seed = (seed + 0x6d2b79f5) >>> 0;
+    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(rnd() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// Merge hand-written + generated, drop duplicate question text, then shuffle.
+function combinedBank(slug: string): MCQ[] {
+  const hand = handWritten[slug] ?? [];
+  const gen = (generated[slug] ?? []) as unknown as MCQ[];
+  const merged = dedupeByText([...hand, ...gen]);
+  return seededShuffle(merged, slug);
+}
+
+// Split into near-equal groups of ~target, avoiding a tiny leftover test.
+function chunkBalanced<T>(arr: T[], target: number): T[][] {
+  const n = Math.max(1, Math.round(arr.length / target));
+  const base = Math.floor(arr.length / n);
+  let rem = arr.length % n;
   const out: T[][] = [];
-  for (let i = 0; i < arr.length; i += size) out.push(arr.slice(i, i + size));
+  let i = 0;
+  for (let k = 0; k < n; k++) {
+    const size = base + (rem > 0 ? 1 : 0);
+    if (rem > 0) rem--;
+    out.push(arr.slice(i, i + size));
+    i += size;
+  }
   return out;
 }
 
@@ -1768,7 +1809,7 @@ type TestSeed = {
 // Build contiguously-numbered tests (Test 1, Test 2 …) for every subject.
 const testsConfig: Record<string, TestSeed[]> = Object.fromEntries(
   subjects.map((s) => {
-    const chunks = chunk(subjectBanks[s.slug], QUESTIONS_PER_TEST);
+    const chunks = chunkBalanced(combinedBank(s.slug), QUESTIONS_PER_TEST);
     const tests: TestSeed[] = chunks.map((qs, i) => ({
       // Re-number questions 1..N within each test.
       questions: qs.map((q, qi) => ({ ...q, order: qi + 1 })),
@@ -1869,7 +1910,10 @@ async function main() {
   }
 
   const totalTests = Object.values(testsConfig).reduce((n, t) => n + t.length, 0);
-  const totalQs = Object.values(subjectBanks).reduce((n, b) => n + b.length, 0);
+  const totalQs = Object.values(testsConfig).reduce(
+    (n, tests) => n + tests.reduce((m, t) => m + t.questions.length, 0),
+    0,
+  );
   console.log("\n✅ Seeding complete!");
   console.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
   console.log(`📊 Summary: ${totalQs} MCQs across ${totalTests} tests, ${subjects.length} subjects.`);

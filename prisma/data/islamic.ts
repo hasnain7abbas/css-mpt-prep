@@ -1,0 +1,30 @@
+import type { Curated } from "./gk-misc";
+
+// Carefully verified, widely-accepted Islamic Studies facts.
+export const CURATED_ISLAMIC: Curated[] = [
+  { text: "How many Surahs are there in the Holy Quran?", options: ["110", "112", "114", "116"], correctIndex: 2, explanation: "The Holy Quran contains 114 Surahs (chapters).", difficulty: "EASY" },
+  { text: "How many obligatory (Fard) prayers are there in a day?", options: ["3", "4", "5", "6"], correctIndex: 2, explanation: "There are five daily obligatory prayers: Fajr, Dhuhr, Asr, Maghrib, Isha.", difficulty: "EASY" },
+  { text: "How many pillars of Islam are there?", options: ["3", "4", "5", "6"], correctIndex: 2, explanation: "The five pillars are Shahadah, Salah, Zakat, Sawm, and Hajj.", difficulty: "EASY" },
+  { text: "What is the first pillar of Islam?", options: ["Salah", "Zakat", "Shahadah", "Sawm"], correctIndex: 2, explanation: "The Shahadah (declaration of faith) is the first pillar of Islam.", difficulty: "EASY" },
+  { text: "Which is the longest Surah of the Holy Quran?", options: ["Al-Fatiha", "Al-Baqarah", "Al-Nisa", "Al-Imran"], correctIndex: 1, explanation: "Surah Al-Baqarah, with 286 verses, is the longest Surah.", difficulty: "EASY" },
+  { text: "Which is the shortest Surah of the Holy Quran?", options: ["Al-Ikhlas", "Al-Kawthar", "Al-Asr", "Al-Nas"], correctIndex: 1, explanation: "Surah Al-Kawthar, with three verses, is the shortest Surah.", difficulty: "MEDIUM" },
+  { text: "In which cave did the Holy Prophet ﷺ receive the first revelation?", options: ["Cave Thawr", "Cave Hira", "Cave of Uhud", "Cave of Badr"], correctIndex: 1, explanation: "The first revelation came in the Cave of Hira near Makkah.", difficulty: "EASY" },
+  { text: "How many verses (Ayahs) does Surah Al-Fatiha contain?", options: ["5", "6", "7", "8"], correctIndex: 2, explanation: "Surah Al-Fatiha contains seven verses.", difficulty: "EASY" },
+  { text: "Who was the first Caliph of Islam?", options: ["Hazrat Umar (RA)", "Hazrat Abu Bakr (RA)", "Hazrat Uthman (RA)", "Hazrat Ali (RA)"], correctIndex: 1, explanation: "Hazrat Abu Bakr Siddiq (RA) was the first Rightly-Guided Caliph.", difficulty: "EASY" },
+  { text: "In which year (AH) was the Battle of Badr fought?", options: ["1 AH", "2 AH", "3 AH", "5 AH"], correctIndex: 1, explanation: "The Battle of Badr was fought in 2 AH (624 CE).", difficulty: "MEDIUM" },
+  { text: "In which year (AH) was the Battle of Uhud fought?", options: ["2 AH", "3 AH", "4 AH", "5 AH"], correctIndex: 1, explanation: "The Battle of Uhud took place in 3 AH (625 CE).", difficulty: "MEDIUM" },
+  { text: "The migration (Hijrah) from Makkah to Madinah took place in which year (CE)?", options: ["610 CE", "620 CE", "622 CE", "630 CE"], correctIndex: 2, explanation: "The Hijrah occurred in 622 CE, marking the start of the Islamic calendar.", difficulty: "EASY" },
+  { text: "Which angel brought revelation to the Prophets?", options: ["Mikael (AS)", "Israfil (AS)", "Jibreel (AS)", "Izrael (AS)"], correctIndex: 2, explanation: "Hazrat Jibreel (AS) (Gabriel) delivered revelation to the Prophets.", difficulty: "EASY" },
+  { text: "Zakat is paid at what rate on qualifying wealth?", options: ["1.5%", "2%", "2.5%", "5%"], correctIndex: 2, explanation: "Zakat is paid at 2.5% of qualifying savings held for one lunar year.", difficulty: "EASY" },
+  { text: "The first month of the Islamic calendar is:", options: ["Ramadan", "Muharram", "Rajab", "Safar"], correctIndex: 1, explanation: "Muharram is the first month of the Islamic (Hijri) calendar.", difficulty: "EASY" },
+  { text: "In which month is fasting obligatory for Muslims?", options: ["Rajab", "Sha'ban", "Ramadan", "Shawwal"], correctIndex: 2, explanation: "Fasting is obligatory in the month of Ramadan.", difficulty: "EASY" },
+  { text: "The Conquest of Makkah took place in which year (AH)?", options: ["6 AH", "7 AH", "8 AH", "10 AH"], correctIndex: 2, explanation: "Makkah was conquered in 8 AH (630 CE).", difficulty: "MEDIUM" },
+  { text: "Who was the first Muezzin (caller to prayer) in Islam?", options: ["Hazrat Bilal (RA)", "Hazrat Abu Bakr (RA)", "Hazrat Umar (RA)", "Hazrat Salman (RA)"], correctIndex: 0, explanation: "Hazrat Bilal ibn Rabah (RA) was the first Muezzin in Islam.", difficulty: "EASY" },
+  { text: "Masjid al-Aqsa is located in which city?", options: ["Makkah", "Madinah", "Jerusalem", "Baghdad"], correctIndex: 2, explanation: "Masjid al-Aqsa, Islam's third holiest site, is in Jerusalem.", difficulty: "EASY" },
+  { text: "Which Surah does not begin with 'Bismillah'?", options: ["Al-Fatiha", "Al-Tawbah", "Al-Ikhlas", "Al-Kahf"], correctIndex: 1, explanation: "Surah Al-Tawbah is the only Surah that does not begin with Bismillah.", difficulty: "MEDIUM" },
+  { text: "Over how many years was the Holy Quran revealed?", options: ["10 years", "13 years", "23 years", "30 years"], correctIndex: 2, explanation: "The Quran was revealed gradually over about 23 years.", difficulty: "MEDIUM" },
+  { text: "The first mosque built in Islam was:", options: ["Masjid al-Haram", "Masjid al-Nabawi", "Masjid Quba", "Masjid al-Aqsa"], correctIndex: 2, explanation: "Masjid Quba in Madinah was the first mosque built in Islam.", difficulty: "MEDIUM" },
+  { text: "How many Rak'ahs are there in the Fajr (obligatory) prayer?", options: ["2", "3", "4", "5"], correctIndex: 0, explanation: "The Fard of Fajr prayer consists of two Rak'ahs.", difficulty: "EASY" },
+  { text: "Who is titled 'Khatam-un-Nabiyyin' (the Seal of the Prophets)?", options: ["Hazrat Isa (AS)", "Hazrat Musa (AS)", "Hazrat Muhammad ﷺ", "Hazrat Ibrahim (AS)"], correctIndex: 2, explanation: "Hazrat Muhammad ﷺ is the last and final Prophet, Khatam-un-Nabiyyin.", difficulty: "EASY" },
+  { text: "The Treaty of Hudaybiyyah was signed in which year (AH)?", options: ["4 AH", "5 AH", "6 AH", "8 AH"], correctIndex: 2, explanation: "The Treaty of Hudaybiyyah was concluded in 6 AH (628 CE).", difficulty: "HARD" },
+];
