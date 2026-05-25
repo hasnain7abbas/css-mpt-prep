@@ -1,17 +1,17 @@
 // FIA Job Prep — Prisma schema
 //
-// DB: SQLite for local dev (zero-setup). The schema is kept Postgres-portable:
-//   - `options` / `answers` use `Json` (works on SQLite AND PostgreSQL).
-//   - `role` / `difficulty` are stored as `String` (SQLite has no native enums).
-// To deploy on Neon/Supabase, change `provider` to "postgresql" and point
-// DATABASE_URL at the cloud connection string — no field changes required.
+// DB: PostgreSQL (works locally and on serverless hosts like Vercel).
+//   - `options` / `answers` use `Json`.
+//   - `role` / `difficulty` are stored as `String`.
+// Use a free Postgres from Neon (neon.tech) or Supabase. Set DATABASE_URL to the
+// connection string, then `npm run db:push && npm run db:seed`.
 
 generator client {
   provider = "prisma-client-js"
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 

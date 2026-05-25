@@ -55,8 +55,8 @@ The question bank ships with **~1,357 MCQs across 54 tests** in five subjects (E
 git clone https://github.com/hasnain7abbas/fia-job-prep.git
 cd fia-job-prep
 npm install
-cp .env.example .env        # AUTH_SECRET is pre-filled for local dev
-npx prisma migrate dev      # creates the local SQLite database
+cp .env.example .env        # set DATABASE_URL to your Postgres URL (Neon/Supabase)
+npm run db:push             # creates the tables in your database
 npm run db:seed             # ~1,357 MCQs + admin & demo accounts
 npm run dev                 # http://localhost:3000
 ```
@@ -87,7 +87,7 @@ The owner number lives in `NEXT_PUBLIC_OWNER_WHATSAPP` with a fallback in `src/l
 | Language   | TypeScript (strict)                                 |
 | Styling    | Tailwind CSS v4 (`@theme` tokens) + Radix primitives|
 | Auth       | Auth.js / NextAuth v5 (credentials, JWT sessions)   |
-| ORM / DB   | Prisma · SQLite (local) → PostgreSQL (production)   |
+| ORM / DB   | Prisma · PostgreSQL (Neon/Supabase)                 |
 | Validation | Zod + react-hook-form                               |
 | Icons      | lucide-react · Toasts: sonner                       |
 
@@ -118,28 +118,27 @@ prisma/
 | `npm run build`    | Production build                         |
 | `npm run lint`     | ESLint                                   |
 | `npm run db:seed`  | Seed subjects, tests, MCQs, and accounts |
-| `npm run db:reset` | Drop, re-migrate, and re-seed            |
+| `npm run db:push`  | Sync the schema to the database          |
+| `npm run db:reset` | Drop, recreate, and re-seed              |
 | `npm run db:studio`| Browse data in Prisma Studio             |
 
 ## Deployment
 
-> ⚠️ **Not GitHub Pages.** This is a full-stack app (auth, database, server actions), so it needs a Node.js host — GitHub Pages serves static files only. Deploy to **Vercel** (recommended) or any Node host, backed by a managed **PostgreSQL** database. SQLite is for local development only.
+> ⚠️ **Not GitHub Pages.** This is a full-stack app (auth, database, server actions), so it needs a Node.js host — GitHub Pages serves static files only. Deploy to **Vercel** (recommended) or any Node host, backed by a managed **PostgreSQL** database.
 
 **Vercel + Neon/Supabase (recommended):**
 
-1. In `prisma/schema.prisma`, set `provider = "postgresql"`.
-2. Create a Postgres database (e.g. [Neon](https://neon.tech) free tier) and copy its connection string.
-3. Click **Deploy with Vercel** above (or import the repo in Vercel) and set the env vars:
+1. Create a Postgres database (e.g. [Neon](https://neon.tech) free tier) and copy its connection string.
+2. Click **Deploy with Vercel** above (or import the repo in Vercel) and set the env vars:
    - `DATABASE_URL` — your Postgres connection string
    - `AUTH_SECRET` — `openssl rand -base64 32`
+   - `AUTH_URL` — your deployment URL (e.g. `https://your-app.vercel.app`)
    - `NEXT_PUBLIC_OWNER_WHATSAPP` — owner number (no `+`, e.g. `923415298183`)
-4. After the first deploy, run migrations + seed against the DB:
+3. After the first deploy, create the tables and seed the DB:
    ```bash
-   DATABASE_URL="<your-postgres-url>" npx prisma migrate deploy
+   DATABASE_URL="<your-postgres-url>" npx prisma db push
    DATABASE_URL="<your-postgres-url>" npm run db:seed
    ```
-
-The schema is Postgres-portable by design (`Json` columns, string-based enums), so only the datasource changes.
 
 ## Growing the question bank
 
