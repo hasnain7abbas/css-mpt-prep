@@ -56,10 +56,17 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#10b981",
+  themeColor: [
+    { media: "(prefers-color-scheme: dark)", color: "#0f172a" },
+    { media: "(prefers-color-scheme: light)", color: "#10b981" },
+  ],
   width: "device-width",
   initialScale: 1,
 };
+
+// Runs before first paint: dark is the default; only an explicit "light"
+// preference (saved by the toggle) opts out. Prevents a light→dark flash.
+const themeInitScript = `(function(){try{var t=localStorage.getItem("theme");if(t==="light"){document.documentElement.classList.remove("dark");}else{document.documentElement.classList.add("dark");}}catch(e){}})();`;
 
 export default function RootLayout({
   children,
@@ -67,11 +74,15 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${jakarta.variable} ${inter.variable} ${jetbrains.variable} h-full antialiased`}
+      suppressHydrationWarning
+      className={`dark ${jakarta.variable} ${inter.variable} ${jetbrains.variable} h-full antialiased`}
     >
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
+      </head>
       <body className="min-h-full flex flex-col bg-surface-muted text-ink">
         {children}
-        <Toaster richColors position="top-center" closeButton />
+        <Toaster richColors position="top-center" closeButton theme="system" />
       </body>
     </html>
   );

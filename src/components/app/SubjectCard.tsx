@@ -24,7 +24,7 @@ export function SubjectCard({
       href={`/subjects/${slug}`}
       className="group flex flex-col rounded-2xl border border-ink/8 bg-surface p-6 shadow-sm transition-all hover:-translate-y-0.5 hover:shadow-md"
     >
-      <div className={cn("flex size-11 items-center justify-center rounded-xl", meta?.accent ?? "bg-primary-light text-primary-dark")}>
+      <div className={cn("flex size-11 items-center justify-center rounded-xl", meta?.accent ?? "bg-primary-light text-primary-dark dark:bg-primary/15 dark:text-emerald-300")}>
         <Icon className="size-5" />
       </div>
       <h3 className="mt-4 font-display text-lg font-bold text-ink">{title}</h3>

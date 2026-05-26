@@ -43,11 +43,11 @@ export function CreateUserForm() {
     const message = `Assalam-o-Alaikum ${name}! Your FIA Job Prep account is ready.\n\nLogin: ${typeof window !== "undefined" ? window.location.origin : ""}/login\nEmail: ${email}\nTemporary password: ${tempPassword}\n\nYou'll be asked to set a new password on first login.`;
     return (
       <div className="space-y-4">
-        <div className="rounded-xl border border-emerald-200 bg-emerald-50 p-4">
-          <p className="flex items-center gap-2 font-semibold text-emerald-800">
+        <div className="rounded-xl border border-emerald-200 bg-emerald-50 p-4 dark:border-emerald-500/30 dark:bg-emerald-500/10">
+          <p className="flex items-center gap-2 font-semibold text-emerald-800 dark:text-emerald-300">
             <Check className="size-4" /> Account created for {name}
           </p>
-          <p className="mt-1 text-sm text-emerald-700">
+          <p className="mt-1 text-sm text-emerald-700 dark:text-emerald-200/80">
             Share these credentials with the student. They must change the password on first login.
           </p>
         </div>
@@ -76,7 +76,7 @@ export function CreateUserForm() {
   return (
     <form action={formAction} className="space-y-4">
       {state.message && (
-        <p className="rounded-lg bg-rose-50 px-3 py-2 text-sm font-medium text-rose-700">
+        <p className="rounded-lg bg-rose-50 px-3 py-2 text-sm font-medium text-rose-700 dark:bg-rose-500/15 dark:text-rose-300">
           {state.message}
         </p>
       )}

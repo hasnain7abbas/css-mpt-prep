@@ -53,10 +53,10 @@ export function SampleQuiz() {
                 "disabled:cursor-default",
                 !submitted &&
                   (chosen
-                    ? "border-primary bg-primary-light/60 text-ink"
+                    ? "border-primary bg-primary-light/60 text-ink dark:bg-primary/20"
                     : "border-ink/12 bg-surface hover:border-primary/40 hover:bg-surface-muted"),
-                showCorrect && "border-emerald-500 bg-emerald-50 text-emerald-800",
-                showWrong && "border-rose-500 bg-rose-50 text-rose-800",
+                showCorrect && "border-emerald-500 bg-emerald-50 text-emerald-800 dark:bg-emerald-500/15 dark:text-emerald-200",
+                showWrong && "border-rose-500 bg-rose-50 text-rose-800 dark:bg-rose-500/15 dark:text-rose-200",
                 submitted && !showCorrect && !showWrong && "border-ink/10 opacity-70",
               )}
             >
@@ -73,7 +73,7 @@ export function SampleQuiz() {
           <p
             className={cn(
               "text-sm font-semibold",
-              isCorrect ? "text-emerald-700" : "text-rose-700",
+              isCorrect ? "text-emerald-700 dark:text-emerald-300" : "text-rose-700 dark:text-rose-300",
             )}
           >
             {isCorrect ? "Correct! 🎉" : "Not quite."}

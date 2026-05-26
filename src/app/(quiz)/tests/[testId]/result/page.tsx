@@ -138,10 +138,10 @@ export default async function ResultPage({
                     className={cn(
                       "flex size-7 shrink-0 items-center justify-center rounded-lg text-xs font-bold",
                       isCorrect
-                        ? "bg-emerald-100 text-emerald-700"
+                        ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300"
                         : isSkipped
                           ? "bg-surface-muted text-ink-soft"
-                          : "bg-rose-100 text-rose-700",
+                          : "bg-rose-100 text-rose-700 dark:bg-rose-500/20 dark:text-rose-300",
                     )}
                   >
                     {isCorrect ? <Check className="size-4" /> : isSkipped ? <MinusCircle className="size-4" /> : <X className="size-4" />}
@@ -161,8 +161,8 @@ export default async function ResultPage({
                             key={i}
                             className={cn(
                               "flex items-center gap-2 rounded-lg border px-3 py-2 text-sm",
-                              correct && "border-emerald-400 bg-emerald-50 text-emerald-800",
-                              chosenWrong && "border-rose-400 bg-rose-50 text-rose-800",
+                              correct && "border-emerald-400 bg-emerald-50 text-emerald-800 dark:bg-emerald-500/15 dark:text-emerald-200",
+                              chosenWrong && "border-rose-400 bg-rose-50 text-rose-800 dark:bg-rose-500/15 dark:text-rose-200",
                               !correct && !chosenWrong && "border-ink/10 text-ink-muted",
                             )}
                           >

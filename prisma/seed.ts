@@ -9,6 +9,7 @@
 
 import { PrismaClient } from "@prisma/client";
 import bcrypt from "bcryptjs";
+import { pathToFileURL } from "node:url";
 import { generatedBySlug } from "./generators";
 import { dedupeByText } from "./lib/mcq";
 
@@ -21,7 +22,7 @@ const prisma = new PrismaClient();
 // SUBJECT DEFINITIONS
 // ─────────────────────────────────────────────
 
-const subjects = [
+export const subjects = [
   {
     slug: "english",
     title: "English",
@@ -371,7 +372,7 @@ const englishMCQs: MCQ[] = [
       "Its a good day.",
       "It's a good day.",
       "Its' a good day.",
-      "It'S a good day.",
+      "It,s a good day.",
     ],
     correctIndex: 1, difficulty: "EASY",
     explanation: "'It's' is the contraction of 'it is'. The apostrophe indicates the missing letter 'i'.",
@@ -1649,7 +1650,7 @@ const islamicStudiesMCQs: MCQ[] = [
   },
   {
     order: 39, text: "How many Surahs are in Makki revelation?",
-    options: ["84", "86", "86", "82"],
+    options: ["84", "86", "88", "82"],
     correctIndex: 1, difficulty: "HARD",
     explanation: "86 Surahs are classified as Makki (revealed in Makkah), and 28 are Madani (revealed in Madinah).",
   },
@@ -1672,7 +1673,7 @@ const islamicStudiesMCQs: MCQ[] = [
   },
   {
     order: 42, text: "How many Rukus (sections) are in the Holy Quran?",
-    options: ["540", "556", "558", "540"],
+    options: ["540", "556", "558", "548"],
     correctIndex: 0, difficulty: "HARD",
     explanation: "The Holy Quran is divided into 540 Rukus (sections indicated by the letter 'Ain' in the margins).",
   },
@@ -1807,7 +1808,7 @@ type TestSeed = {
 };
 
 // Build contiguously-numbered tests (Test 1, Test 2 …) for every subject.
-const testsConfig: Record<string, TestSeed[]> = Object.fromEntries(
+export const testsConfig: Record<string, TestSeed[]> = Object.fromEntries(
   subjects.map((s) => {
     const chunks = chunkBalanced(combinedBank(s.slug), QUESTIONS_PER_TEST);
     const tests: TestSeed[] = chunks.map((qs, i) => ({
@@ -1922,6 +1923,14 @@ async function main() {
   console.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
 }
 
-main()
-  .then(async () => { await prisma.$disconnect(); })
-  .catch(async (e) => { console.error(e); await prisma.$disconnect(); process.exit(1); });
+// Only seed the database when this file is run directly (e.g. `prisma db seed`
+// or `tsx prisma/seed.ts`). Importing it (for validation/dry-run) won't write.
+const isDirectRun =
+  typeof process.argv[1] === "string" &&
+  import.meta.url === pathToFileURL(process.argv[1]).href;
+
+if (isDirectRun) {
+  main()
+    .then(async () => { await prisma.$disconnect(); })
+    .catch(async (e) => { console.error(e); await prisma.$disconnect(); process.exit(1); });
+}

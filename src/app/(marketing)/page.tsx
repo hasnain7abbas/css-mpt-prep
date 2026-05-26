@@ -11,6 +11,7 @@ import {
 } from "lucide-react";
 import { buttonVariants } from "@/components/ui/button";
 import { Logo } from "@/components/brand/Logo";
+import { ThemeToggle } from "@/components/app/ThemeToggle";
 import { SampleQuiz } from "@/components/marketing/SampleQuiz";
 import { SUBJECTS } from "@/lib/subjects";
 import { buildRegistrationLink } from "@/lib/whatsapp";
@@ -55,6 +56,7 @@ export default function LandingPage() {
             <a href="#how" className="hover:text-ink">How it works</a>
           </div>
           <div className="flex items-center gap-2 sm:gap-3">
+            <ThemeToggle />
             <Link href="/login" className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}>
               Sign In
             </Link>

@@ -153,10 +153,10 @@ export function QuizRunner({
             className={cn(
               "flex aspect-square items-center justify-center rounded-lg border text-sm font-semibold transition-colors",
               i === current && "ring-2 ring-primary ring-offset-1",
-              marked && answered && "border-amber-400 bg-emerald-100 text-emerald-800",
-              marked && !answered && "border-amber-400 bg-amber-100 text-amber-800",
-              !marked && answered && "border-emerald-400 bg-emerald-100 text-emerald-800",
-              !marked && !answered && seen && "border-sky-300 bg-sky-50 text-sky-700",
+              marked && answered && "border-amber-400 bg-emerald-100 text-emerald-800 dark:bg-emerald-500/20 dark:text-emerald-200",
+              marked && !answered && "border-amber-400 bg-amber-100 text-amber-800 dark:bg-amber-500/20 dark:text-amber-200",
+              !marked && answered && "border-emerald-400 bg-emerald-100 text-emerald-800 dark:bg-emerald-500/20 dark:text-emerald-200",
+              !marked && !answered && seen && "border-sky-300 bg-sky-50 text-sky-700 dark:bg-sky-500/15 dark:text-sky-300",
               !marked && !answered && !seen && "border-ink/15 bg-surface text-ink-muted",
             )}
             aria-label={`Question ${i + 1}${answered ? ", answered" : ""}${marked ? ", marked for review" : ""}`}
@@ -170,9 +170,9 @@ export function QuizRunner({
 
   const legend = (
     <div className="mt-4 grid grid-cols-2 gap-2 text-xs text-ink-muted">
-      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-emerald-100 ring-1 ring-emerald-400" /> Answered</span>
-      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-sky-50 ring-1 ring-sky-300" /> Visited</span>
-      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-amber-100 ring-1 ring-amber-400" /> Marked</span>
+      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-emerald-100 ring-1 ring-emerald-400 dark:bg-emerald-500/30" /> Answered</span>
+      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-sky-50 ring-1 ring-sky-300 dark:bg-sky-500/20" /> Visited</span>
+      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-amber-100 ring-1 ring-amber-400 dark:bg-amber-500/30" /> Marked</span>
       <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-surface ring-1 ring-ink/15" /> Not visited</span>
     </div>
   );
@@ -186,7 +186,7 @@ export function QuizRunner({
           <div
             className={cn(
               "flex items-center gap-1.5 rounded-lg px-2.5 py-1 font-mono text-sm font-bold tabular-nums",
-              lowTime ? "bg-rose-100 text-rose-700" : "bg-surface-muted text-ink",
+              lowTime ? "bg-rose-100 text-rose-700 dark:bg-rose-500/20 dark:text-rose-200" : "bg-surface-muted text-ink",
             )}
             role="timer"
             aria-live="off"
@@ -219,7 +219,7 @@ export function QuizRunner({
                     className={cn(
                       "flex min-h-[52px] items-center gap-3 rounded-xl border px-4 py-3 text-left text-sm font-medium transition-colors",
                       chosen
-                        ? "border-primary bg-primary-light/60 text-ink"
+                        ? "border-primary bg-primary-light/60 text-ink dark:bg-primary/20"
                         : "border-ink/12 bg-surface hover:border-primary/40 hover:bg-surface-muted",
                     )}
                   >

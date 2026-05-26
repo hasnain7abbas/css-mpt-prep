@@ -83,7 +83,7 @@ export function DemoQuiz({ questions }: { questions: DemoQuestion[] }) {
                   <span
                     className={cn(
                       "flex size-7 shrink-0 items-center justify-center rounded-lg text-xs font-bold",
-                      correct ? "bg-emerald-100 text-emerald-700" : "bg-rose-100 text-rose-700",
+                      correct ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300" : "bg-rose-100 text-rose-700 dark:bg-rose-500/20 dark:text-rose-300",
                     )}
                   >
                     {correct ? <Check className="size-4" /> : <X className="size-4" />}
@@ -93,7 +93,7 @@ export function DemoQuiz({ questions }: { questions: DemoQuestion[] }) {
                       <span className="text-ink-soft">Q{idx + 1}. </span>
                       {qq.text}
                     </p>
-                    <p className="mt-1 text-sm text-emerald-700">
+                    <p className="mt-1 text-sm text-emerald-700 dark:text-emerald-300">
                       Correct: {LETTERS[qq.correctIndex]}. {qq.options[qq.correctIndex]}
                     </p>
                     <p className="mt-1 text-sm text-ink-muted">{qq.explanation}</p>

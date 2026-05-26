@@ -1,9 +1,17 @@
 @import "tailwindcss";
 
+/* Class-based dark mode (toggled by adding `.dark` to <html>). */
+@custom-variant dark (&:where(.dark, .dark *));
+
 /* ─────────────────────────────────────────────
    FIA Job Prep — Design System (Tailwind v4)
    Emerald primary, dark slate surfaces, generous
    whitespace, rounded cards, subtle shadows.
+
+   Semantic color tokens (surface/ink/border) are
+   re-mapped under `.dark` further down, so any
+   utility built on a token (bg-surface, text-ink,
+   border-default, …) flips automatically.
    ───────────────────────────────────────────── */
 
 @theme {
@@ -22,6 +30,9 @@
   --color-ink-muted: #475569; /* slate-600 */
   --color-ink-soft: #94a3b8; /* slate-400 */
 
+  /* Hairline borders/dividers (flips in dark) */
+  --color-border: #e2e8f0; /* slate-200 */
+
   /* Status */
   --color-success: #10b981;
   --color-warning: #f59e0b;
@@ -33,9 +44,23 @@
   --font-mono: var(--font-jetbrains), ui-monospace, "JetBrains Mono", monospace;
 }
 
+/* Dark theme: re-map the semantic surface/ink tokens to slate values.
+   Brand emerald (primary / primary-dark) is intentionally kept so emerald
+   gradient cards and white CTAs keep their contrast. */
+:where(.dark) {
+  --color-surface: #1e293b; /* slate-800 — cards/panels */
+  --color-surface-muted: #0f172a; /* slate-900 — page background */
+  --color-surface-dark: #334155; /* slate-700 — keep dark chips visible */
+  --color-ink: #f1f5f9; /* slate-100 */
+  --color-ink-muted: #94a3b8; /* slate-400 */
+  --color-ink-soft: #64748b; /* slate-500 */
+  --color-border: #334155; /* slate-700 */
+  color-scheme: dark;
+}
+
 @layer base {
   * {
-    border-color: var(--color-slate-200, #e2e8f0);
+    border-color: var(--color-border);
   }
 
   html {

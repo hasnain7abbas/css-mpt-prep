@@ -140,7 +140,7 @@ export function generateEnglish(): GenMCQ[] {
   );
 
   // Spelling: correct word among misspellings.
-  for (const item of SPELLING) {
+  SPELLING.forEach((item, i) => {
     const r = buildMCQ({
       seedKey: `spell:${item.correct}`,
       text: "Choose the correctly spelled word:",
@@ -149,9 +149,10 @@ export function generateEnglish(): GenMCQ[] {
       explanation: `The correct spelling is '${item.correct}'.`,
       difficulty: "HARD",
     });
-    // Each "choose correct spelling" has identical text; keep them all by tagging text.
-    if (r) out.push({ ...r, text: `Choose the correctly spelled word (set ${item.correct[0]}…):` });
-  }
+    // Every spelling prompt is otherwise identical, so tag each with its number
+    // to keep them distinct through the dedupe-by-text step.
+    if (r) out.push({ ...r, text: `Choose the correctly spelled word (Q.${i + 1}):` });
+  });
 
   return dedupeByText(out);
 }

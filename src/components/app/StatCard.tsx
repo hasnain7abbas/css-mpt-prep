@@ -7,7 +7,7 @@ export function StatCard({
   value,
   label,
   trend,
-  accent = "bg-primary-light text-primary-dark",
+  accent = "bg-primary-light text-primary-dark dark:bg-primary/15 dark:text-emerald-300",
 }: {
   icon: LucideIcon;
   value: string | number;
@@ -22,7 +22,7 @@ export function StatCard({
           <Icon className="size-5" />
         </div>
         {trend && (
-          <span className="inline-flex items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-xs font-semibold text-emerald-700">
+          <span className="inline-flex items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-xs font-semibold text-emerald-700 dark:bg-emerald-500/15 dark:text-emerald-300">
             <TrendingUp className="size-3" />
             {trend}
           </span>

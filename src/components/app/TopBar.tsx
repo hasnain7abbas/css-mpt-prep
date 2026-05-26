@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { signOut } from "next-auth/react";
 import { BarChart3, KeyRound, LayoutDashboard, ListChecks, LogOut, Shield } from "lucide-react";
 import { Logo } from "@/components/brand/Logo";
+import { ThemeToggle } from "@/components/app/ThemeToggle";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
 import {
   DropdownMenu,
@@ -56,7 +57,7 @@ export function TopBar({
                 className={cn(
                   "flex items-center gap-2 rounded-xl px-3.5 py-2 text-sm font-medium transition-colors",
                   active
-                    ? "bg-primary-light text-primary-dark"
+                    ? "bg-primary-light text-primary-dark dark:bg-primary/15 dark:text-emerald-300"
                     : "text-ink-muted hover:bg-surface-muted hover:text-ink",
                 )}
               >
@@ -67,6 +68,8 @@ export function TopBar({
           })}
         </nav>
 
+        <div className="flex items-center gap-1">
+        <ThemeToggle />
         <DropdownMenu>
           <DropdownMenuTrigger className="rounded-full outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2">
             <Avatar>
@@ -114,6 +117,7 @@ export function TopBar({
             </DropdownMenuItem>
           </DropdownMenuContent>
         </DropdownMenu>
+        </div>
       </div>
     </header>
   );

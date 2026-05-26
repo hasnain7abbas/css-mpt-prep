@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Logo } from "@/components/brand/Logo";
+import { ThemeToggle } from "@/components/app/ThemeToggle";
 
 export default function AuthLayout({
   children,
@@ -13,6 +14,7 @@ export default function AuthLayout({
         aria-hidden
         className="bg-hero-blob pointer-events-none absolute inset-x-0 top-0 -z-10 h-80"
       />
+      <ThemeToggle className="absolute right-4 top-4" />
       <Link href="/" className="mb-8">
         <Logo />
       </Link>
