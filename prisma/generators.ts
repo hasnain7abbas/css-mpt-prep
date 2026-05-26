@@ -2,7 +2,7 @@
 // All questions are original phrasings over public facts, with auto-selected
 // plausible distractors. Returns GenMCQ[] (order is assigned later at chunking).
 
-import { buildMCQ, fromPairs, dedupeByText, type GenMCQ, type Difficulty } from "./lib/mcq";
+import { buildMCQ, fromPairs, dedupeByText, type GenMCQ } from "./lib/mcq";
 import { CAPITALS, CURRENCIES } from "./data/world";
 import { ELEMENTS } from "./data/science";
 import { BOOKS, INVENTIONS, CURATED_GK, type Curated } from "./data/gk-misc";

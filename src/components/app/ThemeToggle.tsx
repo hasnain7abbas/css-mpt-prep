@@ -4,28 +4,38 @@ import * as React from "react";
 import { Moon, Sun } from "lucide-react";
 import { cn } from "@/lib/utils";
 
+// Re-run the snapshot whenever the `class` on <html> changes (i.e. when the
+// theme is toggled). Lets us read the theme reactively without setState.
+function subscribe(callback: () => void) {
+  const observer = new MutationObserver(callback);
+  observer.observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["class"],
+  });
+  return () => observer.disconnect();
+}
+
 /**
  * Light/dark toggle. The initial theme is applied before hydration by the
- * inline script in the root layout (dark by default), so here we just read the
- * current state off <html> on mount, then flip the class + persist the choice.
+ * inline script in the root layout (dark by default). We read the current
+ * state straight off <html> via useSyncExternalStore — the server snapshot is
+ * `true` (dark) to match the SSR default — and flipping the class + persisting
+ * to localStorage drives the re-render.
  */
 export function ThemeToggle({ className }: { className?: string }) {
-  const [isDark, setIsDark] = React.useState(true);
-  const [mounted, setMounted] = React.useState(false);
-
-  React.useEffect(() => {
-    setIsDark(document.documentElement.classList.contains("dark"));
-    setMounted(true);
-  }, []);
+  const isDark = React.useSyncExternalStore(
+    subscribe,
+    () => document.documentElement.classList.contains("dark"),
+    () => true,
+  );
 
   function toggle() {
     const next = !isDark;
-    setIsDark(next);
     document.documentElement.classList.toggle("dark", next);
     try {
       localStorage.setItem("theme", next ? "dark" : "light");
     } catch {
-      /* storage unavailable — keep in-memory only */
+      /* storage unavailable — keep DOM-only */
     }
   }
 
@@ -40,12 +50,7 @@ export function ThemeToggle({ className }: { className?: string }) {
         className,
       )}
     >
-      {/* Avoid an icon mismatch before mount: render nothing until we know. */}
-      {mounted ? (
-        isDark ? <Sun className="size-5" /> : <Moon className="size-5" />
-      ) : (
-        <span className="size-5" />
-      )}
+      {isDark ? <Sun className="size-5" /> : <Moon className="size-5" />}
     </button>
   );
 }

@@ -1,5 +1,3 @@
-import type { Difficulty } from "../lib/mcq";
-
 // [word, a synonym, an antonym] — used to generate synonym & antonym MCQs with
 // non-ambiguous distractors (a word's antonym is never a valid synonym, etc.).
 export const VOCAB: [string, string, string][] = [
