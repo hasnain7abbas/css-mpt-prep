@@ -120,4 +120,68 @@ export const CURATED_ISLAMIC: Curated[] = [
   { text: "What is the pre-dawn meal before fasting called?", options: ["Iftar", "Suhoor (Sehri)", "Niyyah", "Witr"], correctIndex: 1, explanation: "Suhoor (Sehri) is the pre-dawn meal eaten before the fast begins.", difficulty: "EASY" },
   { text: "What is the meal to break the fast at sunset called?", options: ["Suhoor", "Iftar", "Khutbah", "Sa'i"], correctIndex: 1, explanation: "Iftar is the meal eaten to break the fast at sunset.", difficulty: "EASY" },
   { text: "The migration of the Prophet ﷺ marks the start of which calendar?", options: ["Gregorian", "Hijri (Islamic)", "Solar Hijri", "Lunar Gregorian"], correctIndex: 1, explanation: "The Hijrah marks the beginning of the Islamic (Hijri) calendar.", difficulty: "EASY" },
+
+  // ── Qur'an ─────────────────────────────────────────────────────────────────
+  { text: "How many Juz (Para) are there in the Holy Quran?", options: ["20", "25", "30", "40"], correctIndex: 2, explanation: "The Quran is divided into 30 Juz (Paras).", difficulty: "EASY" },
+  { text: "Which Surah is known as 'the heart of the Quran'?", options: ["Surah Yasin", "Surah Rahman", "Surah Mulk", "Surah Kahf"], correctIndex: 0, explanation: "Surah Yasin is often called the heart (Qalb) of the Quran.", difficulty: "MEDIUM" },
+  { text: "Which is the shortest Surah of the Holy Quran?", options: ["Al-Ikhlas", "Al-Kawthar", "Al-Asr", "An-Nas"], correctIndex: 1, explanation: "Surah Al-Kawthar, with three verses, is the shortest Surah.", difficulty: "MEDIUM" },
+  { text: "Surahs revealed in Makkah are called:", options: ["Madani", "Makki", "Madaniyah", "Qudsi"], correctIndex: 1, explanation: "Surahs revealed before the Hijrah, in Makkah, are called Makki Surahs.", difficulty: "MEDIUM" },
+  { text: "Which Surah does NOT begin with 'Bismillah'?", options: ["Al-Fatiha", "At-Tawbah", "Al-Baqarah", "Yasin"], correctIndex: 1, explanation: "Surah At-Tawbah is the only Surah that does not start with Bismillah.", difficulty: "HARD" },
+  { text: "In which Surah is 'Ayat-ul-Kursi' found?", options: ["Al-Baqarah", "Al-Imran", "An-Nisa", "Al-Maidah"], correctIndex: 0, explanation: "Ayat-ul-Kursi is verse 255 of Surah Al-Baqarah.", difficulty: "MEDIUM" },
+  { text: "The first revelation to the Prophet ﷺ began with the word:", options: ["Iqra (Read)", "Qul", "Alhamd", "Bismillah"], correctIndex: 0, explanation: "The first revealed words were 'Iqra' (Read) from Surah Al-Alaq.", difficulty: "MEDIUM" },
+  { text: "In which cave did the Prophet ﷺ receive the first revelation?", options: ["Cave Thawr", "Cave Hira", "Cave of Uhud", "Cave Saur"], correctIndex: 1, explanation: "The first revelation came in the Cave of Hira.", difficulty: "MEDIUM" },
+  { text: "Over approximately how many years was the Quran revealed?", options: ["10 years", "13 years", "23 years", "40 years"], correctIndex: 2, explanation: "The Quran was revealed gradually over about 23 years.", difficulty: "MEDIUM" },
+  { text: "Which angel brought revelation (Wahi) to the Prophet ﷺ?", options: ["Israfil", "Mikail", "Jibril (Gabriel)", "Izrail"], correctIndex: 2, explanation: "Angel Jibril (Gabriel) brought the revelation.", difficulty: "EASY" },
+
+  // ── Prophets ───────────────────────────────────────────────────────────────
+  { text: "Who is regarded as the first Prophet and the first man?", options: ["Nuh (AS)", "Adam (AS)", "Ibrahim (AS)", "Idris (AS)"], correctIndex: 1, explanation: "Hazrat Adam (AS) is the first Prophet and the first human.", difficulty: "EASY" },
+  { text: "Which Prophet is known as 'Khalilullah' (the friend of Allah)?", options: ["Musa (AS)", "Ibrahim (AS)", "Isa (AS)", "Yusuf (AS)"], correctIndex: 1, explanation: "Hazrat Ibrahim (AS) is titled Khalilullah.", difficulty: "MEDIUM" },
+  { text: "Which Prophet built the Ark to survive the great flood?", options: ["Nuh (AS)", "Hud (AS)", "Salih (AS)", "Lut (AS)"], correctIndex: 0, explanation: "Hazrat Nuh (AS) built the Ark before the flood.", difficulty: "EASY" },
+  { text: "To which Prophet was the Torah (Tawrat) revealed?", options: ["Isa (AS)", "Dawud (AS)", "Musa (AS)", "Ibrahim (AS)"], correctIndex: 2, explanation: "The Tawrat was revealed to Hazrat Musa (AS).", difficulty: "MEDIUM" },
+  { text: "The Zabur was revealed to which Prophet?", options: ["Dawud (AS)", "Sulaiman (AS)", "Musa (AS)", "Isa (AS)"], correctIndex: 0, explanation: "The Zabur (Psalms) was given to Hazrat Dawud (AS).", difficulty: "MEDIUM" },
+  { text: "The Injil (Gospel) was revealed to which Prophet?", options: ["Musa (AS)", "Isa (AS)", "Dawud (AS)", "Yahya (AS)"], correctIndex: 1, explanation: "The Injil was revealed to Hazrat Isa (AS).", difficulty: "MEDIUM" },
+  { text: "Which Prophet is titled 'Kalimullah' (the one who spoke with Allah)?", options: ["Ibrahim (AS)", "Musa (AS)", "Adam (AS)", "Muhammad ﷺ"], correctIndex: 1, explanation: "Hazrat Musa (AS) is known as Kalimullah.", difficulty: "MEDIUM" },
+  { text: "Which Prophet was granted a kingdom and could command the wind and jinn?", options: ["Dawud (AS)", "Sulaiman (AS)", "Yusuf (AS)", "Ayyub (AS)"], correctIndex: 1, explanation: "Hazrat Sulaiman (AS) was given a vast kingdom and control over wind and jinn.", difficulty: "MEDIUM" },
+  { text: "Which Prophet is known for his patience during severe illness and loss?", options: ["Ayyub (AS)", "Yunus (AS)", "Idris (AS)", "Zakariya (AS)"], correctIndex: 0, explanation: "Hazrat Ayyub (AS) is renowned for his patience (sabr).", difficulty: "MEDIUM" },
+  { text: "Which Prophet was swallowed by a large fish?", options: ["Yusuf (AS)", "Yunus (AS)", "Lut (AS)", "Salih (AS)"], correctIndex: 1, explanation: "Hazrat Yunus (AS) was swallowed by a fish/whale.", difficulty: "EASY" },
+  { text: "The Prophet Muhammad ﷺ is the ____ of the prophets.", options: ["first", "seal (last)", "second", "greatest tribe leader"], correctIndex: 1, explanation: "He ﷺ is 'Khatam-un-Nabiyyin' — the last (seal) of the prophets.", difficulty: "EASY" },
+
+  // ── Seerah & history ───────────────────────────────────────────────────────
+  { text: "In which year (CE) was the Prophet Muhammad ﷺ born?", options: ["550 CE", "570 CE", "600 CE", "610 CE"], correctIndex: 1, explanation: "The Prophet ﷺ was born around 570 CE, the Year of the Elephant.", difficulty: "MEDIUM" },
+  { text: "What was the title given to the Prophet ﷺ for his honesty before prophethood?", options: ["Al-Ameen", "Al-Farooq", "As-Siddiq", "Al-Mahdi"], correctIndex: 0, explanation: "He ﷺ was called 'Al-Ameen' (the trustworthy).", difficulty: "EASY" },
+  { text: "What was the name of the Prophet ﷺ's mother?", options: ["Khadijah", "Aminah", "Halimah", "Fatimah"], correctIndex: 1, explanation: "His mother was Bibi Aminah.", difficulty: "MEDIUM" },
+  { text: "Who was the first wife of the Prophet ﷺ?", options: ["Aisha (RA)", "Khadijah (RA)", "Hafsa (RA)", "Zainab (RA)"], correctIndex: 1, explanation: "Hazrat Khadijah (RA) was his first wife.", difficulty: "EASY" },
+  { text: "The migration from Makkah to Madinah is known as the:", options: ["Isra", "Hijrah", "Miraj", "Fath"], correctIndex: 1, explanation: "The migration to Madinah is called the Hijrah.", difficulty: "EASY" },
+  { text: "The first battle of Islam, fought in 2 AH, was the Battle of:", options: ["Uhud", "Badr", "Khandaq", "Hunayn"], correctIndex: 1, explanation: "The Battle of Badr (2 AH) was the first major battle.", difficulty: "MEDIUM" },
+  { text: "In which battle did the Muslims dig a trench around Madinah?", options: ["Badr", "Uhud", "Khandaq (the Trench)", "Tabuk"], correctIndex: 2, explanation: "The Battle of Khandaq (the Trench) involved digging a defensive trench.", difficulty: "MEDIUM" },
+  { text: "The peaceful conquest of Makkah occurred in which year AH?", options: ["6 AH", "8 AH", "10 AH", "2 AH"], correctIndex: 1, explanation: "Makkah was conquered in 8 AH (Fath Makkah).", difficulty: "HARD" },
+  { text: "The treaty signed between the Muslims and the Quraysh in 6 AH was the Treaty of:", options: ["Hudaybiyyah", "Aqabah", "Taif", "Khaybar"], correctIndex: 0, explanation: "The Treaty of Hudaybiyyah was concluded in 6 AH.", difficulty: "HARD" },
+  { text: "The Prophet ﷺ delivered his Farewell Sermon (Khutbah) at:", options: ["Mount Uhud", "Plain of Arafat", "Cave Hira", "Masjid Quba"], correctIndex: 1, explanation: "The Farewell Sermon was given on the Plain of Arafat during the Hajj.", difficulty: "MEDIUM" },
+
+  // ── Companions & Caliphs ──────────────────────────────────────────────────
+  { text: "Who was the first Caliph (Khalifa) of Islam?", options: ["Umar (RA)", "Abu Bakr (RA)", "Uthman (RA)", "Ali (RA)"], correctIndex: 1, explanation: "Hazrat Abu Bakr Siddiq (RA) was the first Caliph.", difficulty: "EASY" },
+  { text: "Which Caliph was given the title 'Al-Farooq'?", options: ["Abu Bakr (RA)", "Umar (RA)", "Uthman (RA)", "Ali (RA)"], correctIndex: 1, explanation: "Hazrat Umar (RA) was titled Al-Farooq (who distinguishes right from wrong).", difficulty: "MEDIUM" },
+  { text: "Which Caliph compiled the Quran into a single standard copy?", options: ["Abu Bakr (RA)", "Umar (RA)", "Uthman (RA)", "Ali (RA)"], correctIndex: 2, explanation: "Hazrat Uthman (RA) standardised the Quran into one official compilation.", difficulty: "HARD" },
+  { text: "Who was the fourth of the Rightly-Guided Caliphs?", options: ["Ali (RA)", "Umar (RA)", "Uthman (RA)", "Talha (RA)"], correctIndex: 0, explanation: "Hazrat Ali (RA) was the fourth Khalifa-e-Rashid.", difficulty: "EASY" },
+  { text: "How many Rightly-Guided Caliphs (Khulafa-e-Rashideen) were there?", options: ["3", "4", "5", "7"], correctIndex: 1, explanation: "There were four Rightly-Guided Caliphs.", difficulty: "EASY" },
+  { text: "Which companion is known as 'Saif-ullah' (the Sword of Allah)?", options: ["Khalid bin Walid (RA)", "Bilal (RA)", "Salman (RA)", "Zaid (RA)"], correctIndex: 0, explanation: "Hazrat Khalid bin Walid (RA) earned the title 'Saif-ullah'.", difficulty: "MEDIUM" },
+  { text: "Who was the first muezzin (caller to prayer) in Islam?", options: ["Bilal (RA)", "Abu Hurairah (RA)", "Salman (RA)", "Anas (RA)"], correctIndex: 0, explanation: "Hazrat Bilal (RA) was the first muezzin of Islam.", difficulty: "EASY" },
+
+  // ── Pillars, worship & terms ──────────────────────────────────────────────
+  { text: "Zakat is generally payable at what rate on accumulated wealth (gold/cash) held for a year?", options: ["2.5%", "5%", "10%", "20%"], correctIndex: 0, explanation: "The standard rate of Zakat on savings/gold is 2.5%.", difficulty: "MEDIUM" },
+  { text: "Fasting during which Islamic month is obligatory?", options: ["Rajab", "Sha'ban", "Ramadan", "Shawwal"], correctIndex: 2, explanation: "Fasting (Sawm) is obligatory during Ramadan.", difficulty: "EASY" },
+  { text: "Hajj is performed in which Islamic month?", options: ["Ramadan", "Muharram", "Dhul-Hijjah", "Rajab"], correctIndex: 2, explanation: "Hajj takes place in the month of Dhul-Hijjah.", difficulty: "MEDIUM" },
+  { text: "The first month of the Islamic calendar is:", options: ["Ramadan", "Muharram", "Safar", "Rabi-ul-Awwal"], correctIndex: 1, explanation: "Muharram is the first month of the Hijri calendar.", difficulty: "MEDIUM" },
+  { text: "Walking seven times around the Kaaba during Hajj/Umrah is called:", options: ["Sa'i", "Tawaf", "Wuquf", "Ramy"], correctIndex: 1, explanation: "Tawaf is circling the Kaaba seven times.", difficulty: "MEDIUM" },
+  { text: "The walking/running between Safa and Marwah is called:", options: ["Tawaf", "Sa'i", "Wuquf", "Ihram"], correctIndex: 1, explanation: "Sa'i is the act of going between the hills of Safa and Marwah.", difficulty: "MEDIUM" },
+  { text: "The sacred state of consecration for Hajj/Umrah is called:", options: ["Ihram", "Tawaf", "Niyyah", "Wudu"], correctIndex: 0, explanation: "Ihram is the consecrated state pilgrims enter for Hajj/Umrah.", difficulty: "MEDIUM" },
+  { text: "Which Eid is celebrated at the end of Ramadan?", options: ["Eid-ul-Adha", "Eid-ul-Fitr", "Eid Milad", "Shab-e-Barat"], correctIndex: 1, explanation: "Eid-ul-Fitr marks the end of Ramadan.", difficulty: "EASY" },
+  { text: "The animal sacrifice on Eid-ul-Adha is known as:", options: ["Aqiqah", "Qurbani", "Sadaqah", "Fidya"], correctIndex: 1, explanation: "The Eid-ul-Adha sacrifice is called Qurbani.", difficulty: "EASY" },
+  { text: "The ritual washing before prayer is called:", options: ["Ghusl", "Wudu (Ablution)", "Tayammum", "Istinja"], correctIndex: 1, explanation: "Wudu is the ablution performed before Salah.", difficulty: "EASY" },
+
+  // ── Hadith ─────────────────────────────────────────────────────────────────
+  { text: "Which is regarded as the most authentic book of Hadith?", options: ["Sahih Muslim", "Sahih Bukhari", "Sunan Abu Dawud", "Jami at-Tirmidhi"], correctIndex: 1, explanation: "Sahih Bukhari is considered the most authentic Hadith collection.", difficulty: "MEDIUM" },
+  { text: "Who compiled 'Sahih Bukhari'?", options: ["Imam Muslim", "Imam Bukhari", "Imam Malik", "Imam Tirmidhi"], correctIndex: 1, explanation: "Imam Muhammad al-Bukhari compiled Sahih Bukhari.", difficulty: "MEDIUM" },
+  { text: "The sayings, actions and approvals of the Prophet ﷺ are collectively called:", options: ["Hadith / Sunnah", "Ijma", "Qiyas", "Fatwa"], correctIndex: 0, explanation: "The Prophet's sayings and practice form the Hadith/Sunnah.", difficulty: "EASY" },
+  { text: "The two most authentic Hadith books together are called:", options: ["Sahihayn", "Sunan", "Muwatta", "Musnad"], correctIndex: 0, explanation: "Sahih Bukhari and Sahih Muslim together are known as 'Sahihayn'.", difficulty: "HARD" },
 ];

@@ -108,7 +108,7 @@ export default function LandingPage() {
             </span>
             <span className="hidden h-4 w-px bg-ink/10 sm:block" />
             <span className="inline-flex items-center gap-2">
-              <FileText className="size-4 text-primary" /> 2,800+ practice MCQs
+              <FileText className="size-4 text-primary" /> 3,000+ practice MCQs
             </span>
             <span className="hidden h-4 w-px bg-ink/10 sm:block" />
             <span className="inline-flex items-center gap-2">
@@ -131,7 +131,7 @@ export default function LandingPage() {
             {[
               {
                 icon: FileText,
-                title: "2,800+ MCQs",
+                title: "3,000+ MCQs",
                 desc: "Real exam feel across seven subjects — including IQ & Maths and the FIA Act.",
               },
               {
