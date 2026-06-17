@@ -1,4 +1,4 @@
-import { BookOpen, Globe, Landmark, Laptop, Moon, type LucideIcon } from "lucide-react";
+import { BookOpen, Calculator, Globe, Landmark, Laptop, Moon, type LucideIcon } from "lucide-react";
 
 // Display metadata for the five fixed subjects. The DB holds the authoritative
 // titles/descriptions + tests; this drives icons and accent colours in the UI.
@@ -45,6 +45,13 @@ export const SUBJECTS: SubjectMeta[] = [
     blurb: "Quran, Hadith, Fiqh, Seerah, Islamic history",
     icon: Moon,
     accent: "bg-teal-50 text-teal-700 dark:bg-teal-500/15 dark:text-teal-300",
+  },
+  {
+    slug: "iq-math",
+    title: "IQ & Mathematics",
+    blurb: "Arithmetic, Number series, Analytical & Logical reasoning",
+    icon: Calculator,
+    accent: "bg-rose-50 text-rose-700 dark:bg-rose-500/15 dark:text-rose-300",
   },
 ];
 

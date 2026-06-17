@@ -53,6 +53,12 @@ export const subjects = [
     description: "Quran, Hadith, Fiqh, Seerah, Islamic History",
     order: 5,
   },
+  {
+    slug: "iq-math",
+    title: "IQ & Mathematics",
+    description: "Arithmetic, Number Series, Analytical & Logical Reasoning, Mental Ability",
+    order: 6,
+  },
 ];
 
 // ─────────────────────────────────────────────
