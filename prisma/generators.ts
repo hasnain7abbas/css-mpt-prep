@@ -24,6 +24,7 @@ import {
   SERIES,
   CURATED_IQ,
 } from "./data/iq-math";
+import { CURATED_FIA_ACT } from "./data/fia-act";
 
 function curatedToGen(items: Curated[]): GenMCQ[] {
   return items.map((c) => ({ ...c, order: 0 }));
@@ -483,6 +484,10 @@ export function generateIQMath(): GenMCQ[] {
   return dedupeByText(out);
 }
 
+export function generateFIAAct(): GenMCQ[] {
+  return dedupeByText(curatedToGen(CURATED_FIA_ACT));
+}
+
 export function generatedBySlug(): Record<string, GenMCQ[]> {
   return {
     "english": generateEnglish(),
@@ -491,5 +496,6 @@ export function generatedBySlug(): Record<string, GenMCQ[]> {
     "computer": generateComputer(),
     "islamic-studies": generateIslamic(),
     "iq-math": generateIQMath(),
+    "fia-act": generateFIAAct(),
   };
 }

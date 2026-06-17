@@ -36,7 +36,7 @@ A mobile-first MCQ practice platform for candidates preparing for **FIA (Federal
 
 FIA Job Prep is a complete, exam-style practice app. Registration is **manual and WhatsApp-gated** — candidates can't self-register; the owner creates accounts and shares credentials over WhatsApp. Students then take **timed, auto-graded MCQ tests** with instant per-question explanations and watch their accuracy, streak, and weak areas improve over time.
 
-The question bank ships with **~2,850 MCQs across 114 tests** in six subjects (English, General Knowledge, Pakistan Studies, Computer, Islamic Studies, and IQ & Mathematics — arithmetic, number series, and analytical/logical reasoning).
+The question bank ships with **~2,880 MCQs across 115 tests** in seven subjects (English, General Knowledge, Pakistan Studies, Computer, Islamic Studies, IQ & Mathematics — arithmetic, number series, and analytical/logical reasoning — and the FIA Act & Laws — the FIA Act 1974, powers/wings, PECA 2016, and related special laws).
 
 ## Highlights
 
@@ -57,7 +57,7 @@ cd fia-job-prep
 npm install
 cp .env.example .env        # set DATABASE_URL to your Postgres URL (Neon/Supabase)
 npm run db:push             # creates the tables in your database
-npm run db:seed             # ~2,850 MCQs + admin & demo accounts
+npm run db:seed             # ~2,880 MCQs + admin & demo accounts
 npm run dev                 # http://localhost:3000
 ```
 

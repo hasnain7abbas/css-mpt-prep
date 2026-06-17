@@ -59,6 +59,12 @@ export const subjects = [
     description: "Arithmetic, Number Series, Analytical & Logical Reasoning, Mental Ability",
     order: 6,
   },
+  {
+    slug: "fia-act",
+    title: "FIA Act & Laws",
+    description: "FIA Act 1974, powers & wings, PECA 2016, immigration and related special laws",
+    order: 7,
+  },
 ];
 
 // ─────────────────────────────────────────────

@@ -108,7 +108,7 @@ export default function LandingPage() {
             </span>
             <span className="hidden h-4 w-px bg-ink/10 sm:block" />
             <span className="inline-flex items-center gap-2">
-              <FileText className="size-4 text-primary" /> 250+ past-paper MCQs
+              <FileText className="size-4 text-primary" /> 2,800+ practice MCQs
             </span>
             <span className="hidden h-4 w-px bg-ink/10 sm:block" />
             <span className="inline-flex items-center gap-2">
@@ -131,8 +131,8 @@ export default function LandingPage() {
             {[
               {
                 icon: FileText,
-                title: "250+ MCQs",
-                desc: "Real exam feel, drawn from FIA/FPSC past papers (2018–2024).",
+                title: "2,800+ MCQs",
+                desc: "Real exam feel across seven subjects — including IQ & Maths and the FIA Act.",
               },
               {
                 icon: Timer,
@@ -164,9 +164,12 @@ export default function LandingPage() {
           <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-24 lg:px-8">
             <div className="flex flex-wrap items-end justify-between gap-4">
               <div>
-                <h2 className="font-display text-3xl font-bold text-ink">Five core subjects</h2>
+                <h2 className="font-display text-3xl font-bold text-ink">
+                  {SUBJECTS.length} core subjects
+                </h2>
                 <p className="mt-3 text-ink-muted">
-                  The full FIA syllabus, organised into focused test banks.
+                  The full FIA syllabus — now including IQ &amp; Mathematics and the
+                  FIA Act &amp; Laws — organised into focused test banks.
                 </p>
               </div>
               <Link

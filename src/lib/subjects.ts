@@ -1,4 +1,4 @@
-import { BookOpen, Calculator, Globe, Landmark, Laptop, Moon, type LucideIcon } from "lucide-react";
+import { BookOpen, Calculator, Globe, Landmark, Laptop, Moon, Scale, type LucideIcon } from "lucide-react";
 
 // Display metadata for the five fixed subjects. The DB holds the authoritative
 // titles/descriptions + tests; this drives icons and accent colours in the UI.
@@ -52,6 +52,13 @@ export const SUBJECTS: SubjectMeta[] = [
     blurb: "Arithmetic, Number series, Analytical & Logical reasoning",
     icon: Calculator,
     accent: "bg-rose-50 text-rose-700 dark:bg-rose-500/15 dark:text-rose-300",
+  },
+  {
+    slug: "fia-act",
+    title: "FIA Act & Laws",
+    blurb: "FIA Act 1974, powers & wings, PECA, immigration & related laws",
+    icon: Scale,
+    accent: "bg-indigo-50 text-indigo-700 dark:bg-indigo-500/15 dark:text-indigo-300",
   },
 ];
 
