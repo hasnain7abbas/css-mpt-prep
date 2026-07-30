@@ -1,0 +1,1371 @@
+{
+  "subject": "islamic-studies",
+  "unit": "islamic-quran-hadith",
+  "questions": [
+    {
+      "text": "The total number of surahs in the Holy Quran is",
+      "options": [
+        "110",
+        "112",
+        "114",
+        "116"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Quran is divided into 114 surahs, beginning with Al-Fatiha and ending with An-Nas.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "For ease of recitation the Holy Quran is divided into how many juz (paras)?",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Quran is divided into 30 juz of roughly equal length, a division commonly used for reciting the whole Quran during Ramadan.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The longest surah of the Holy Quran is",
+      "options": [
+        "Al-Baqarah",
+        "Al-Fatiha",
+        "Aal-e-Imran",
+        "An-Nisa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surah Al-Baqarah, with 286 verses, is the longest surah and occupies most of the first two and a half juz.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The shortest surah of the Holy Quran is",
+      "options": [
+        "Al-Asr",
+        "Al-Ikhlas",
+        "An-Nasr",
+        "Al-Kawthar"
+      ],
+      "correctIndex": 3,
+      "explanation": "Surah Al-Kawthar consists of only three short verses, making it the shortest surah of the Quran.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The first revelation received by the Holy Prophet (PBUH) consisted of the opening verses of",
+      "options": [
+        "Surah Al-Alaq",
+        "Surah Al-Fatiha",
+        "Surah Al-Muddaththir",
+        "Surah Al-Qalam"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first five verses of Surah Al-Alaq, beginning with 'Iqra bismi Rabbika', were the first revelation brought by Jibrael.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The first revelation was received by the Holy Prophet (PBUH) in",
+      "options": [
+        "Cave Thawr",
+        "Dar-e-Arqam",
+        "Masjid-e-Nabvi",
+        "Cave Hira"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Prophet (PBUH) was engaged in seclusion in the Cave of Hira when Jibrael brought the first revelation.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The Cave of Hira is situated on the mountain known as",
+      "options": [
+        "Jabal-un-Nur",
+        "Jabal-e-Rahmat",
+        "Jabal-e-Uhud",
+        "Jabal-e-Thawr"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hira is a cave on Jabal-un-Nur (the Mountain of Light) near Makkah, so named because revelation first descended there.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "According to the commonly accepted classification, the number of Makki surahs in the Quran is",
+      "options": [
+        "82",
+        "86",
+        "90",
+        "92"
+      ],
+      "correctIndex": 1,
+      "explanation": "Of the 114 surahs, 86 were revealed before the migration and are classified as Makki.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "According to the commonly accepted classification, the number of Madani surahs in the Quran is",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "30"
+      ],
+      "correctIndex": 2,
+      "explanation": "Twenty-eight surahs were revealed after the migration to Madina and are therefore classified as Madani.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Makki surahs characteristically address the listeners with the phrase",
+      "options": [
+        "Ya ayyuhal-ladhina amanu",
+        "Ya bani Israel",
+        "Ya ayyuhan-Nabi",
+        "Ya ayyuhan-nas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Makki revelation generally addresses humanity at large with 'Ya ayyuhan-nas', while Madani revelation usually addresses the believers.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The only surah of the Quran that does not begin with Bismillah is",
+      "options": [
+        "At-Tawbah",
+        "Al-Anfal",
+        "Yunus",
+        "Hud"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surah At-Tawbah (Surah 9) is the sole surah that opens without the Bismillah.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "In which surah does Bismillah occur twice?",
+      "options": [
+        "An-Nahl",
+        "An-Naml",
+        "Al-Qasas",
+        "Al-Ankabut"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surah An-Naml has Bismillah at its opening and again within verse 30, quoted in the letter of Hazrat Sulaiman (AS) to the Queen of Sheba.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Which surah is described in Hadith as the heart of the Quran?",
+      "options": [
+        "Ar-Rahman",
+        "Al-Waqiah",
+        "Al-Mulk",
+        "Yasin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Surah Yasin is widely known as Qalb-ul-Quran, the heart of the Quran.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The Holy Prophet (PBUH) declared which surah equal in reward to one-third of the Quran?",
+      "options": [
+        "Al-Ikhlas",
+        "Al-Kafirun",
+        "Al-Fatiha",
+        "An-Nas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surah Al-Ikhlas sums up the doctrine of divine oneness and is described in Hadith as equal to a third of the Quran.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Which surah is popularly called Aroos-ul-Quran (the bride of the Quran)?",
+      "options": [
+        "Al-Kahf",
+        "Ar-Rahman",
+        "Maryam",
+        "Al-Waqiah"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surah Ar-Rahman is called Aroos-ul-Quran because of its beauty and its refrain enumerating the favours of Allah.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "In Surah Ar-Rahman the verse 'Fa bi-ayyi ala-i Rabbikuma tukazziban' is repeated",
+      "options": [
+        "27 times",
+        "29 times",
+        "31 times",
+        "33 times"
+      ],
+      "correctIndex": 2,
+      "explanation": "The refrain questioning which favours of the Lord are denied occurs thirty-one times in Surah Ar-Rahman.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Ayat-ul-Kursi, described as the greatest verse of the Quran, is part of",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Anam",
+        "Surah Aal-e-Imran",
+        "Surah Al-Baqarah"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ayat-ul-Kursi is verse 255 of Surah Al-Baqarah.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The number of verses in Surah Al-Fatiha is",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "Surah Al-Fatiha has seven verses, which is why it is also called Sab'a Mathani, the seven oft-repeated verses.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Which surah is known as Umm-ul-Kitab (the mother of the Book)?",
+      "options": [
+        "Al-Fatiha",
+        "Al-Baqarah",
+        "Yasin",
+        "Al-Ikhlas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surah Al-Fatiha is called Umm-ul-Kitab because it contains in summary the essential themes of the whole Quran.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The number of verses in Surah Al-Baqarah is",
+      "options": [
+        "200",
+        "227",
+        "286",
+        "300"
+      ],
+      "correctIndex": 2,
+      "explanation": "Surah Al-Baqarah contains 286 verses, more than any other surah.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The longest verse of the Holy Quran, known as Ayat-ud-Dayn, deals with",
+      "options": [
+        "The distribution of inheritance",
+        "The recording of debts",
+        "The prohibition of wine",
+        "The rules of fasting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Verse 282 of Surah Al-Baqarah, the longest verse in the Quran, lays down rules for writing down loans and debts.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The Holy Quran was compiled into a single written volume during the caliphate of",
+      "options": [
+        "Hazrat Ali (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Uthman (RA)",
+        "Hazrat Abu Bakr (RA)"
+      ],
+      "correctIndex": 3,
+      "explanation": "The scattered written records of the Quran were gathered into one bound copy on the order of Hazrat Abu Bakr (RA).",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Who first proposed to Hazrat Abu Bakr (RA) that the Quran be collected in one volume?",
+      "options": [
+        "Hazrat Umar (RA)",
+        "Hazrat Uthman (RA)",
+        "Hazrat Ali (RA)",
+        "Hazrat Talha (RA)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hazrat Umar (RA) pressed the Caliph to collect the Quran after many memorisers were killed in battle.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The compilation of the Quran in Hazrat Abu Bakr's time was prompted by heavy casualties among the huffaz in the Battle of",
+      "options": [
+        "Yarmuk",
+        "Yamama",
+        "Qadisiyya",
+        "Nahawand"
+      ],
+      "correctIndex": 1,
+      "explanation": "A large number of Quran memorisers were martyred fighting Musailima the liar at Yamama, which raised fears that the text could be lost.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The companion entrusted with the task of collecting the Quran into one volume was",
+      "options": [
+        "Hazrat Ubayy bin Kaab (RA)",
+        "Hazrat Muaz bin Jabal (RA)",
+        "Hazrat Abdullah bin Masud (RA)",
+        "Hazrat Zaid bin Thabit (RA)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hazrat Zaid bin Thabit (RA), a scribe of revelation, headed the work of collection under both Abu Bakr (RA) and Uthman (RA).",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The caliph who had standard copies of the Quran prepared and sent to the main centres of the Islamic state is titled Jami-ul-Quran; he was",
+      "options": [
+        "Hazrat Uthman (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Ali (RA)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hazrat Uthman (RA) standardised the text on one dialect and distributed official copies, earning the title Jami-ul-Quran.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The first compiled volume of the Quran was kept in the custody of",
+      "options": [
+        "Hazrat Ayesha (RA)",
+        "Hazrat Hafsa (RA)",
+        "Hazrat Umm-e-Salma (RA)",
+        "Hazrat Fatima (RA)"
+      ],
+      "correctIndex": 1,
+      "explanation": "After Hazrat Abu Bakr (RA) and Hazrat Umar (RA), the compiled copy was preserved with Hazrat Hafsa (RA), and Hazrat Uthman (RA) later borrowed it as the basis of the standard text.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The revelation of the Holy Quran was completed over a period of about",
+      "options": [
+        "13 years",
+        "18 years",
+        "23 years",
+        "30 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Revelation continued for roughly 23 years, thirteen in Makkah and ten in Madina.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The Holy Prophet (PBUH) received the first revelation at the age of",
+      "options": [
+        "25 years",
+        "35 years",
+        "40 years",
+        "45 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Prophethood began when the Prophet (PBUH) was forty years old.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The angel appointed to bring revelation to the prophets is",
+      "options": [
+        "Mikaeel",
+        "Izraeel",
+        "Israfeel",
+        "Jibrael"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hazrat Jibrael (AS), also called Ruh-ul-Amin, is the angel of revelation.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "According to the Quran, the month in which its revelation began is",
+      "options": [
+        "Ramadan",
+        "Shaban",
+        "Rajab",
+        "Muharram"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surah Al-Baqarah states that the Quran was sent down in the month of Ramadan.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Laylat-ul-Qadr is described as better than a thousand months in",
+      "options": [
+        "Surah Ad-Dukhan",
+        "Surah Al-Qadr",
+        "Surah Al-Bayyinah",
+        "Surah Al-Asr"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surah Al-Qadr states that the Night of Decree is better than a thousand months.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The Quranic verse 'This day I have perfected your religion for you' was revealed on the occasion of",
+      "options": [
+        "The Treaty of Hudaybiyyah",
+        "The conquest of Makkah",
+        "The Battle of Tabuk",
+        "The Farewell Pilgrimage"
+      ],
+      "correctIndex": 3,
+      "explanation": "This verse of Surah Al-Maidah was revealed at Arafat during the Farewell Pilgrimage (Hajjat-ul-Wida).",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The word 'Quran' literally means",
+      "options": [
+        "That which is recited",
+        "The criterion",
+        "The reminder",
+        "The clear proof"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quran is derived from the root qara'a, so it means recitation or that which is recited.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Al-Furqan, used as another name of the Holy Quran, means",
+      "options": [
+        "The healing",
+        "The criterion between right and wrong",
+        "The light",
+        "The guidance for the pious"
+      ],
+      "correctIndex": 1,
+      "explanation": "Al-Furqan denotes that which distinguishes truth from falsehood.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The written copy of the Holy Quran in book form is called",
+      "options": [
+        "Sahifa",
+        "Manzil",
+        "Mushaf",
+        "Tafsir"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mushaf is the term for the Quran as a bound written volume, hence Mushaf-e-Uthmani for the standard text.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "For the purpose of reciting the whole Quran in a week it is divided into seven parts, each called a",
+      "options": [
+        "Ruku",
+        "Hizb",
+        "Juz",
+        "Manzil"
+      ],
+      "correctIndex": 3,
+      "explanation": "The seven divisions used for weekly recitation are known as manzils.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The number of rukus in the Holy Quran is generally given as",
+      "options": [
+        "114",
+        "286",
+        "540",
+        "604"
+      ],
+      "correctIndex": 2,
+      "explanation": "The standard Mushaf marks 540 rukus, short sections used to divide surahs for recitation in Taraweeh.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The number of verses of prostration (sajda tilawat) in the Holy Quran is",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fourteen verses of the Quran are marked as verses of prostration, and prostration is made on reciting or hearing them.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The thirtieth and last juz of the Quran is popularly known as",
+      "options": [
+        "Juz Amma",
+        "Juz Tabarak",
+        "Juz Alif Lam Mim",
+        "Juz Qad Sami'a"
+      ],
+      "correctIndex": 0,
+      "explanation": "The last juz is called Juz Amma after the opening words of Surah An-Naba, 'Amma yatasa'alun'.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The two surahs collectively known as Al-Muawwidhatain are",
+      "options": [
+        "Al-Ikhlas and Al-Falaq",
+        "Al-Falaq and An-Nas",
+        "Al-Kafirun and Al-Ikhlas",
+        "An-Nasr and Al-Masad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surah Al-Falaq and Surah An-Nas are called Al-Muawwidhatain because both begin with seeking refuge with Allah.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The surah revealed in condemnation of the Prophet's uncle Abu Lahab is",
+      "options": [
+        "Al-Humazah",
+        "Al-Qariah",
+        "Al-Masad",
+        "Al-Ma'un"
+      ],
+      "correctIndex": 2,
+      "explanation": "Surah Al-Masad, also called Surah Al-Lahab, denounces Abu Lahab and his wife for their hostility to Islam.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Surah Al-Fil refers to the destruction of the army of",
+      "options": [
+        "Nimrud",
+        "Qarun",
+        "Pharaoh",
+        "Abraha"
+      ],
+      "correctIndex": 3,
+      "explanation": "Surah Al-Fil describes how Allah destroyed Abraha's elephant army that came to demolish the Kabah.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The story of Hazrat Yusuf (AS) is narrated in the Quran as",
+      "options": [
+        "Ahsan-ul-Qasas",
+        "Umm-ul-Qasas",
+        "Qissa-tul-Haq",
+        "Nabaa-ul-Azeem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surah Yusuf calls its own narrative Ahsan-ul-Qasas, the most beautiful of stories.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The only surah of the Quran named after a woman is",
+      "options": [
+        "An-Nisa",
+        "Maryam",
+        "Al-Mujadila",
+        "At-Tahrim"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surah Maryam is named after Hazrat Maryam (AS), the mother of Hazrat Isa (AS).",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Detailed rules for the distribution of inheritance are laid down mainly in",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Maidah",
+        "Surah An-Nisa",
+        "Surah An-Nur"
+      ],
+      "correctIndex": 2,
+      "explanation": "Surah An-Nisa specifies the fixed shares of heirs along with wider rules concerning women and the family.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The commandments regarding hijab and the punishment for slander were revealed in",
+      "options": [
+        "Surah Al-Ahzab",
+        "Surah At-Talaq",
+        "Surah Al-Hujurat",
+        "Surah An-Nur"
+      ],
+      "correctIndex": 3,
+      "explanation": "Surah An-Nur contains the law of qazf (false accusation of unchastity) and the injunctions of modesty and veiling.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Surah Al-Anfal deals principally with the events and spoils of the Battle of",
+      "options": [
+        "Badr",
+        "Uhud",
+        "Khandaq",
+        "Hunayn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surah Al-Anfal was revealed after Badr and settles the question of the distribution of war booty.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Surah Al-Ahzab takes its name from the confederate armies that besieged Madina in the Battle of",
+      "options": [
+        "Badr",
+        "The Trench",
+        "Uhud",
+        "Khaybar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Al-Ahzab means the confederates, the allied tribes who laid siege to Madina in the Battle of the Trench.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Surah Al-Fath was revealed in connection with",
+      "options": [
+        "The migration to Abyssinia",
+        "The Battle of Uhud",
+        "The Treaty of Hudaybiyyah",
+        "The Battle of Hunayn"
+      ],
+      "correctIndex": 2,
+      "explanation": "The surah declares the Treaty of Hudaybiyyah to be a manifest victory for the Muslims.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Surah An-Nasr was revealed with reference to",
+      "options": [
+        "The Battle of Tabuk",
+        "The Farewell Sermon",
+        "The migration to Madina",
+        "The conquest of Makkah"
+      ],
+      "correctIndex": 3,
+      "explanation": "Surah An-Nasr speaks of the help of Allah and the victory, and of people entering Islam in crowds after the conquest of Makkah.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The story of Ashab-e-Kahf (the People of the Cave) is narrated in",
+      "options": [
+        "Surah Al-Kahf",
+        "Surah Maryam",
+        "Surah Ta-Ha",
+        "Surah Al-Anbiya"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surah Al-Kahf opens with the account of the youths who took refuge in a cave and slept for centuries.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Which surah does Hadith recommend for recitation on Friday?",
+      "options": [
+        "Surah Yasin",
+        "Surah Al-Kahf",
+        "Surah Al-Waqiah",
+        "Surah Al-Mulk"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Prophet (PBUH) encouraged reciting Surah Al-Kahf on Friday, promising light between the two Fridays.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The counsel of a wise man to his son on gratitude, prayer and humility forms the theme of",
+      "options": [
+        "Surah Al-Asr",
+        "Surah Al-Hujurat",
+        "Surah Luqman",
+        "Surah Al-Furqan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Surah Luqman records the advice of Luqman the Wise to his son, beginning with the prohibition of shirk.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The surah that lays down rules of social conduct such as avoiding suspicion, backbiting and mockery is",
+      "options": [
+        "Surah At-Taghabun",
+        "Surah Al-Munafiqun",
+        "Surah Al-Mumtahina",
+        "Surah Al-Hujurat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Surah Al-Hujurat is often called the surah of manners for its detailed code of Muslim social behaviour.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The central theme of Surah Al-Kafirun is",
+      "options": [
+        "Complete disassociation from disbelief and its worship",
+        "The rules of fasting",
+        "The signs of the Day of Judgement",
+        "The obligation of charity"
+      ],
+      "correctIndex": 0,
+      "explanation": "The surah rejects any compromise in worship between the Prophet (PBUH) and the polytheists of Makkah.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Surah Al-Ankabut takes its name from which creature?",
+      "options": [
+        "The bee",
+        "The spider",
+        "The ant",
+        "The elephant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Al-Ankabut means the spider, referring to the parable of the spider's frail house given in the surah.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The surah in which the word 'Allah' occurs in every verse is",
+      "options": [
+        "Surah At-Taghabun",
+        "Surah Al-Hashr",
+        "Surah Al-Mujadila",
+        "Surah As-Saff"
+      ],
+      "correctIndex": 2,
+      "explanation": "Surah Al-Mujadila is distinguished by the fact that the name of Allah appears in each of its verses.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The first surah in the order of the Mushaf is",
+      "options": [
+        "Al-Alaq",
+        "Al-Muddaththir",
+        "Al-Baqarah",
+        "Al-Fatiha"
+      ],
+      "correctIndex": 3,
+      "explanation": "Surah Al-Fatiha stands first in the arrangement of the Quran, which is why it is called the opening.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The last surah in the order of the Mushaf is",
+      "options": [
+        "An-Nas",
+        "Al-Falaq",
+        "Al-Ikhlas",
+        "Al-Masad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Surah An-Nas is the 114th and final surah of the Quran.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A person who has committed the entire Quran to memory is called",
+      "options": [
+        "Qari",
+        "Hafiz",
+        "Muhaddith",
+        "Mufassir"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hafiz means guardian, and it is used for one who preserves the whole Quran in memory.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The science that lays down the rules for correct pronunciation in reciting the Quran is",
+      "options": [
+        "Tafsir",
+        "Tawil",
+        "Tajwid",
+        "Tartil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ilm-ut-Tajwid governs the articulation of letters and the lengths of vowels in Quranic recitation.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The branch of Quranic science that studies the occasions and circumstances of revelation is called",
+      "options": [
+        "Ilm-ul-Kalam",
+        "Ilm-ul-Qirat",
+        "Ilm-ur-Rijal",
+        "Asbab-un-Nuzul"
+      ],
+      "correctIndex": 3,
+      "explanation": "Asbab-un-Nuzul records the events in response to which particular verses were revealed, aiding correct interpretation.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "In Quranic sciences, Nasikh and Mansukh refer to",
+      "options": [
+        "The abrogating and the abrogated verses",
+        "The clear and the allegorical verses",
+        "The Makki and the Madani verses",
+        "The recited and the unrecited revelation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nasikh is a verse whose ruling supersedes an earlier one, and Mansukh is the verse whose ruling is superseded.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Verses of the Quran whose meaning is clear and unambiguous are termed",
+      "options": [
+        "Mutashabihat",
+        "Muhkamat",
+        "Mubhamat",
+        "Mujmalat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Surah Aal-e-Imran divides the Quran into Muhkamat, the decisive verses, and Mutashabihat, those of allegorical meaning.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The explanation and exegesis of the Holy Quran is known as",
+      "options": [
+        "Usul",
+        "Fiqh",
+        "Tafsir",
+        "Sirah"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ilm-ut-Tafsir is the discipline devoted to explaining the meanings and implications of the Quranic text.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The mode of Quranic recitation followed by the great majority of Muslims today is transmitted as",
+      "options": [
+        "Warsh from Nafi",
+        "Duri from Abu Amr",
+        "Qalun from Nafi",
+        "Hafs from Asim"
+      ],
+      "correctIndex": 3,
+      "explanation": "The reading of Hafs on the authority of Asim is the standard recitation used in most printed Qurans, including those in Pakistan.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Wahi Matluww refers to",
+      "options": [
+        "Revelation recited as the Quran in prayer",
+        "Revelation conveyed through dreams only",
+        "The sayings of the companions",
+        "The rulings of the four imams"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wahi Matluww is the recited revelation, that is the Quran itself, as distinct from Wahi Ghair Matluww which reached the Prophet (PBUH) as Sunnah.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The number of books included in the Sihah Sitta is",
+      "options": [
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sihah Sitta means the six authentic collections of Hadith recognised by Sunni scholars.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The book regarded as the most authentic after the Holy Quran is",
+      "options": [
+        "Sahih Muslim",
+        "Muwatta Imam Malik",
+        "Sahih Bukhari",
+        "Sunan Abu Dawud"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sahih Bukhari occupies the first place among Hadith collections in authenticity in Sunni scholarship.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The compiler of Sahih Bukhari was",
+      "options": [
+        "Sulaiman bin Ash'ath",
+        "Muslim bin al-Hajjaj",
+        "Ahmad bin Shuaib",
+        "Muhammad bin Ismail"
+      ],
+      "correctIndex": 3,
+      "explanation": "Imam Muhammad bin Ismail al-Bukhari compiled Al-Jami' as-Sahih, popularly known as Sahih Bukhari.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Imam Bukhari was born in the city of",
+      "options": [
+        "Bukhara",
+        "Nishapur",
+        "Baghdad",
+        "Samarkand"
+      ],
+      "correctIndex": 0,
+      "explanation": "He was born at Bukhara in Transoxiana, from which his nisbah al-Bukhari is derived.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Imam Bukhari died in the year",
+      "options": [
+        "241 AH",
+        "256 AH",
+        "261 AH",
+        "275 AH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Imam Bukhari was born in 194 AH and died in 256 AH near Samarkand.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The compiler of Sahih Muslim was",
+      "options": [
+        "Muhammad bin Isa",
+        "Muslim bin al-Hajjaj",
+        "Muhammad bin Yazid",
+        "Malik bin Anas"
+      ],
+      "correctIndex": 1,
+      "explanation": "Imam Muslim bin al-Hajjaj al-Qushayri of Nishapur compiled the collection known as Sahih Muslim.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Sunan Abu Dawud was compiled by",
+      "options": [
+        "Ahmad bin Shuaib",
+        "Muhammad bin Isa",
+        "Sulaiman bin Ash'ath",
+        "Abdullah bin Mubarak"
+      ],
+      "correctIndex": 2,
+      "explanation": "Abu Dawud Sulaiman bin Ash'ath as-Sijistani compiled the Sunan that bears his name, focused largely on legal Hadith.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The compiler of Jami' at-Tirmidhi was",
+      "options": [
+        "Muhammad bin Yazid",
+        "Muhammad bin Ismail",
+        "Ahmad bin Hanbal",
+        "Muhammad bin Isa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Imam Abu Isa Muhammad bin Isa at-Tirmidhi compiled the Jami', noted for grading each Hadith.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The compiler of the sixth book of the Sihah Sitta, Sunan Ibn Majah, was",
+      "options": [
+        "Muhammad bin Yazid",
+        "Muhammad bin Isa",
+        "Ahmad bin Shuaib",
+        "Muhammad bin Ismail"
+      ],
+      "correctIndex": 0,
+      "explanation": "Imam Muhammad bin Yazid, known as Ibn Majah al-Qazwini, compiled the Sunan counted as the sixth canonical collection.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Al-Muwatta, one of the earliest surviving collections of Hadith and law, was compiled by",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Shafi'i",
+        "Imam Ahmad bin Hanbal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Imam Malik bin Anas of Madina compiled Al-Muwatta, which combines Hadith with the practice of the people of Madina.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The vast Hadith collection known as Al-Musnad was compiled by",
+      "options": [
+        "Imam Nasai",
+        "Imam Tirmidhi",
+        "Imam Ahmad bin Hanbal",
+        "Imam Bukhari"
+      ],
+      "correctIndex": 2,
+      "explanation": "Musnad Ahmad arranges tens of thousands of narrations under the names of the companions who related them.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Sahih Bukhari and Sahih Muslim are together referred to as",
+      "options": [
+        "Sunanain",
+        "Jamiain",
+        "Musnadain",
+        "Sahihain"
+      ],
+      "correctIndex": 3,
+      "explanation": "The two most authentic collections are jointly called the Sahihain.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A Hadith reported by both Imam Bukhari and Imam Muslim is described as",
+      "options": [
+        "Muttafaq Alayh",
+        "Mutawatir",
+        "Mursal",
+        "Mu'allaq"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muttafaq Alayh means agreed upon, that is recorded by both compilers of the Sahihain.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A Hadith reported in every generation by so many narrators that their agreement upon a falsehood is inconceivable is called",
+      "options": [
+        "Mashhur",
+        "Mutawatir",
+        "Aziz",
+        "Gharib"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mutawatir narrations enjoy the highest certainty because of the sheer number of independent transmitters at every stage.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Khabar-e-Wahid (Hadith Ahad) is a report that",
+      "options": [
+        "Is narrated only by the Prophet's family",
+        "Is always fabricated",
+        "Falls short of the number required for tawatur",
+        "Is recorded only in Sahih Bukhari"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ahad reports are transmitted by fewer narrators than the mutawatir threshold, so they yield strong probability rather than certainty.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "In Hadith terminology, Daif means a report that is",
+      "options": [
+        "Sound",
+        "Good",
+        "Agreed upon",
+        "Weak"
+      ],
+      "correctIndex": 3,
+      "explanation": "A Daif Hadith fails to meet the conditions of Sahih or Hasan, usually because of a defect in its chain or a criticised narrator.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A report falsely invented and attributed to the Holy Prophet (PBUH) is called",
+      "options": [
+        "Maudu",
+        "Mursal",
+        "Munqati",
+        "Mawquf"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maudu means fabricated, and such reports have no standing as Hadith at all.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A Hadith that meets every condition of authenticity, with an unbroken chain of upright and precise narrators and no defect, is classified as",
+      "options": [
+        "Hasan",
+        "Sahih",
+        "Daif",
+        "Maudu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sahih is the highest grade of an accepted Hadith, and Hasan falls just below it because of slightly lesser precision in a narrator.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "In Hadith terminology, the chain of narrators is called",
+      "options": [
+        "Matn",
+        "Rawi",
+        "Isnad",
+        "Tabaqat"
+      ],
+      "correctIndex": 2,
+      "explanation": "Isnad, or sanad, is the succession of transmitters by which a report reaches the collector.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A Hadith Qudsi is one in which",
+      "options": [
+        "The narration is traced only to a successor",
+        "Both the meaning and the wording are from a companion",
+        "The wording is recited in the obligatory prayers",
+        "The meaning is from Allah and the wording from the Prophet (PBUH)"
+      ],
+      "correctIndex": 3,
+      "explanation": "In Hadith Qudsi the Prophet (PBUH) relates a statement from his Lord in his own words, unlike the Quran whose exact wording is revealed.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A narration whose chain reaches back to the Holy Prophet (PBUH) himself is termed",
+      "options": [
+        "Marfu",
+        "Mawquf",
+        "Maqtu",
+        "Mu'allaq"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marfu means raised, that is attributed to the Prophet (PBUH) in word, deed or approval.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A report whose chain stops at a companion and is attributed to him rather than to the Prophet (PBUH) is called",
+      "options": [
+        "Marfu",
+        "Mawquf",
+        "Mutawatir",
+        "Musnad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mawquf means halted, because the narration goes no further than the saying or act of a sahabi.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A statement attributed to a tabi'i (successor) is classified as",
+      "options": [
+        "Marfu",
+        "Munqati",
+        "Maqtu",
+        "Mawquf"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maqtu refers to the words or deeds of a successor, and should not be confused with Munqati, which describes a broken chain.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A Mursal Hadith is one in which",
+      "options": [
+        "The narrator is accused of lying",
+        "Two narrators are missing consecutively",
+        "The text contradicts the Quran",
+        "A successor narrates directly from the Prophet (PBUH) without naming the companion"
+      ],
+      "correctIndex": 3,
+      "explanation": "In a Mursal report the link of the sahabi is omitted, since a tabi'i attributes the Hadith straight to the Prophet (PBUH).",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The science that examines the lives, reliability and dates of Hadith narrators is called",
+      "options": [
+        "Ilm-ur-Rijal",
+        "Ilm-ul-Kalam",
+        "Ilm-ul-Faraid",
+        "Ilm-ul-Ma'ani"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ilm-ur-Rijal, the science of men, was developed to verify each transmitter in a chain of narration.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Al-Jarh wa at-Ta'dil is the discipline concerned with",
+      "options": [
+        "Deriving legal rulings from the Quran",
+        "Criticising and validating Hadith narrators",
+        "Determining the direction of the Qibla",
+        "Fixing the dates of the Islamic calendar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jarh means to impugn a narrator and Ta'dil to declare him trustworthy, and together they decide whether a chain is acceptable.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A tacit approval given by the Holy Prophet (PBUH) to an act done in his presence is known as",
+      "options": [
+        "Sunnat-e-Qawli",
+        "Sunnat-e-Fi'li",
+        "Sunnat-e-Taqriri",
+        "Sunnat-e-Zaida"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sunnah is divided into the Prophet's sayings, his deeds and his silent approvals, the last being Sunnat-e-Taqriri.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The companion who narrated the largest number of ahadith is",
+      "options": [
+        "Hazrat Abdullah bin Umar (RA)",
+        "Hazrat Jabir bin Abdullah (RA)",
+        "Hazrat Anas bin Malik (RA)",
+        "Hazrat Abu Hurairah (RA)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hazrat Abu Hurairah (RA) is credited with more narrations than any other companion.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Among women, the largest number of ahadith has been narrated by",
+      "options": [
+        "Hazrat Ayesha (RA)",
+        "Hazrat Umm-e-Salma (RA)",
+        "Hazrat Hafsa (RA)",
+        "Hazrat Maimoona (RA)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hazrat Ayesha (RA) narrated more Hadith than any other woman and was a leading authority on the Prophet's private life and on fiqh.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The Hadith 'Actions are judged only by intentions' is narrated on the authority of",
+      "options": [
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Uthman (RA)",
+        "Hazrat Ali (RA)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hazrat Umar bin al-Khattab (RA) reported this Hadith from the pulpit, and it heads Sahih Bukhari.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The Hadith of Jibrael, in which the angel questions the Prophet (PBUH) in the presence of the companions, explains",
+      "options": [
+        "Tawhid, Risalat and Akhirat",
+        "Salah, Zakat and Hajj",
+        "Islam, Iman and Ihsan",
+        "Fard, Wajib and Sunnah"
+      ],
+      "correctIndex": 2,
+      "explanation": "In this Hadith Jibrael asks about Islam, Iman and Ihsan, and about the signs of the Hour, and the Prophet (PBUH) defines each.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "According to a well-known Hadith recorded by Imam Muslim, 'At-tuhuru shatr-ul-iman' means",
+      "options": [
+        "Modesty is a branch of faith",
+        "Prayer is the pillar of faith",
+        "Patience is half of faith",
+        "Purity is half of faith"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Hadith declares cleanliness or purification to be half of faith.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "According to a Hadith of Sahih Bukhari, the best among the Muslims are those who",
+      "options": [
+        "Learn the Quran and teach it",
+        "Fast every Monday and Thursday",
+        "Perform Hajj every year",
+        "Spend the whole night in prayer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Prophet (PBUH) said, 'The best of you are those who learn the Quran and teach it.'",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "According to a well-known Hadith, a Muslim is one from whose",
+      "options": [
+        "Wealth the poor are fed daily",
+        "Tongue and hand other Muslims are safe",
+        "House the neighbours receive gifts",
+        "Prayers no night is left empty"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Prophet (PBUH) defined the Muslim as the person from whose tongue and hand other Muslims remain safe.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "The Hadith 'Ad-Dinu an-Nasiha' means that religion is",
+      "options": [
+        "Silent worship",
+        "Constant fasting",
+        "Sincere counsel",
+        "Public preaching"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Prophet (PBUH) said religion is sincere advice, owed to Allah, His Book, His Messenger, the leaders of the Muslims and the common people.",
+      "difficulty": "MEDIUM",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "Sahifa Sadiqa, an early written record of Hadith, is attributed to",
+      "options": [
+        "Hazrat Zaid bin Thabit (RA)",
+        "Hazrat Anas bin Malik (RA)",
+        "Hazrat Abu Musa Ashari (RA)",
+        "Hazrat Abdullah bin Amr bin al-As (RA)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hazrat Abdullah bin Amr bin al-As (RA) wrote down ahadith with the Prophet's permission in a collection known as As-Sahifa as-Sadiqa.",
+      "difficulty": "HARD",
+      "topic": "quran-hadith"
+    },
+    {
+      "text": "A scholar specialising in the narration and criticism of Hadith is called",
+      "options": [
+        "Muhaddith",
+        "Mufassir",
+        "Mujtahid",
+        "Muqallid"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muhaddith is the title for an expert in Hadith, as Mufassir is for an expert in Quranic exegesis.",
+      "difficulty": "EASY",
+      "topic": "quran-hadith"
+    }
+  ]
+}

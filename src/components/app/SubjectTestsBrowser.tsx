@@ -27,7 +27,7 @@ function useDebounced<T>(value: T, ms: number) {
 }
 
 const selectClass =
-  "h-11 rounded-xl border border-ink/15 bg-surface px-3 text-sm font-medium text-ink shadow-sm focus-visible:border-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/30";
+  "h-11 rounded-sm border border-ink/25 bg-surface px-3 text-sm font-medium text-ink focus-visible:border-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent/40";
 
 export function SubjectTestsBrowser({ tests }: { tests: BrowserTest[] }) {
   const [query, setQuery] = useState("");
@@ -102,14 +102,14 @@ export function SubjectTestsBrowser({ tests }: { tests: BrowserTest[] }) {
 
       {/* Results */}
       {filtered.length > 0 ? (
-        <div className="grid gap-4 md:grid-cols-2">
+        <div className="border-t border-border">
           {filtered.map((t) => (
             <TestCard key={t.id} test={t} />
           ))}
         </div>
       ) : (
-        <div className="flex flex-col items-center justify-center rounded-2xl border border-dashed border-ink/15 bg-surface p-12 text-center">
-          <div className="flex size-12 items-center justify-center rounded-full bg-surface-muted text-ink-soft">
+        <div className="flex flex-col items-center justify-center border border-dashed border-ink/25 bg-surface p-12 text-center">
+          <div className="flex size-12 items-center justify-center rounded-full border-2 border-ink/20 text-ink-soft">
             <X className="size-6" />
           </div>
           <p className="mt-4 font-semibold text-ink">No tests match your filters.</p>

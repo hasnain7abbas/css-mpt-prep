@@ -1,0 +1,1436 @@
+{
+  "subject": "general-science-ability",
+  "unit": "gsa-physics",
+  "questions": [
+    {
+      "text": "What is the SI unit of force?",
+      "options": [
+        "Watt",
+        "Newton",
+        "Joule",
+        "Pascal"
+      ],
+      "correctIndex": 1,
+      "explanation": "One newton is the force that gives a mass of one kilogram an acceleration of one metre per second squared.",
+      "difficulty": "EASY",
+      "topic": "units-measurement"
+    },
+    {
+      "text": "The SI base unit of thermodynamic temperature is the",
+      "options": [
+        "degree Celsius",
+        "degree Fahrenheit",
+        "joule",
+        "kelvin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kelvin is one of the seven SI base units; Celsius and Fahrenheit are derived or non-SI temperature scales.",
+      "difficulty": "EASY",
+      "topic": "units-measurement"
+    },
+    {
+      "text": "The SI unit of frequency is the",
+      "options": [
+        "decibel",
+        "hertz",
+        "dioptre",
+        "candela"
+      ],
+      "correctIndex": 1,
+      "explanation": "One hertz corresponds to one complete cycle or vibration per second.",
+      "difficulty": "EASY",
+      "topic": "units-measurement"
+    },
+    {
+      "text": "Electrical resistance is measured in",
+      "options": [
+        "volts",
+        "amperes",
+        "coulombs",
+        "ohms"
+      ],
+      "correctIndex": 3,
+      "explanation": "A conductor has a resistance of one ohm when a potential difference of one volt drives a current of one ampere through it.",
+      "difficulty": "EASY",
+      "topic": "units-measurement"
+    },
+    {
+      "text": "Which of the following is a base quantity in the SI system?",
+      "options": [
+        "Force",
+        "Luminous intensity",
+        "Pressure",
+        "Velocity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Luminous intensity, measured in candela, is one of the seven SI base quantities; the others listed are derived quantities.",
+      "difficulty": "HARD",
+      "topic": "units-measurement"
+    },
+    {
+      "text": "A light year is a unit of",
+      "options": [
+        "time",
+        "speed",
+        "brightness",
+        "distance"
+      ],
+      "correctIndex": 3,
+      "explanation": "A light year is the distance travelled by light in vacuum in one year, about 9.46 trillion kilometres.",
+      "difficulty": "EASY",
+      "topic": "units-measurement"
+    },
+    {
+      "text": "One horsepower is approximately equal to",
+      "options": [
+        "746 watts",
+        "1000 watts",
+        "550 watts",
+        "100 watts"
+      ],
+      "correctIndex": 0,
+      "explanation": "The mechanical horsepower is defined as about 746 watts of power.",
+      "difficulty": "HARD",
+      "topic": "units-measurement"
+    },
+    {
+      "text": "The commercial unit of electrical energy used on domestic bills is the",
+      "options": [
+        "joule",
+        "watt",
+        "kilowatt-hour",
+        "volt-ampere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Electricity meters record energy in kilowatt-hours, where one kilowatt-hour equals 3.6 million joules.",
+      "difficulty": "EASY",
+      "topic": "units-measurement"
+    },
+    {
+      "text": "Which of the following is a vector quantity?",
+      "options": [
+        "Distance",
+        "Mass",
+        "Time",
+        "Displacement"
+      ],
+      "correctIndex": 3,
+      "explanation": "Displacement specifies both how far and in which direction, so it is a vector; the others have magnitude only.",
+      "difficulty": "EASY",
+      "topic": "units-measurement"
+    },
+    {
+      "text": "Atmospheric pressure is measured with a",
+      "options": [
+        "hygrometer",
+        "barometer",
+        "hydrometer",
+        "anemometer"
+      ],
+      "correctIndex": 1,
+      "explanation": "A barometer balances the weight of the atmosphere against a column of mercury or a sealed metal cell.",
+      "difficulty": "EASY",
+      "topic": "measuring-instruments"
+    },
+    {
+      "text": "The instrument used to measure the humidity of air is the",
+      "options": [
+        "barometer",
+        "thermometer",
+        "hygrometer",
+        "lactometer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A hygrometer indicates the amount of water vapour present in the air.",
+      "difficulty": "EASY",
+      "topic": "measuring-instruments"
+    },
+    {
+      "text": "Wind speed is measured by an",
+      "options": [
+        "anemometer",
+        "altimeter",
+        "audiometer",
+        "odometer"
+      ],
+      "correctIndex": 0,
+      "explanation": "An anemometer, usually a set of rotating cups, measures the speed of the wind.",
+      "difficulty": "MEDIUM",
+      "topic": "measuring-instruments"
+    },
+    {
+      "text": "In a circuit, an ammeter is always connected",
+      "options": [
+        "in parallel with the component",
+        "in series in the circuit",
+        "across the battery terminals",
+        "between the live and neutral wires"
+      ],
+      "correctIndex": 1,
+      "explanation": "An ammeter has very low resistance and must carry the whole current, so it is joined in series.",
+      "difficulty": "MEDIUM",
+      "topic": "electricity"
+    },
+    {
+      "text": "A screw gauge is chiefly used to measure",
+      "options": [
+        "the temperature of a body",
+        "the diameter of a thin wire",
+        "atmospheric pressure",
+        "electric current"
+      ],
+      "correctIndex": 1,
+      "explanation": "A screw gauge, or micrometer, measures very small thicknesses and diameters to a fraction of a millimetre.",
+      "difficulty": "MEDIUM",
+      "topic": "measuring-instruments"
+    },
+    {
+      "text": "The relative density of a liquid is measured with a",
+      "options": [
+        "hydrometer",
+        "hygrometer",
+        "barometer",
+        "calorimeter"
+      ],
+      "correctIndex": 0,
+      "explanation": "A hydrometer floats at a depth that depends on the density of the liquid, and the scale reads relative density directly.",
+      "difficulty": "HARD",
+      "topic": "measuring-instruments"
+    },
+    {
+      "text": "Newton's first law of motion is also known as the law of",
+      "options": [
+        "inertia",
+        "momentum",
+        "acceleration",
+        "gravitation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The first law states that a body keeps its state of rest or uniform motion unless an external force acts, which is the property of inertia.",
+      "difficulty": "EASY",
+      "topic": "motion"
+    },
+    {
+      "text": "The relation F = ma is a statement of Newton's",
+      "options": [
+        "first law of motion",
+        "second law of motion",
+        "third law of motion",
+        "law of gravitation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The second law states that the rate of change of momentum is proportional to the applied force, giving F = ma for constant mass.",
+      "difficulty": "EASY",
+      "topic": "motion"
+    },
+    {
+      "text": "The backward recoil of a gun when it is fired is explained by the",
+      "options": [
+        "conservation of energy",
+        "conservation of linear momentum",
+        "Bernoulli principle",
+        "Archimedes principle"
+      ],
+      "correctIndex": 1,
+      "explanation": "The total momentum before firing is zero, so the forward momentum of the bullet is balanced by an equal backward momentum of the gun.",
+      "difficulty": "MEDIUM",
+      "topic": "motion"
+    },
+    {
+      "text": "The momentum of a moving body is the product of its",
+      "options": [
+        "mass and acceleration",
+        "force and distance",
+        "mass and velocity",
+        "mass and distance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Linear momentum is defined as mass multiplied by velocity, and it is a vector quantity.",
+      "difficulty": "MEDIUM",
+      "topic": "motion"
+    },
+    {
+      "text": "The acceleration due to gravity near the surface of the Earth is about",
+      "options": [
+        "6.7 m/s²",
+        "9.8 m/s²",
+        "10.8 m/s²",
+        "98 m/s²"
+      ],
+      "correctIndex": 1,
+      "explanation": "The standard value of g at the Earth's surface is 9.8 metres per second squared.",
+      "difficulty": "EASY",
+      "topic": "motion"
+    },
+    {
+      "text": "The value of the acceleration due to gravity on Earth is greatest at",
+      "options": [
+        "the equator",
+        "the poles",
+        "the top of a mountain",
+        "the middle latitudes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Earth is flattened at the poles, so the surface there is nearer the centre and g is largest.",
+      "difficulty": "HARD",
+      "topic": "motion"
+    },
+    {
+      "text": "The weight of an object on the Moon is about",
+      "options": [
+        "one-sixth of its weight on Earth",
+        "one-third of its weight on Earth",
+        "equal to its weight on Earth",
+        "six times its weight on Earth"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gravity on the Moon is roughly one-sixth of that on Earth, so the same mass weighs about one-sixth as much.",
+      "difficulty": "MEDIUM",
+      "topic": "motion"
+    },
+    {
+      "text": "A body moving in a circle at constant speed has an acceleration directed",
+      "options": [
+        "along the direction of motion",
+        "towards the centre of the circle",
+        "away from the centre of the circle",
+        "opposite to the direction of motion"
+      ],
+      "correctIndex": 1,
+      "explanation": "The velocity changes direction continuously, and the resulting centripetal acceleration always points towards the centre.",
+      "difficulty": "MEDIUM",
+      "topic": "motion"
+    },
+    {
+      "text": "The escape velocity from the surface of the Earth is approximately",
+      "options": [
+        "7.9 km/s",
+        "9.8 km/s",
+        "11.2 km/s",
+        "24 km/s"
+      ],
+      "correctIndex": 2,
+      "explanation": "A body must be projected at about 11.2 kilometres per second to escape the Earth's gravitational pull.",
+      "difficulty": "HARD",
+      "topic": "motion"
+    },
+    {
+      "text": "The orbital period of a geostationary satellite is",
+      "options": [
+        "1 hour",
+        "12 hours",
+        "24 hours",
+        "365 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "A geostationary satellite completes one orbit in 24 hours so that it keeps pace with the Earth's rotation and appears fixed in the sky.",
+      "difficulty": "MEDIUM",
+      "topic": "motion"
+    },
+    {
+      "text": "According to Newton's law of gravitation, the force between two bodies is inversely proportional to",
+      "options": [
+        "the distance between them",
+        "the square of the distance between them",
+        "the cube of the distance between them",
+        "the sum of their masses"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gravitational attraction follows an inverse square law, falling to one quarter when the separation is doubled.",
+      "difficulty": "MEDIUM",
+      "topic": "motion"
+    },
+    {
+      "text": "The work done by a force is zero when the angle between the force and the displacement is",
+      "options": [
+        "0 degrees",
+        "45 degrees",
+        "90 degrees",
+        "180 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "Work equals force times displacement times the cosine of the angle, and cosine of 90 degrees is zero.",
+      "difficulty": "MEDIUM",
+      "topic": "work-energy"
+    },
+    {
+      "text": "One joule of work is done when a force of one newton moves a body through",
+      "options": [
+        "one centimetre",
+        "one metre",
+        "one kilometre",
+        "one second"
+      ],
+      "correctIndex": 1,
+      "explanation": "The joule is defined as one newton-metre, the work done by a force of one newton acting over a distance of one metre.",
+      "difficulty": "MEDIUM",
+      "topic": "work-energy"
+    },
+    {
+      "text": "The kinetic energy of a body of mass m moving with speed v is given by",
+      "options": [
+        "mv",
+        "mgh",
+        "half of mv²",
+        "mv²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kinetic energy equals one half of the mass multiplied by the square of the speed.",
+      "difficulty": "MEDIUM",
+      "topic": "work-energy"
+    },
+    {
+      "text": "If the speed of a moving car is doubled, its kinetic energy becomes",
+      "options": [
+        "half",
+        "double",
+        "four times",
+        "eight times"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kinetic energy is proportional to the square of the speed, so doubling the speed multiplies the energy by four.",
+      "difficulty": "MEDIUM",
+      "topic": "work-energy"
+    },
+    {
+      "text": "Water stored in a dam at a height possesses mainly",
+      "options": [
+        "kinetic energy",
+        "gravitational potential energy",
+        "chemical energy",
+        "heat energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Because of its raised position the water holds gravitational potential energy, which converts to kinetic energy as it falls.",
+      "difficulty": "EASY",
+      "topic": "work-energy"
+    },
+    {
+      "text": "The law of conservation of energy states that energy",
+      "options": [
+        "is always increasing in the universe",
+        "can be created but not destroyed",
+        "can neither be created nor destroyed but only changed in form",
+        "is destroyed whenever friction acts"
+      ],
+      "correctIndex": 2,
+      "explanation": "Energy can only be transformed from one form to another; the total energy of an isolated system stays constant.",
+      "difficulty": "MEDIUM",
+      "topic": "work-energy"
+    },
+    {
+      "text": "An electric generator converts",
+      "options": [
+        "electrical energy into mechanical energy",
+        "mechanical energy into electrical energy",
+        "chemical energy into electrical energy",
+        "heat energy into light energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "A generator rotates a coil in a magnetic field, so mechanical work is turned into electrical energy by induction.",
+      "difficulty": "EASY",
+      "topic": "work-energy"
+    },
+    {
+      "text": "An electric motor converts electrical energy mainly into",
+      "options": [
+        "chemical energy",
+        "sound energy",
+        "mechanical energy",
+        "nuclear energy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Current in a coil placed in a magnetic field experiences a turning force, producing mechanical rotation.",
+      "difficulty": "MEDIUM",
+      "topic": "work-energy"
+    },
+    {
+      "text": "The mechanical advantage of a machine is the ratio of",
+      "options": [
+        "effort to load",
+        "load to effort",
+        "work output to work input",
+        "effort distance to load distance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mechanical advantage is the load overcome divided by the effort applied; the ratio of outputs to inputs of work is the efficiency.",
+      "difficulty": "HARD",
+      "topic": "simple-machines"
+    },
+    {
+      "text": "A wheelbarrow is an example of a lever of the",
+      "options": [
+        "first class",
+        "second class",
+        "third class",
+        "fourth class"
+      ],
+      "correctIndex": 1,
+      "explanation": "In a wheelbarrow the load lies between the fulcrum at the wheel and the effort at the handles, which defines a second-class lever.",
+      "difficulty": "HARD",
+      "topic": "simple-machines"
+    },
+    {
+      "text": "The chief advantage of a single fixed pulley is that it",
+      "options": [
+        "changes the direction of the effort",
+        "doubles the applied effort",
+        "halves the load to be lifted",
+        "increases the work done"
+      ],
+      "correctIndex": 0,
+      "explanation": "A single fixed pulley has a mechanical advantage of one, so it only lets the effort be applied downward instead of upward.",
+      "difficulty": "MEDIUM",
+      "topic": "simple-machines"
+    },
+    {
+      "text": "A screw may be regarded as a modified form of",
+      "options": [
+        "a pulley",
+        "a wheel and axle",
+        "an inclined plane",
+        "a lever"
+      ],
+      "correctIndex": 2,
+      "explanation": "The thread of a screw is an inclined plane wrapped around a cylinder.",
+      "difficulty": "HARD",
+      "topic": "simple-machines"
+    },
+    {
+      "text": "The efficiency of an actual machine is always less than 100 per cent because",
+      "options": [
+        "the load is always greater than the effort",
+        "some energy is wasted against friction",
+        "energy is destroyed inside the machine",
+        "the mechanical advantage is always less than one"
+      ],
+      "correctIndex": 1,
+      "explanation": "Part of the work input is converted into heat by friction, so the useful work output is smaller than the input.",
+      "difficulty": "MEDIUM",
+      "topic": "simple-machines"
+    },
+    {
+      "text": "Absolute zero of temperature corresponds to",
+      "options": [
+        "0 degrees Celsius",
+        "-100 degrees Celsius",
+        "-273 degrees Celsius",
+        "-373 degrees Celsius"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zero kelvin, the lowest possible temperature, is about -273 degrees Celsius.",
+      "difficulty": "EASY",
+      "topic": "heat"
+    },
+    {
+      "text": "A temperature of 27 degrees Celsius is equal to",
+      "options": [
+        "246 K",
+        "300 K",
+        "310 K",
+        "327 K"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kelvin temperature is obtained by adding 273 to the Celsius reading, so 27 + 273 = 300 K.",
+      "difficulty": "MEDIUM",
+      "topic": "heat"
+    },
+    {
+      "text": "The Celsius and Fahrenheit scales show the same numerical reading at",
+      "options": [
+        "-40 degrees",
+        "0 degrees",
+        "32 degrees",
+        "100 degrees"
+      ],
+      "correctIndex": 0,
+      "explanation": "Solving C = (9C/5) + 32 gives C = -40, the single temperature at which both scales agree.",
+      "difficulty": "HARD",
+      "topic": "heat"
+    },
+    {
+      "text": "Heat travels through a solid metal rod mainly by",
+      "options": [
+        "convection",
+        "conduction",
+        "radiation",
+        "evaporation"
+      ],
+      "correctIndex": 1,
+      "explanation": "In solids energy passes from particle to particle without bulk movement of matter, which is conduction.",
+      "difficulty": "EASY",
+      "topic": "heat"
+    },
+    {
+      "text": "Heat reaches the Earth from the Sun by the process of",
+      "options": [
+        "conduction",
+        "convection",
+        "radiation",
+        "diffusion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Radiation is the only mode of heat transfer that needs no material medium, so it can cross the vacuum of space.",
+      "difficulty": "EASY",
+      "topic": "heat"
+    },
+    {
+      "text": "Which metal is the best conductor of heat?",
+      "options": [
+        "Silver",
+        "Iron",
+        "Lead",
+        "Zinc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Silver has the highest thermal conductivity of all metals, slightly above copper.",
+      "difficulty": "MEDIUM",
+      "topic": "heat"
+    },
+    {
+      "text": "The specific heat capacity of water is about",
+      "options": [
+        "420 J per kg per kelvin",
+        "4200 J per kg per kelvin",
+        "336 J per kg per kelvin",
+        "2260 J per kg per kelvin"
+      ],
+      "correctIndex": 1,
+      "explanation": "About 4200 joules are needed to raise the temperature of one kilogram of water by one kelvin, an unusually high value.",
+      "difficulty": "HARD",
+      "topic": "heat"
+    },
+    {
+      "text": "Water has its maximum density at a temperature of",
+      "options": [
+        "0 degrees Celsius",
+        "4 degrees Celsius",
+        "25 degrees Celsius",
+        "100 degrees Celsius"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water contracts on cooling only down to 4 degrees Celsius and then expands, so it is densest at that temperature.",
+      "difficulty": "MEDIUM",
+      "topic": "heat"
+    },
+    {
+      "text": "Food cooks faster in a pressure cooker because the increased pressure",
+      "options": [
+        "lowers the boiling point of water",
+        "increases the specific heat of water",
+        "raises the boiling point of water",
+        "reduces the latent heat of steam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Higher pressure inside the cooker allows water to boil above 100 degrees Celsius, so cooking proceeds at a higher temperature.",
+      "difficulty": "MEDIUM",
+      "topic": "heat"
+    },
+    {
+      "text": "Evaporation of a liquid always produces",
+      "options": [
+        "a rise in temperature of the remaining liquid",
+        "cooling of the remaining liquid",
+        "no change in temperature",
+        "an increase in the mass of the liquid"
+      ],
+      "correctIndex": 1,
+      "explanation": "The fastest molecules escape first and carry away energy, lowering the average energy and hence the temperature of what remains.",
+      "difficulty": "MEDIUM",
+      "topic": "heat"
+    },
+    {
+      "text": "A bimetallic strip bends on heating because the two metals",
+      "options": [
+        "have different melting points",
+        "expand by different amounts",
+        "have different densities",
+        "conduct electricity differently"
+      ],
+      "correctIndex": 1,
+      "explanation": "The metal with the larger coefficient of linear expansion lengthens more, forcing the strip to curve.",
+      "difficulty": "HARD",
+      "topic": "heat"
+    },
+    {
+      "text": "Sound waves travelling through air are",
+      "options": [
+        "transverse waves",
+        "longitudinal waves",
+        "electromagnetic waves",
+        "stationary waves"
+      ],
+      "correctIndex": 1,
+      "explanation": "Air particles vibrate back and forth along the direction of travel, producing compressions and rarefactions.",
+      "difficulty": "MEDIUM",
+      "topic": "sound"
+    },
+    {
+      "text": "Sound cannot travel through",
+      "options": [
+        "water",
+        "steel",
+        "vacuum",
+        "air"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sound is a mechanical wave and needs a material medium, so it cannot pass through a vacuum.",
+      "difficulty": "EASY",
+      "topic": "sound"
+    },
+    {
+      "text": "The speed of sound in air at 0 degrees Celsius is about",
+      "options": [
+        "150 m/s",
+        "332 m/s",
+        "1500 m/s",
+        "5000 m/s"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sound travels through air at roughly 332 metres per second at freezing point and slightly faster as the air warms.",
+      "difficulty": "HARD",
+      "topic": "sound"
+    },
+    {
+      "text": "Sound travels fastest in",
+      "options": [
+        "gases",
+        "liquids",
+        "solids",
+        "vacuum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Solids are the most elastic and closely packed media, so sound waves pass through them most rapidly.",
+      "difficulty": "EASY",
+      "topic": "sound"
+    },
+    {
+      "text": "The normal range of audible frequencies for a healthy human ear is",
+      "options": [
+        "2 Hz to 200 Hz",
+        "20,000 Hz to 200,000 Hz",
+        "200 Hz to 200,000 Hz",
+        "20 Hz to 20,000 Hz"
+      ],
+      "correctIndex": 3,
+      "explanation": "Frequencies below 20 hertz are infrasonic and those above 20,000 hertz are ultrasonic, both inaudible to humans.",
+      "difficulty": "MEDIUM",
+      "topic": "sound"
+    },
+    {
+      "text": "An echo is produced by the",
+      "options": [
+        "refraction of sound",
+        "absorption of sound",
+        "diffraction of sound",
+        "reflection of sound"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sound bouncing back from a distant hard surface reaches the listener after a delay and is heard as a separate sound.",
+      "difficulty": "EASY",
+      "topic": "sound"
+    },
+    {
+      "text": "The pitch of a musical note depends on its",
+      "options": [
+        "amplitude",
+        "frequency",
+        "loudness",
+        "speed"
+      ],
+      "correctIndex": 1,
+      "explanation": "A higher frequency of vibration is perceived as a higher pitch.",
+      "difficulty": "EASY",
+      "topic": "sound"
+    },
+    {
+      "text": "The intensity level of sound is commonly measured in",
+      "options": [
+        "hertz",
+        "newtons",
+        "watts",
+        "decibels"
+      ],
+      "correctIndex": 3,
+      "explanation": "The decibel is a logarithmic unit used to compare sound intensity levels.",
+      "difficulty": "MEDIUM",
+      "topic": "sound"
+    },
+    {
+      "text": "SONAR, used to find the depth of the sea, works by sending out",
+      "options": [
+        "radio waves",
+        "X-rays",
+        "ultrasonic waves",
+        "infrared rays"
+      ],
+      "correctIndex": 2,
+      "explanation": "SONAR emits ultrasonic pulses and times their echo from the sea bed to calculate depth.",
+      "difficulty": "MEDIUM",
+      "topic": "sound"
+    },
+    {
+      "text": "The apparent rise in the pitch of a train whistle as the train approaches a listener is called the",
+      "options": [
+        "Doppler effect",
+        "Raman effect",
+        "Tyndall effect",
+        "photoelectric effect"
+      ],
+      "correctIndex": 0,
+      "explanation": "Relative motion between source and observer changes the observed frequency, an effect named after Christian Doppler.",
+      "difficulty": "MEDIUM",
+      "topic": "sound"
+    },
+    {
+      "text": "The speed of light in vacuum is about",
+      "options": [
+        "3 × 10^5 m/s",
+        "3 × 10^6 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^10 m/s"
+      ],
+      "correctIndex": 2,
+      "explanation": "Light travels at approximately 300,000 kilometres per second, that is 3 × 10^8 metres per second.",
+      "difficulty": "EASY",
+      "topic": "light-optics"
+    },
+    {
+      "text": "Light from the Sun takes about how long to reach the Earth?",
+      "options": [
+        "8 seconds",
+        "8 days",
+        "8 hours",
+        "8 minutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Sun is about 150 million kilometres away, so its light takes roughly eight minutes and twenty seconds to arrive.",
+      "difficulty": "EASY",
+      "topic": "light-optics"
+    },
+    {
+      "text": "The image formed by a plane mirror is always",
+      "options": [
+        "real and inverted",
+        "real and magnified",
+        "virtual and of the same size as the object",
+        "virtual and diminished"
+      ],
+      "correctIndex": 2,
+      "explanation": "A plane mirror forms an upright virtual image as far behind the mirror as the object is in front, and of equal size.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "The rear-view mirror of a motor vehicle is",
+      "options": [
+        "a plane mirror",
+        "a concave mirror",
+        "a convex mirror",
+        "a cylindrical lens"
+      ],
+      "correctIndex": 2,
+      "explanation": "A convex mirror always gives an erect diminished image and covers a wider field of view behind the vehicle.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "Refraction of light occurs because light",
+      "options": [
+        "changes its speed in going from one medium to another",
+        "changes its colour in a new medium",
+        "loses energy at the surface",
+        "is absorbed by the second medium"
+      ],
+      "correctIndex": 0,
+      "explanation": "A change of speed at the boundary makes the ray bend unless it strikes the surface normally.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "The refractive index of water is about",
+      "options": [
+        "1.00",
+        "2.42",
+        "1.50",
+        "1.33"
+      ],
+      "correctIndex": 3,
+      "explanation": "Light travels about 1.33 times more slowly in water than in vacuum; 1.5 is typical of glass and 2.42 of diamond.",
+      "difficulty": "HARD",
+      "topic": "light-optics"
+    },
+    {
+      "text": "Optical fibres transmit light signals over long distances by means of",
+      "options": [
+        "diffraction",
+        "polarisation",
+        "dispersion",
+        "total internal reflection"
+      ],
+      "correctIndex": 3,
+      "explanation": "Light striking the core-cladding boundary beyond the critical angle is reflected entirely back into the core.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "The splitting of white light into its component colours by a glass prism is called",
+      "options": [
+        "diffraction",
+        "interference",
+        "dispersion",
+        "scattering"
+      ],
+      "correctIndex": 2,
+      "explanation": "Different colours have different refractive indices in glass, so they emerge at different angles as a spectrum.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "Which colour of visible light has the longest wavelength?",
+      "options": [
+        "Violet",
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "correctIndex": 3,
+      "explanation": "Red light lies at the long wavelength end of the visible spectrum and violet at the short wavelength end.",
+      "difficulty": "EASY",
+      "topic": "light-optics"
+    },
+    {
+      "text": "The blue colour of the clear daytime sky is caused by",
+      "options": [
+        "reflection of light by clouds",
+        "absorption of red light by ozone",
+        "refraction of light in the atmosphere",
+        "scattering of sunlight by air molecules"
+      ],
+      "correctIndex": 3,
+      "explanation": "Short wavelengths are scattered far more strongly by tiny air molecules, so scattered blue light reaches the eye from all directions.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "The image formed on the retina of the human eye is",
+      "options": [
+        "real and inverted",
+        "real and erect",
+        "virtual and inverted",
+        "virtual and erect"
+      ],
+      "correctIndex": 0,
+      "explanation": "The eye lens converges light to form a real inverted image on the retina, which the brain interprets as upright.",
+      "difficulty": "HARD",
+      "topic": "light-optics"
+    },
+    {
+      "text": "Short-sightedness, or myopia, is corrected by using",
+      "options": [
+        "a convex lens",
+        "a plane glass",
+        "a cylindrical lens",
+        "a concave lens"
+      ],
+      "correctIndex": 3,
+      "explanation": "A diverging concave lens moves the image back onto the retina for a myopic eye that focuses light in front of it.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "The power of a lens is measured in",
+      "options": [
+        "dioptres",
+        "candela",
+        "lumens",
+        "radians"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lens power is the reciprocal of the focal length in metres and its unit is the dioptre.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "The three primary colours of light are",
+      "options": [
+        "red, yellow and blue",
+        "red, white and blue",
+        "cyan, magenta and yellow",
+        "red, green and blue"
+      ],
+      "correctIndex": 3,
+      "explanation": "Red, green and blue light combine in different proportions to produce all other colours, including white.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "Which of the following electromagnetic radiations has the shortest wavelength?",
+      "options": [
+        "Radio waves",
+        "Infrared rays",
+        "Ultraviolet rays",
+        "Gamma rays"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gamma rays lie at the extreme high-frequency end of the electromagnetic spectrum and so have the shortest wavelength.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "X-rays were discovered by",
+      "options": [
+        "Wilhelm Roentgen",
+        "Henri Becquerel",
+        "Marie Curie",
+        "J. J. Thomson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Roentgen discovered X-rays in 1895 and received the first Nobel Prize in Physics for the work.",
+      "difficulty": "MEDIUM",
+      "topic": "light-optics"
+    },
+    {
+      "text": "Ohm's law is expressed by the relation",
+      "options": [
+        "V = IR",
+        "V = I/R",
+        "I = VR",
+        "R = IV"
+      ],
+      "correctIndex": 0,
+      "explanation": "For a conductor at constant temperature the potential difference equals the current multiplied by the resistance.",
+      "difficulty": "MEDIUM",
+      "topic": "electricity"
+    },
+    {
+      "text": "The resistance of a metallic wire of uniform material",
+      "options": [
+        "decreases as its length increases",
+        "depends only on the current through it",
+        "does not depend on its length",
+        "increases as its length increases"
+      ],
+      "correctIndex": 3,
+      "explanation": "Resistance is directly proportional to length and inversely proportional to cross-sectional area.",
+      "difficulty": "MEDIUM",
+      "topic": "electricity"
+    },
+    {
+      "text": "Domestic electrical appliances are connected to the mains supply",
+      "options": [
+        "in series",
+        "through a common resistor",
+        "alternately in series and parallel",
+        "in parallel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Parallel connection gives every appliance the same full voltage and lets each be switched on or off independently.",
+      "difficulty": "MEDIUM",
+      "topic": "electricity"
+    },
+    {
+      "text": "The wire used in an electric fuse should have",
+      "options": [
+        "a high melting point and low resistance",
+        "a low melting point and high resistance",
+        "a high melting point and high resistance",
+        "a low melting point and zero resistance"
+      ],
+      "correctIndex": 1,
+      "explanation": "A fuse wire must heat up quickly and melt before the excessive current can damage the circuit.",
+      "difficulty": "HARD",
+      "topic": "electricity"
+    },
+    {
+      "text": "Which element is widely used as a semiconductor in electronic devices?",
+      "options": [
+        "Silver",
+        "Sulphur",
+        "Sodium",
+        "Silicon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Silicon has a conductivity between that of conductors and insulators and forms the basis of diodes, transistors and chips.",
+      "difficulty": "MEDIUM",
+      "topic": "electricity"
+    },
+    {
+      "text": "The magnitude of the charge on an electron is about",
+      "options": [
+        "1.6 × 10^-19 coulomb",
+        "9.1 × 10^-31 coulomb",
+        "6.6 × 10^-34 coulomb",
+        "1.6 × 10^-27 coulomb"
+      ],
+      "correctIndex": 0,
+      "explanation": "The elementary charge is 1.6 × 10^-19 coulomb; 9.1 × 10^-31 kilogram is the electron's mass.",
+      "difficulty": "HARD",
+      "topic": "electricity"
+    },
+    {
+      "text": "The direction of conventional current in a circuit is",
+      "options": [
+        "the same as the direction of electron flow",
+        "undefined in a direct current circuit",
+        "always from negative to positive outside the cell",
+        "opposite to the direction of electron flow"
+      ],
+      "correctIndex": 3,
+      "explanation": "Conventional current is taken to flow from the positive to the negative terminal, whereas electrons drift the other way.",
+      "difficulty": "HARD",
+      "topic": "electricity"
+    },
+    {
+      "text": "The filament of an ordinary electric bulb is made of",
+      "options": [
+        "copper",
+        "nichrome",
+        "tungsten",
+        "platinum"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tungsten has a very high melting point and high resistivity, so it glows brightly without melting.",
+      "difficulty": "EASY",
+      "topic": "electricity"
+    },
+    {
+      "text": "A transformer can work only with",
+      "options": [
+        "direct current",
+        "pulsating direct current only",
+        "both direct and alternating current equally",
+        "alternating current"
+      ],
+      "correctIndex": 3,
+      "explanation": "A transformer depends on a continuously changing magnetic flux, which only alternating current can provide.",
+      "difficulty": "MEDIUM",
+      "topic": "electricity"
+    },
+    {
+      "text": "The working of an electric generator is based on the principle of",
+      "options": [
+        "electromagnetic induction",
+        "the heating effect of current",
+        "the chemical effect of current",
+        "electrostatic attraction"
+      ],
+      "correctIndex": 0,
+      "explanation": "Faraday showed that an electromotive force is induced whenever the magnetic flux linked with a coil changes.",
+      "difficulty": "MEDIUM",
+      "topic": "electricity"
+    },
+    {
+      "text": "When two like poles of magnets are brought close together, they",
+      "options": [
+        "attract each other",
+        "lose their magnetism",
+        "exert no force",
+        "repel each other"
+      ],
+      "correctIndex": 3,
+      "explanation": "Like magnetic poles repel while unlike poles attract.",
+      "difficulty": "EASY",
+      "topic": "magnetism"
+    },
+    {
+      "text": "A bar magnet suspended freely so that it can turn will finally come to rest pointing",
+      "options": [
+        "east and west",
+        "in a random direction",
+        "vertically downward",
+        "north and south"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Earth's magnetic field turns the magnet until its poles line up roughly along the north-south direction.",
+      "difficulty": "EASY",
+      "topic": "magnetism"
+    },
+    {
+      "text": "The core of an electromagnet is usually made of soft iron because soft iron",
+      "options": [
+        "retains its magnetism permanently",
+        "conducts electricity better than steel",
+        "cannot be magnetised at all",
+        "loses its magnetism as soon as the current stops"
+      ],
+      "correctIndex": 3,
+      "explanation": "Soft iron is easily magnetised and demagnetised, which is exactly what a temporary electromagnet requires.",
+      "difficulty": "MEDIUM",
+      "topic": "magnetism"
+    },
+    {
+      "text": "The neutron was discovered by",
+      "options": [
+        "James Chadwick",
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "Eugen Goldstein"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chadwick identified the uncharged nuclear particle in 1932 and was awarded the Nobel Prize for it.",
+      "difficulty": "MEDIUM",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "The existence of the atomic nucleus was established by the alpha particle scattering experiment performed under",
+      "options": [
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "J. J. Thomson",
+        "James Chadwick"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rutherford's gold foil experiment showed that the atom's positive charge and nearly all its mass are concentrated in a tiny nucleus.",
+      "difficulty": "MEDIUM",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "The atomic number of an element is equal to the number of",
+      "options": [
+        "neutrons in its nucleus",
+        "electron shells in the atom",
+        "protons and neutrons together",
+        "protons in its nucleus"
+      ],
+      "correctIndex": 3,
+      "explanation": "The atomic number is the count of protons, which fixes the identity of the element.",
+      "difficulty": "EASY",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "The mass number of an atom is the total number of",
+      "options": [
+        "protons and electrons",
+        "neutrons only",
+        "neutrons and electrons",
+        "protons and neutrons"
+      ],
+      "correctIndex": 3,
+      "explanation": "Protons and neutrons are the nucleons, and together they account for almost the whole mass of the atom.",
+      "difficulty": "EASY",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "Isotopes of the same element differ from one another in the number of",
+      "options": [
+        "protons",
+        "electrons",
+        "neutrons",
+        "electron shells"
+      ],
+      "correctIndex": 2,
+      "explanation": "Isotopes share the same atomic number but have different numbers of neutrons and hence different mass numbers.",
+      "difficulty": "MEDIUM",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "An alpha particle is identical with the nucleus of an atom of",
+      "options": [
+        "hydrogen",
+        "carbon",
+        "lithium",
+        "helium"
+      ],
+      "correctIndex": 3,
+      "explanation": "An alpha particle consists of two protons and two neutrons, which is a helium nucleus.",
+      "difficulty": "HARD",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "Of the three main types of nuclear radiation, the most penetrating is",
+      "options": [
+        "alpha radiation",
+        "beta radiation",
+        "gamma radiation",
+        "all are equally penetrating"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gamma rays are uncharged electromagnetic waves and need thick lead or concrete to be stopped, while alpha is stopped by paper.",
+      "difficulty": "MEDIUM",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "Radioactivity was first discovered by",
+      "options": [
+        "Henri Becquerel",
+        "Marie Curie",
+        "Ernest Rutherford",
+        "Wilhelm Roentgen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Becquerel found in 1896 that uranium salts emitted penetrating radiation without any external stimulus.",
+      "difficulty": "HARD",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "The energy radiated by the Sun is produced by",
+      "options": [
+        "nuclear fusion of hydrogen nuclei",
+        "nuclear fission of uranium",
+        "burning of hydrogen in oxygen",
+        "chemical oxidation of carbon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hydrogen nuclei fuse into helium in the Sun's core, releasing enormous energy from the small loss of mass.",
+      "difficulty": "EASY",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "The half-life of a radioactive element is the time in which",
+      "options": [
+        "its radiation becomes harmless",
+        "all of its atoms decay",
+        "its mass doubles",
+        "half of its atoms decay"
+      ],
+      "correctIndex": 3,
+      "explanation": "Half-life is the time taken for half the radioactive nuclei present in a sample to disintegrate.",
+      "difficulty": "MEDIUM",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "Archimedes' principle states that a body immersed in a fluid experiences an upthrust equal to the",
+      "options": [
+        "weight of the fluid displaced",
+        "weight of the body",
+        "volume of the fluid displaced",
+        "density of the fluid"
+      ],
+      "correctIndex": 0,
+      "explanation": "The loss in apparent weight of the body equals the weight of the fluid it pushes aside.",
+      "difficulty": "MEDIUM",
+      "topic": "fluids"
+    },
+    {
+      "text": "Hydraulic brakes in vehicles work on the principle stated by",
+      "options": [
+        "Pascal",
+        "Archimedes",
+        "Bernoulli",
+        "Boyle"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pascal's law says pressure applied to an enclosed liquid is transmitted equally in all directions, so a small force at the pedal produces a large force at the wheels.",
+      "difficulty": "MEDIUM",
+      "topic": "fluids"
+    },
+    {
+      "text": "The density of pure water is about",
+      "options": [
+        "1 kg per cubic metre",
+        "100 kg per cubic metre",
+        "10,000 kg per cubic metre",
+        "1000 kg per cubic metre"
+      ],
+      "correctIndex": 3,
+      "explanation": "One cubic metre of water has a mass of about 1000 kilograms, that is one gram per cubic centimetre.",
+      "difficulty": "EASY",
+      "topic": "fluids"
+    },
+    {
+      "text": "Standard atmospheric pressure at sea level supports a mercury column of",
+      "options": [
+        "760 millimetres",
+        "76 millimetres",
+        "1000 millimetres",
+        "13.6 millimetres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Normal atmospheric pressure balances a column of mercury 760 millimetres, or 76 centimetres, high.",
+      "difficulty": "HARD",
+      "topic": "fluids"
+    },
+    {
+      "text": "The lift on the wing of an aeroplane in flight is explained by",
+      "options": [
+        "Bernoulli's principle",
+        "Archimedes' principle",
+        "Pascal's law",
+        "Hooke's law"
+      ],
+      "correctIndex": 0,
+      "explanation": "Air moves faster over the curved upper surface, lowering the pressure there, and the pressure difference produces upward lift.",
+      "difficulty": "MEDIUM",
+      "topic": "fluids"
+    },
+    {
+      "text": "The mass of an electron is roughly what fraction of the mass of a proton?",
+      "options": [
+        "one half",
+        "one eighteenth",
+        "one 1836th",
+        "equal to it"
+      ],
+      "correctIndex": 2,
+      "explanation": "A proton is about 1836 times heavier than an electron.",
+      "difficulty": "HARD",
+      "topic": "atomic-structure"
+    },
+    {
+      "text": "Friction between two sliding surfaces can be reduced by",
+      "options": [
+        "increasing the load pressing them together",
+        "roughening both surfaces",
+        "using a lubricant between them",
+        "increasing the area of contact only"
+      ],
+      "correctIndex": 2,
+      "explanation": "A lubricant forms a thin layer that keeps the surfaces apart and lowers the force of sliding friction.",
+      "difficulty": "EASY",
+      "topic": "force"
+    },
+    {
+      "text": "The pressure exerted by a solid block on the ground can be reduced by",
+      "options": [
+        "increasing the area of contact",
+        "decreasing the area of contact",
+        "increasing the weight of the block",
+        "tilting the block on one edge"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pressure is force divided by area, so spreading the same weight over a larger area lowers the pressure.",
+      "difficulty": "MEDIUM",
+      "topic": "force"
+    },
+    {
+      "text": "According to Newton's third law of motion, action and reaction are equal and opposite but",
+      "options": [
+        "act on the same body",
+        "cancel each other out on one body",
+        "act on two different bodies",
+        "act only when the bodies are in contact"
+      ],
+      "correctIndex": 2,
+      "explanation": "Because the two forces act on different bodies they never cancel, which is why motion can result.",
+      "difficulty": "HARD",
+      "topic": "force"
+    },
+    {
+      "text": "The force of gravity acting on a body is called its",
+      "options": [
+        "mass",
+        "density",
+        "weight",
+        "inertia"
+      ],
+      "correctIndex": 2,
+      "explanation": "Weight is a force measured in newtons and equals mass multiplied by the acceleration due to gravity.",
+      "difficulty": "EASY",
+      "topic": "force"
+    },
+    {
+      "text": "A steel ship floats on water although steel is denser than water because",
+      "options": [
+        "the ship is hollow and displaces a large weight of water",
+        "steel becomes lighter in sea water",
+        "sea water has a lower density than fresh water",
+        "the engines push the ship upward"
+      ],
+      "correctIndex": 0,
+      "explanation": "The hollow hull makes the average density of the ship less than that of water, so the upthrust can balance its weight.",
+      "difficulty": "MEDIUM",
+      "topic": "fluids"
+    }
+  ]
+}

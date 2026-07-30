@@ -1,0 +1,1566 @@
+{
+  "subject": "general-science-ability",
+  "unit": "gsa-arithmetic",
+  "questions": [
+    {
+      "text": "25% of 480 is:",
+      "options": [
+        "120",
+        "124",
+        "128",
+        "130"
+      ],
+      "correctIndex": 0,
+      "explanation": "25% of 480 = 480 x 25/100 = 480/4 = 120.",
+      "difficulty": "EASY",
+      "topic": "percentages"
+    },
+    {
+      "text": "45 is what percent of 250?",
+      "options": [
+        "15%",
+        "18%",
+        "20%",
+        "22%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Required percentage = (45/250) x 100 = 4500/250 = 18%.",
+      "difficulty": "EASY",
+      "topic": "percentages"
+    },
+    {
+      "text": "A number increased by 20% becomes 96. The original number is:",
+      "options": [
+        "68",
+        "72",
+        "80",
+        "84"
+      ],
+      "correctIndex": 2,
+      "explanation": "If x is the number, 1.20x = 96, so x = 96/1.2 = 80.",
+      "difficulty": "MEDIUM",
+      "topic": "percentages"
+    },
+    {
+      "text": "If the price of a commodity rises by 25%, by what percent must consumption be reduced to keep the expenditure unchanged?",
+      "options": [
+        "33.33%",
+        "25%",
+        "22%",
+        "20%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reduction = increase/(100 + increase) x 100 = 25/125 x 100 = 20%.",
+      "difficulty": "MEDIUM",
+      "topic": "percentages"
+    },
+    {
+      "text": "15% of 40% of 500 is:",
+      "options": [
+        "30",
+        "35",
+        "45",
+        "75"
+      ],
+      "correctIndex": 0,
+      "explanation": "40% of 500 = 200, and 15% of 200 = 30.",
+      "difficulty": "MEDIUM",
+      "topic": "percentages"
+    },
+    {
+      "text": "A candidate needs 40% marks to pass, scores 180 marks and fails by 20 marks. The total marks are:",
+      "options": [
+        "400",
+        "500",
+        "550",
+        "600"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pass marks = 180 + 20 = 200, which is 40% of the total, so total = 200 x 100/40 = 500.",
+      "difficulty": "MEDIUM",
+      "topic": "percentages"
+    },
+    {
+      "text": "The population of a town is 8,000 and grows at 10% per annum compounded annually. After two years it will be:",
+      "options": [
+        "9,600",
+        "9,640",
+        "9,680",
+        "9,800"
+      ],
+      "correctIndex": 2,
+      "explanation": "After one year 8,000 x 1.1 = 8,800; after two years 8,800 x 1.1 = 9,680.",
+      "difficulty": "MEDIUM",
+      "topic": "percentages"
+    },
+    {
+      "text": "Two successive discounts of 20% and 10% are equivalent to a single discount of:",
+      "options": [
+        "36%",
+        "32%",
+        "30%",
+        "28%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Net price factor = 0.80 x 0.90 = 0.72, so the single equivalent discount is 100 - 72 = 28%.",
+      "difficulty": "MEDIUM",
+      "topic": "percentages"
+    },
+    {
+      "text": "If A's income is 25% more than B's, then B's income is less than A's by:",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "33.33%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Take B = 100, then A = 125; B is less than A by 25, i.e. 25/125 x 100 = 20%.",
+      "difficulty": "HARD",
+      "topic": "percentages"
+    },
+    {
+      "text": "A salary is first reduced by 10% and then increased by 10%. The net effect on the salary is:",
+      "options": [
+        "no change",
+        "a 1% decrease",
+        "a 1% increase",
+        "a 2% decrease"
+      ],
+      "correctIndex": 1,
+      "explanation": "Net factor = 0.90 x 1.10 = 0.99, so the salary ends 1% below its original value.",
+      "difficulty": "MEDIUM",
+      "topic": "percentages"
+    },
+    {
+      "text": "0.5% of 1,200 is:",
+      "options": [
+        "0.06",
+        "0.6",
+        "6",
+        "60"
+      ],
+      "correctIndex": 2,
+      "explanation": "0.5% of 1,200 = 1,200 x 0.5/100 = 6.",
+      "difficulty": "EASY",
+      "topic": "percentages"
+    },
+    {
+      "text": "If 30% of a number is 54, the number is:",
+      "options": [
+        "120",
+        "150",
+        "160",
+        "180"
+      ],
+      "correctIndex": 3,
+      "explanation": "The number = 54 x 100/30 = 180.",
+      "difficulty": "EASY",
+      "topic": "percentages"
+    },
+    {
+      "text": "The price of sugar rose from Rs 60 per kg to Rs 75 per kg. The percentage increase is:",
+      "options": [
+        "25%",
+        "20%",
+        "15%",
+        "12.5%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Increase = Rs 15 on Rs 60, so percentage increase = 15/60 x 100 = 25%.",
+      "difficulty": "EASY",
+      "topic": "percentages"
+    },
+    {
+      "text": "Two numbers are in the ratio 3 : 5 and their sum is 64. The larger number is:",
+      "options": [
+        "32",
+        "40",
+        "45",
+        "48"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total parts = 3 + 5 = 8, so one part = 64/8 = 8 and the larger number = 5 x 8 = 40.",
+      "difficulty": "EASY",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "Rs 1,200 is divided among three persons in the ratio 2 : 3 : 7. The largest share is:",
+      "options": [
+        "Rs 400",
+        "Rs 600",
+        "Rs 700",
+        "Rs 800"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total parts = 12, one part = 1,200/12 = Rs 100, so the largest share = 7 x 100 = Rs 700.",
+      "difficulty": "EASY",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "If a : b = 2 : 3 and b : c = 4 : 5, then a : c is:",
+      "options": [
+        "2 : 5",
+        "5 : 8",
+        "3 : 10",
+        "8 : 15"
+      ],
+      "correctIndex": 3,
+      "explanation": "Making b common: a : b = 8 : 12 and b : c = 12 : 15, hence a : c = 8 : 15.",
+      "difficulty": "MEDIUM",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "Two numbers are in the ratio 5 : 7. If 4 is added to each, the ratio becomes 3 : 4. The smaller number is:",
+      "options": [
+        "20",
+        "24",
+        "28",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "Let the numbers be 5x and 7x; (5x+4)/(7x+4) = 3/4 gives 20x + 16 = 21x + 12, so x = 4 and the smaller number = 20.",
+      "difficulty": "MEDIUM",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "The mean proportional between 9 and 16 is:",
+      "options": [
+        "10",
+        "12",
+        "12.5",
+        "24"
+      ],
+      "correctIndex": 1,
+      "explanation": "The mean proportional is the square root of the product: sqrt(9 x 16) = sqrt(144) = 12.",
+      "difficulty": "MEDIUM",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "The fourth proportional to 4, 6 and 14 is:",
+      "options": [
+        "16",
+        "18",
+        "21",
+        "24"
+      ],
+      "correctIndex": 2,
+      "explanation": "If 4 : 6 = 14 : x then 4x = 84, so x = 21.",
+      "difficulty": "MEDIUM",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "If x : y = 3 : 4, then (2x + 3y) : (3x - 2y) is:",
+      "options": [
+        "6 : 1",
+        "9 : 1",
+        "1 : 18",
+        "18 : 1"
+      ],
+      "correctIndex": 3,
+      "explanation": "Taking x = 3 and y = 4: 2x + 3y = 6 + 12 = 18 and 3x - 2y = 9 - 8 = 1, giving 18 : 1.",
+      "difficulty": "HARD",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "The ages of A and B are in the ratio 4 : 5 and their sum is 45 years. A's age is:",
+      "options": [
+        "20 years",
+        "21 years",
+        "24 years",
+        "25 years"
+      ],
+      "correctIndex": 0,
+      "explanation": "One part = 45/9 = 5 years, so A's age = 4 x 5 = 20 years.",
+      "difficulty": "EASY",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "The ratio 0.75 : 1.25 in its simplest form is:",
+      "options": [
+        "4 : 5",
+        "3 : 5",
+        "5 : 3",
+        "3 : 4"
+      ],
+      "correctIndex": 1,
+      "explanation": "Multiplying both terms by 100 gives 75 : 125, and dividing by 25 gives 3 : 5.",
+      "difficulty": "MEDIUM",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "If 3A = 4B = 6C, then A : B : C is:",
+      "options": [
+        "2 : 3 : 4",
+        "3 : 4 : 6",
+        "4 : 3 : 2",
+        "6 : 4 : 3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Set each equal to 12: A = 4, B = 3, C = 2, hence A : B : C = 4 : 3 : 2.",
+      "difficulty": "HARD",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "Rs 3,400 is divided among A, B and C such that A : B = 1 : 2 and B : C = 3 : 4. C's share is:",
+      "options": [
+        "Rs 1,000",
+        "Rs 1,200",
+        "Rs 1,400",
+        "Rs 1,600"
+      ],
+      "correctIndex": 3,
+      "explanation": "A : B : C = 3 : 6 : 8, total 17 parts; one part = 3,400/17 = Rs 200, so C gets 8 x 200 = Rs 1,600.",
+      "difficulty": "HARD",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "Two numbers are in the ratio 3 : 4 and their HCF is 6. Their LCM is:",
+      "options": [
+        "72",
+        "36",
+        "48",
+        "144"
+      ],
+      "correctIndex": 0,
+      "explanation": "The numbers are 3 x 6 = 18 and 4 x 6 = 24; LCM = product/HCF = 432/6 = 72.",
+      "difficulty": "MEDIUM",
+      "topic": "ratio-proportion"
+    },
+    {
+      "text": "An article bought for Rs 400 is sold for Rs 460. The profit percent is:",
+      "options": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Profit = Rs 60 on a cost of Rs 400, so profit percent = 60/400 x 100 = 15%.",
+      "difficulty": "EASY",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "An article bought for Rs 250 is sold for Rs 200. The loss percent is:",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Loss = Rs 50 on a cost of Rs 250, so loss percent = 50/250 x 100 = 20%.",
+      "difficulty": "EASY",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "An article sold for Rs 720 yields a profit of 20%. Its cost price is:",
+      "options": [
+        "Rs 540",
+        "Rs 576",
+        "Rs 640",
+        "Rs 600"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cost price = 720 x 100/120 = Rs 600.",
+      "difficulty": "MEDIUM",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "The marked price of an article is Rs 800 and a discount of 15% is allowed. The selling price is:",
+      "options": [
+        "Rs 680",
+        "Rs 700",
+        "Rs 720",
+        "Rs 740"
+      ],
+      "correctIndex": 0,
+      "explanation": "Discount = 15% of 800 = Rs 120, so selling price = 800 - 120 = Rs 680.",
+      "difficulty": "EASY",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "A trader sells an article for Rs 1,350 at a loss of 10%. To gain 10% he must sell it for:",
+      "options": [
+        "Rs 1,600",
+        "Rs 1,650",
+        "Rs 1,680",
+        "Rs 1,700"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cost price = 1,350 x 100/90 = Rs 1,500; a 10% gain means selling at 1,500 x 1.10 = Rs 1,650.",
+      "difficulty": "MEDIUM",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "If the cost price of 20 articles equals the selling price of 16 articles, the profit percent is:",
+      "options": [
+        "16%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "correctIndex": 2,
+      "explanation": "Profit on 16 articles equals the cost of 4 articles, so profit percent = 4/16 x 100 = 25%.",
+      "difficulty": "HARD",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "By selling an article for Rs 480 a man loses 20%. The cost price is:",
+      "options": [
+        "Rs 520",
+        "Rs 540",
+        "Rs 576",
+        "Rs 600"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cost price = 480 x 100/80 = Rs 600.",
+      "difficulty": "MEDIUM",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "Two articles are each sold for Rs 1,200, one at a profit of 20% and the other at a loss of 20%. The overall result is:",
+      "options": [
+        "a loss of 4%",
+        "a profit of 4%",
+        "no profit and no loss",
+        "a loss of 2%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cost prices are 1,200/1.2 = Rs 1,000 and 1,200/0.8 = Rs 1,500, total Rs 2,500 against a total sale of Rs 2,400, a loss of 100/2,500 = 4%.",
+      "difficulty": "HARD",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "An article is marked 25% above its cost price and then sold at a discount of 10%. The profit percent is:",
+      "options": [
+        "10%",
+        "12.5%",
+        "15%",
+        "15.5%"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taking cost as 100, marked price = 125 and selling price = 125 x 0.9 = 112.5, so the profit is 12.5%.",
+      "difficulty": "HARD",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "A shopkeeper buys an article for Rs 480 and sells it at a profit of 25%. The selling price is:",
+      "options": [
+        "Rs 560",
+        "Rs 580",
+        "Rs 600",
+        "Rs 620"
+      ],
+      "correctIndex": 2,
+      "explanation": "Selling price = 480 x 125/100 = Rs 600.",
+      "difficulty": "EASY",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "Twelve pens are bought for Rs 180 and sold at Rs 20 each. The profit percent is:",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "33.33%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total selling price = 12 x 20 = Rs 240, profit = Rs 60 on Rs 180, i.e. 60/180 x 100 = 33.33%.",
+      "difficulty": "MEDIUM",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "A dealer sells goods at cost price but uses a weight of 900 grams in place of one kilogram. His gain percent is:",
+      "options": [
+        "11.11%",
+        "10%",
+        "9%",
+        "12.5%"
+      ],
+      "correctIndex": 0,
+      "explanation": "He gains 100 g on every 900 g actually sold, so gain percent = 100/900 x 100 = 11.11%.",
+      "difficulty": "HARD",
+      "topic": "profit-loss"
+    },
+    {
+      "text": "The simple interest on Rs 5,000 at 8% per annum for 3 years is:",
+      "options": [
+        "Rs 1,000",
+        "Rs 1,200",
+        "Rs 1,400",
+        "Rs 1,600"
+      ],
+      "correctIndex": 1,
+      "explanation": "SI = P x R x T/100 = 5,000 x 8 x 3/100 = Rs 1,200.",
+      "difficulty": "EASY",
+      "topic": "simple-interest"
+    },
+    {
+      "text": "A sum yields Rs 900 as simple interest in 3 years at 5% per annum. The sum is:",
+      "options": [
+        "Rs 5,000",
+        "Rs 5,400",
+        "Rs 6,000",
+        "Rs 7,200"
+      ],
+      "correctIndex": 2,
+      "explanation": "P = SI x 100/(R x T) = 900 x 100/(5 x 3) = Rs 6,000.",
+      "difficulty": "MEDIUM",
+      "topic": "simple-interest"
+    },
+    {
+      "text": "Rs 4,000 amounts to Rs 4,800 in 4 years at simple interest. The rate per annum is:",
+      "options": [
+        "8%",
+        "6%",
+        "4%",
+        "5%"
+      ],
+      "correctIndex": 3,
+      "explanation": "SI = 4,800 - 4,000 = Rs 800, so R = 800 x 100/(4,000 x 4) = 5%.",
+      "difficulty": "MEDIUM",
+      "topic": "simple-interest"
+    },
+    {
+      "text": "At 12.5% per annum simple interest, a sum of money will double itself in:",
+      "options": [
+        "8 years",
+        "10 years",
+        "12 years",
+        "16 years"
+      ],
+      "correctIndex": 0,
+      "explanation": "To double, the interest must equal the principal, so T = 100/12.5 = 8 years.",
+      "difficulty": "MEDIUM",
+      "topic": "simple-interest"
+    },
+    {
+      "text": "The simple interest on Rs 2,400 at 6.25% per annum for 2 years is:",
+      "options": [
+        "Rs 250",
+        "Rs 300",
+        "Rs 320",
+        "Rs 360"
+      ],
+      "correctIndex": 1,
+      "explanation": "SI = 2,400 x 6.25 x 2/100 = Rs 300.",
+      "difficulty": "MEDIUM",
+      "topic": "simple-interest"
+    },
+    {
+      "text": "A sum of money becomes three times itself in 20 years at simple interest. The rate per annum is:",
+      "options": [
+        "5%",
+        "8%",
+        "10%",
+        "12%"
+      ],
+      "correctIndex": 2,
+      "explanation": "The interest earned equals twice the principal, so R = 200/20 = 10% per annum.",
+      "difficulty": "HARD",
+      "topic": "simple-interest"
+    },
+    {
+      "text": "The amount on Rs 1,200 at 10% per annum simple interest for 2 years and 6 months is:",
+      "options": [
+        "Rs 1,380",
+        "Rs 1,440",
+        "Rs 1,460",
+        "Rs 1,500"
+      ],
+      "correctIndex": 3,
+      "explanation": "SI = 1,200 x 10 x 2.5/100 = Rs 300, so the amount = 1,200 + 300 = Rs 1,500.",
+      "difficulty": "EASY",
+      "topic": "simple-interest"
+    },
+    {
+      "text": "In how many years will Rs 2,500 amount to Rs 3,250 at 6% per annum simple interest?",
+      "options": [
+        "5 years",
+        "4 years",
+        "6 years",
+        "7 years"
+      ],
+      "correctIndex": 0,
+      "explanation": "SI = 3,250 - 2,500 = Rs 750, so T = 750 x 100/(2,500 x 6) = 5 years.",
+      "difficulty": "MEDIUM",
+      "topic": "simple-interest"
+    },
+    {
+      "text": "The compound interest on Rs 5,000 at 10% per annum for 2 years is:",
+      "options": [
+        "Rs 1,000",
+        "Rs 1,050",
+        "Rs 1,100",
+        "Rs 1,200"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amount = 5,000 x (1.1)^2 = Rs 6,050, so the compound interest is 6,050 - 5,000 = Rs 1,050.",
+      "difficulty": "EASY",
+      "topic": "compound-interest"
+    },
+    {
+      "text": "The amount on Rs 4,000 at 5% per annum compounded annually for 2 years is:",
+      "options": [
+        "Rs 4,400",
+        "Rs 4,405",
+        "Rs 4,410",
+        "Rs 4,420"
+      ],
+      "correctIndex": 2,
+      "explanation": "Amount = 4,000 x (1.05)^2 = 4,000 x 1.1025 = Rs 4,410.",
+      "difficulty": "MEDIUM",
+      "topic": "compound-interest"
+    },
+    {
+      "text": "The difference between compound interest and simple interest on Rs 10,000 at 10% per annum for 2 years is:",
+      "options": [
+        "Rs 200",
+        "Rs 150",
+        "Rs 120",
+        "Rs 100"
+      ],
+      "correctIndex": 3,
+      "explanation": "CI = Rs 2,100 and SI = Rs 2,000, so the difference is Rs 100 (equal to P x (R/100)^2).",
+      "difficulty": "MEDIUM",
+      "topic": "compound-interest"
+    },
+    {
+      "text": "The amount on Rs 6,250 at 4% per annum compounded annually for 2 years is:",
+      "options": [
+        "Rs 6,760",
+        "Rs 6,720",
+        "Rs 6,800",
+        "Rs 6,850"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amount = 6,250 x (1.04)^2 = 6,250 x 1.0816 = Rs 6,760.",
+      "difficulty": "MEDIUM",
+      "topic": "compound-interest"
+    },
+    {
+      "text": "The compound interest on Rs 12,000 at 10% per annum for 3 years is:",
+      "options": [
+        "Rs 3,600",
+        "Rs 3,972",
+        "Rs 4,000",
+        "Rs 4,320"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amount = 12,000 x (1.1)^3 = 12,000 x 1.331 = Rs 15,972, so CI = Rs 3,972.",
+      "difficulty": "HARD",
+      "topic": "compound-interest"
+    },
+    {
+      "text": "A sum doubles itself in 4 years at compound interest. In how many years will it become four times itself?",
+      "options": [
+        "6 years",
+        "7 years",
+        "8 years",
+        "12 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sum doubles every 4 years, so it doubles twice (becoming four times) in 8 years.",
+      "difficulty": "MEDIUM",
+      "topic": "compound-interest"
+    },
+    {
+      "text": "Rs 1,600 amounts to Rs 1,764 in 2 years at compound interest. The rate per annum is:",
+      "options": [
+        "7%",
+        "6%",
+        "4%",
+        "5%"
+      ],
+      "correctIndex": 3,
+      "explanation": "(1 + R/100)^2 = 1,764/1,600 = 1.1025, so 1 + R/100 = 1.05 and R = 5%.",
+      "difficulty": "HARD",
+      "topic": "compound-interest"
+    },
+    {
+      "text": "The compound interest on Rs 8,000 at 10% per annum for one year, compounded half-yearly, is:",
+      "options": [
+        "Rs 820",
+        "Rs 800",
+        "Rs 810",
+        "Rs 840"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half-yearly rate is 5% for 2 periods: 8,000 x (1.05)^2 = Rs 8,820, so CI = Rs 820.",
+      "difficulty": "HARD",
+      "topic": "compound-interest"
+    },
+    {
+      "text": "The average of the first ten natural numbers is:",
+      "options": [
+        "5",
+        "5.5",
+        "6",
+        "6.5"
+      ],
+      "correctIndex": 1,
+      "explanation": "Their sum is 55 and 55/10 = 5.5.",
+      "difficulty": "EASY",
+      "topic": "averages"
+    },
+    {
+      "text": "The average of five numbers is 27. Their sum is:",
+      "options": [
+        "125",
+        "130",
+        "135",
+        "140"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sum = average x count = 27 x 5 = 135.",
+      "difficulty": "EASY",
+      "topic": "averages"
+    },
+    {
+      "text": "The average of four numbers is 20. When one number is removed the average of the remaining three is 22. The number removed is:",
+      "options": [
+        "18",
+        "16",
+        "12",
+        "14"
+      ],
+      "correctIndex": 3,
+      "explanation": "Original sum = 80 and the remaining sum = 66, so the number removed is 80 - 66 = 14.",
+      "difficulty": "MEDIUM",
+      "topic": "averages"
+    },
+    {
+      "text": "The average age of 30 students is 14 years. When the teacher's age is included the average becomes 15 years. The teacher's age is:",
+      "options": [
+        "45 years",
+        "42 years",
+        "40 years",
+        "48 years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total of 31 people = 31 x 15 = 465 years and the students total 30 x 14 = 420, so the teacher is 45.",
+      "difficulty": "MEDIUM",
+      "topic": "averages"
+    },
+    {
+      "text": "The average of the first five multiples of 3 is:",
+      "options": [
+        "6",
+        "9",
+        "12",
+        "15"
+      ],
+      "correctIndex": 1,
+      "explanation": "The multiples are 3, 6, 9, 12 and 15; their sum 45 divided by 5 gives 9.",
+      "difficulty": "EASY",
+      "topic": "averages"
+    },
+    {
+      "text": "The average of 11 results is 50, the average of the first six is 49 and the average of the last six is 52. The sixth result is:",
+      "options": [
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sixth result = (6 x 49) + (6 x 52) - (11 x 50) = 294 + 312 - 550 = 56.",
+      "difficulty": "HARD",
+      "topic": "averages"
+    },
+    {
+      "text": "A batsman averages 32 runs in 10 innings and then scores 76 in his eleventh innings. His new average is:",
+      "options": [
+        "34",
+        "35",
+        "38",
+        "36"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total runs = 320 + 76 = 396, and 396/11 = 36.",
+      "difficulty": "MEDIUM",
+      "topic": "averages"
+    },
+    {
+      "text": "The average weight of 8 men increases by 2.5 kg when a man weighing 65 kg is replaced by a new man. The weight of the new man is:",
+      "options": [
+        "85 kg",
+        "80 kg",
+        "75 kg",
+        "90 kg"
+      ],
+      "correctIndex": 0,
+      "explanation": "The total rises by 8 x 2.5 = 20 kg, so the new man weighs 65 + 20 = 85 kg.",
+      "difficulty": "MEDIUM",
+      "topic": "averages"
+    },
+    {
+      "text": "The average of all even numbers from 2 to 20 inclusive is:",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctIndex": 1,
+      "explanation": "There are 10 such numbers with sum 110, and 110/10 = 11.",
+      "difficulty": "MEDIUM",
+      "topic": "averages"
+    },
+    {
+      "text": "The mean of six numbers is 15. If every number is multiplied by 3, the new mean is:",
+      "options": [
+        "18",
+        "30",
+        "45",
+        "50"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying each value by 3 multiplies the mean by 3, giving 15 x 3 = 45.",
+      "difficulty": "EASY",
+      "topic": "averages"
+    },
+    {
+      "text": "The average marks of 40 students is 62. If 25 of them average 68, the average of the remaining 15 students is:",
+      "options": [
+        "58",
+        "56",
+        "54",
+        "52"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total marks = 2,480; the 25 students score 1,700, leaving 780 for 15 students, i.e. an average of 52.",
+      "difficulty": "HARD",
+      "topic": "averages"
+    },
+    {
+      "text": "The average of five consecutive odd numbers is 27. The largest of them is:",
+      "options": [
+        "31",
+        "29",
+        "33",
+        "35"
+      ],
+      "correctIndex": 0,
+      "explanation": "The middle number is 27, so the numbers are 23, 25, 27, 29 and 31, the largest being 31.",
+      "difficulty": "MEDIUM",
+      "topic": "averages"
+    },
+    {
+      "text": "A can do a piece of work in 10 days and B in 15 days. Working together they will finish it in:",
+      "options": [
+        "5 days",
+        "6 days",
+        "7.5 days",
+        "12 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Combined one-day work = 1/10 + 1/15 = 1/6, so together they take 6 days.",
+      "difficulty": "EASY",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "A completes a job in 12 days and B completes the same job in 24 days. Working together they will complete it in:",
+      "options": [
+        "6 days",
+        "7 days",
+        "8 days",
+        "9 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Combined one-day work = 1/12 + 1/24 = 3/24 = 1/8, so they take 8 days.",
+      "difficulty": "EASY",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "If 15 men can complete a work in 20 days, then 25 men will complete it in:",
+      "options": [
+        "18 days",
+        "15 days",
+        "14 days",
+        "12 days"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total work = 15 x 20 = 300 man-days, so 25 men need 300/25 = 12 days.",
+      "difficulty": "MEDIUM",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "A can do a work in 20 days. He works for 5 days and leaves, and B, who alone can do the whole work in 30 days, finishes the remainder in:",
+      "options": [
+        "22.5 days",
+        "25 days",
+        "20 days",
+        "24 days"
+      ],
+      "correctIndex": 0,
+      "explanation": "A completes 5/20 = 1/4 of the work, so B must do 3/4 of it, taking 3/4 x 30 = 22.5 days.",
+      "difficulty": "MEDIUM",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "A and B together finish a work in 12 days while A alone finishes it in 20 days. B alone will take:",
+      "options": [
+        "24 days",
+        "30 days",
+        "32 days",
+        "36 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "B's one-day work = 1/12 - 1/20 = 5/60 - 3/60 = 2/60 = 1/30, so B alone takes 30 days.",
+      "difficulty": "MEDIUM",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "One pipe fills a tank in 6 hours and another fills it in 12 hours. Opened together they will fill it in:",
+      "options": [
+        "3 hours",
+        "3.5 hours",
+        "4 hours",
+        "9 hours"
+      ],
+      "correctIndex": 2,
+      "explanation": "Combined rate = 1/6 + 1/12 = 3/12 = 1/4 of the tank per hour, so 4 hours are needed.",
+      "difficulty": "EASY",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "Pipe A fills a tank in 10 hours while pipe B empties the full tank in 15 hours. With both pipes open the tank fills in:",
+      "options": [
+        "60 hours",
+        "45 hours",
+        "35 hours",
+        "30 hours"
+      ],
+      "correctIndex": 3,
+      "explanation": "Net filling rate = 1/10 - 1/15 = 3/30 - 2/30 = 1/30 per hour, so the tank fills in 30 hours.",
+      "difficulty": "MEDIUM",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "A is twice as good a workman as B and together they finish a work in 12 days. B alone will finish it in:",
+      "options": [
+        "36 days",
+        "30 days",
+        "24 days",
+        "18 days"
+      ],
+      "correctIndex": 0,
+      "explanation": "Their rates are in the ratio 2 : 1, so B does one-third of the joint work and needs 3 x 12 = 36 days.",
+      "difficulty": "HARD",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "A, B and C can do a work in 10, 12 and 15 days respectively. Working together they will finish it in:",
+      "options": [
+        "3 days",
+        "4 days",
+        "5 days",
+        "6 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Combined one-day work = 1/10 + 1/12 + 1/15 = 6/60 + 5/60 + 4/60 = 15/60 = 1/4, so 4 days.",
+      "difficulty": "MEDIUM",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "Twelve men working 6 hours a day complete a job in 10 days. Fifteen men working 8 hours a day will complete the same job in:",
+      "options": [
+        "5 days",
+        "5.5 days",
+        "6 days",
+        "7 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total work = 12 x 6 x 10 = 720 man-hours, so the time = 720/(15 x 8) = 6 days.",
+      "difficulty": "MEDIUM",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "A and B together complete a work in 8 days, while A, B and C together complete it in 6 days. C alone will complete it in:",
+      "options": [
+        "12 days",
+        "18 days",
+        "20 days",
+        "24 days"
+      ],
+      "correctIndex": 3,
+      "explanation": "C's one-day work = 1/6 - 1/8 = 4/24 - 3/24 = 1/24, so C alone takes 24 days.",
+      "difficulty": "HARD",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "If 5 machines produce 500 units in 10 hours, the number of units 8 identical machines will produce in the same 10 hours is:",
+      "options": [
+        "800",
+        "700",
+        "640",
+        "900"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each machine makes 100 units in 10 hours, so 8 machines make 8 x 100 = 800 units.",
+      "difficulty": "EASY",
+      "topic": "time-and-work"
+    },
+    {
+      "text": "A car covers 240 km in 4 hours. Its average speed is:",
+      "options": [
+        "50 km/h",
+        "60 km/h",
+        "65 km/h",
+        "70 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = distance/time = 240/4 = 60 km/h.",
+      "difficulty": "EASY",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A speed of 72 km/h expressed in metres per second is:",
+      "options": [
+        "15 m/s",
+        "18 m/s",
+        "20 m/s",
+        "25 m/s"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiply by 5/18: 72 x 5/18 = 20 m/s.",
+      "difficulty": "EASY",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A speed of 15 metres per second expressed in kilometres per hour is:",
+      "options": [
+        "45 km/h",
+        "50 km/h",
+        "52 km/h",
+        "54 km/h"
+      ],
+      "correctIndex": 3,
+      "explanation": "Multiply by 18/5: 15 x 18/5 = 54 km/h.",
+      "difficulty": "EASY",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A train 150 metres long crosses a pole in 10 seconds. Its speed is:",
+      "options": [
+        "54 km/h",
+        "45 km/h",
+        "60 km/h",
+        "75 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speed = 150/10 = 15 m/s, and 15 x 18/5 = 54 km/h.",
+      "difficulty": "MEDIUM",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A train 200 metres long running at 36 km/h crosses a platform 100 metres long in:",
+      "options": [
+        "20 seconds",
+        "30 seconds",
+        "35 seconds",
+        "40 seconds"
+      ],
+      "correctIndex": 1,
+      "explanation": "The train covers 200 + 100 = 300 m at 36 km/h = 10 m/s, needing 300/10 = 30 seconds.",
+      "difficulty": "MEDIUM",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "The distance covered in 2 hours and 20 minutes at a speed of 45 km/h is:",
+      "options": [
+        "90 km",
+        "100 km",
+        "105 km",
+        "110 km"
+      ],
+      "correctIndex": 2,
+      "explanation": "2 hours 20 minutes = 7/3 hours, so the distance = 45 x 7/3 = 105 km.",
+      "difficulty": "MEDIUM",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "The time taken to cover 360 km at a uniform speed of 80 km/h is:",
+      "options": [
+        "4 hours",
+        "5 hours",
+        "5.5 hours",
+        "4.5 hours"
+      ],
+      "correctIndex": 3,
+      "explanation": "Time = 360/80 = 4.5 hours.",
+      "difficulty": "EASY",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A man travels from A to B at 60 km/h and returns at 40 km/h. His average speed for the whole journey is:",
+      "options": [
+        "48 km/h",
+        "50 km/h",
+        "45 km/h",
+        "52 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Average speed = 2ab/(a+b) = 2 x 60 x 40/100 = 48 km/h.",
+      "difficulty": "MEDIUM",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "Two trains 150 metres and 100 metres long run in opposite directions at 60 km/h and 40 km/h. The time they take to cross each other is:",
+      "options": [
+        "8 seconds",
+        "9 seconds",
+        "10 seconds",
+        "12 seconds"
+      ],
+      "correctIndex": 1,
+      "explanation": "Relative speed = 100 km/h = 250/9 m/s and the combined length is 250 m, so the time = 250 x 9/250 = 9 seconds.",
+      "difficulty": "HARD",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A man covers a distance in 3 hours walking at 5 km/h. To cover the same distance in 2 hours and 30 minutes he must walk at:",
+      "options": [
+        "5.5 km/h",
+        "5.75 km/h",
+        "6 km/h",
+        "6.5 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "The distance is 15 km, so the required speed = 15/2.5 = 6 km/h.",
+      "difficulty": "MEDIUM",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A boat whose speed in still water is 10 km/h travels 36 km downstream in a stream flowing at 2 km/h. The time taken is:",
+      "options": [
+        "2.5 hours",
+        "4 hours",
+        "3.5 hours",
+        "3 hours"
+      ],
+      "correctIndex": 3,
+      "explanation": "Downstream speed = 10 + 2 = 12 km/h, so the time = 36/12 = 3 hours.",
+      "difficulty": "MEDIUM",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A train running at 54 km/h crosses a bridge 300 metres long in 30 seconds. The length of the train is:",
+      "options": [
+        "150 m",
+        "120 m",
+        "180 m",
+        "200 m"
+      ],
+      "correctIndex": 0,
+      "explanation": "At 15 m/s the train covers 450 m in 30 seconds, so its length = 450 - 300 = 150 m.",
+      "difficulty": "HARD",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "Two cars start together from the same point in the same direction at 50 km/h and 40 km/h. After 3 hours the distance between them is:",
+      "options": [
+        "20 km",
+        "30 km",
+        "40 km",
+        "45 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "They separate at 10 km/h, so after 3 hours the gap is 30 km.",
+      "difficulty": "MEDIUM",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A cyclist covers 20 km in 50 minutes. His speed is:",
+      "options": [
+        "20 km/h",
+        "22 km/h",
+        "24 km/h",
+        "25 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "50 minutes = 5/6 hour, so the speed = 20 x 6/5 = 24 km/h.",
+      "difficulty": "MEDIUM",
+      "topic": "time-speed-distance"
+    },
+    {
+      "text": "A invests Rs 5,000 and B invests Rs 7,000 in a business for the same period. Out of a profit of Rs 6,000, B's share is:",
+      "options": [
+        "Rs 2,500",
+        "Rs 3,000",
+        "Rs 3,200",
+        "Rs 3,500"
+      ],
+      "correctIndex": 3,
+      "explanation": "Profits are shared in the ratio 5 : 7, so B receives 6,000 x 7/12 = Rs 3,500.",
+      "difficulty": "MEDIUM",
+      "topic": "partnership"
+    },
+    {
+      "text": "A and B invest Rs 8,000 and Rs 12,000 respectively for the same period. Out of a total profit of Rs 5,000, A receives:",
+      "options": [
+        "Rs 2,000",
+        "Rs 2,200",
+        "Rs 2,400",
+        "Rs 2,500"
+      ],
+      "correctIndex": 0,
+      "explanation": "The capital ratio is 2 : 3, so A receives 5,000 x 2/5 = Rs 2,000.",
+      "difficulty": "MEDIUM",
+      "topic": "partnership"
+    },
+    {
+      "text": "A invests Rs 3,000 for 12 months and B invests Rs 4,000 for 6 months. Out of a profit of Rs 10,000, A's share is:",
+      "options": [
+        "Rs 5,000",
+        "Rs 6,000",
+        "Rs 6,500",
+        "Rs 7,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Capital-months are 36,000 and 24,000, a ratio of 3 : 2, so A gets 10,000 x 3/5 = Rs 6,000.",
+      "difficulty": "HARD",
+      "topic": "partnership"
+    },
+    {
+      "text": "Three partners invest Rs 4,000, Rs 6,000 and Rs 10,000 for the same period. Out of a profit of Rs 10,000 the third partner receives:",
+      "options": [
+        "Rs 4,000",
+        "Rs 4,500",
+        "Rs 5,000",
+        "Rs 6,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ratio is 2 : 3 : 5, so the third partner receives 10,000 x 5/10 = Rs 5,000.",
+      "difficulty": "MEDIUM",
+      "topic": "partnership"
+    },
+    {
+      "text": "A and B share profits in the ratio 3 : 5. If B's share exceeds A's by Rs 800, the total profit is:",
+      "options": [
+        "Rs 2,400",
+        "Rs 2,800",
+        "Rs 4,000",
+        "Rs 3,200"
+      ],
+      "correctIndex": 3,
+      "explanation": "The difference is 2 parts = Rs 800, so one part = Rs 400 and the total of 8 parts = Rs 3,200.",
+      "difficulty": "HARD",
+      "topic": "partnership"
+    },
+    {
+      "text": "Two partners invest capitals in the ratio 2 : 3 for periods in the ratio 3 : 2. Their profits will be shared in the ratio:",
+      "options": [
+        "1 : 1",
+        "2 : 3",
+        "3 : 2",
+        "4 : 9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Profit shares follow capital x time = 6 : 6, which reduces to 1 : 1.",
+      "difficulty": "MEDIUM",
+      "topic": "partnership"
+    },
+    {
+      "text": "A 40-litre mixture contains milk and water in the ratio 3 : 1. The quantity of milk in it is:",
+      "options": [
+        "20 litres",
+        "30 litres",
+        "32 litres",
+        "36 litres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Milk = 40 x 3/4 = 30 litres.",
+      "difficulty": "EASY",
+      "topic": "mixtures"
+    },
+    {
+      "text": "A 60-litre mixture contains milk and water in the ratio 2 : 1. The water that must be added to make the ratio 1 : 1 is:",
+      "options": [
+        "10 litres",
+        "15 litres",
+        "20 litres",
+        "30 litres"
+      ],
+      "correctIndex": 2,
+      "explanation": "The mixture has 40 litres of milk and 20 litres of water, so 20 more litres of water make both equal.",
+      "difficulty": "MEDIUM",
+      "topic": "mixtures"
+    },
+    {
+      "text": "Rice costing Rs 40 per kg is mixed with rice costing Rs 60 per kg in the ratio 3 : 2. The cost of the mixture per kg is:",
+      "options": [
+        "Rs 52",
+        "Rs 50",
+        "Rs 46",
+        "Rs 48"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cost = (3 x 40 + 2 x 60)/5 = 240/5 = Rs 48 per kg.",
+      "difficulty": "MEDIUM",
+      "topic": "mixtures"
+    },
+    {
+      "text": "In what ratio must tea costing Rs 60 per kg be mixed with tea costing Rs 100 per kg so that the mixture costs Rs 75 per kg?",
+      "options": [
+        "5 : 3",
+        "3 : 5",
+        "2 : 1",
+        "1 : 2"
+      ],
+      "correctIndex": 0,
+      "explanation": "By alligation the ratio is (100 - 75) : (75 - 60) = 25 : 15 = 5 : 3.",
+      "difficulty": "HARD",
+      "topic": "mixtures"
+    },
+    {
+      "text": "Twenty litres of a milk solution contains 10% water. The quantity of water in it is:",
+      "options": [
+        "1 litre",
+        "2 litres",
+        "3 litres",
+        "4 litres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water = 10% of 20 = 2 litres.",
+      "difficulty": "EASY",
+      "topic": "mixtures"
+    },
+    {
+      "text": "Fifty litres of a mixture contains 20% alcohol. After adding 10 litres of water the percentage of alcohol becomes:",
+      "options": [
+        "15%",
+        "16%",
+        "16.67%",
+        "18%"
+      ],
+      "correctIndex": 2,
+      "explanation": "The alcohol stays at 10 litres while the total becomes 60 litres, so the strength is 10/60 x 100 = 16.67%.",
+      "difficulty": "HARD",
+      "topic": "mixtures"
+    },
+    {
+      "text": "The LCM of 12 and 18 is:",
+      "options": [
+        "18",
+        "24",
+        "54",
+        "36"
+      ],
+      "correctIndex": 3,
+      "explanation": "12 = 2^2 x 3 and 18 = 2 x 3^2, so the LCM = 2^2 x 3^2 = 36.",
+      "difficulty": "EASY",
+      "topic": "lcm-hcf"
+    },
+    {
+      "text": "The HCF of 24 and 36 is:",
+      "options": [
+        "12",
+        "8",
+        "6",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "The common factors give 2^2 x 3 = 12, the greatest common divisor.",
+      "difficulty": "EASY",
+      "topic": "lcm-hcf"
+    },
+    {
+      "text": "The LCM of 8, 12 and 20 is:",
+      "options": [
+        "60",
+        "120",
+        "160",
+        "240"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taking the highest powers 2^3, 3 and 5 gives 8 x 3 x 5 = 120.",
+      "difficulty": "MEDIUM",
+      "topic": "lcm-hcf"
+    },
+    {
+      "text": "The HCF of 36, 60 and 84 is:",
+      "options": [
+        "4",
+        "6",
+        "12",
+        "18"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each number is divisible by 2^2 x 3 = 12 and by no larger common factor.",
+      "difficulty": "MEDIUM",
+      "topic": "lcm-hcf"
+    },
+    {
+      "text": "The product of two numbers is 216 and their HCF is 6. Their LCM is:",
+      "options": [
+        "24",
+        "30",
+        "42",
+        "36"
+      ],
+      "correctIndex": 3,
+      "explanation": "LCM = product/HCF = 216/6 = 36.",
+      "difficulty": "MEDIUM",
+      "topic": "lcm-hcf"
+    },
+    {
+      "text": "The smallest number exactly divisible by 6, 8 and 12 is:",
+      "options": [
+        "24",
+        "36",
+        "48",
+        "72"
+      ],
+      "correctIndex": 0,
+      "explanation": "The required number is the LCM of 6, 8 and 12, which is 24.",
+      "difficulty": "EASY",
+      "topic": "lcm-hcf"
+    },
+    {
+      "text": "The least number which when divided by 5, 6 and 8 leaves a remainder of 3 in each case is:",
+      "options": [
+        "118",
+        "123",
+        "125",
+        "128"
+      ],
+      "correctIndex": 1,
+      "explanation": "The LCM of 5, 6 and 8 is 120, so the number is 120 + 3 = 123.",
+      "difficulty": "HARD",
+      "topic": "lcm-hcf"
+    },
+    {
+      "text": "The LCM of two numbers is 48 and their HCF is 8. If one number is 16, the other number is:",
+      "options": [
+        "20",
+        "22",
+        "24",
+        "32"
+      ],
+      "correctIndex": 2,
+      "explanation": "The product of the numbers equals LCM x HCF = 384, so the other number = 384/16 = 24.",
+      "difficulty": "MEDIUM",
+      "topic": "lcm-hcf"
+    },
+    {
+      "text": "The greatest four-digit number exactly divisible by 15, 25 and 40 is:",
+      "options": [
+        "9,000",
+        "9,750",
+        "9,800",
+        "9,600"
+      ],
+      "correctIndex": 3,
+      "explanation": "The LCM of 15, 25 and 40 is 600, and 600 x 16 = 9,600 is the largest such four-digit multiple.",
+      "difficulty": "HARD",
+      "topic": "lcm-hcf"
+    },
+    {
+      "text": "The value of 3/4 + 2/5 is:",
+      "options": [
+        "1.15",
+        "1.05",
+        "1.20",
+        "1.25"
+      ],
+      "correctIndex": 0,
+      "explanation": "3/4 + 2/5 = 15/20 + 8/20 = 23/20 = 1.15.",
+      "difficulty": "MEDIUM",
+      "topic": "fractions-decimals"
+    },
+    {
+      "text": "The greatest of the fractions 2/3, 3/5, 5/8 and 7/12 is:",
+      "options": [
+        "3/5",
+        "2/3",
+        "5/8",
+        "7/12"
+      ],
+      "correctIndex": 1,
+      "explanation": "As decimals they are 0.667, 0.600, 0.625 and 0.583, so 2/3 is the largest.",
+      "difficulty": "MEDIUM",
+      "topic": "fractions-decimals"
+    },
+    {
+      "text": "The product 0.6 x 0.05 is:",
+      "options": [
+        "0.003",
+        "0.3",
+        "0.03",
+        "3.0"
+      ],
+      "correctIndex": 2,
+      "explanation": "6 x 5 = 30 and the factors carry three decimal places in total, giving 0.030 = 0.03.",
+      "difficulty": "EASY",
+      "topic": "fractions-decimals"
+    },
+    {
+      "text": "Expressed as a decimal, 7/8 equals:",
+      "options": [
+        "0.785",
+        "0.825",
+        "0.885",
+        "0.875"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dividing 7 by 8 gives 0.875.",
+      "difficulty": "EASY",
+      "topic": "fractions-decimals"
+    },
+    {
+      "text": "One-half of two-thirds of three-fourths of 240 is:",
+      "options": [
+        "60",
+        "40",
+        "50",
+        "80"
+      ],
+      "correctIndex": 0,
+      "explanation": "The three fractions multiply to 1/4, and 240/4 = 60.",
+      "difficulty": "MEDIUM",
+      "topic": "fractions-decimals"
+    },
+    {
+      "text": "The value of 2.5 divided by 0.05 is:",
+      "options": [
+        "5",
+        "50",
+        "0.5",
+        "500"
+      ],
+      "correctIndex": 1,
+      "explanation": "2.5/0.05 = 250/5 = 50.",
+      "difficulty": "MEDIUM",
+      "topic": "fractions-decimals"
+    },
+    {
+      "text": "The value of 5/6 - 3/8 is:",
+      "options": [
+        "1/3",
+        "7/24",
+        "11/24",
+        "13/24"
+      ],
+      "correctIndex": 2,
+      "explanation": "Using 24 as the common denominator, 20/24 - 9/24 = 11/24.",
+      "difficulty": "MEDIUM",
+      "topic": "fractions-decimals"
+    },
+    {
+      "text": "Expressed as a fraction in its lowest terms, 0.125 equals:",
+      "options": [
+        "1/4",
+        "1/5",
+        "1/16",
+        "1/8"
+      ],
+      "correctIndex": 3,
+      "explanation": "0.125 = 125/1000, which reduces to 1/8.",
+      "difficulty": "EASY",
+      "topic": "fractions-decimals"
+    }
+  ]
+}

@@ -5,6 +5,7 @@
 export type Difficulty = "EASY" | "MEDIUM" | "HARD";
 
 export type GenMCQ = {
+  topic?: string;
   order: number;
   text: string;
   options: [string, string, string, string];

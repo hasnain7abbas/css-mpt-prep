@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const SITE = "https://fiajobprep.com";
+const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://cssmptprep.com";
 
 export default function robots(): MetadataRoute.Robots {
   return {
@@ -8,7 +8,17 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
       // Keep authenticated areas out of the index.
-      disallow: ["/dashboard", "/subjects", "/tests", "/progress", "/admin", "/account", "/api"],
+      disallow: [
+        "/dashboard",
+        "/subjects",
+        "/mocks",
+        "/past-papers",
+        "/tests",
+        "/progress",
+        "/admin",
+        "/account",
+        "/api",
+      ],
     },
     sitemap: `${SITE}/sitemap.xml`,
   };

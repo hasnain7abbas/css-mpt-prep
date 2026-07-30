@@ -1,0 +1,966 @@
+{
+  "subject": "english",
+  "unit": "eng-grammar-core",
+  "questions": [
+    {
+      "text": "He ____ in Lahore since 2015.",
+      "options": ["lives", "lived", "has been living", "is living"],
+      "correctIndex": 2,
+      "explanation": "An action that began at a stated point in the past and still continues takes the present perfect continuous with 'since'.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "She ____ her homework before the guests arrived.",
+      "options": ["finished", "had finished", "has finished", "was finishing"],
+      "correctIndex": 1,
+      "explanation": "The earlier of two past actions is expressed by the past perfect, so 'had finished' precedes 'arrived'.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "Water ____ at 100 degrees Celsius.",
+      "options": ["boils", "is boiling", "has boiled", "boiled"],
+      "correctIndex": 0,
+      "explanation": "Universal truths and scientific facts are stated in the simple present tense.",
+      "difficulty": "EASY",
+      "topic": "tenses"
+    },
+    {
+      "text": "By the time you arrive, I ____ the report.",
+      "options": ["will complete", "am completing", "completed", "will have completed"],
+      "correctIndex": 3,
+      "explanation": "An action to be finished before a future point takes the future perfect tense.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "Look! The baby ____ in the next room.",
+      "options": ["cries", "is crying", "has cried", "cried"],
+      "correctIndex": 1,
+      "explanation": "'Look!' signals an action happening at the moment of speaking, which requires the present continuous.",
+      "difficulty": "EASY",
+      "topic": "tenses"
+    },
+    {
+      "text": "I ____ him at the conference yesterday.",
+      "options": ["have met", "had met", "meet", "met"],
+      "correctIndex": 3,
+      "explanation": "A finished action with a definite past time marker such as 'yesterday' takes the simple past.",
+      "difficulty": "EASY",
+      "topic": "tenses"
+    },
+    {
+      "text": "They ____ for two hours when the coach arrived.",
+      "options": ["practised", "have been practising", "had been practising", "are practising"],
+      "correctIndex": 2,
+      "explanation": "An activity continuing over a period up to a past moment takes the past perfect continuous.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "The train ____ before we reached the station.",
+      "options": ["had left", "has left", "left", "was leaving"],
+      "correctIndex": 0,
+      "explanation": "The action completed earlier than another past action ('reached') is put in the past perfect.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "If it rains tomorrow, we ____ the match.",
+      "options": ["will cancel", "cancel", "would cancel", "had cancelled"],
+      "correctIndex": 0,
+      "explanation": "In a first conditional the if-clause is in the present simple and the main clause takes 'will' + base verb.",
+      "difficulty": "EASY",
+      "topic": "tenses"
+    },
+    {
+      "text": "He said that he ____ tired.",
+      "options": ["is", "has been", "was", "will be"],
+      "correctIndex": 2,
+      "explanation": "When the reporting verb is in the past, the reported verb is back-shifted to the past tense.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "I ____ my breakfast when the phone rang.",
+      "options": ["had", "have had", "had had", "was having"],
+      "correctIndex": 3,
+      "explanation": "The longer background action is in the past continuous and the sudden action in the simple past.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "He ____ smoke, but he gave it up last year.",
+      "options": ["use to", "used to", "is used to", "was used to"],
+      "correctIndex": 1,
+      "explanation": "'Used to' + base verb expresses a discontinued past habit; 'is/was used to' means accustomed to.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "We ____ each other since childhood.",
+      "options": ["know", "are knowing", "had known", "have known"],
+      "correctIndex": 3,
+      "explanation": "'Know' is a stative verb, so a state continuing from the past to now takes the present perfect simple.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "Hardly had he entered the room when the lights ____ out.",
+      "options": ["went", "go", "had gone", "have gone"],
+      "correctIndex": 0,
+      "explanation": "In the 'hardly had ... when' pattern the second clause takes the simple past.",
+      "difficulty": "HARD",
+      "topic": "tenses"
+    },
+    {
+      "text": "I have never ____ such a beautiful sunset.",
+      "options": ["see", "seen", "saw", "seeing"],
+      "correctIndex": 1,
+      "explanation": "After 'have/has' the third form of the verb (past participle) is used, which is 'seen'.",
+      "difficulty": "EASY",
+      "topic": "tenses"
+    },
+    {
+      "text": "The work ____ by the students yesterday.",
+      "options": ["is done", "was doing", "was done", "has been done"],
+      "correctIndex": 2,
+      "explanation": "A past action seen from the point of view of the object takes the past simple passive 'was done'.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "English ____ all over the world.",
+      "options": ["speaks", "is speaking", "is spoken", "has spoken"],
+      "correctIndex": 2,
+      "explanation": "The subject receives the action, so the present simple passive 'is spoken' is required.",
+      "difficulty": "EASY",
+      "topic": "tenses"
+    },
+    {
+      "text": "I wish I ____ rich enough to buy that house.",
+      "options": ["were", "am", "will be", "have been"],
+      "correctIndex": 0,
+      "explanation": "After 'I wish' an unreal present situation takes the past subjunctive 'were' for all persons.",
+      "difficulty": "HARD",
+      "topic": "tenses"
+    },
+    {
+      "text": "He will call you as soon as he ____ home.",
+      "options": ["will reach", "reached", "is reaching", "reaches"],
+      "correctIndex": 3,
+      "explanation": "After time conjunctions such as 'as soon as', future meaning is expressed by the present simple, not 'will'.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "She ____ to Karachi three times.",
+      "options": ["went", "has been", "had been", "was going"],
+      "correctIndex": 1,
+      "explanation": "Experience up to the present, with no stated past time, takes the present perfect 'has been'.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "This time tomorrow I ____ over the Atlantic.",
+      "options": ["will fly", "will be flying", "fly", "am flying"],
+      "correctIndex": 1,
+      "explanation": "An action in progress at a stated future moment takes the future continuous tense.",
+      "difficulty": "HARD",
+      "topic": "tenses"
+    },
+    {
+      "text": "He is not here yet; he must ____ the train.",
+      "options": ["miss", "missed", "have missed", "has missed"],
+      "correctIndex": 2,
+      "explanation": "A confident deduction about the past is expressed by 'must have' + past participle.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "She avoided ____ the question put by the reporter.",
+      "options": ["answering", "to answer", "answer", "answered"],
+      "correctIndex": 0,
+      "explanation": "The verb 'avoid' is always followed by a gerund, never by an infinitive.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "I look forward to ____ from you soon.",
+      "options": ["hear", "heard", "be hearing", "hearing"],
+      "correctIndex": 3,
+      "explanation": "In 'look forward to' the word 'to' is a preposition, so it is followed by the gerund.",
+      "difficulty": "HARD",
+      "topic": "tenses"
+    },
+    {
+      "text": "It is high time we ____ home.",
+      "options": ["go", "will go", "went", "have gone"],
+      "correctIndex": 2,
+      "explanation": "'It is high time' is followed by the past subjunctive form of the verb although the sense is present.",
+      "difficulty": "HARD",
+      "topic": "tenses"
+    },
+    {
+      "text": "If he had studied harder, he ____ the examination.",
+      "options": ["would pass", "would have passed", "will pass", "had passed"],
+      "correctIndex": 1,
+      "explanation": "In the third conditional the main clause takes 'would have' + past participle.",
+      "difficulty": "MEDIUM",
+      "topic": "tenses"
+    },
+    {
+      "text": "He is ____ honest man and everyone trusts him.",
+      "options": ["a", "an", "the", "no article"],
+      "correctIndex": 1,
+      "explanation": "The 'h' in 'honest' is silent, so the word begins with a vowel sound and takes 'an'.",
+      "difficulty": "EASY",
+      "topic": "articles"
+    },
+    {
+      "text": "____ Nile is the longest river in Africa.",
+      "options": ["A", "An", "No article", "The"],
+      "correctIndex": 3,
+      "explanation": "Names of rivers always take the definite article 'the'.",
+      "difficulty": "EASY",
+      "topic": "articles"
+    },
+    {
+      "text": "She plays ____ piano very well.",
+      "options": ["the", "a", "an", "no article"],
+      "correctIndex": 0,
+      "explanation": "Names of musical instruments take the definite article when we speak of playing them.",
+      "difficulty": "MEDIUM",
+      "topic": "articles"
+    },
+    {
+      "text": "He is ____ university student in his final year.",
+      "options": ["an", "the", "a", "no article"],
+      "correctIndex": 2,
+      "explanation": "'University' begins with the consonant sound /ju:/, so it takes 'a' and not 'an'.",
+      "difficulty": "MEDIUM",
+      "topic": "articles"
+    },
+    {
+      "text": "I bought ____ umbrella from the market yesterday.",
+      "options": ["a", "the", "no article", "an"],
+      "correctIndex": 3,
+      "explanation": "'Umbrella' begins with a vowel sound, so the indefinite article 'an' is used.",
+      "difficulty": "EASY",
+      "topic": "articles"
+    },
+    {
+      "text": "____ moon revolves round the earth.",
+      "options": ["A", "The", "An", "No article"],
+      "correctIndex": 1,
+      "explanation": "Unique objects in nature such as the moon, the sun and the sky take the definite article.",
+      "difficulty": "EASY",
+      "topic": "articles"
+    },
+    {
+      "text": "Children in Pakistan go to ____ school at the age of five.",
+      "options": ["no article", "a", "an", "the"],
+      "correctIndex": 0,
+      "explanation": "Institutions such as school, college and hospital take no article when referred to for their primary purpose.",
+      "difficulty": "HARD",
+      "topic": "articles"
+    },
+    {
+      "text": "He is ____ best student in the class.",
+      "options": ["the", "a", "an", "no article"],
+      "correctIndex": 0,
+      "explanation": "Superlative adjectives are preceded by the definite article 'the'.",
+      "difficulty": "EASY",
+      "topic": "articles"
+    },
+    {
+      "text": "There is ____ hospital at the end of this road.",
+      "options": ["an", "the", "a", "no article"],
+      "correctIndex": 2,
+      "explanation": "A singular countable noun mentioned for the first time and beginning with a consonant sound takes 'a'.",
+      "difficulty": "EASY",
+      "topic": "articles"
+    },
+    {
+      "text": "____ rich should help the poor.",
+      "options": ["A", "An", "No article", "The"],
+      "correctIndex": 3,
+      "explanation": "An adjective used as a plural common noun for a whole class takes the definite article.",
+      "difficulty": "MEDIUM",
+      "topic": "articles"
+    },
+    {
+      "text": "She is ____ M.A. in Economics.",
+      "options": ["a", "an", "the", "no article"],
+      "correctIndex": 1,
+      "explanation": "The letter M is pronounced /em/, a vowel sound, so the abbreviation takes 'an'.",
+      "difficulty": "MEDIUM",
+      "topic": "articles"
+    },
+    {
+      "text": "He gave me ____ one-rupee coin as a souvenir.",
+      "options": ["an", "the", "no article", "a"],
+      "correctIndex": 3,
+      "explanation": "'One' begins with the consonant sound /w/, so it takes 'a' in spite of the vowel letter.",
+      "difficulty": "HARD",
+      "topic": "articles"
+    },
+    {
+      "text": "____ Himalayas separate the subcontinent from Tibet.",
+      "options": ["The", "A", "An", "No article"],
+      "correctIndex": 0,
+      "explanation": "Names of mountain ranges, unlike single peaks, take the definite article.",
+      "difficulty": "MEDIUM",
+      "topic": "articles"
+    },
+    {
+      "text": "____ Holy Quran is a complete code of life.",
+      "options": ["A", "An", "The", "No article"],
+      "correctIndex": 2,
+      "explanation": "Names of sacred books take the definite article 'the'.",
+      "difficulty": "MEDIUM",
+      "topic": "articles"
+    },
+    {
+      "text": "She has been teaching in this college ____ 2010.",
+      "options": ["for", "from", "in", "since"],
+      "correctIndex": 3,
+      "explanation": "'Since' is used with a point of time, while 'for' is used with a length of time.",
+      "difficulty": "EASY",
+      "topic": "prepositions"
+    },
+    {
+      "text": "He is good ____ mathematics.",
+      "options": ["in", "on", "at", "for"],
+      "correctIndex": 2,
+      "explanation": "The adjective 'good' takes the preposition 'at' when it refers to skill in a subject or activity.",
+      "difficulty": "EASY",
+      "topic": "prepositions"
+    },
+    {
+      "text": "She is married ____ a doctor.",
+      "options": ["to", "with", "by", "for"],
+      "correctIndex": 0,
+      "explanation": "The standard collocation is 'married to' a person.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "The clerk was accused ____ theft.",
+      "options": ["for", "of", "with", "from"],
+      "correctIndex": 1,
+      "explanation": "One is accused of an offence, although one is charged with it.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "Distribute these sweets ____ the two boys.",
+      "options": ["among", "in", "over", "between"],
+      "correctIndex": 3,
+      "explanation": "'Between' is used for two persons or things and 'among' for more than two.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "The book is divided ____ five chapters.",
+      "options": ["in", "among", "into", "by"],
+      "correctIndex": 2,
+      "explanation": "'Divide into' shows the parts something is separated in to.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "He congratulated me ____ my success.",
+      "options": ["on", "for", "at", "about"],
+      "correctIndex": 0,
+      "explanation": "The verb 'congratulate' takes the preposition 'on' before the occasion.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "She insisted ____ going alone.",
+      "options": ["for", "on", "to", "at"],
+      "correctIndex": 1,
+      "explanation": "'Insist' is followed by 'on' and then a gerund.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "I have no objection ____ your proposal.",
+      "options": ["against", "on", "for", "to"],
+      "correctIndex": 3,
+      "explanation": "The noun 'objection' is followed by the preposition 'to'.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "He is senior ____ me in the department.",
+      "options": ["than", "from", "to", "over"],
+      "correctIndex": 2,
+      "explanation": "Latin comparatives such as senior, junior, superior and inferior take 'to', never 'than'.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "The hall was crowded ____ people.",
+      "options": ["with", "by", "of", "from"],
+      "correctIndex": 0,
+      "explanation": "'Crowded with' is the fixed collocation for a place full of people or things.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "She apologised ____ her mistake.",
+      "options": ["on", "for", "about", "of"],
+      "correctIndex": 1,
+      "explanation": "One apologises for a fault and to a person.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "He is fond ____ classical music.",
+      "options": ["for", "with", "in", "of"],
+      "correctIndex": 3,
+      "explanation": "The adjective 'fond' is always followed by 'of'.",
+      "difficulty": "EASY",
+      "topic": "prepositions"
+    },
+    {
+      "text": "The child is entirely dependent ____ his parents.",
+      "options": ["with", "at", "on", "from"],
+      "correctIndex": 2,
+      "explanation": "'Dependent' takes the preposition 'on' before the person or thing relied upon.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "The prisoners were deprived ____ their basic rights.",
+      "options": ["of", "from", "with", "by"],
+      "correctIndex": 0,
+      "explanation": "'Deprive' is followed by 'of' before the thing taken away.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "The suspect was charged ____ murder.",
+      "options": ["of", "with", "for", "in"],
+      "correctIndex": 1,
+      "explanation": "A person is charged with an offence, though accused of it.",
+      "difficulty": "HARD",
+      "topic": "prepositions"
+    },
+    {
+      "text": "Pakistan came into being ____ 14 August 1947.",
+      "options": ["in", "at", "by", "on"],
+      "correctIndex": 3,
+      "explanation": "'On' is used with particular dates and days; 'in' is used with months and years.",
+      "difficulty": "EASY",
+      "topic": "prepositions"
+    },
+    {
+      "text": "The class begins ____ eight o'clock every morning.",
+      "options": ["in", "on", "at", "by"],
+      "correctIndex": 2,
+      "explanation": "'At' is used with an exact clock time.",
+      "difficulty": "EASY",
+      "topic": "prepositions"
+    },
+    {
+      "text": "The rain prevented us ____ going out.",
+      "options": ["from", "to", "of", "for"],
+      "correctIndex": 0,
+      "explanation": "'Prevent someone from doing something' is the fixed pattern.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "He has completely recovered ____ his illness.",
+      "options": ["of", "from", "with", "by"],
+      "correctIndex": 1,
+      "explanation": "'Recover' takes 'from' before an illness or setback.",
+      "difficulty": "MEDIUM",
+      "topic": "prepositions"
+    },
+    {
+      "text": "A true artist is indifferent ____ criticism.",
+      "options": ["for", "about", "with", "to"],
+      "correctIndex": 3,
+      "explanation": "The adjective 'indifferent' is followed by 'to'.",
+      "difficulty": "HARD",
+      "topic": "prepositions"
+    },
+    {
+      "text": "Each of the boys ____ given a prize.",
+      "options": ["was", "were", "have been", "are"],
+      "correctIndex": 0,
+      "explanation": "'Each of' is followed by a plural noun but always takes a singular verb.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Neither of the answers ____ correct.",
+      "options": ["are", "is", "were", "have been"],
+      "correctIndex": 1,
+      "explanation": "'Neither of' refers to one of two and therefore takes a singular verb.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "The news ____ very disturbing.",
+      "options": ["are", "were", "is", "have been"],
+      "correctIndex": 2,
+      "explanation": "'News' is plural in form but singular in meaning and takes a singular verb.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Mathematics ____ my favourite subject.",
+      "options": ["are", "were", "have been", "is"],
+      "correctIndex": 3,
+      "explanation": "Names of subjects ending in -ics take a singular verb.",
+      "difficulty": "EASY",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Ten miles ____ a long distance to walk.",
+      "options": ["is", "are", "were", "have been"],
+      "correctIndex": 0,
+      "explanation": "A plural expression of distance, weight or amount treated as one whole takes a singular verb.",
+      "difficulty": "HARD",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "A number of students ____ absent today.",
+      "options": ["is", "was", "are", "has been"],
+      "correctIndex": 2,
+      "explanation": "'A number of' means 'many' and therefore takes a plural verb.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "The number of students in this class ____ fifty.",
+      "options": ["are", "is", "were", "have been"],
+      "correctIndex": 1,
+      "explanation": "'The number' is a singular noun phrase and takes a singular verb, unlike 'a number of'.",
+      "difficulty": "HARD",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Bread and butter ____ a wholesome breakfast.",
+      "options": ["are", "were", "have been", "is"],
+      "correctIndex": 3,
+      "explanation": "Two nouns joined by 'and' that name a single idea or dish take a singular verb.",
+      "difficulty": "HARD",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Neither the teacher nor the students ____ present in the hall.",
+      "options": ["was", "were", "is", "has been"],
+      "correctIndex": 1,
+      "explanation": "With 'neither ... nor' the verb agrees with the subject nearer to it, here the plural 'students'.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "One of my friends ____ a doctor in Multan.",
+      "options": ["is", "are", "were", "have been"],
+      "correctIndex": 0,
+      "explanation": "The subject is 'one', not 'friends', so the verb is singular.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "The quality of these mangoes ____ not good.",
+      "options": ["are", "were", "is", "have been"],
+      "correctIndex": 2,
+      "explanation": "The verb agrees with the head noun 'quality', not with the noun in the intervening phrase.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "The cattle ____ grazing in the field.",
+      "options": ["is", "was", "has been", "are"],
+      "correctIndex": 3,
+      "explanation": "'Cattle' is a collective noun that is always plural in construction.",
+      "difficulty": "HARD",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Everybody ____ his own opinion about the matter.",
+      "options": ["have", "has", "are having", "have had"],
+      "correctIndex": 1,
+      "explanation": "Indefinite pronouns like everybody, somebody and nobody are singular.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Not only the students but also the teacher ____ absent.",
+      "options": ["was", "were", "are", "have been"],
+      "correctIndex": 0,
+      "explanation": "With 'not only ... but also' the verb agrees with the nearer subject, here the singular 'teacher'.",
+      "difficulty": "HARD",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Each boy and each girl ____ been given a separate book.",
+      "options": ["have", "are", "has", "were"],
+      "correctIndex": 2,
+      "explanation": "Singular nouns preceded by 'each' or 'every' and joined by 'and' still take a singular verb.",
+      "difficulty": "HARD",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "My trousers ____ torn at the knee.",
+      "options": ["is", "was", "has been", "are"],
+      "correctIndex": 3,
+      "explanation": "Nouns naming double garments or instruments, such as trousers and scissors, take a plural verb.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Two-thirds of the work ____ been completed.",
+      "options": ["have", "has", "are", "were"],
+      "correctIndex": 1,
+      "explanation": "With a fraction the verb follows the noun that comes after 'of', and 'work' is uncountable and singular.",
+      "difficulty": "HARD",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "There ____ many people in the hall.",
+      "options": ["are", "is", "was", "has been"],
+      "correctIndex": 0,
+      "explanation": "In 'there' sentences the verb agrees with the real subject that follows it, here plural 'people'.",
+      "difficulty": "EASY",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Slow and steady ____ the race.",
+      "options": ["win", "are winning", "wins", "have won"],
+      "correctIndex": 2,
+      "explanation": "The two adjectives express one idea and are treated as a singular subject.",
+      "difficulty": "EASY",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Either of the two roads ____ to the station.",
+      "options": ["lead", "are leading", "have led", "leads"],
+      "correctIndex": 3,
+      "explanation": "'Either of' means one or the other of two and takes a singular verb.",
+      "difficulty": "MEDIUM",
+      "topic": "subject-verb-agreement"
+    },
+    {
+      "text": "Between you and ____, the plan is bound to fail.",
+      "options": ["I", "myself", "me", "mine"],
+      "correctIndex": 2,
+      "explanation": "A pronoun after a preposition must be in the objective case, so 'me' is required.",
+      "difficulty": "MEDIUM",
+      "topic": "pronouns"
+    },
+    {
+      "text": "Each of the girls did ____ best in the competition.",
+      "options": ["her", "their", "them", "hers"],
+      "correctIndex": 0,
+      "explanation": "'Each' is singular, and since the reference is to girls the singular possessive 'her' is used.",
+      "difficulty": "MEDIUM",
+      "topic": "pronouns"
+    },
+    {
+      "text": "This pen is ____; I bought it yesterday.",
+      "options": ["my", "mine", "me", "myself"],
+      "correctIndex": 1,
+      "explanation": "A possessive pronoun standing alone after the verb is 'mine', not the adjective 'my'.",
+      "difficulty": "EASY",
+      "topic": "pronouns"
+    },
+    {
+      "text": "He hurt ____ while cutting vegetables.",
+      "options": ["him", "his", "he", "himself"],
+      "correctIndex": 3,
+      "explanation": "When the subject and the object are the same person, the reflexive pronoun is used.",
+      "difficulty": "EASY",
+      "topic": "pronouns"
+    },
+    {
+      "text": "Neither of the boys has done ____ homework.",
+      "options": ["their", "them", "his", "theirs"],
+      "correctIndex": 2,
+      "explanation": "'Neither of' is singular, so the singular possessive adjective agrees with it.",
+      "difficulty": "MEDIUM",
+      "topic": "pronouns"
+    },
+    {
+      "text": "The dog wagged ____ tail happily.",
+      "options": ["its", "it's", "their", "him"],
+      "correctIndex": 0,
+      "explanation": "'Its' is the possessive adjective, while 'it's' is the contraction of 'it is'.",
+      "difficulty": "EASY",
+      "topic": "pronouns"
+    },
+    {
+      "text": "____ book is lying on the table?",
+      "options": ["Who's", "Whose", "Whom", "Which's"],
+      "correctIndex": 1,
+      "explanation": "'Whose' is the interrogative possessive form; 'who's' means 'who is'.",
+      "difficulty": "MEDIUM",
+      "topic": "pronouns"
+    },
+    {
+      "text": "The man ____ helped me was a complete stranger.",
+      "options": ["which", "whom", "what", "who"],
+      "correctIndex": 3,
+      "explanation": "'Who' is the relative pronoun used for persons in the subject position.",
+      "difficulty": "MEDIUM",
+      "topic": "pronouns"
+    },
+    {
+      "text": "To ____ should I address this letter?",
+      "options": ["who", "whose", "whom", "which"],
+      "correctIndex": 2,
+      "explanation": "After a preposition the objective form 'whom' is used.",
+      "difficulty": "MEDIUM",
+      "topic": "pronouns"
+    },
+    {
+      "text": "The students submitted ____ assignments before the deadline.",
+      "options": ["their", "there", "they're", "theirs"],
+      "correctIndex": 0,
+      "explanation": "'Their' is the possessive adjective before a noun; 'there' shows place and 'they're' means 'they are'.",
+      "difficulty": "EASY",
+      "topic": "pronouns"
+    },
+    {
+      "text": "One should keep ____ promises.",
+      "options": ["their", "one's", "its", "them"],
+      "correctIndex": 1,
+      "explanation": "The indefinite pronoun 'one' is referred back to by 'one's'.",
+      "difficulty": "HARD",
+      "topic": "pronouns"
+    },
+    {
+      "text": "We enjoyed ____ at the wedding.",
+      "options": ["us", "our", "ourself", "ourselves"],
+      "correctIndex": 3,
+      "explanation": "'Enjoy' used in this sense needs a reflexive object, and the plural reflexive of 'we' is 'ourselves'.",
+      "difficulty": "MEDIUM",
+      "topic": "pronouns"
+    },
+    {
+      "text": "Those books on the top shelf are ____.",
+      "options": ["their", "them", "theirs", "they're"],
+      "correctIndex": 2,
+      "explanation": "'Theirs' is the possessive pronoun used without a following noun.",
+      "difficulty": "MEDIUM",
+      "topic": "pronouns"
+    },
+    {
+      "text": "The house ____ roof is red belongs to my uncle.",
+      "options": ["whose", "which", "who's", "that"],
+      "correctIndex": 0,
+      "explanation": "'Whose' serves as the possessive relative pronoun for things as well as persons.",
+      "difficulty": "HARD",
+      "topic": "pronouns"
+    },
+    {
+      "text": "He has ____ money; he cannot even pay his rent.",
+      "options": ["a little", "little", "few", "a few"],
+      "correctIndex": 1,
+      "explanation": "'Little' with an uncountable noun has the negative sense of hardly any, which the second clause confirms.",
+      "difficulty": "MEDIUM",
+      "topic": "determiners"
+    },
+    {
+      "text": "He has ____ friends in this city, so he is never lonely.",
+      "options": ["few", "little", "a few", "a little"],
+      "correctIndex": 2,
+      "explanation": "'A few' has the positive sense of some, which fits a countable noun and the meaning of the sentence.",
+      "difficulty": "MEDIUM",
+      "topic": "determiners"
+    },
+    {
+      "text": "How ____ sugar do you need for the cake?",
+      "options": ["much", "many", "few", "several"],
+      "correctIndex": 0,
+      "explanation": "'Much' is used with uncountable nouns such as sugar.",
+      "difficulty": "EASY",
+      "topic": "determiners"
+    },
+    {
+      "text": "There are not ____ books on this shelf.",
+      "options": ["much", "little", "a little", "many"],
+      "correctIndex": 3,
+      "explanation": "'Many' is used with plural countable nouns.",
+      "difficulty": "EASY",
+      "topic": "determiners"
+    },
+    {
+      "text": "He did not give me ____ help at all.",
+      "options": ["some", "several", "any", "few"],
+      "correctIndex": 2,
+      "explanation": "'Any' is the form normally used with an uncountable noun in a negative sentence.",
+      "difficulty": "MEDIUM",
+      "topic": "determiners"
+    },
+    {
+      "text": "____ boy in the class has been given a book.",
+      "options": ["Every", "All", "Both", "Many"],
+      "correctIndex": 0,
+      "explanation": "'Every' is used before a singular countable noun taking a singular verb.",
+      "difficulty": "MEDIUM",
+      "topic": "determiners"
+    },
+    {
+      "text": "____ of the two sisters is a doctor; the other is an engineer.",
+      "options": ["Both", "One", "Either", "Neither"],
+      "correctIndex": 1,
+      "explanation": "The phrase 'the other' shows that exactly one of the two is meant.",
+      "difficulty": "HARD",
+      "topic": "determiners"
+    },
+    {
+      "text": "____ of these mangoes are ripe.",
+      "options": ["Each", "Every", "All", "Much"],
+      "correctIndex": 2,
+      "explanation": "Only 'all' takes the plural verb 'are'; 'each' and 'every' require a singular verb.",
+      "difficulty": "MEDIUM",
+      "topic": "determiners"
+    },
+    {
+      "text": "He gave me ____ advice about my career.",
+      "options": ["a", "many", "few", "some"],
+      "correctIndex": 3,
+      "explanation": "'Advice' is uncountable, so it takes 'some' and cannot take 'a', 'many' or 'few'.",
+      "difficulty": "EASY",
+      "topic": "determiners"
+    },
+    {
+      "text": "____ of the three candidates was selected for the post.",
+      "options": ["None", "Neither", "Either", "Both"],
+      "correctIndex": 0,
+      "explanation": "'None' is used for more than two, while 'neither' and 'either' are restricted to two.",
+      "difficulty": "HARD",
+      "topic": "determiners"
+    },
+    {
+      "text": "He has ____ knowledge of Arabic and can read the text easily.",
+      "options": ["few", "a little", "a few", "many"],
+      "correctIndex": 1,
+      "explanation": "'A little' is the positive form used with an uncountable noun such as knowledge.",
+      "difficulty": "MEDIUM",
+      "topic": "determiners"
+    },
+    {
+      "text": "I do not like ____ of these two shirts.",
+      "options": ["both", "neither", "either", "any"],
+      "correctIndex": 2,
+      "explanation": "After a negative verb 'either' is used for two things; 'neither' would make the sentence doubly negative.",
+      "difficulty": "HARD",
+      "topic": "determiners"
+    },
+    {
+      "text": "There is not ____ milk left in the jug.",
+      "options": ["many", "few", "a few", "much"],
+      "correctIndex": 3,
+      "explanation": "'Much' is the quantifier used with uncountable nouns in negative sentences.",
+      "difficulty": "EASY",
+      "topic": "determiners"
+    },
+    {
+      "text": "He is a doctor, ____?",
+      "options": ["isn't he", "doesn't he", "is he", "isn't it"],
+      "correctIndex": 0,
+      "explanation": "A positive statement takes a negative tag using the same auxiliary and subject.",
+      "difficulty": "EASY",
+      "topic": "question-tags"
+    },
+    {
+      "text": "You will come tomorrow, ____?",
+      "options": ["will you", "won't you", "don't you", "aren't you"],
+      "correctIndex": 1,
+      "explanation": "The auxiliary 'will' in a positive statement is repeated in the negative tag as 'won't'.",
+      "difficulty": "EASY",
+      "topic": "question-tags"
+    },
+    {
+      "text": "Let's go for a walk, ____?",
+      "options": ["will we", "don't we", "shall we", "shan't we"],
+      "correctIndex": 2,
+      "explanation": "A sentence beginning with 'Let's' always takes the tag 'shall we'.",
+      "difficulty": "MEDIUM",
+      "topic": "question-tags"
+    },
+    {
+      "text": "Open the door, ____?",
+      "options": ["shall you", "do you", "don't you", "will you"],
+      "correctIndex": 3,
+      "explanation": "An imperative sentence takes the tag 'will you'.",
+      "difficulty": "MEDIUM",
+      "topic": "question-tags"
+    },
+    {
+      "text": "She never comes late, ____?",
+      "options": ["does she", "doesn't she", "did she", "is she"],
+      "correctIndex": 0,
+      "explanation": "'Never' makes the statement negative in meaning, so the tag is positive.",
+      "difficulty": "MEDIUM",
+      "topic": "question-tags"
+    },
+    {
+      "text": "I am right, ____?",
+      "options": ["amn't I", "aren't I", "isn't it", "are not I"],
+      "correctIndex": 1,
+      "explanation": "The accepted negative tag for 'I am' is 'aren't I', since 'amn't' is not used in standard English.",
+      "difficulty": "HARD",
+      "topic": "question-tags"
+    },
+    {
+      "text": "Nobody phoned while I was out, ____?",
+      "options": ["did he", "didn't they", "did they", "didn't he"],
+      "correctIndex": 2,
+      "explanation": "'Nobody' is negative in sense and is taken up by 'they' in a positive tag.",
+      "difficulty": "HARD",
+      "topic": "question-tags"
+    },
+    {
+      "text": "There is no water in the jug, ____?",
+      "options": ["isn't there", "is it", "isn't it", "is there"],
+      "correctIndex": 3,
+      "explanation": "'No' makes the statement negative, so the tag is positive and keeps the introductory 'there'.",
+      "difficulty": "MEDIUM",
+      "topic": "question-tags"
+    },
+    {
+      "text": "He has finished his work, ____?",
+      "options": ["hasn't he", "doesn't he", "isn't he", "haven't he"],
+      "correctIndex": 0,
+      "explanation": "The auxiliary 'has' of the present perfect is repeated in the negative tag.",
+      "difficulty": "EASY",
+      "topic": "question-tags"
+    },
+    {
+      "text": "Everyone has left the hall, ____?",
+      "options": ["hasn't he", "haven't they", "isn't it", "don't they"],
+      "correctIndex": 1,
+      "explanation": "'Everyone' takes a singular verb but is referred to by 'they' in the tag.",
+      "difficulty": "HARD",
+      "topic": "question-tags"
+    },
+    {
+      "text": "He used to smoke, ____?",
+      "options": ["doesn't he", "hasn't he", "didn't he", "wasn't he"],
+      "correctIndex": 2,
+      "explanation": "'Used to' refers to past habit and takes the auxiliary 'did' in the tag.",
+      "difficulty": "HARD",
+      "topic": "question-tags"
+    },
+    {
+      "text": "She can swim across the river, ____?",
+      "options": ["cannot she", "doesn't she", "couldn't she", "can't she"],
+      "correctIndex": 3,
+      "explanation": "The modal 'can' is repeated in the contracted negative tag 'can't she'.",
+      "difficulty": "EASY",
+      "topic": "question-tags"
+    }
+  ]
+}

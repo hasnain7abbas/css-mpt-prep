@@ -1,72 +1,86 @@
 import type { Metadata, Viewport } from "next";
-import { Plus_Jakarta_Sans, Inter, JetBrains_Mono } from "next/font/google";
+import { Fraunces, IBM_Plex_Sans, IBM_Plex_Mono, Noto_Nastaliq_Urdu } from "next/font/google";
 import { Toaster } from "sonner";
 import "./globals.css";
 
-const jakarta = Plus_Jakarta_Sans({
-  variable: "--font-jakarta",
+// Display: a serif with optical sizing — gazette masthead, not SaaS sans.
+const fraunces = Fraunces({
+  variable: "--font-fraunces",
   subsets: ["latin"],
-  weight: ["600", "700", "800"],
+  weight: ["600", "700", "900"],
+  axes: ["SOFT", "WONK"],
   display: "swap",
 });
 
-const inter = Inter({
-  variable: "--font-inter",
+const plex = IBM_Plex_Sans({
+  variable: "--font-plex",
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  display: "swap",
+});
+
+// Timers, scores and the countdown are set in mono — they are instrument
+// readings, not prose.
+const plexMono = IBM_Plex_Mono({
+  variable: "--font-plex-mono",
   subsets: ["latin"],
   weight: ["400", "500", "600"],
   display: "swap",
 });
 
-const jetbrains = JetBrains_Mono({
-  variable: "--font-jetbrains",
-  subsets: ["latin"],
-  weight: ["500"],
+// Urdu MCQs render in proper Nastaliq rather than a fallback Naskh.
+const nastaliq = Noto_Nastaliq_Urdu({
+  variable: "--font-nastaliq",
+  subsets: ["arabic"],
+  weight: ["400", "600"],
   display: "swap",
 });
 
-const SITE = "https://fiajobprep.com";
+const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://cssmptprep.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),
   title: {
-    default: "FIA Job Prep — Prepare Smart, Get Selected",
-    template: "%s · FIA Job Prep",
+    default: "CSS MPT Prep — Clear the FPSC screening test",
+    template: "%s · CSS MPT Prep",
   },
   description:
-    "Mobile-first MCQ practice for FIA (Federal Investigation Agency) jobs in Pakistan. 250+ past-paper MCQs, timed mocks, instant explanations, and progress tracking.",
+    "Preparation for the FPSC MCQ-Based Preliminary Test (MPT) for CSS 2027 — 27 September 2026. Full-length 200-question mocks on the exact FPSC weighting, verified MCQs across all seven subjects, recalled past papers and weak-area drills.",
   keywords: [
-    "FIA jobs",
-    "FIA test preparation",
-    "FPSC MCQs",
-    "FIA inspector past papers",
-    "Pakistan job test prep",
+    "CSS MPT",
+    "MPT preparation",
+    "FPSC screening test",
+    "CSS 2027",
+    "MCQ based preliminary test",
+    "CSS MPT past papers",
+    "CSS screening test Pakistan",
   ],
-  applicationName: "FIA Job Prep",
+  applicationName: "CSS MPT Prep",
   openGraph: {
-    title: "FIA Job Prep — Prepare Smart, Get Selected",
+    title: "CSS MPT Prep — Clear the FPSC screening test",
     description:
-      "Practice real-style MCQs, timed mocks, and past papers. Track progress like a future officer.",
+      "200-question mocks on the official FPSC weighting, verified MCQs in all seven subjects, and recalled past papers. Built for the 27 September 2026 MPT.",
     url: SITE,
-    siteName: "FIA Job Prep",
+    siteName: "CSS MPT Prep",
     locale: "en_PK",
     type: "website",
   },
-  twitter: { card: "summary_large_image", title: "FIA Job Prep" },
+  twitter: { card: "summary_large_image", title: "CSS MPT Prep" },
   icons: { icon: "/logo.svg" },
 };
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: dark)", color: "#0f172a" },
-    { media: "(prefers-color-scheme: light)", color: "#10b981" },
+    { media: "(prefers-color-scheme: dark)", color: "#12161c" },
+    { media: "(prefers-color-scheme: light)", color: "#fbf9f4" },
   ],
   width: "device-width",
   initialScale: 1,
 };
 
-// Runs before first paint: dark is the default; only an explicit "light"
-// preference (saved by the toggle) opts out. Prevents a light→dark flash.
-const themeInitScript = `(function(){try{var t=localStorage.getItem("theme");if(t==="light"){document.documentElement.classList.remove("dark");}else{document.documentElement.classList.add("dark");}}catch(e){}})();`;
+// Runs before first paint. Paper (light) is the default; "dark" is an explicit
+// choice for night study, saved by the toggle. Prevents a theme flash.
+const themeInitScript = `(function(){try{var t=localStorage.getItem("theme");if(t==="dark"){document.documentElement.classList.add("dark");}else{document.documentElement.classList.remove("dark");}}catch(e){}})();`;
 
 export default function RootLayout({
   children,
@@ -75,12 +89,13 @@ export default function RootLayout({
     <html
       lang="en"
       suppressHydrationWarning
-      className={`dark ${jakarta.variable} ${inter.variable} ${jetbrains.variable} h-full antialiased`}
+      className={`${fraunces.variable} ${plex.variable} ${plexMono.variable} ${nastaliq.variable} h-full antialiased`}
     >
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
       </head>
-      <body className="min-h-full flex flex-col bg-surface-muted text-ink">
+      <body className="min-h-full flex flex-col bg-surface text-ink">
+        <div className="grain" aria-hidden />
         {children}
         <Toaster richColors position="top-center" closeButton theme="system" />
       </body>

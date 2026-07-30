@@ -1,0 +1,1436 @@
+{
+  "subject": "english",
+  "unit": "eng-idioms-phrasals",
+  "questions": [
+    {
+      "text": "What does the idiom 'to bury the hatchet' mean?",
+      "options": [
+        "To make peace",
+        "To hide a weapon",
+        "To begin a quarrel",
+        "To dig a grave"
+      ],
+      "correctIndex": 0,
+      "explanation": "The phrase comes from the Native American custom of burying weapons when hostilities ended, so it means to settle a dispute and become friendly again.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'a wild goose chase' mean?",
+      "options": [
+        "A hunting expedition",
+        "A profitable venture",
+        "A futile search",
+        "A long sea voyage"
+      ],
+      "correctIndex": 2,
+      "explanation": "A wild goose chase is a pursuit that has no chance of success, because a wild goose can never be caught by chasing it.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'a bolt from the blue' mean?",
+      "options": [
+        "A welcome piece of news",
+        "A sudden and unexpected event",
+        "A long-awaited reward",
+        "A carefully planned attack"
+      ],
+      "correctIndex": 1,
+      "explanation": "It refers to lightning striking out of a clear blue sky, and therefore to something that happens without any warning.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to smell a rat' mean?",
+      "options": [
+        "To search a house",
+        "To catch a thief",
+        "To notice a bad odour",
+        "To suspect that something is wrong"
+      ],
+      "correctIndex": 3,
+      "explanation": "The expression describes the sense that something dishonest or deceitful is going on, even before there is proof.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to bell the cat' mean?",
+      "options": [
+        "To make a great noise",
+        "To flatter a superior",
+        "To undertake a risky task for the benefit of others",
+        "To avoid all responsibility"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the fable the mice agreed that a bell should be tied round the cat's neck, but none dared to do it, so the phrase means taking on a dangerous duty for the common good.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'once in a blue moon' mean?",
+      "options": [
+        "Very rarely",
+        "Very often",
+        "Only at night",
+        "At fixed intervals"
+      ],
+      "correctIndex": 0,
+      "explanation": "A blue moon is an unusual occurrence, so the phrase indicates something that happens extremely seldom.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to beat about the bush' mean?",
+      "options": [
+        "To search thoroughly",
+        "To speak frankly",
+        "To work in a garden",
+        "To avoid coming to the point"
+      ],
+      "correctIndex": 3,
+      "explanation": "It describes talking round a subject instead of dealing with it directly.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'a white elephant' mean?",
+      "options": [
+        "A rare and sacred animal",
+        "A possession that is costly to keep and of no use",
+        "A symbol of good luck",
+        "An unusually large building"
+      ],
+      "correctIndex": 1,
+      "explanation": "The phrase comes from the ruinous expense of keeping a sacred white elephant given as a royal gift, and now means a burdensome and useless asset.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to let the cat out of the bag' mean?",
+      "options": [
+        "To disclose a secret",
+        "To set an animal free",
+        "To play a practical joke",
+        "To commit a serious blunder"
+      ],
+      "correctIndex": 0,
+      "explanation": "It means to reveal information that was meant to be kept hidden.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to hit the nail on the head' mean?",
+      "options": [
+        "To punish someone severely",
+        "To finish a job in haste",
+        "To work with tools",
+        "To say exactly the right thing"
+      ],
+      "correctIndex": 3,
+      "explanation": "It means to describe a situation or state a point with complete accuracy.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to burn the midnight oil' mean?",
+      "options": [
+        "To waste money",
+        "To sleep very early",
+        "To work or study late into the night",
+        "To keep a lamp burning"
+      ],
+      "correctIndex": 2,
+      "explanation": "Before electricity, working after dark meant burning oil in a lamp, so the phrase means labouring far into the night.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to be at daggers drawn' mean?",
+      "options": [
+        "To be bitterly hostile to each other",
+        "To be on very friendly terms",
+        "To be fully armed for battle",
+        "To be holding secret talks"
+      ],
+      "correctIndex": 0,
+      "explanation": "The image of two people with daggers unsheathed conveys open and bitter enmity.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'a red-letter day' mean?",
+      "options": [
+        "A day of mourning",
+        "A memorable and joyful day",
+        "A day of hard labour",
+        "An unlucky day"
+      ],
+      "correctIndex": 1,
+      "explanation": "Important feast days were marked in red on old calendars, so the phrase means an especially happy or significant day.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to add fuel to the fire' mean?",
+      "options": [
+        "To settle a dispute",
+        "To offer timely help",
+        "To light a lamp",
+        "To make a bad situation worse"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adding fuel makes a fire burn more fiercely, so the phrase means aggravating an already difficult quarrel or situation.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to cry over spilt milk' mean?",
+      "options": [
+        "To weep for joy",
+        "To complain about high prices",
+        "To regret uselessly what cannot be undone",
+        "To waste food carelessly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Once milk is spilt it cannot be recovered, so the phrase refers to pointless lamenting over a loss already suffered.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to be in hot water' mean?",
+      "options": [
+        "To be in trouble",
+        "To be in comfort",
+        "To be in a great hurry",
+        "To be in good health"
+      ],
+      "correctIndex": 0,
+      "explanation": "The phrase means being in difficulty or facing disgrace because of something one has done.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to make both ends meet' mean?",
+      "options": [
+        "To join two ropes",
+        "To complete a difficult task",
+        "To reconcile two rivals",
+        "To live within one's income"
+      ],
+      "correctIndex": 3,
+      "explanation": "It refers to managing to cover one's expenses with the limited money one earns.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'a snake in the grass' mean?",
+      "options": [
+        "A poisonous plant",
+        "A hidden enemy",
+        "A clever plan",
+        "A cowardly soldier"
+      ],
+      "correctIndex": 1,
+      "explanation": "It describes a treacherous person who pretends friendship while secretly working against one.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to pull someone's leg' mean?",
+      "options": [
+        "To injure someone",
+        "To help someone walk",
+        "To make fun of someone",
+        "To drag someone away"
+      ],
+      "correctIndex": 2,
+      "explanation": "It means to tease a person playfully by telling him something untrue.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to throw in the towel' mean?",
+      "options": [
+        "To admit defeat",
+        "To begin a fight",
+        "To challenge an opponent",
+        "To clean up a mess"
+      ],
+      "correctIndex": 0,
+      "explanation": "A boxer's second throws a towel into the ring to stop the contest, so the phrase means giving up the struggle.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to rest on one's laurels' mean?",
+      "options": [
+        "To take a short rest",
+        "To receive a public award",
+        "To retire from service",
+        "To be satisfied with past success and stop striving"
+      ],
+      "correctIndex": 3,
+      "explanation": "Laurel wreaths were given to victors, so resting on them means relying on earlier achievements instead of making fresh effort.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to show the white feather' mean?",
+      "options": [
+        "To display purity of character",
+        "To behave in a cowardly manner",
+        "To offer terms of peace",
+        "To claim a victory"
+      ],
+      "correctIndex": 1,
+      "explanation": "A white feather in a gamecock's tail was taken as a sign of poor breeding, and the phrase came to mean showing cowardice.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to read between the lines' mean?",
+      "options": [
+        "To read very quickly",
+        "To read aloud to others",
+        "To understand the hidden meaning",
+        "To skip unimportant lines"
+      ],
+      "correctIndex": 2,
+      "explanation": "It means grasping what is implied rather than what is actually written or said.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to be all ears' mean?",
+      "options": [
+        "To listen with full attention",
+        "To be hard of hearing",
+        "To talk without pause",
+        "To feel deeply annoyed"
+      ],
+      "correctIndex": 0,
+      "explanation": "The phrase means being eager and completely attentive to what is being said.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'a fair-weather friend' mean?",
+      "options": [
+        "A friend of long standing",
+        "A friend who lives abroad",
+        "A friend who gives good advice",
+        "A friend who deserts one in difficulty"
+      ],
+      "correctIndex": 3,
+      "explanation": "Such a friend stays only while conditions are pleasant and disappears when trouble comes.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'the lion's share' mean?",
+      "options": [
+        "An equal share",
+        "The largest share",
+        "The smallest share",
+        "A share obtained by lot"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Aesop's fable the lion claims almost everything, so the phrase means much the greater part.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to break the ice' mean?",
+      "options": [
+        "To end a friendship",
+        "To start a quarrel",
+        "To break an awkward silence and begin conversation",
+        "To cool a drink"
+      ],
+      "correctIndex": 2,
+      "explanation": "It means saying or doing something that relieves the stiffness of a first meeting.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to keep the wolf from the door' mean?",
+      "options": [
+        "To manage to avoid hunger and poverty",
+        "To keep wild animals away",
+        "To guard a house at night",
+        "To drive away an enemy"
+      ],
+      "correctIndex": 0,
+      "explanation": "The wolf stands for starvation, so the phrase means earning just enough to survive.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to burn one's boats' mean?",
+      "options": [
+        "To destroy public property",
+        "To waste one's resources",
+        "To travel by sea",
+        "To cut off all means of retreat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Commanders who burnt their ships after landing left their troops no way back, so the phrase means committing oneself irreversibly.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to carry coals to Newcastle' mean?",
+      "options": [
+        "To trade at a great profit",
+        "To do something entirely unnecessary",
+        "To undertake a long journey",
+        "To work in a coal mine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Newcastle was a great coal-producing centre, so taking coal there is a pointless and superfluous act.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'Hobson's choice' mean?",
+      "options": [
+        "A choice among many good options",
+        "A decision made by drawing lots",
+        "No real alternative at all",
+        "A difficult moral decision"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thomas Hobson let customers take only the horse nearest the stable door, so the phrase means taking what is offered or nothing.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'born with a silver spoon in one's mouth' mean?",
+      "options": [
+        "Born into a rich family",
+        "Born with a physical defect",
+        "Born unusually intelligent",
+        "Born in a foreign country"
+      ],
+      "correctIndex": 0,
+      "explanation": "The phrase describes someone who inherits wealth and privilege at birth.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'a dark horse' mean?",
+      "options": [
+        "A dishonest dealer",
+        "A person of dark complexion",
+        "An exceptionally fast runner",
+        "A person whose abilities are unknown until tested"
+      ],
+      "correctIndex": 3,
+      "explanation": "The term comes from racing, where an unknown horse may unexpectedly win, and is applied to a competitor of hidden strength.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to have cold feet' mean?",
+      "options": [
+        "To suffer from illness",
+        "To lose one's courage at the last moment",
+        "To walk without shoes",
+        "To feel physically cold"
+      ],
+      "correctIndex": 1,
+      "explanation": "It describes a sudden loss of nerve just before doing something one had planned.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to nip in the bud' mean?",
+      "options": [
+        "To encourage growth",
+        "To gather flowers",
+        "To stop something at an early stage",
+        "To postpone a decision"
+      ],
+      "correctIndex": 2,
+      "explanation": "Removing a bud prevents the flower from forming, so the phrase means destroying a trouble before it can develop.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to pay through the nose' mean?",
+      "options": [
+        "To pay an excessively high price",
+        "To pay in easy instalments",
+        "To refuse to pay a debt",
+        "To pay money in advance"
+      ],
+      "correctIndex": 0,
+      "explanation": "The phrase means being charged far more for something than it is worth.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'crocodile tears' mean?",
+      "options": [
+        "Tears of genuine grief",
+        "Tears of great joy",
+        "A sudden fit of anger",
+        "An insincere show of sorrow"
+      ],
+      "correctIndex": 3,
+      "explanation": "The crocodile was said to weep while devouring its prey, so the phrase means pretended sympathy.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to take the bull by the horns' mean?",
+      "options": [
+        "To run away from danger",
+        "To face a difficulty boldly",
+        "To provoke a quarrel",
+        "To handle cattle skilfully"
+      ],
+      "correctIndex": 1,
+      "explanation": "It means confronting a problem directly and courageously instead of avoiding it.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'the apple of one's eye' mean?",
+      "options": [
+        "A favourite kind of fruit",
+        "A cause of constant trouble",
+        "A person who is dearly loved",
+        "A rare and costly object"
+      ],
+      "correctIndex": 2,
+      "explanation": "The phrase denotes someone cherished above all others.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to fish in troubled waters' mean?",
+      "options": [
+        "To take advantage of a disturbed situation",
+        "To work in dangerous conditions",
+        "To swim against the current",
+        "To waste one's time"
+      ],
+      "correctIndex": 0,
+      "explanation": "It means seeking personal gain from confusion or conflict among others.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to eat humble pie' mean?",
+      "options": [
+        "To eat very cheap food",
+        "To lead a simple life",
+        "To accept a small gift",
+        "To apologise humbly for a mistake"
+      ],
+      "correctIndex": 3,
+      "explanation": "It means being forced to admit one was wrong and to submit to humiliation.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'a man of straw' mean?",
+      "options": [
+        "A wealthy landowner",
+        "A person of no substance or importance",
+        "A hard-working farmer",
+        "An unusually brave soldier"
+      ],
+      "correctIndex": 1,
+      "explanation": "The phrase describes someone without real worth, resources or influence.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'a Herculean task' mean?",
+      "options": [
+        "A religious obligation",
+        "A very simple assignment",
+        "A task requiring enormous strength or effort",
+        "A dangerous sea voyage"
+      ],
+      "correctIndex": 2,
+      "explanation": "It alludes to the twelve labours of Hercules and therefore means work of extraordinary difficulty.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to leave no stone unturned' mean?",
+      "options": [
+        "To try every possible means",
+        "To destroy everything in one's path",
+        "To search a building thoroughly",
+        "To work in a careless manner"
+      ],
+      "correctIndex": 0,
+      "explanation": "It means making every conceivable effort to achieve an object.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'at the eleventh hour' mean?",
+      "options": [
+        "Very early in the day",
+        "Exactly at midnight",
+        "After an unusually long delay",
+        "At the last possible moment"
+      ],
+      "correctIndex": 3,
+      "explanation": "The phrase, drawn from the parable of the labourers, means just before it is too late.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to steal a march on someone' mean?",
+      "options": [
+        "To follow someone closely",
+        "To gain an advantage over someone secretly",
+        "To rob a traveller",
+        "To join a procession"
+      ],
+      "correctIndex": 1,
+      "explanation": "An army that marched while the enemy slept gained ground unnoticed, so the phrase means getting ahead by quiet forethought.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the idiom 'to turn over a new leaf' mean?",
+      "options": [
+        "To begin reading a new book",
+        "To change one's place of residence",
+        "To change one's conduct for the better",
+        "To take up a new job"
+      ],
+      "correctIndex": 2,
+      "explanation": "The leaf is a page, and turning it means starting afresh with improved behaviour.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'yeoman's service' mean?",
+      "options": [
+        "Excellent and useful service",
+        "Ordinary unskilled labour",
+        "Compulsory military duty",
+        "Service rendered without pay"
+      ],
+      "correctIndex": 0,
+      "explanation": "Yeomen were sturdy and dependable soldiers, so the phrase means loyal and valuable help.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the expression 'the gift of the gab' mean?",
+      "options": [
+        "A generous nature",
+        "A talent for music",
+        "A keen sense of humour",
+        "The ability to speak fluently and persuasively"
+      ],
+      "correctIndex": 3,
+      "explanation": "The phrase refers to a natural talent for ready and effective speech.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'A stitch in time saves nine' mean?",
+      "options": [
+        "Sewing is a valuable skill",
+        "Timely action prevents greater trouble",
+        "Nine workers do better than one",
+        "Patience is always rewarded"
+      ],
+      "correctIndex": 1,
+      "explanation": "Repairing a small tear at once avoids a much larger repair later, so prompt action saves later labour.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'Make hay while the sun shines' mean?",
+      "options": [
+        "Farming is very hard work",
+        "One should work only in fine weather",
+        "One should use an opportunity while it lasts",
+        "Money should be saved for bad days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hay can be dried only in sunshine, so the proverb urges people to act while favourable conditions last.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'Too many cooks spoil the broth' mean?",
+      "options": [
+        "Work is spoiled when too many people interfere",
+        "Cooking demands great skill",
+        "Teamwork always produces better results",
+        "Simple food is the best food"
+      ],
+      "correctIndex": 0,
+      "explanation": "When too many persons direct a single job the result suffers.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'Barking dogs seldom bite' mean?",
+      "options": [
+        "Dogs are dangerous animals",
+        "Silence is the best policy",
+        "Anger harms the angry person",
+        "Those who threaten loudly rarely act"
+      ],
+      "correctIndex": 3,
+      "explanation": "People who make the loudest threats are usually the least likely to carry them out.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'A rolling stone gathers no moss' mean?",
+      "options": [
+        "Travelling widens one's outlook",
+        "A person who never settles down gains nothing",
+        "Constant movement keeps one healthy",
+        "Nature cannot be resisted"
+      ],
+      "correctIndex": 1,
+      "explanation": "Someone who keeps changing his place or occupation accumulates neither wealth nor standing.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'Birds of a feather flock together' mean?",
+      "options": [
+        "Birds travel in large groups",
+        "Union is always strength",
+        "People of the same character keep company",
+        "True friends are difficult to find"
+      ],
+      "correctIndex": 2,
+      "explanation": "Persons of similar tastes and habits naturally associate with one another.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'Empty vessels make the most noise' mean?",
+      "options": [
+        "Those with least knowledge talk the most",
+        "Silence is a mark of weakness",
+        "Noise disturbs serious work",
+        "An empty pot is of no use"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shallow and ignorant people are usually the loudest and most boastful talkers.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'All that glitters is not gold' mean?",
+      "options": [
+        "Gold is a very rare metal",
+        "Wealth does not bring happiness",
+        "Beauty does not last long",
+        "An attractive appearance may be deceptive"
+      ],
+      "correctIndex": 3,
+      "explanation": "Things that look valuable or splendid on the surface are not always genuinely so.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'A drowning man catches at a straw' mean?",
+      "options": [
+        "Small things are the most important",
+        "A person in desperate trouble clutches at the slightest hope",
+        "Every child should be taught to swim",
+        "Help comes when it is least expected"
+      ],
+      "correctIndex": 1,
+      "explanation": "In extreme distress a person will try even a remedy that offers almost no chance of success.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'Every cloud has a silver lining' mean?",
+      "options": [
+        "Rain is always followed by sunshine",
+        "Wealth always follows hardship",
+        "Every misfortune has some hopeful aspect",
+        "Nothing in this world lasts forever"
+      ],
+      "correctIndex": 2,
+      "explanation": "Even in the worst circumstances there is some ground for hope or comfort.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "What does the proverb 'Where there is a will there is a way' mean?",
+      "options": [
+        "Firm determination finds a means to succeed",
+        "Wealth opens every door",
+        "A written will settles all disputes",
+        "Success depends entirely on luck"
+      ],
+      "correctIndex": 0,
+      "explanation": "A person who is genuinely resolved to do something will discover a method of doing it.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "The cricket match was ______ because of heavy rain.",
+      "options": [
+        "called on",
+        "called off",
+        "called for",
+        "called up"
+      ],
+      "correctIndex": 1,
+      "explanation": "To call off something is to cancel it, which is what happens to a match stopped by rain.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "He ______ his father in both looks and temper.",
+      "options": [
+        "takes over",
+        "takes up",
+        "takes in",
+        "takes after"
+      ],
+      "correctIndex": 3,
+      "explanation": "To take after a relative means to resemble that person in appearance or character.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "We have ______ of sugar and must buy some more.",
+      "options": [
+        "run out",
+        "run over",
+        "run down",
+        "run into"
+      ],
+      "correctIndex": 0,
+      "explanation": "To run out of something is to exhaust the whole supply of it.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "The aircraft is due to ______ at six in the morning.",
+      "options": [
+        "take in",
+        "take up",
+        "take off",
+        "take over"
+      ],
+      "correctIndex": 2,
+      "explanation": "An aeroplane takes off when it leaves the ground and begins its flight.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "Please ______ the fan when you leave the room.",
+      "options": [
+        "turn up",
+        "turn off",
+        "turn in",
+        "turn over"
+      ],
+      "correctIndex": 1,
+      "explanation": "To turn off an appliance is to stop it by means of a switch.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "On his doctor's advice he ______ smoking.",
+      "options": [
+        "gave in",
+        "gave away",
+        "gave off",
+        "gave up"
+      ],
+      "correctIndex": 3,
+      "explanation": "To give up a habit is to abandon it altogether.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "She ______ her invalid mother for many years.",
+      "options": [
+        "looked after",
+        "looked for",
+        "looked into",
+        "looked over"
+      ],
+      "correctIndex": 0,
+      "explanation": "To look after a person is to take care of him or her.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "If you do not know this word, ______ its meaning in the dictionary.",
+      "options": [
+        "look out",
+        "look on",
+        "look up",
+        "look over"
+      ],
+      "correctIndex": 2,
+      "explanation": "To look up a word is to find its meaning in a dictionary or reference book.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "A fire ______ in the factory late at night.",
+      "options": [
+        "broke down",
+        "broke out",
+        "broke into",
+        "broke off"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fires, wars and epidemics break out, that is, they begin suddenly.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "His writing is so untidy that I cannot ______ a single word.",
+      "options": [
+        "make up",
+        "make off",
+        "make over",
+        "make out"
+      ],
+      "correctIndex": 3,
+      "explanation": "To make out something is to manage to see, read or understand it with difficulty.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "He ______ the offer of a job in Dubai because the pay was poor.",
+      "options": [
+        "turned down",
+        "turned up",
+        "turned in",
+        "turned over"
+      ],
+      "correctIndex": 0,
+      "explanation": "To turn down an offer is to refuse or reject it.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "Students must ______ their assignments before Friday.",
+      "options": [
+        "hand out",
+        "hand down",
+        "hand in",
+        "hand round"
+      ],
+      "correctIndex": 2,
+      "explanation": "To hand in work is to submit it to the teacher or authority concerned.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "Our car ______ on the motorway and we had to walk to the next town.",
+      "options": [
+        "broke off",
+        "broke down",
+        "broke away",
+        "broke in"
+      ],
+      "correctIndex": 1,
+      "explanation": "A vehicle or machine breaks down when it stops working because of a fault.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "The police are ______ the cause of the accident.",
+      "options": [
+        "looking on",
+        "looking after",
+        "looking out",
+        "looking into"
+      ],
+      "correctIndex": 3,
+      "explanation": "To look into a matter is to investigate or examine it.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "His grandfather ______ peacefully in his sleep last winter.",
+      "options": [
+        "passed away",
+        "passed by",
+        "passed out",
+        "passed over"
+      ],
+      "correctIndex": 0,
+      "explanation": "To pass away is a polite expression meaning to die.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "The government decided to ______ the outdated law.",
+      "options": [
+        "do up",
+        "do in",
+        "do away with",
+        "do out"
+      ],
+      "correctIndex": 2,
+      "explanation": "To do away with something is to abolish or get rid of it.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "The army ______ the rebellion within a week.",
+      "options": [
+        "put off",
+        "put down",
+        "put up",
+        "put by"
+      ],
+      "correctIndex": 1,
+      "explanation": "To put down a revolt is to suppress or crush it by force.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "The meeting has been ______ till next Monday.",
+      "options": [
+        "put on",
+        "put out",
+        "put up",
+        "put off"
+      ],
+      "correctIndex": 3,
+      "explanation": "To put off an engagement is to postpone it to a later date.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "It took the firemen two hours to ______ the blaze.",
+      "options": [
+        "put out",
+        "put down",
+        "put off",
+        "put by"
+      ],
+      "correctIndex": 0,
+      "explanation": "To put out a fire is to extinguish it.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "I cannot ______ his rude behaviour any longer.",
+      "options": [
+        "put off",
+        "put away",
+        "put up with",
+        "put down to"
+      ],
+      "correctIndex": 2,
+      "explanation": "To put up with something is to endure or tolerate it.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "He ______ a large fortune after the death of his uncle.",
+      "options": [
+        "came round",
+        "came into",
+        "came over",
+        "came out"
+      ],
+      "correctIndex": 1,
+      "explanation": "To come into money or property is to receive it as an inheritance.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "I ______ an old classmate at the railway station yesterday.",
+      "options": [
+        "ran over",
+        "ran out",
+        "ran down",
+        "ran into"
+      ],
+      "correctIndex": 3,
+      "explanation": "To run into a person is to meet him unexpectedly.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "The bomb ______ in a crowded market.",
+      "options": [
+        "went off",
+        "went out",
+        "went down",
+        "went over"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bomb or firearm goes off when it explodes or is discharged.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "I ______ meeting you again next month.",
+      "options": [
+        "look up to",
+        "look down on",
+        "look forward to",
+        "look back on"
+      ],
+      "correctIndex": 2,
+      "explanation": "To look forward to something is to await it with pleasure.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "We should never ______ people who are poor.",
+      "options": [
+        "look up to",
+        "look down upon",
+        "look into",
+        "look after"
+      ],
+      "correctIndex": 1,
+      "explanation": "To look down upon someone is to regard him as inferior.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "The chief guest ______ the prizes to the winners.",
+      "options": [
+        "gave in",
+        "gave off",
+        "gave over",
+        "gave away"
+      ],
+      "correctIndex": 3,
+      "explanation": "To give away prizes is to distribute or present them formally.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "She was ______ by her grandmother after her parents died.",
+      "options": [
+        "brought up",
+        "brought about",
+        "brought out",
+        "brought down"
+      ],
+      "correctIndex": 0,
+      "explanation": "To bring up a child is to rear and educate him or her.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "The new policy ______ a great change in the economy.",
+      "options": [
+        "brought up",
+        "brought down",
+        "brought about",
+        "brought off"
+      ],
+      "correctIndex": 2,
+      "explanation": "To bring about something is to cause it to happen.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "The orders of the court were ______ without delay.",
+      "options": [
+        "carried on",
+        "carried out",
+        "carried away",
+        "carried off"
+      ],
+      "correctIndex": 1,
+      "explanation": "To carry out an order is to execute or perform it.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "It took him three months to ______ his illness.",
+      "options": [
+        "get off",
+        "get through",
+        "get along",
+        "get over"
+      ],
+      "correctIndex": 3,
+      "explanation": "To get over an illness or shock is to recover from it.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "He does not ______ his colleagues in the office.",
+      "options": [
+        "get along with",
+        "get down to",
+        "get away with",
+        "get through with"
+      ],
+      "correctIndex": 0,
+      "explanation": "To get along with people is to live or work with them on friendly terms.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "The letters PIA ______ Pakistan International Airlines.",
+      "options": [
+        "stand by",
+        "stand out",
+        "stand for",
+        "stand up"
+      ],
+      "correctIndex": 2,
+      "explanation": "To stand for something is to represent or symbolise it.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "A true friend ______ you in times of trouble.",
+      "options": [
+        "stands for",
+        "stands by",
+        "stands off",
+        "stands out"
+      ],
+      "correctIndex": 1,
+      "explanation": "To stand by a person is to support him loyally in difficulty.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "The present situation ______ immediate action.",
+      "options": [
+        "calls off",
+        "calls up",
+        "calls on",
+        "calls for"
+      ],
+      "correctIndex": 3,
+      "explanation": "To call for something is to require or demand it.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "He decided to ______ his expenses in order to save money.",
+      "options": [
+        "cut down",
+        "cut in",
+        "cut off",
+        "cut across"
+      ],
+      "correctIndex": 0,
+      "explanation": "To cut down expenses is to reduce them.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "Thieves ______ the house while the family was away.",
+      "options": [
+        "broke up",
+        "broke off",
+        "broke into",
+        "broke out"
+      ],
+      "correctIndex": 2,
+      "explanation": "To break into a building is to enter it forcibly, usually in order to steal.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "He did not ______ at the party although he had promised to come.",
+      "options": [
+        "turn in",
+        "turn up",
+        "turn over",
+        "turn down"
+      ],
+      "correctIndex": 1,
+      "explanation": "To turn up is to arrive or make an appearance.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "He ______ of the agreement at the last moment.",
+      "options": [
+        "backed up",
+        "backed off",
+        "backed away",
+        "backed out"
+      ],
+      "correctIndex": 3,
+      "explanation": "To back out of an agreement is to withdraw from a commitment already made.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "I went to the airport to ______ my friend.",
+      "options": [
+        "see off",
+        "see through",
+        "see about",
+        "see to"
+      ],
+      "correctIndex": 0,
+      "explanation": "To see someone off is to go to the station or airport to say goodbye at his departure.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "The child was ______ by a speeding bus.",
+      "options": [
+        "run away",
+        "run across",
+        "run over",
+        "run out"
+      ],
+      "correctIndex": 2,
+      "explanation": "A person is run over when a vehicle knocks him down and passes over him.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "While cleaning the store room I ______ an old photograph.",
+      "options": [
+        "came about",
+        "came across",
+        "came off",
+        "came round"
+      ],
+      "correctIndex": 1,
+      "explanation": "To come across something is to find it by chance.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "You can ______ me for help whenever you need it.",
+      "options": [
+        "count out",
+        "count up",
+        "count in",
+        "count on"
+      ],
+      "correctIndex": 3,
+      "explanation": "To count on someone is to depend or rely on him.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "He ______ the candles on his birthday cake.",
+      "options": [
+        "blew out",
+        "blew up",
+        "blew over",
+        "blew off"
+      ],
+      "correctIndex": 0,
+      "explanation": "To blow out a flame is to extinguish it with a puff of breath.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "He ______ his partner over the division of the profits.",
+      "options": [
+        "fell back on",
+        "fell in with",
+        "fell out with",
+        "fell through"
+      ],
+      "correctIndex": 2,
+      "explanation": "To fall out with someone is to quarrel and cease to be on good terms.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "He ______ his friends by breaking his promise.",
+      "options": [
+        "let off",
+        "let down",
+        "let out",
+        "let in"
+      ],
+      "correctIndex": 1,
+      "explanation": "To let someone down is to disappoint him by failing to do what was expected.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "He worked extra hours to ______ the time he had lost.",
+      "options": [
+        "make out of",
+        "make off with",
+        "make away with",
+        "make up for"
+      ],
+      "correctIndex": 3,
+      "explanation": "To make up for something is to compensate for it.",
+      "difficulty": "HARD",
+      "topic": "idioms"
+    },
+    {
+      "text": "The rumour ______ to be completely false.",
+      "options": [
+        "turned out",
+        "turned up",
+        "turned in",
+        "turned over"
+      ],
+      "correctIndex": 0,
+      "explanation": "To turn out is to prove to be so in the end.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "He ______ a new textile factory in Faisalabad.",
+      "options": [
+        "set in",
+        "set off",
+        "set up",
+        "set out"
+      ],
+      "correctIndex": 2,
+      "explanation": "To set up a business or institution is to establish it.",
+      "difficulty": "EASY",
+      "topic": "idioms"
+    },
+    {
+      "text": "He could not ______ the other runners and finished last.",
+      "options": [
+        "keep on with",
+        "keep up with",
+        "keep away from",
+        "keep back from"
+      ],
+      "correctIndex": 1,
+      "explanation": "To keep up with others is to move or progress at the same pace as they do.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    },
+    {
+      "text": "The schools ______ for the summer vacation next week.",
+      "options": [
+        "break down",
+        "break off",
+        "break in",
+        "break up"
+      ],
+      "correctIndex": 3,
+      "explanation": "Schools break up when the term ends and the holidays begin.",
+      "difficulty": "MEDIUM",
+      "topic": "idioms"
+    }
+  ]
+}

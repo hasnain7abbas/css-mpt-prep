@@ -1,0 +1,1631 @@
+{
+  "subject": "urdu",
+  "unit": "urdu-translation",
+  "questions": [
+    {
+      "text": "What is the standard Urdu translation of the official term \"accountability\"?",
+      "options": [
+        "احتساب",
+        "اعتراض",
+        "اشتہار",
+        "انتظام"
+      ],
+      "correctIndex": 0,
+      "explanation": "سرکاری اصطلاح میں accountability کا رائج ترجمہ 'احتساب' ہے؛ 'اعتراض' objection اور 'انتظام' arrangement کے معنی دیتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"judiciary\"?",
+      "options": [
+        "مقننہ",
+        "عدلیہ",
+        "انتظامیہ",
+        "بلدیہ"
+      ],
+      "correctIndex": 1,
+      "explanation": "ریاست کے تین ستونوں میں عدالتی شعبہ 'عدلیہ' کہلاتا ہے؛ 'مقننہ' legislature اور 'انتظامیہ' executive ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"legislature\"?",
+      "options": [
+        "عدلیہ",
+        "انتظامیہ",
+        "مقننہ",
+        "صحافت"
+      ],
+      "correctIndex": 2,
+      "explanation": "قانون سازی کرنے والا ادارہ 'مقننہ' کہلاتا ہے، جو legislature کا سرکاری ترجمہ ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "In Urdu, the executive branch of the state is called:",
+      "options": [
+        "مقننہ",
+        "عدلیہ",
+        "سفارت",
+        "انتظامیہ"
+      ],
+      "correctIndex": 3,
+      "explanation": "حکومتی احکام نافذ کرنے والا شعبہ 'انتظامیہ' (executive) ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu translation of \"constitution\"?",
+      "options": [
+        "قرارداد",
+        "آئین",
+        "عدالت",
+        "حکومت"
+      ],
+      "correctIndex": 1,
+      "explanation": "ملک کے بنیادی قانون کو 'آئین' یا 'دستور' کہا جاتا ہے؛ 'قرارداد' resolution کے لیے آتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for a constitutional \"amendment\"?",
+      "options": [
+        "تشریح",
+        "تقرری",
+        "تنسیخ",
+        "ترمیم"
+      ],
+      "correctIndex": 3,
+      "explanation": "آئین میں تبدیلی کو 'ترمیم' کہتے ہیں؛ 'تنسیخ' abrogation اور 'تشریح' interpretation ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "The term \"sovereignty\" is rendered in Urdu as:",
+      "options": [
+        "حاکمیتِ اعلیٰ",
+        "مساوات",
+        "معاشرت",
+        "مفاہمت"
+      ],
+      "correctIndex": 0,
+      "explanation": "'حاکمیتِ اعلیٰ' ریاست کے سب سے بالا اختیار یعنی sovereignty کا ترجمہ ہے؛ 'مساوات' equality ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu translation of \"fundamental rights\"?",
+      "options": [
+        "قومی فرائض",
+        "سماجی انصاف",
+        "بنیادی حقوق",
+        "ریاستی پالیسی"
+      ],
+      "correctIndex": 2,
+      "explanation": "آئین میں دیے گئے fundamental rights کو 'بنیادی حقوق' کہا جاتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"census\"?",
+      "options": [
+        "رائے شماری",
+        "حلقہ بندی",
+        "مردم شماری",
+        "آبادکاری"
+      ],
+      "correctIndex": 2,
+      "explanation": "آبادی کی گنتی 'مردم شماری' کہلاتی ہے؛ 'رائے شماری' referendum اور 'حلقہ بندی' delimitation ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "The financial term \"budget\" is expressed in Urdu as:",
+      "options": [
+        "میزانیہ",
+        "محاسبہ",
+        "معاہدہ",
+        "مراسلہ"
+      ],
+      "correctIndex": 0,
+      "explanation": "سالانہ آمدن و خرچ کے تخمینے کو اردو میں 'میزانیہ' کہا جاتا ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu economic term for \"inflation\"?",
+      "options": [
+        "کسادبازاری",
+        "زرِ مبادلہ",
+        "تجارتی خسارہ",
+        "افراطِ زر"
+      ],
+      "correctIndex": 3,
+      "explanation": "'افراطِ زر' inflation کا معیاری ترجمہ ہے؛ 'کسادبازاری' recession اور 'زرِ مبادلہ' foreign exchange ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"unemployment\"?",
+      "options": [
+        "بے بسی",
+        "بے روزگاری",
+        "بے دخلی",
+        "بے ضابطگی"
+      ],
+      "correctIndex": 1,
+      "explanation": "روزگار نہ ہونے کی حالت 'بے روزگاری' کہلاتی ہے؛ 'بے دخلی' eviction ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"investment\"?",
+      "options": [
+        "سرمایہ کاری",
+        "سود خوری",
+        "بچت",
+        "قرض خواہی"
+      ],
+      "correctIndex": 0,
+      "explanation": "کاروبار میں سرمایہ لگانے کو 'سرمایہ کاری' کہتے ہیں؛ 'بچت' saving ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"export\"?",
+      "options": [
+        "درآمد",
+        "برآمد",
+        "آمدنی",
+        "پیداوار"
+      ],
+      "correctIndex": 1,
+      "explanation": "ملک سے باہر مال بھیجنا 'برآمد' (export) کہلاتا ہے، جبکہ 'درآمد' import ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"import\"?",
+      "options": [
+        "برآمد",
+        "تجارت",
+        "درآمد",
+        "ترسیل"
+      ],
+      "correctIndex": 2,
+      "explanation": "باہر سے مال منگوانا 'درآمد' (import) کہلاتا ہے؛ 'ترسیل' remittance/dispatch ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"agriculture\"?",
+      "options": [
+        "صنعت",
+        "تجارت",
+        "حرفت",
+        "زراعت"
+      ],
+      "correctIndex": 3,
+      "explanation": "کھیتی باڑی کے شعبے کو 'زراعت' کہا جاتا ہے؛ 'صنعت' industry ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"irrigation\"?",
+      "options": [
+        "آب و ہوا",
+        "آبپاشی",
+        "آبادی",
+        "آمد و رفت"
+      ],
+      "correctIndex": 1,
+      "explanation": "کھیتوں کو پانی دینے کا نظام 'آبپاشی' کہلاتا ہے؛ 'آب و ہوا' climate ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for an educational \"curriculum\"?",
+      "options": [
+        "نصیب",
+        "نظام",
+        "نقشہ",
+        "نصاب"
+      ],
+      "correctIndex": 3,
+      "explanation": "درس و تدریس کے مقررہ خاکے کو 'نصاب' کہا جاتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"ambassador\"?",
+      "options": [
+        "سفیر",
+        "وزیر",
+        "مشیر",
+        "امیر"
+      ],
+      "correctIndex": 0,
+      "explanation": "کسی ملک کے سرکاری نمائندے کو 'سفیر' کہا جاتا ہے؛ 'مشیر' adviser ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"embassy\"?",
+      "options": [
+        "مہمان خانہ",
+        "دار الحکومت",
+        "سفارت خانہ",
+        "کارخانہ"
+      ],
+      "correctIndex": 2,
+      "explanation": "سفیر کے دفتر کو 'سفارت خانہ' کہتے ہیں؛ 'دار الحکومت' capital ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"treaty\"?",
+      "options": [
+        "مقالہ",
+        "مکالمہ",
+        "معاہدہ",
+        "مراسلہ"
+      ],
+      "correctIndex": 2,
+      "explanation": "دو فریقوں کے تحریری سمجھوتے کو 'معاہدہ' کہا جاتا ہے؛ 'مکالمہ' dialogue ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu translation of \"foreign policy\"?",
+      "options": [
+        "خارجہ پالیسی",
+        "داخلی سلامتی",
+        "تجارتی حکمتِ عملی",
+        "دفاعی معاہدہ"
+      ],
+      "correctIndex": 0,
+      "explanation": "دیگر ممالک کے بارے میں ریاستی حکمتِ عملی 'خارجہ پالیسی' کہلاتی ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"ceasefire\"?",
+      "options": [
+        "جنگ زدگی",
+        "ہتھیار ڈالنا",
+        "امن معاہدہ",
+        "جنگ بندی"
+      ],
+      "correctIndex": 3,
+      "explanation": "لڑائی روک دینے کو 'جنگ بندی' کہتے ہیں؛ 'ہتھیار ڈالنا' surrender ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"terrorism\"?",
+      "options": [
+        "غنڈہ گردی",
+        "دہشت گردی",
+        "بغاوت",
+        "شورش"
+      ],
+      "correctIndex": 1,
+      "explanation": "'دہشت گردی' terrorism کا معیاری ترجمہ ہے؛ 'بغاوت' rebellion ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"bribe\"?",
+      "options": [
+        "رشوت",
+        "ریاضت",
+        "رعایت",
+        "رسائی"
+      ],
+      "correctIndex": 0,
+      "explanation": "ناجائز کام کے عوض دی جانے والی رقم 'رشوت' کہلاتی ہے؛ 'رعایت' concession ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for a police \"investigation\"?",
+      "options": [
+        "تشہیر",
+        "تفتیش",
+        "تفریح",
+        "تفویض"
+      ],
+      "correctIndex": 1,
+      "explanation": "جرم کی چھان بین کو 'تفتیش' کہا جاتا ہے؛ 'تشہیر' publicity ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"witness\"?",
+      "options": [
+        "ملزم",
+        "مدعی",
+        "گواہ",
+        "منصف"
+      ],
+      "correctIndex": 2,
+      "explanation": "عدالت میں شہادت دینے والا 'گواہ' کہلاتا ہے؛ 'منصف' judge ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu legal term for \"bail\"?",
+      "options": [
+        "ضبطگی",
+        "ضرورت",
+        "ضیافت",
+        "ضمانت"
+      ],
+      "correctIndex": 3,
+      "explanation": "ملزم کی عارضی رہائی کی قانونی سہولت 'ضمانت' کہلاتی ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for the \"accused\" in a criminal case?",
+      "options": [
+        "مدعی",
+        "ملزم",
+        "مددگار",
+        "محتسب"
+      ],
+      "correctIndex": 1,
+      "explanation": "جس شخص پر جرم کا الزام ہو اسے 'ملزم' کہا جاتا ہے؛ 'مدعی' plaintiff ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"punishment\"?",
+      "options": [
+        "صلہ",
+        "سفارش",
+        "سبقت",
+        "سزا"
+      ],
+      "correctIndex": 3,
+      "explanation": "جرم کے بدلے دی جانے والی تکلیف 'سزا' کہلاتی ہے؛ 'صلہ' reward ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "The phrase \"rule of law\" is translated into Urdu as:",
+      "options": [
+        "قانون کی حکمرانی",
+        "قانون سازی",
+        "قانونی مشاورت",
+        "قانونی چارہ جوئی"
+      ],
+      "correctIndex": 0,
+      "explanation": "'قانون کی حکمرانی' rule of law کا معیاری ترجمہ ہے؛ 'قانون سازی' legislation ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu parliamentary term for a \"vote of no confidence\"?",
+      "options": [
+        "تحریکِ استحقاق",
+        "تحریکِ التوا",
+        "تحریکِ عدم اعتماد",
+        "تحریکِ مذمت"
+      ],
+      "correctIndex": 2,
+      "explanation": "ایوان میں حکومت یا عہدیدار کے خلاف پیش کی جانے والی تحریک 'تحریکِ عدم اعتماد' کہلاتی ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "In parliamentary usage, \"the opposition\" is rendered in Urdu as:",
+      "options": [
+        "حزبِ اقتدار",
+        "حلقۂ انتخاب",
+        "حزبِ اختلاف",
+        "حکمران اتحاد"
+      ],
+      "correctIndex": 2,
+      "explanation": "ایوان میں حکومت کے مقابل جماعتیں 'حزبِ اختلاف' کہلاتی ہیں؛ 'حزبِ اقتدار' ruling party ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for a \"resolution\" passed by an assembly?",
+      "options": [
+        "قرارداد",
+        "قیادت",
+        "قانون سازی",
+        "قرعہ اندازی"
+      ],
+      "correctIndex": 0,
+      "explanation": "ایوان کی منظور کردہ تحریری رائے 'قرارداد' کہلاتی ہے؛ 'قیادت' leadership ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for a \"session\" of the assembly?",
+      "options": [
+        "انتخاب",
+        "اعلان",
+        "استفسار",
+        "اجلاس"
+      ],
+      "correctIndex": 3,
+      "explanation": "ایوان کی نشست یا کارروائی کو 'اجلاس' کہا جاتا ہے؛ 'استفسار' inquiry ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"resignation\"?",
+      "options": [
+        "استغاثہ",
+        "استعفیٰ",
+        "استثنیٰ",
+        "استقبال"
+      ],
+      "correctIndex": 1,
+      "explanation": "عہدہ چھوڑنے کی تحریری درخواست 'استعفیٰ' کہلاتی ہے؛ 'استغاثہ' prosecution ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu administrative term for the \"transfer\" of an officer?",
+      "options": [
+        "تبادلہ",
+        "ترقی",
+        "تنزلی",
+        "تعطل"
+      ],
+      "correctIndex": 0,
+      "explanation": "افسر کو ایک جگہ سے دوسری جگہ بھیجنا 'تبادلہ' کہلاتا ہے؛ 'ترقی' promotion ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"salary\"?",
+      "options": [
+        "تجارت",
+        "تنخواہ",
+        "تحویل",
+        "تعمیر"
+      ],
+      "correctIndex": 1,
+      "explanation": "ملازمت کے عوض ماہانہ ادائیگی 'تنخواہ' کہلاتی ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"dismissal from service\"?",
+      "options": [
+        "معطلی",
+        "تنزلی",
+        "برطرفی",
+        "سبکدوشی"
+      ],
+      "correctIndex": 2,
+      "explanation": "ملازمت سے مستقل علیحدگی 'برطرفی' کہلاتی ہے؛ 'معطلی' suspension اور 'سبکدوشی' retirement ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"reinstatement\" of an employee?",
+      "options": [
+        "برطرفی",
+        "معطلی",
+        "تقرری",
+        "بحالی"
+      ],
+      "correctIndex": 3,
+      "explanation": "ملازم کو دوبارہ عہدے پر لانا 'بحالی' کہلاتا ہے؛ 'تقرری' appointment ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for the \"draft\" of a document?",
+      "options": [
+        "مسئلہ",
+        "مسودہ",
+        "مشورہ",
+        "مصرعہ"
+      ],
+      "correctIndex": 1,
+      "explanation": "کسی تحریر کی ابتدائی صورت 'مسودہ' کہلاتی ہے؛ 'مشورہ' advice ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"advertisement\"?",
+      "options": [
+        "اظہار",
+        "اعتبار",
+        "انتظار",
+        "اشتہار"
+      ],
+      "correctIndex": 3,
+      "explanation": "کسی چیز کی تشہیر کے لیے شائع کی جانے والی اطلاع 'اشتہار' کہلاتی ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"minority\"?",
+      "options": [
+        "اقلیت",
+        "اکثریت",
+        "اہلیت",
+        "افادیت"
+      ],
+      "correctIndex": 0,
+      "explanation": "تعداد میں کم گروہ 'اقلیت' کہلاتا ہے؛ 'اکثریت' majority ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"refugee\"?",
+      "options": [
+        "مسافر",
+        "محافظ",
+        "مہاجر",
+        "مہمان"
+      ],
+      "correctIndex": 2,
+      "explanation": "اپنا وطن چھوڑ کر پناہ لینے والا 'مہاجر' کہلاتا ہے؛ 'مسافر' traveller ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"pollution\"?",
+      "options": [
+        "آسودگی",
+        "آزردگی",
+        "آلودگی",
+        "آمادگی"
+      ],
+      "correctIndex": 2,
+      "explanation": "ماحول کی گندگی 'آلودگی' کہلاتی ہے؛ 'آسودگی' contentment ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for \"drought\"?",
+      "options": [
+        "خشک سالی",
+        "گراں فروشی",
+        "سیلاب",
+        "برف باری"
+      ],
+      "correctIndex": 0,
+      "explanation": "بارش نہ ہونے سے پیدا ہونے والی صورتِ حال 'خشک سالی' کہلاتی ہے؛ 'سیلاب' flood ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"defence\"?",
+      "options": [
+        "دعا",
+        "دفتر",
+        "دعویٰ",
+        "دفاع"
+      ],
+      "correctIndex": 3,
+      "explanation": "حملے سے حفاظت کے شعبے کو 'دفاع' کہا جاتا ہے؛ 'دعویٰ' claim ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for the \"air force\"?",
+      "options": [
+        "بحریہ",
+        "فضائیہ",
+        "عدلیہ",
+        "مقننہ"
+      ],
+      "correctIndex": 1,
+      "explanation": "ہوائی افواج کو 'فضائیہ' کہا جاتا ہے؛ 'بحریہ' navy ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"dictatorship\"?",
+      "options": [
+        "آمریت",
+        "جمہوریت",
+        "بادشاہت",
+        "اشتراکیت"
+      ],
+      "correctIndex": 0,
+      "explanation": "ایک فرد کی مطلق حکومت 'آمریت' کہلاتی ہے؛ 'جمہوریت' democracy ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for \"federation\"?",
+      "options": [
+        "صوبہ",
+        "وفاق",
+        "ضلع",
+        "بلدیہ"
+      ],
+      "correctIndex": 1,
+      "explanation": "اکائیوں پر مشتمل مرکزی ریاستی نظام 'وفاق' کہلاتا ہے؛ 'صوبہ' province ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for an election \"candidate\"?",
+      "options": [
+        "رائے دہندہ",
+        "نگران",
+        "امیدوار",
+        "منتظم"
+      ],
+      "correctIndex": 2,
+      "explanation": "انتخاب لڑنے والا شخص 'امیدوار' کہلاتا ہے؛ 'رائے دہندہ' voter ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu term for an electoral \"constituency\"?",
+      "options": [
+        "مردم شماری",
+        "انتخابی نشان",
+        "صوبائی دار الحکومت",
+        "حلقۂ انتخاب"
+      ],
+      "correctIndex": 3,
+      "explanation": "جس علاقے سے نمائندہ منتخب ہوتا ہے اسے 'حلقۂ انتخاب' کہا جاتا ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for the \"oath\" of office?",
+      "options": [
+        "حکم",
+        "حلف",
+        "حکمت",
+        "حصہ"
+      ],
+      "correctIndex": 1,
+      "explanation": "عہدہ سنبھالتے وقت اٹھایا جانے والا عہد 'حلف' کہلاتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu word for the \"cabinet\" of ministers?",
+      "options": [
+        "کمیٹی",
+        "کونسل",
+        "کمیشن",
+        "کابینہ"
+      ],
+      "correctIndex": 3,
+      "explanation": "وزیرِ اعظم اور اس کے وزرا کے مجموعے کو 'کابینہ' کہا جاتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "What is the Urdu translation of \"local government\"?",
+      "options": [
+        "مقامی حکومت",
+        "مرکزی حکومت",
+        "صوبائی حکومت",
+        "عبوری حکومت"
+      ],
+      "correctIndex": 0,
+      "explanation": "ضلعی و بلدیاتی سطح کے نظامِ حکومت کو 'مقامی حکومت' کہا جاتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"احتجاج\" کا انگریزی ترجمہ کیا ہے؟",
+      "options": [
+        "Agreement",
+        "Election",
+        "Protest",
+        "Reward"
+      ],
+      "correctIndex": 2,
+      "explanation": "'احتجاج' سے مراد ناراضی کا اظہار یعنی protest ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"مذاکرات\" کا انگریزی متبادل ہے:",
+      "options": [
+        "Elections",
+        "Regulations",
+        "Negotiations",
+        "Celebrations"
+      ],
+      "correctIndex": 2,
+      "explanation": "فریقین کے درمیان بات چیت کو negotiations کہا جاتا ہے، جس کا اردو ترجمہ 'مذاکرات' ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "اصطلاح \"اتفاقِ رائے\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Consensus",
+        "Majority",
+        "Referendum",
+        "Coincidence"
+      ],
+      "correctIndex": 0,
+      "explanation": "سب کی متفقہ رائے کو consensus کہتے ہیں؛ 'اکثریت' کے لیے majority آتا ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "اصطلاح \"غیر جانبداری\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Partiality",
+        "Hostility",
+        "Sovereignty",
+        "Neutrality"
+      ],
+      "correctIndex": 3,
+      "explanation": "کسی فریق کی طرف نہ جھکنا neutrality کہلاتا ہے؛ partiality اس کا الٹ ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "سفارتی اصطلاح \"خیر سگالی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Farewell",
+        "Goodwill",
+        "Greeting",
+        "Welcome"
+      ],
+      "correctIndex": 1,
+      "explanation": "دوسروں کی بھلائی چاہنے کے جذبے کو goodwill کہا جاتا ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "اصطلاح \"خود انحصاری\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Self-reliance",
+        "Self-respect",
+        "Self-defence",
+        "Self-control"
+      ],
+      "correctIndex": 0,
+      "explanation": "اپنے وسائل پر بھروسا کرنا self-reliance کہلاتا ہے؛ 'خود داری' self-respect ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"بین الاقوامی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Provincial",
+        "International",
+        "Regional",
+        "National"
+      ],
+      "correctIndex": 1,
+      "explanation": "اقوام کے درمیان کے معاملات کو international کہا جاتا ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "اصطلاح \"دو طرفہ معاہدہ\" میں \"دو طرفہ\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Unilateral",
+        "Multilateral",
+        "Bilateral",
+        "Provisional"
+      ],
+      "correctIndex": 2,
+      "explanation": "دو فریقوں کے مابین معاملہ bilateral کہلاتا ہے؛ multilateral کئی فریقوں کے لیے آتا ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "اصطلاح \"شفافیت\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Efficiency",
+        "Sincerity",
+        "Sensitivity",
+        "Transparency"
+      ],
+      "correctIndex": 3,
+      "explanation": "حکومتی امور میں کھلے پن کو transparency کہا جاتا ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "اصطلاح \"اقربا پروری\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Bribery",
+        "Nepotism",
+        "Extortion",
+        "Forgery"
+      ],
+      "correctIndex": 1,
+      "explanation": "اپنے رشتہ داروں کو ناجائز نوازنا nepotism کہلاتا ہے؛ 'رشوت ستانی' bribery ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"بدعنوانی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Negligence",
+        "Ignorance",
+        "Disobedience",
+        "Corruption"
+      ],
+      "correctIndex": 3,
+      "explanation": "سرکاری عہدے کے ناجائز استعمال کو corruption کہا جاتا ہے؛ negligence 'غفلت' ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "اصطلاح \"منصوبہ بندی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Planning",
+        "Budgeting",
+        "Marketing",
+        "Auditing"
+      ],
+      "correctIndex": 0,
+      "explanation": "آئندہ کے کاموں کی ترتیب کو planning کہا جاتا ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"منظوری\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Rejection",
+        "Suggestion",
+        "Approval",
+        "Complaint"
+      ],
+      "correctIndex": 2,
+      "explanation": "کسی تجویز کو قبول کرنا approval کہلاتا ہے؛ 'مسترد کرنا' rejection ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"ذمہ داری\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Opportunity",
+        "Difficulty",
+        "Responsibility",
+        "Popularity"
+      ],
+      "correctIndex": 2,
+      "explanation": "جواب دہ ہونے کی حالت responsibility کہلاتی ہے؛ opportunity 'موقع' ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"سرحد\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Border",
+        "Bridge",
+        "Highway",
+        "Harbour"
+      ],
+      "correctIndex": 0,
+      "explanation": "دو ملکوں کی حدِ فاصل کو border کہا جاتا ہے؛ harbour 'بندرگاہ' ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"شہریت\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Township",
+        "Ownership",
+        "Membership",
+        "Citizenship"
+      ],
+      "correctIndex": 3,
+      "explanation": "کسی ملک کے شہری ہونے کی حیثیت citizenship کہلاتی ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "معاشی اصطلاح \"زرِ مبادلہ\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Exchange rate",
+        "Foreign exchange",
+        "Foreign aid",
+        "Trade deficit"
+      ],
+      "correctIndex": 1,
+      "explanation": "غیر ملکی کرنسی کے ذخائر کو foreign exchange کہا جاتا ہے؛ 'شرحِ مبادلہ' exchange rate ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"بیمہ\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Insurance",
+        "Investment",
+        "Instalment",
+        "Inheritance"
+      ],
+      "correctIndex": 0,
+      "explanation": "نقصان کے تحفظ کے معاہدے کو insurance کہا جاتا ہے؛ 'وراثت' inheritance ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "\"عدالتِ عظمیٰ\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "High Court",
+        "Supreme Court",
+        "Sessions Court",
+        "Civil Court"
+      ],
+      "correctIndex": 1,
+      "explanation": "ملک کی سب سے بڑی عدالت Supreme Court کہلاتی ہے، جس کا اردو نام 'عدالتِ عظمیٰ' ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "\"عدالتِ عالیہ\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Supreme Court",
+        "District Court",
+        "High Court",
+        "Family Court"
+      ],
+      "correctIndex": 2,
+      "explanation": "صوبائی سطح کی اعلیٰ عدالت High Court کہلاتی ہے، جسے اردو میں 'عدالتِ عالیہ' کہا جاتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "قانونی اصطلاح \"مدعی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Defendant",
+        "Witness",
+        "Judge",
+        "Plaintiff"
+      ],
+      "correctIndex": 3,
+      "explanation": "مقدمہ دائر کرنے والا فریق plaintiff کہلاتا ہے؛ 'مدعا علیہ' defendant ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"جرمانہ\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Bail",
+        "Fine",
+        "Warrant",
+        "Verdict"
+      ],
+      "correctIndex": 1,
+      "explanation": "سزا کے طور پر ادا کی جانے والی رقم fine کہلاتی ہے؛ 'ضمانت' bail ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"گرفتاری\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Release",
+        "Enquiry",
+        "Sentence",
+        "Arrest"
+      ],
+      "correctIndex": 3,
+      "explanation": "پولیس کے قابو میں لینے کے عمل کو arrest کہا جاتا ہے؛ 'رہائی' release ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"منشیات\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Narcotics",
+        "Antibiotics",
+        "Cosmetics",
+        "Explosives"
+      ],
+      "correctIndex": 0,
+      "explanation": "نشہ آور اشیا کو narcotics کہا جاتا ہے؛ 'دھماکہ خیز مواد' explosives ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "اصطلاح \"امن و امان\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Rule of law",
+        "Peace treaty",
+        "Law and order",
+        "Civil defence"
+      ],
+      "correctIndex": 2,
+      "explanation": "کسی علاقے میں امن کی مجموعی صورتِ حال کو law and order کہا جاتا ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "ملازمت کی اصطلاح \"سبکدوشی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Dismissal",
+        "Suspension",
+        "Retirement",
+        "Promotion"
+      ],
+      "correctIndex": 2,
+      "explanation": "مدتِ ملازمت پوری کر کے عہدہ چھوڑنا retirement کہلاتا ہے؛ 'برطرفی' dismissal ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"دستخط\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Signature",
+        "Stamp",
+        "Seal",
+        "Certificate"
+      ],
+      "correctIndex": 0,
+      "explanation": "کاغذ پر اپنا نام لکھنے کا عمل signature کہلاتا ہے؛ 'مہر' seal ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "دفتری اصطلاح \"تصدیق\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Translation",
+        "Application",
+        "Declaration",
+        "Attestation"
+      ],
+      "correctIndex": 3,
+      "explanation": "کسی دستاویز کے درست ہونے کی سرکاری توثیق attestation کہلاتی ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"خواندگی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Legibility",
+        "Literacy",
+        "Eligibility",
+        "Fluency"
+      ],
+      "correctIndex": 1,
+      "explanation": "پڑھنے لکھنے کی صلاحیت literacy کہلاتی ہے؛ 'اہلیت' eligibility ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"قحط\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Famine",
+        "Flood",
+        "Epidemic",
+        "Earthquake"
+      ],
+      "correctIndex": 0,
+      "explanation": "خوراک کی شدید قلت کو famine کہا جاتا ہے؛ 'وبا' epidemic ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"بڑھئی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Blacksmith",
+        "Carpenter",
+        "Goldsmith",
+        "Cobbler"
+      ],
+      "correctIndex": 1,
+      "explanation": "لکڑی کا کام کرنے والا carpenter کہلاتا ہے؛ 'لوہار' blacksmith ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"لوہار\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Carpenter",
+        "Potter",
+        "Blacksmith",
+        "Tailor"
+      ],
+      "correctIndex": 2,
+      "explanation": "لوہے کا کام کرنے والا blacksmith کہلاتا ہے؛ 'کمہار' potter ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"موچی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Butcher",
+        "Baker",
+        "Grocer",
+        "Cobbler"
+      ],
+      "correctIndex": 3,
+      "explanation": "جوتے بنانے اور مرمت کرنے والا cobbler کہلاتا ہے؛ 'قصاب' butcher ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"درزی\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Barber",
+        "Tailor",
+        "Baker",
+        "Weaver"
+      ],
+      "correctIndex": 1,
+      "explanation": "کپڑے سینے والا tailor کہلاتا ہے؛ 'جولاہا' weaver ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"کمہار\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Farmer",
+        "Shepherd",
+        "Fisherman",
+        "Potter"
+      ],
+      "correctIndex": 3,
+      "explanation": "مٹی کے برتن بنانے والا potter کہلاتا ہے؛ 'چرواہا' shepherd ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"ماہی گیر\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Fisherman",
+        "Hunter",
+        "Sailor",
+        "Shepherd"
+      ],
+      "correctIndex": 0,
+      "explanation": "مچھلیاں پکڑنے والا fisherman کہلاتا ہے؛ 'ملاح' sailor ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"چوکیدار\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Gardener",
+        "Cook",
+        "Watchman",
+        "Driver"
+      ],
+      "correctIndex": 2,
+      "explanation": "پہرہ دینے والا watchman کہلاتا ہے؛ 'باغبان' gardener ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"آبشار\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Fountain",
+        "Glacier",
+        "Waterfall",
+        "Whirlpool"
+      ],
+      "correctIndex": 2,
+      "explanation": "بلندی سے گرتے پانی کو waterfall کہا جاتا ہے؛ 'گلیشیئر' glacier ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"ریگستان\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Desert",
+        "Forest",
+        "Valley",
+        "Meadow"
+      ],
+      "correctIndex": 0,
+      "explanation": "ریت کے وسیع بنجر علاقے کو desert کہا جاتا ہے؛ 'جنگل' forest ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"جزیرہ\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Peninsula",
+        "Isthmus",
+        "Delta",
+        "Island"
+      ],
+      "correctIndex": 3,
+      "explanation": "چاروں طرف سے پانی میں گھری خشکی island کہلاتی ہے؛ 'جزیرہ نما' peninsula ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"زلزلہ\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Landslide",
+        "Earthquake",
+        "Tsunami",
+        "Avalanche"
+      ],
+      "correctIndex": 1,
+      "explanation": "زمین کے جھٹکوں کو earthquake کہا جاتا ہے؛ 'لینڈ سلائیڈنگ' landslide ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"آتش فشاں\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Volcano",
+        "Glacier",
+        "Earthquake",
+        "Meteor"
+      ],
+      "correctIndex": 0,
+      "explanation": "لاوا اگلنے والے پہاڑ کو volcano کہا جاتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"گرہن\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Sunrise",
+        "Eclipse",
+        "Twilight",
+        "Sunset"
+      ],
+      "correctIndex": 1,
+      "explanation": "سورج یا چاند کے چھپ جانے کے عمل کو eclipse کہا جاتا ہے؛ 'طلوعِ آفتاب' sunrise ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"کہکشاں\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Comet",
+        "Meteor",
+        "Galaxy",
+        "Orbit"
+      ],
+      "correctIndex": 2,
+      "explanation": "ستاروں کے عظیم مجموعے کو galaxy کہا جاتا ہے؛ 'دم دار ستارہ' comet ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "لفظ \"سیارہ\" کا انگریزی ترجمہ ہے:",
+      "options": [
+        "Star",
+        "Comet",
+        "Satellite",
+        "Planet"
+      ],
+      "correctIndex": 3,
+      "explanation": "سورج کے گرد گھومنے والے جرم کو planet کہا جاتا ہے؛ 'ستارہ' star ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"He is writing a letter.\"",
+      "options": [
+        "وہ خط پڑھ رہا ہے۔",
+        "وہ خط لکھ رہا ہے۔",
+        "اُس نے خط لکھا تھا۔",
+        "وہ خط لکھے گا۔"
+      ],
+      "correctIndex": 1,
+      "explanation": "جملہ حالِ جاری (present continuous) میں ہے، اس لیے درست ترجمہ 'وہ خط لکھ رہا ہے۔' ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"The sun rises in the east.\"",
+      "options": [
+        "سورج مغرب سے طلوع ہوتا ہے۔",
+        "سورج مشرق میں غروب ہوتا ہے۔",
+        "چاند مشرق سے نکلتا ہے۔",
+        "سورج مشرق سے طلوع ہوتا ہے۔"
+      ],
+      "correctIndex": 3,
+      "explanation": "rise کا مطلب 'طلوع ہونا' اور east کا مطلب 'مشرق' ہے، اس لیے درست ترجمہ 'سورج مشرق سے طلوع ہوتا ہے۔' ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"I have been living here for five years.\"",
+      "options": [
+        "میں پانچ سال سے یہاں رہ رہا ہوں۔",
+        "میں پانچ سال یہاں رہا تھا۔",
+        "میں پانچ سال بعد یہاں آؤں گا۔",
+        "میں پانچ سال سے یہاں نہیں رہا۔"
+      ],
+      "correctIndex": 0,
+      "explanation": "present perfect continuous کا اردو میں 'سے … رہ رہا ہوں' سے اظہار ہوتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"The meeting was postponed.\"",
+      "options": [
+        "اجلاس منسوخ کر دیا گیا۔",
+        "اجلاس شروع ہو گیا۔",
+        "اجلاس ملتوی کر دیا گیا۔",
+        "اجلاس ختم ہو گیا۔"
+      ],
+      "correctIndex": 2,
+      "explanation": "postpone کا ترجمہ 'ملتوی کرنا' ہے؛ 'منسوخ کرنا' cancel کے لیے آتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"The application was rejected.\"",
+      "options": [
+        "درخواست منظور کر لی گئی۔",
+        "درخواست جمع کرا دی گئی۔",
+        "درخواست مسترد کر دی گئی۔",
+        "درخواست واپس لے لی گئی۔"
+      ],
+      "correctIndex": 2,
+      "explanation": "reject کا اردو ترجمہ 'مسترد کرنا' ہے؛ 'منظور کرنا' approve کے لیے آتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"The bill was passed unanimously.\"",
+      "options": [
+        "بل متفقہ طور پر منظور کر لیا گیا۔",
+        "بل اکثریتِ رائے سے منظور ہوا۔",
+        "بل مسترد کر دیا گیا۔",
+        "بل ایوان میں پیش کیا گیا۔"
+      ],
+      "correctIndex": 0,
+      "explanation": "unanimously کا ترجمہ 'متفقہ طور پر' ہے؛ 'اکثریتِ رائے سے' by majority کے لیے آتا ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"He was appointed secretary.\"",
+      "options": [
+        "اُسے سیکرٹری کے عہدے سے ہٹا دیا گیا۔",
+        "اُس نے سیکرٹری سے ملاقات کی۔",
+        "وہ سیکرٹری بننا چاہتا تھا۔",
+        "اُسے سیکرٹری مقرر کیا گیا۔"
+      ],
+      "correctIndex": 3,
+      "explanation": "appoint کا ترجمہ 'مقرر کرنا' ہے، اور جملہ مجہول (passive) صورت میں ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"The government imposed a ban on plastic bags.\"",
+      "options": [
+        "حکومت نے پلاسٹک کے تھیلوں سے پابندی اٹھا لی۔",
+        "حکومت نے پلاسٹک کے تھیلوں پر پابندی عائد کر دی۔",
+        "حکومت نے پلاسٹک کے تھیلوں پر ٹیکس لگا دیا۔",
+        "حکومت نے پلاسٹک کے تھیلوں کی پیداوار بڑھا دی۔"
+      ],
+      "correctIndex": 1,
+      "explanation": "impose a ban کا ترجمہ 'پابندی عائد کرنا' ہے؛ 'پابندی اٹھانا' lift a ban ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"Water is essential for life.\"",
+      "options": [
+        "پانی زندگی کے لیے ناگزیر ہے۔",
+        "پانی زندگی کے لیے مضر ہے۔",
+        "زندگی پانی کے بغیر بھی ممکن ہے۔",
+        "پانی صرف کھیتی کے لیے ضروری ہے۔"
+      ],
+      "correctIndex": 0,
+      "explanation": "essential کا ترجمہ 'ناگزیر' یا 'لازمی' ہے؛ 'مضر' harmful کے لیے آتا ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"Do not waste your time.\"",
+      "options": [
+        "اپنا کام مکمل کرو۔",
+        "اپنا وقت ضائع مت کرو۔",
+        "وقت پر پہنچو۔",
+        "اپنا سبق یاد کرو۔"
+      ],
+      "correctIndex": 1,
+      "explanation": "waste کا ترجمہ 'ضائع کرنا' ہے اور جملہ نہی (negative imperative) میں ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"Honesty is the best policy.\"",
+      "options": [
+        "محنت کامیابی کی کنجی ہے۔",
+        "صبر کا پھل میٹھا ہے۔",
+        "دیانت داری بہترین حکمتِ عملی ہے۔",
+        "علم طاقت ہے۔"
+      ],
+      "correctIndex": 2,
+      "explanation": "honesty کا ترجمہ 'دیانت داری' اور policy کا 'حکمتِ عملی' ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"The train has arrived at the station.\"",
+      "options": [
+        "ٹرین اسٹیشن سے روانہ ہو چکی ہے۔",
+        "ٹرین دیر سے چلے گی۔",
+        "ٹرین اسٹیشن پر نہیں رکی۔",
+        "ٹرین اسٹیشن پر پہنچ چکی ہے۔"
+      ],
+      "correctIndex": 3,
+      "explanation": "arrive کا ترجمہ 'پہنچنا' ہے؛ 'روانہ ہونا' depart کے لیے آتا ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "Choose the correct Urdu translation of: \"Education is the right of every child.\"",
+      "options": [
+        "تعلیم ہر بچے کا فرض ہے۔",
+        "تعلیم ہر بچے کا حق ہے۔",
+        "تعلیم ہر شہری کی ذمہ داری ہے۔",
+        "تعلیم ہر بچے کے لیے مفت ہے۔"
+      ],
+      "correctIndex": 1,
+      "explanation": "right کا ترجمہ 'حق' ہے؛ 'فرض' duty کے لیے آتا ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"وہ کل اسلام آباد جائے گا۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "He went to Islamabad yesterday.",
+        "He is going to Islamabad today.",
+        "He has gone to Islamabad.",
+        "He will go to Islamabad tomorrow."
+      ],
+      "correctIndex": 3,
+      "explanation": "'جائے گا' مستقبل کا صیغہ ہے، اس لیے will go tomorrow درست ترجمہ ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"بارش ہو رہی ہے۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "It is raining.",
+        "It rained.",
+        "It will rain.",
+        "It has stopped raining."
+      ],
+      "correctIndex": 0,
+      "explanation": "'ہو رہی ہے' حالِ جاری ہے، جس کا انگریزی متبادل present continuous 'It is raining.' ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"مجھے اردو بولنی آتی ہے۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "I want to learn Urdu.",
+        "I am speaking Urdu.",
+        "I can speak Urdu.",
+        "I like the Urdu language."
+      ],
+      "correctIndex": 2,
+      "explanation": "'آتی ہے' سے صلاحیت ظاہر ہوتی ہے، جس کے لیے انگریزی میں can استعمال ہوتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"ہم نے کام مکمل کر لیا ہے۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "We are completing the work.",
+        "We will complete the work.",
+        "We have completed the work.",
+        "We could not complete the work."
+      ],
+      "correctIndex": 2,
+      "explanation": "'کر لیا ہے' ماضی قریب (present perfect) ہے، اس لیے have completed درست ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"دروازہ بند کر دو۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "Close the door.",
+        "Open the door.",
+        "The door is closed.",
+        "Who closed the door?"
+      ],
+      "correctIndex": 0,
+      "explanation": "یہ امر (imperative) کا جملہ ہے، اس لیے 'Close the door.' درست ترجمہ ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"کتاب میز پر رکھی ہے۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "Put the book on the table.",
+        "The book is under the table.",
+        "The table is made of wood.",
+        "The book is lying on the table."
+      ],
+      "correctIndex": 3,
+      "explanation": "'رکھی ہے' حالت بتاتا ہے، اس لیے 'The book is lying on the table.' درست ہے؛ 'رکھ دو' امر ہوتا۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"بچے باغ میں کھیل رہے ہیں۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "The children played in the garden.",
+        "The children are playing in the garden.",
+        "The children are studying in the school.",
+        "The children will go to the garden."
+      ],
+      "correctIndex": 1,
+      "explanation": "'کھیل رہے ہیں' حالِ جاری ہے، اس لیے are playing درست ترجمہ ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"اُس نے مجھے خط لکھا تھا۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "He had written me a letter.",
+        "He writes me a letter.",
+        "He is writing me a letter.",
+        "He will write me a letter."
+      ],
+      "correctIndex": 0,
+      "explanation": "'لکھا تھا' ماضی بعید (past perfect) ہے، اس لیے had written درست ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"محنت کامیابی کی کنجی ہے۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "Patience is the key to success.",
+        "Hard work is the key to success.",
+        "Success comes to the lucky.",
+        "Knowledge is power."
+      ],
+      "correctIndex": 1,
+      "explanation": "'محنت' کا ترجمہ hard work اور 'کنجی' کا key ہے؛ 'صبر' patience ہے۔",
+      "difficulty": "EASY",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"حکومت نے نئی پالیسی کا اعلان کیا۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "The government withdrew the policy.",
+        "The government reviewed the policy.",
+        "The government announced a new policy.",
+        "The government implemented the old policy."
+      ],
+      "correctIndex": 2,
+      "explanation": "'اعلان کرنا' کا ترجمہ announce ہے؛ 'واپس لینا' withdraw کے لیے آتا ہے۔",
+      "difficulty": "MEDIUM",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"اجلاس کی صدارت وزیرِ اعظم نے کی۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "The Prime Minister attended the meeting.",
+        "The Prime Minister called the meeting.",
+        "The meeting was addressed by the President.",
+        "The meeting was presided over by the Prime Minister."
+      ],
+      "correctIndex": 3,
+      "explanation": "'صدارت کرنا' کا ترجمہ preside over ہے؛ 'شرکت کرنا' attend کے لیے آتا ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    },
+    {
+      "text": "جملے \"درخواست گزار نے عدالت سے رجوع کیا۔\" کا درست انگریزی ترجمہ ہے:",
+      "options": [
+        "The court summoned the applicant.",
+        "The applicant approached the court.",
+        "The applicant withdrew the case.",
+        "The lawyer filed an appeal."
+      ],
+      "correctIndex": 1,
+      "explanation": "'رجوع کرنا' کا مطلب approach کرنا ہے، اور 'درخواست گزار' applicant ہے۔",
+      "difficulty": "HARD",
+      "topic": "translation"
+    }
+  ]
+}

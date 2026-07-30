@@ -1,72 +1,27 @@
-/**
- * FIA Job Prep — Prisma Seed File
- * 250 MCQs across 5 subjects (50 each), sourced from FIA/FPSC past papers 2018–2024.
- * Each question has 4 options, a correctIndex (0-based), difficulty, and explanation.
- *
- * Run: npx prisma db seed
- * Add to package.json: "prisma": { "seed": "ts-node prisma/seed.ts" }
- */
+// Hand-written MCQs carried over from FIA/FPSC past papers (2018–2024) and
+// re-pointed at the MPT subjects. Every item here has been fact-checked; see
+// content/reports/ for the audit trail.
+//
+// Subject mapping into the MPT paper:
+//   englishMCQs        → english
+//   gkMCQs             → general-knowledge
+//   pakStudiesMCQs     → pakistan-affairs
+//   computerMCQs       → general-science-ability (basic IT is part of GSA)
+//   islamicStudiesMCQs → islamic-studies
 
-import { PrismaClient, Difficulty } from "@prisma/client";
-import bcrypt from "bcryptjs";
+export type Difficulty = "EASY" | "MEDIUM" | "HARD";
 
-const prisma = new PrismaClient();
-
-// ─────────────────────────────────────────────
-// SUBJECT DEFINITIONS
-// ─────────────────────────────────────────────
-
-const subjects = [
-  {
-    slug: "english",
-    title: "English",
-    description: "Grammar, Vocabulary, Synonyms, Antonyms, Sentence Correction",
-    order: 1,
-  },
-  {
-    slug: "general-knowledge",
-    title: "General Knowledge",
-    description: "World Facts, Current Affairs, Everyday Science, Capitals",
-    order: 2,
-  },
-  {
-    slug: "pakistan-studies",
-    title: "Pakistan Studies",
-    description: "History, Geography, Politics, Constitution of Pakistan",
-    order: 3,
-  },
-  {
-    slug: "computer",
-    title: "Computer",
-    description: "Basic IT, MS Office, Internet, Hardware, Shortcuts",
-    order: 4,
-  },
-  {
-    slug: "islamic-studies",
-    title: "Islamic Studies",
-    description: "Quran, Hadith, Fiqh, Seerah, Islamic History",
-    order: 5,
-  },
-];
-
-// ─────────────────────────────────────────────
-// MCQ TYPE
-// ─────────────────────────────────────────────
-
-type MCQ = {
+export type MCQ = {
   order: number;
   text: string;
   options: [string, string, string, string];
   correctIndex: 0 | 1 | 2 | 3;
   explanation: string;
   difficulty: Difficulty;
+  topic?: string;
 };
 
-// ─────────────────────────────────────────────
-// SUBJECT 1 — ENGLISH (50 MCQs)
-// ─────────────────────────────────────────────
-
-const englishMCQs: MCQ[] = [
+export const englishMCQs: MCQ[] = [
   // Synonyms (1–15)
   {
     order: 1, text: "Choose the correct synonym for 'ABANDON'.",
@@ -366,7 +321,7 @@ const englishMCQs: MCQ[] = [
       "Its a good day.",
       "It's a good day.",
       "Its' a good day.",
-      "It'S a good day.",
+      "It,s a good day.",
     ],
     correctIndex: 1, difficulty: "EASY",
     explanation: "'It's' is the contraction of 'it is'. The apostrophe indicates the missing letter 'i'.",
@@ -407,7 +362,7 @@ const englishMCQs: MCQ[] = [
 // Sources: FIA Inspector/Constable past papers 2019–2024
 // ─────────────────────────────────────────────
 
-const gkMCQs: MCQ[] = [
+export const gkMCQs: MCQ[] = [
   {
     order: 1, text: "Night blindness is caused due to the deficiency of which vitamin?",
     options: ["Vitamin B", "Vitamin C", "Vitamin A", "Vitamin D"],
@@ -739,7 +694,7 @@ const gkMCQs: MCQ[] = [
 // SUBJECT 3 — PAKISTAN STUDIES (50 MCQs)
 // ─────────────────────────────────────────────
 
-const pakStudiesMCQs: MCQ[] = [
+export const pakStudiesMCQs: MCQ[] = [
   {
     order: 1, text: "The Pakistan Resolution was passed in which year?",
     options: ["1930", "1935", "1940", "1947"],
@@ -1061,7 +1016,7 @@ const pakStudiesMCQs: MCQ[] = [
 // SUBJECT 4 — COMPUTER (50 MCQs)
 // ─────────────────────────────────────────────
 
-const computerMCQs: MCQ[] = [
+export const computerMCQs: MCQ[] = [
   {
     order: 1, text: "CPU stands for:",
     options: ["Central Processing Unit", "Computer Personal Unit", "Central Program Unit", "Control Processing Unit"],
@@ -1393,7 +1348,7 @@ const computerMCQs: MCQ[] = [
 // SUBJECT 5 — ISLAMIC STUDIES (50 MCQs)
 // ─────────────────────────────────────────────
 
-const islamicStudiesMCQs: MCQ[] = [
+export const islamicStudiesMCQs: MCQ[] = [
   {
     order: 1, text: "Who has the nickname 'Sahib-us-Sirr' (Keeper of the Secret)?",
     options: [
@@ -1644,7 +1599,7 @@ const islamicStudiesMCQs: MCQ[] = [
   },
   {
     order: 39, text: "How many Surahs are in Makki revelation?",
-    options: ["84", "86", "86", "82"],
+    options: ["84", "86", "88", "82"],
     correctIndex: 1, difficulty: "HARD",
     explanation: "86 Surahs are classified as Makki (revealed in Makkah), and 28 are Madani (revealed in Madinah).",
   },
@@ -1667,7 +1622,7 @@ const islamicStudiesMCQs: MCQ[] = [
   },
   {
     order: 42, text: "How many Rukus (sections) are in the Holy Quran?",
-    options: ["540", "556", "558", "540"],
+    options: ["540", "556", "558", "548"],
     correctIndex: 0, difficulty: "HARD",
     explanation: "The Holy Quran is divided into 540 Rukus (sections indicated by the letter 'Ain' in the margins).",
   },
@@ -1727,154 +1682,5 @@ const islamicStudiesMCQs: MCQ[] = [
 // (expand to multiple tests by slicing the arrays)
 // ─────────────────────────────────────────────
 
-const testsConfig: Record<string, { questions: MCQ[]; number: number; title: string; difficulty: Difficulty; durationMin: number }[]> = {
-  "english": [
-    {
-      number: 1,
-      title: "English Test 1 — Synonyms, Antonyms & Grammar",
-      questions: englishMCQs,
-      difficulty: "MEDIUM",
-      durationMin: 30,
-    },
-  ],
-  "general-knowledge": [
-    {
-      number: 1,
-      title: "General Knowledge Test 1 — Science, World Affairs & Current Affairs",
-      questions: gkMCQs,
-      difficulty: "MEDIUM",
-      durationMin: 30,
-    },
-  ],
-  "pakistan-studies": [
-    {
-      number: 1,
-      title: "Pakistan Studies Test 1 — History, Geography & Constitution",
-      questions: pakStudiesMCQs,
-      difficulty: "MEDIUM",
-      durationMin: 30,
-    },
-  ],
-  "computer": [
-    {
-      number: 1,
-      title: "Computer Test 1 — Basic IT, MS Office & Internet",
-      questions: computerMCQs,
-      difficulty: "EASY",
-      durationMin: 25,
-    },
-  ],
-  "islamic-studies": [
-    {
-      number: 1,
-      title: "Islamic Studies Test 1 — Quran, Hadith, Seerah & Fiqh",
-      questions: islamicStudiesMCQs,
-      difficulty: "MEDIUM",
-      durationMin: 30,
-    },
-  ],
-};
+// Hand-written banks per subject (the original 250 past-paper MCQs).
 
-// ─────────────────────────────────────────────
-// SEED FUNCTION
-// ─────────────────────────────────────────────
-
-async function main() {
-  console.log("🌱 Seeding FIA Job Prep database...\n");
-
-  // 1. Create admin user
-  const adminPassword = await bcrypt.hash("Admin@FIA2024!", 10);
-  const admin = await prisma.user.upsert({
-    where: { email: "admin@fiajobprep.com" },
-    update: {},
-    create: {
-      email: "admin@fiajobprep.com",
-      name: "Admin",
-      passwordHash: adminPassword,
-      mustChangePassword: false,
-      isActive: true,
-      role: "ADMIN",
-    },
-  });
-  console.log(`✅ Admin user: ${admin.email}`);
-
-  // 2. Create demo student
-  const studentPassword = await bcrypt.hash("Demo@1234", 10);
-  const demo = await prisma.user.upsert({
-    where: { email: "demo@fiajobprep.com" },
-    update: {},
-    create: {
-      email: "demo@fiajobprep.com",
-      name: "Demo Student",
-      passwordHash: studentPassword,
-      mustChangePassword: true,
-      isActive: true,
-      role: "STUDENT",
-    },
-  });
-  console.log(`✅ Demo student: ${demo.email} (password: Demo@1234)`);
-
-  // 3. Create subjects and tests
-  for (const subjectData of subjects) {
-    const subject = await prisma.subject.upsert({
-      where: { slug: subjectData.slug },
-      update: { title: subjectData.title, description: subjectData.description, order: subjectData.order },
-      create: subjectData,
-    });
-    console.log(`\n📚 Subject: ${subject.title}`);
-
-    const tests = testsConfig[subject.slug] || [];
-
-    for (const testData of tests) {
-      const test = await prisma.test.upsert({
-        where: { subjectId_number: { subjectId: subject.id, number: testData.number } },
-        update: {
-          title: testData.title,
-          difficulty: testData.difficulty,
-          durationMin: testData.durationMin,
-        },
-        create: {
-          subjectId: subject.id,
-          number: testData.number,
-          title: testData.title,
-          difficulty: testData.difficulty,
-          durationMin: testData.durationMin,
-          isPublished: true,
-        },
-      });
-
-      // Delete existing questions for clean re-seed
-      await prisma.question.deleteMany({ where: { testId: test.id } });
-
-      // Create questions
-      await prisma.question.createMany({
-        data: testData.questions.map((q) => ({
-          testId: test.id,
-          order: q.order,
-          text: q.text,
-          options: q.options,
-          correctIndex: q.correctIndex,
-          explanation: q.explanation,
-        })),
-      });
-
-      console.log(`  📝 Test ${testData.number}: "${testData.title}" — ${testData.questions.length} MCQs seeded.`);
-    }
-  }
-
-  console.log("\n✅ Seeding complete!");
-  console.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
-  console.log("📊 Summary:");
-  console.log("  English:          50 MCQs (1 test)");
-  console.log("  General Knowledge:50 MCQs (1 test)");
-  console.log("  Pakistan Studies: 50 MCQs (1 test)");
-  console.log("  Computer:         50 MCQs (1 test)");
-  console.log("  Islamic Studies:  50 MCQs (1 test)");
-  console.log("  ─────────────────────────────────");
-  console.log("  TOTAL:           250 MCQs (5 tests)");
-  console.log("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━");
-}
-
-main()
-  .then(async () => { await prisma.$disconnect(); })
-  .catch(async (e) => { console.error(e); await prisma.$disconnect(); process.exit(1); });

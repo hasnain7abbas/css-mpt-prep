@@ -1,0 +1,1209 @@
+{
+  "subject": "current-affairs",
+  "unit": "ca-pakistan-politics",
+  "questions": [
+    {
+      "text": "On what date was the general election for Pakistan's National Assembly held in 2024?",
+      "options": [
+        "8 February 2024",
+        "8 February 2023",
+        "28 January 2024",
+        "10 March 2024"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Election Commission of Pakistan held the general election for the National Assembly and the four provincial assemblies on 8 February 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "How many directly elected general seats of Pakistan's National Assembly were contested in the 2024 general election?",
+      "options": [
+        "272",
+        "336",
+        "266",
+        "342"
+      ],
+      "correctIndex": 2,
+      "explanation": "The National Assembly has 266 general seats filled by direct election; the remaining 70 are reserved for women and non-Muslims.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "How many National Assembly general seats did the Pakistan Muslim League (N) win in the 2024 general election?",
+      "options": [
+        "54",
+        "75",
+        "93",
+        "63"
+      ],
+      "correctIndex": 1,
+      "explanation": "PML-N took 75 general seats, the largest tally won under a party symbol, while PTI-backed candidates contested as independents.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "How many National Assembly general seats did the Pakistan Peoples Party win in the 2024 general election?",
+      "options": [
+        "75",
+        "93",
+        "17",
+        "54"
+      ],
+      "correctIndex": 3,
+      "explanation": "The PPP won 54 general seats and joined the PML-N-led coalition government formed after the election.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which electoral symbol was Pakistan Tehreek-e-Insaf denied for the 2024 general election after a Supreme Court ruling in January 2024?",
+      "options": [
+        "Arrow",
+        "Tiger",
+        "Bat",
+        "Bicycle"
+      ],
+      "correctIndex": 2,
+      "explanation": "On 13 January 2024 the Supreme Court set aside the Peshawar High Court order and restored the ECP decision withdrawing the bat symbol over defective intra-party elections.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "After the 2024 general election, most PTI-backed independent members of the National Assembly joined which party?",
+      "options": [
+        "Sunni Ittehad Council",
+        "Jamaat-e-Islami",
+        "Majlis Wahdat-e-Muslimeen",
+        "Pakistan Awami Tehreek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Having contested as independents, PTI-backed winners joined the Sunni Ittehad Council in order to claim reserved seats.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "How many votes did Shehbaz Sharif secure when the National Assembly elected him Prime Minister on 3 March 2024?",
+      "options": [
+        "174",
+        "224",
+        "190",
+        "201"
+      ],
+      "correctIndex": 3,
+      "explanation": "Shehbaz Sharif polled 201 votes against 92 for his rival, comfortably above the 169 needed for a majority.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was the rival candidate defeated by Shehbaz Sharif in the March 2024 election for Prime Minister?",
+      "options": [
+        "Mahmood Khan Achakzai",
+        "Omar Ayub Khan",
+        "Bilawal Bhutto Zardari",
+        "Shah Mehmood Qureshi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Omar Ayub Khan was the joint candidate of the PTI-backed Sunni Ittehad Council and received 92 votes.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who won Pakistan's presidential election held on 9 March 2024?",
+      "options": [
+        "Arif Alvi",
+        "Mahmood Khan Achakzai",
+        "Yousaf Raza Gillani",
+        "Asif Ali Zardari"
+      ],
+      "correctIndex": 3,
+      "explanation": "Asif Ali Zardari of the PPP secured 411 electoral votes to win a second, non-consecutive term as President.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was the opposition-backed candidate in Pakistan's 2024 presidential election?",
+      "options": [
+        "Omar Ayub Khan",
+        "Mahmood Khan Achakzai",
+        "Gohar Ali Khan",
+        "Sahibzada Hamid Raza"
+      ],
+      "correctIndex": 1,
+      "explanation": "The PTI-backed Sunni Ittehad Council nominated PkMAP chief Mahmood Khan Achakzai, who lost to Asif Ali Zardari.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Asif Ali Zardari, elected in March 2024, is which numbered President of Pakistan?",
+      "options": [
+        "14th",
+        "12th",
+        "13th",
+        "15th"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zardari became the 14th President of Pakistan and the first civilian to be elected to the office twice.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was appointed Deputy Prime Minister of Pakistan in April 2024?",
+      "options": [
+        "Khawaja Asif",
+        "Ahsan Iqbal",
+        "Ishaq Dar",
+        "Mohsin Naqvi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Foreign Minister Ishaq Dar was given the additional charge of Deputy Prime Minister in late April 2024.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who presented Pakistan's federal budget for 2026-27 in the National Assembly?",
+      "options": [
+        "Muhammad Aurangzeb",
+        "Ishaq Dar",
+        "Shamshad Akhtar",
+        "Miftah Ismail"
+      ],
+      "correctIndex": 0,
+      "explanation": "Finance Minister Muhammad Aurangzeb presented the 2026-27 federal budget on 12 June 2026.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "Who was elected Speaker of Pakistan's National Assembly in March 2024?",
+      "options": [
+        "Raja Pervaiz Ashraf",
+        "Asad Qaiser",
+        "Sardar Ayaz Sadiq",
+        "Amir Dogar"
+      ],
+      "correctIndex": 2,
+      "explanation": "PML-N's Sardar Ayaz Sadiq was elected Speaker on 1 March 2024, returning to an office he had held before.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was elected Deputy Speaker of Pakistan's National Assembly in March 2024?",
+      "options": [
+        "Zahid Akram Durrani",
+        "Syed Ghulam Mustafa Shah",
+        "Qasim Suri",
+        "Syedaal Khan Nasar"
+      ],
+      "correctIndex": 1,
+      "explanation": "The PPP's Syed Ghulam Mustafa Shah was elected Deputy Speaker alongside Speaker Ayaz Sadiq on 1 March 2024.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Sardar Ayaz Sadiq, elected in 2024, became which numbered Speaker of Pakistan's National Assembly?",
+      "options": [
+        "21st",
+        "22nd",
+        "24th",
+        "23rd"
+      ],
+      "correctIndex": 3,
+      "explanation": "He was sworn in as the 23rd Speaker of the National Assembly following the 2024 general election.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was elected Chairman of the Senate of Pakistan in April 2024?",
+      "options": [
+        "Sadiq Sanjrani",
+        "Raja Pervaiz Ashraf",
+        "Yousaf Raza Gillani",
+        "Sherry Rehman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Former Prime Minister Yousaf Raza Gillani of the PPP was elected Chairman of the Senate on 9 April 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was elected Deputy Chairman of the Senate of Pakistan in April 2024?",
+      "options": [
+        "Syedaal Khan Nasar",
+        "Mirza Muhammad Afridi",
+        "Saleem Mandviwalla",
+        "Abdul Shakoor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Syedaal Khan Nasar was elected Deputy Chairman in the same sitting that elected Yousaf Raza Gillani as Chairman.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was notified as Leader of the Opposition in Pakistan's National Assembly in January 2026?",
+      "options": [
+        "Omar Ayub Khan",
+        "Gohar Ali Khan",
+        "Asad Qaiser",
+        "Mahmood Khan Achakzai"
+      ],
+      "correctIndex": 3,
+      "explanation": "Achakzai was appointed in January 2026, filling a vacancy left after Omar Ayub Khan lost his seat on conviction in 2025.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from arabnews.pk (checked July 2026)."
+    },
+    {
+      "text": "Mahmood Khan Achakzai heads which political party?",
+      "options": [
+        "Awami National Party",
+        "Pakhtunkhwa Milli Awami Party",
+        "National Party",
+        "Balochistan Awami Party"
+      ],
+      "correctIndex": 1,
+      "explanation": "Achakzai is chairman of the Pakhtunkhwa Milli Awami Party (PkMAP), based mainly in Pashtun districts of Balochistan.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which opposition alliance launched in 2024 is led by Mahmood Khan Achakzai?",
+      "options": [
+        "Pakistan Democratic Movement",
+        "Muttahida Majlis-e-Amal",
+        "Grand Democratic Alliance",
+        "Tehreek Tahafuz Ayin-e-Pakistan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tehreek Tahafuz Ayin-e-Pakistan, a PTI-backed alliance for the defence of the Constitution, was launched from Pishin in 2024 under Achakzai.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was appointed Leader of the Opposition in Pakistan's National Assembly in 2024 after the general election?",
+      "options": [
+        "Raja Riaz",
+        "Omar Ayub Khan",
+        "Shibli Faraz",
+        "Asad Qaiser"
+      ],
+      "correctIndex": 1,
+      "explanation": "PTI's Omar Ayub Khan was notified as Opposition Leader in the National Assembly in March 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was appointed Leader of the Opposition in the Senate of Pakistan in April 2024?",
+      "options": [
+        "Shibli Faraz",
+        "Shahzad Waseem",
+        "Azam Nazeer Tarar",
+        "Ali Zafar"
+      ],
+      "correctIndex": 0,
+      "explanation": "PTI senator Shibli Faraz took over as Senate Opposition Leader after the March-April 2024 Senate elections.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "In which month and year was the 26th Constitutional Amendment passed by Pakistan's Parliament?",
+      "options": [
+        "August 2024",
+        "January 2025",
+        "October 2024",
+        "November 2025"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Senate passed it on 20 October 2024 and the National Assembly on 21 October 2024; the President assented the same day.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "The 26th Constitutional Amendment provided for the creation of which body inside the Supreme Court of Pakistan?",
+      "options": [
+        "Constitutional Bench",
+        "Federal Constitutional Court",
+        "Shariat Appellate Bench",
+        "Judicial Commission"
+      ],
+      "correctIndex": 0,
+      "explanation": "The amendment set up a separate Constitutional Bench of the Supreme Court to hear constitutional matters.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which body was empowered by the 26th Amendment to nominate the Chief Justice of Pakistan from among the three most senior Supreme Court judges?",
+      "options": [
+        "The Supreme Judicial Council",
+        "The federal cabinet",
+        "A 12-member Special Parliamentary Committee",
+        "The Council of Common Interests"
+      ],
+      "correctIndex": 2,
+      "explanation": "The amendment ended automatic elevation by seniority and gave the nomination to a 12-member Special Parliamentary Committee voting by two-thirds majority.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "What tenure did the 26th Amendment fix for the Chief Justice of Pakistan?",
+      "options": [
+        "Two years",
+        "Three years",
+        "Four years",
+        "Five years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 177 was amended to cap the Chief Justice's term at three years, subject to the retirement age.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which fundamental right was inserted into Pakistan's Constitution as Article 9A by the 26th Amendment?",
+      "options": [
+        "Right to information",
+        "Right to fair trial",
+        "Right to education",
+        "Right to a clean, healthy and sustainable environment"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 9A makes a clean, healthy and sustainable environment a justiciable fundamental right.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "By which date does the 26th Amendment require riba (usury) to be eliminated in Pakistan, as far as practicable?",
+      "options": [
+        "1 January 2027",
+        "1 January 2030",
+        "1 January 2028",
+        "14 August 2029"
+      ],
+      "correctIndex": 2,
+      "explanation": "The amendment wrote into the Constitution a deadline of 1 January 2028 for the elimination of riba as far as practicable.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who took oath in October 2024 as the first Chief Justice of Pakistan appointed under the 26th Amendment?",
+      "options": [
+        "Yahya Afridi",
+        "Mansoor Ali Shah",
+        "Munib Akhtar",
+        "Aminuddin Khan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Justice Yahya Afridi was nominated by the Special Parliamentary Committee and sworn in on 26 October 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Justice Yahya Afridi became which numbered Chief Justice of Pakistan?",
+      "options": [
+        "28th",
+        "29th",
+        "31st",
+        "30th"
+      ],
+      "correctIndex": 3,
+      "explanation": "He is counted as the 30th Chief Justice of Pakistan, succeeding Qazi Faez Isa.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "On what date did President Asif Ali Zardari give assent to Pakistan's 27th Constitutional Amendment?",
+      "options": [
+        "12 November 2025",
+        "13 November 2025",
+        "21 October 2024",
+        "8 November 2025"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Senate approved the final text on 13 November 2025 and the President signed it into law the same day.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "By what margin did the Senate finally pass Pakistan's 27th Constitutional Amendment in November 2025?",
+      "options": [
+        "65 votes to 4",
+        "70 votes to 8",
+        "60 votes to 4",
+        "64 votes to 4"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Senate recorded 64 votes in favour and 4 against, exactly meeting the two-thirds threshold of 64 in a house of 96.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "How many votes were cast in favour of the 27th Constitutional Amendment in Pakistan's National Assembly?",
+      "options": [
+        "225",
+        "234",
+        "201",
+        "224"
+      ],
+      "correctIndex": 1,
+      "explanation": "The National Assembly passed the bill on 12 November 2025 with 234 votes in favour against 4, comfortably above the 224 required.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "Which federal minister tabled the 27th Constitutional Amendment bill in Pakistan's Parliament?",
+      "options": [
+        "Azam Nazeer Tarar",
+        "Ahsan Iqbal",
+        "Mohsin Naqvi",
+        "Attaullah Tarar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Law and Justice Minister Azam Nazeer Tarar moved the bill on behalf of the government.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Which new court was established by Pakistan's 27th Constitutional Amendment?",
+      "options": [
+        "Federal Shariat Court",
+        "National Accountability Court",
+        "Federal Constitutional Court",
+        "Federal Service Tribunal"
+      ],
+      "correctIndex": 2,
+      "explanation": "The amendment created a Federal Constitutional Court and moved constitutional jurisdiction to it from the Supreme Court.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "Who was appointed the first Chief Justice of Pakistan's Federal Constitutional Court in November 2025?",
+      "options": [
+        "Aminuddin Khan",
+        "Yahya Afridi",
+        "Sarfraz Dogar",
+        "Muhammad Ali Mazhar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Justice Aminuddin Khan, who had headed the Supreme Court's Constitutional Bench, was named the first Chief Justice of the new court.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "What is the sanctioned strength of judges of Pakistan's Federal Constitutional Court?",
+      "options": [
+        "17",
+        "11",
+        "13",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "The court was given a sanctioned strength of 13 judges including its Chief Justice.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Which article of Pakistan's Constitution was amended by the 27th Amendment to create the office of Chief of Defence Forces?",
+      "options": [
+        "Article 245",
+        "Article 243",
+        "Article 175A",
+        "Article 248"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 243, which deals with command of the armed forces, was recast to provide for a Chief of Defence Forces.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Which military office was abolished by Pakistan's 27th Constitutional Amendment?",
+      "options": [
+        "Chief of General Staff",
+        "Vice Chief of Army Staff",
+        "Chief of the Naval Staff",
+        "Chairman Joint Chiefs of Staff Committee"
+      ],
+      "correctIndex": 3,
+      "explanation": "The post of Chairman Joint Chiefs of Staff Committee lapsed on 27 November 2025 and its role passed to the new Chief of Defence Forces.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Who was the last holder of the office of Chairman Joint Chiefs of Staff Committee of Pakistan?",
+      "options": [
+        "General Nadeem Raza",
+        "General Zubair Mahmood Hayat",
+        "General Sahir Shamshad Mirza",
+        "General Rashad Mahmood"
+      ],
+      "correctIndex": 2,
+      "explanation": "General Sahir Shamshad Mirza retired on 27 November 2025, after which the office ceased to exist.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Who became Pakistan's first Chief of Defence Forces?",
+      "options": [
+        "Field Marshal Asim Munir",
+        "General Sahir Shamshad Mirza",
+        "General Qamar Javed Bajwa",
+        "Air Chief Marshal Zaheer Ahmed Babar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Field Marshal Asim Munir, the Chief of Army Staff, was appointed to the newly created post of Chief of Defence Forces in late 2025.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "What change did Pakistan's 27th Amendment make to Article 248 in relation to the President?",
+      "options": [
+        "It removed presidential immunity altogether",
+        "It limited immunity to five years after leaving office",
+        "It made immunity conditional on parliamentary approval",
+        "It granted lifetime immunity from criminal and civil proceedings"
+      ],
+      "correctIndex": 3,
+      "explanation": "Immunity under Article 248, previously tied to the term of office, was extended to cover the President for life.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from constitutionnet.org (checked July 2026)."
+    },
+    {
+      "text": "Which two Supreme Court judges resigned on 13 November 2025 in protest against the 27th Constitutional Amendment?",
+      "options": [
+        "Munib Akhtar and Ayesha Malik",
+        "Mansoor Ali Shah and Athar Minallah",
+        "Aminuddin Khan and Naeem Akhtar Afghan",
+        "Yahya Afridi and Irfan Saadat Khan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Justices Mansoor Ali Shah and Athar Minallah resigned the day the amendment received presidential assent.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "How many judges sat on the Supreme Court bench that delivered the reserved seats verdict of 12 July 2024?",
+      "options": [
+        "11",
+        "8",
+        "15",
+        "13"
+      ],
+      "correctIndex": 3,
+      "explanation": "A 13-member full court decided the reserved seats case, with eight judges forming the majority in favour of PTI.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which judge headed the Supreme Court constitutional bench that decided the reserved seats review in 2025?",
+      "options": [
+        "Justice Yahya Afridi",
+        "Justice Aminuddin Khan",
+        "Justice Mansoor Ali Shah",
+        "Justice Munib Akhtar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Justice Aminuddin Khan presided over the constitutional bench that took up review petitions against the July 2024 judgment.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "What did the Supreme Court's constitutional bench decide in the reserved seats review of March 2025?",
+      "options": [
+        "That PTI was not entitled to the reserved seats",
+        "That PTI was entitled to all the reserved seats",
+        "That the reserved seats would remain vacant",
+        "That fresh elections would be held for the reserved seats"
+      ],
+      "correctIndex": 0,
+      "explanation": "The bench accepted the review petitions on 26 March 2025 and held that PTI could not claim reserved seats because it had not contested the election as a party.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which provision of the Pakistan Army Act 1952 permitting trial of civilians was restored by the Supreme Court's constitutional bench in May 2025?",
+      "options": [
+        "Section 59(4)",
+        "Section 31D",
+        "Section 2(1)(d)",
+        "Section 8"
+      ],
+      "correctIndex": 2,
+      "explanation": "The constitutional bench overturned the October 2023 judgment and revived Section 2(1)(d), under which civilians may be tried by court martial.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "In September 2024 the Supreme Court reversed its earlier judgment and reinstated amendments to which law?",
+      "options": [
+        "The National Accountability Ordinance 1999",
+        "The Elections Act 2017",
+        "The Pakistan Army Act 1952",
+        "The Official Secrets Act 1923"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Court restored the 2022 amendments to the accountability law, including the Rs 500 million threshold for NAB's jurisdiction.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was sworn in as Chief Justice of the Islamabad High Court in July 2025?",
+      "options": [
+        "Aamer Farooq",
+        "Athar Minallah",
+        "Sardar Muhammad Sarfraz Dogar",
+        "Miangul Hassan Aurangzeb"
+      ],
+      "correctIndex": 2,
+      "explanation": "Justice Sarfraz Dogar, transferred from the Lahore High Court, took oath as Chief Justice of the Islamabad High Court amid a seniority dispute.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from nation.com.pk (checked July 2026)."
+    },
+    {
+      "text": "In which case was Imran Khan sentenced to 14 years' imprisonment in January 2025?",
+      "options": [
+        "Toshakhana case",
+        "Al-Qadir Trust case",
+        "Cipher case",
+        "Iddat case"
+      ],
+      "correctIndex": 1,
+      "explanation": "An accountability court in Rawalpindi convicted him on 17 January 2025 in the £190 million Al-Qadir Trust reference.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "In December 2025 Imran Khan and Bushra Bibi were each sentenced to how many years in the Toshakhana-II case?",
+      "options": [
+        "14 years",
+        "10 years",
+        "7 years",
+        "17 years"
+      ],
+      "correctIndex": 3,
+      "explanation": "A special court handed both a 17-year sentence on 20 December 2025 in the second Toshakhana reference.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "Who became the first woman Chief Minister of Punjab in February 2024?",
+      "options": [
+        "Hina Rabbani Khar",
+        "Shireen Mazari",
+        "Maryam Nawaz",
+        "Sherry Rehman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maryam Nawaz Sharif was elected on 26 February 2024, becoming the first woman to head any Pakistani province.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "How many votes did Maryam Nawaz secure in the Punjab Assembly to be elected Chief Minister in February 2024?",
+      "options": [
+        "220",
+        "201",
+        "186",
+        "250"
+      ],
+      "correctIndex": 0,
+      "explanation": "She polled 220 votes in the Punjab Assembly while the opposition boycotted the count.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "Who was elected Chief Minister of Sindh for a third consecutive term in February 2024?",
+      "options": [
+        "Nasir Hussain Shah",
+        "Sharjeel Memon",
+        "Maqbool Baqar",
+        "Murad Ali Shah"
+      ],
+      "correctIndex": 3,
+      "explanation": "PPP's Syed Murad Ali Shah was elected Sindh Chief Minister for a third successive term on 26 February 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was elected Chief Minister of Balochistan in early 2024?",
+      "options": [
+        "Ali Mardan Khan Domki",
+        "Sarfraz Bugti",
+        "Abdul Quddus Bizenjo",
+        "Jam Kamal Khan"
+      ],
+      "correctIndex": 1,
+      "explanation": "PPP's Mir Sarfraz Bugti was elected unopposed as Chief Minister of Balochistan after the 2024 general election.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who became Chief Minister of Khyber Pakhtunkhwa after Pakistan's 2024 general election?",
+      "options": [
+        "Sohail Afridi",
+        "Mahmood Khan",
+        "Pervez Khattak",
+        "Ali Amin Gandapur"
+      ],
+      "correctIndex": 3,
+      "explanation": "PTI's Ali Amin Gandapur was elected Chief Minister of Khyber Pakhtunkhwa in March 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was elected Chief Minister of Khyber Pakhtunkhwa in October 2025?",
+      "options": [
+        "Ali Amin Gandapur",
+        "Sohail Afridi",
+        "Muzzammil Aslam",
+        "Babar Saleem Swati"
+      ],
+      "correctIndex": 1,
+      "explanation": "PTI replaced Ali Amin Gandapur with Sohail Afridi, who was elected by the provincial assembly on 13 October 2025.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from arabnews.com (checked July 2026)."
+    },
+    {
+      "text": "Which court in October 2025 ordered the Governor of Khyber Pakhtunkhwa to administer the oath of office to Sohail Afridi?",
+      "options": [
+        "Peshawar High Court",
+        "Supreme Court of Pakistan",
+        "Islamabad High Court",
+        "Federal Constitutional Court"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Peshawar High Court directed Governor Faisal Karim Kundi to administer the oath by 15 October 2025 after his delay.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Who took oath as Governor of Punjab in May 2024?",
+      "options": [
+        "Baligh Ur Rehman",
+        "Omar Sarfraz Cheema",
+        "Sardar Saleem Haider Khan",
+        "Muhammad Sarwar"
+      ],
+      "correctIndex": 2,
+      "explanation": "PPP's Sardar Saleem Haider Khan was sworn in as the 40th Governor of Punjab in May 2024.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who took oath as Governor of Khyber Pakhtunkhwa in May 2024?",
+      "options": [
+        "Faisal Karim Kundi",
+        "Haji Ghulam Ali",
+        "Shah Farman",
+        "Iqbal Zafar Jhagra"
+      ],
+      "correctIndex": 0,
+      "explanation": "PPP leader Faisal Karim Kundi was sworn in as Governor of Khyber Pakhtunkhwa in May 2024.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who took oath as Governor of Balochistan in May 2024?",
+      "options": [
+        "Abdul Wali Kakar",
+        "Syed Zahoor Ahmad Agha",
+        "Sheikh Jaffar Khan Mandokhail",
+        "Amanullah Khan Yasinzai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sheikh Jaffar Khan Mandokhail was sworn in as Governor of Balochistan in May 2024.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was elected Speaker of the Provincial Assembly of Punjab in 2024?",
+      "options": [
+        "Sibtain Khan",
+        "Malik Muhammad Ahmad Khan",
+        "Chaudhry Parvez Elahi",
+        "Zaheer Iqbal Channar"
+      ],
+      "correctIndex": 1,
+      "explanation": "PML-N's Malik Muhammad Ahmad Khan was elected Speaker of the Punjab Assembly after the 2024 election.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was elected Speaker of the Sindh Assembly in 2024?",
+      "options": [
+        "Agha Siraj Durrani",
+        "Nisar Ahmed Khuhro",
+        "Rehana Leghari",
+        "Awais Qadir Shah"
+      ],
+      "correctIndex": 3,
+      "explanation": "PPP's Syed Awais Qadir Shah was elected Speaker of the Sindh Assembly following the 2024 general election.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who was sworn in as Prime Minister of Azad Jammu and Kashmir in November 2025?",
+      "options": [
+        "Chaudhry Anwarul Haq",
+        "Sardar Tanveer Ilyas",
+        "Faisal Mumtaz Rathore",
+        "Raja Farooq Haider"
+      ],
+      "correctIndex": 2,
+      "explanation": "Faisal Mumtaz Rathore was elected the 16th Prime Minister of Azad Jammu and Kashmir and took oath on 18 November 2025.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "Faisal Mumtaz Rathore, who became Prime Minister of Azad Jammu and Kashmir in 2025, belongs to which party?",
+      "options": [
+        "Pakistan Peoples Party",
+        "Pakistan Muslim League (N)",
+        "Pakistan Tehreek-e-Insaf",
+        "All Jammu and Kashmir Muslim Conference"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rathore is a PPP leader and replaced Chaudhry Anwarul Haq as head of the AJK government.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "On what date was the Gilgit-Baltistan Assembly election held in 2026?",
+      "options": [
+        "15 November 2025",
+        "8 February 2026",
+        "22 June 2026",
+        "7 June 2026"
+      ],
+      "correctIndex": 3,
+      "explanation": "Polling for the Gilgit-Baltistan Assembly took place on 7 June 2026 after a caretaker set-up ran the region.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Which party won the largest number of general seats in the 2026 Gilgit-Baltistan Assembly election?",
+      "options": [
+        "Pakistan Muslim League (N)",
+        "Pakistan Peoples Party",
+        "Pakistan Tehreek-e-Insaf",
+        "Majlis Wahdat-e-Muslimeen"
+      ],
+      "correctIndex": 1,
+      "explanation": "The PPP won 10 general seats, ahead of PML-N's six, and later formed a coalition government with PML-N.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Who was elected Chief Minister of Gilgit-Baltistan in June 2026?",
+      "options": [
+        "Gulbar Khan",
+        "Khalid Khurshid",
+        "Yar Muhammad",
+        "Amjad Hussain Azar"
+      ],
+      "correctIndex": 3,
+      "explanation": "PPP's Amjad Hussain Azar was elected unopposed on 22 June 2026 under a power-sharing deal with PML-N.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Who was appointed caretaker Chief Minister of Gilgit-Baltistan in November 2025?",
+      "options": [
+        "Gulbar Khan",
+        "Justice (retd) Yar Muhammad",
+        "Amjad Hussain Azar",
+        "Hafiz Hafeezur Rehman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Justice (retd) Yar Muhammad was sworn in as caretaker Chief Minister on 25 November 2025 to oversee the 2026 election.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from tribune.com.pk (checked July 2026)."
+    },
+    {
+      "text": "The Senate election of 2 April 2024 left the seats of which province unfilled because its assembly was incomplete?",
+      "options": [
+        "Khyber Pakhtunkhwa",
+        "Balochistan",
+        "Sindh",
+        "Punjab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khyber Pakhtunkhwa's Senate seats could not be filled in April 2024 because the reserved seats dispute had left the provincial assembly short of members.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "In which month of 2025 were the long-delayed Senate elections for Khyber Pakhtunkhwa finally held?",
+      "options": [
+        "April 2025",
+        "March 2025",
+        "July 2025",
+        "October 2025"
+      ],
+      "correctIndex": 2,
+      "explanation": "Polling for Khyber Pakhtunkhwa's Senate seats took place on 21 July 2025 after the reserved seats issue was settled.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "On what date were by-elections held in 2025 for six National Assembly and seven Punjab Assembly seats?",
+      "options": [
+        "23 November 2025",
+        "21 April 2025",
+        "8 September 2025",
+        "14 December 2025"
+      ],
+      "correctIndex": 0,
+      "explanation": "The by-elections of 23 November 2025 filled seats vacated mainly by the disqualification of PTI members convicted over the May 2023 riots.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Which party won the overwhelming majority of seats in Pakistan's by-elections of 23 November 2025?",
+      "options": [
+        "Pakistan Tehreek-e-Insaf",
+        "Pakistan Peoples Party",
+        "Pakistan Muslim League (N)",
+        "Jamiat Ulema-e-Islam (F)"
+      ],
+      "correctIndex": 2,
+      "explanation": "PML-N took 12 of the 13 seats contested, with PTI winning only one.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "Which section inserted by Pakistan's PECA (Amendment) Act 2025 criminalises the spreading of false or fake information?",
+      "options": [
+        "Section 20",
+        "Section 26A",
+        "Section 37",
+        "Section 11"
+      ],
+      "correctIndex": 1,
+      "explanation": "Section 26A of the amended Prevention of Electronic Crimes Act penalises intentionally spreading information known to be false or fake.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which of these bodies was created by Pakistan's PECA (Amendment) Act 2025?",
+      "options": [
+        "National Media Commission",
+        "Press Council of Pakistan",
+        "Pakistan Telecommunication Tribunal",
+        "Social Media Protection Tribunal"
+      ],
+      "correctIndex": 3,
+      "explanation": "The 2025 amendment set up a Social Media Protection Tribunal along with a regulatory authority and a complaint council.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "In which month and year did President Zardari give assent to Pakistan's PECA (Amendment) Act?",
+      "options": [
+        "January 2024",
+        "June 2025",
+        "January 2025",
+        "November 2025"
+      ],
+      "correctIndex": 2,
+      "explanation": "The President signed the PECA amendment into law at the end of January 2025 despite protests by journalists' bodies.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which authority was established by Pakistan's Digital Nation Pakistan Act 2025?",
+      "options": [
+        "Pakistan Digital Authority",
+        "Pakistan Telecommunication Authority",
+        "National Database and Registration Authority",
+        "Pakistan Software Export Board"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Digital Nation Pakistan Act, enacted in January 2025, created the Pakistan Digital Authority to drive digital transformation.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Who chairs the National Digital Commission created under Pakistan's Digital Nation Pakistan Act 2025?",
+      "options": [
+        "The President",
+        "The Minister for Information Technology",
+        "The Governor of the State Bank",
+        "The Prime Minister"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Act places the National Digital Commission, which sets strategic direction for the Pakistan Digital Authority, under the Prime Minister's chairmanship.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "What is the name of the five-year National Economic Transformation Plan launched by Prime Minister Shehbaz Sharif on 31 December 2024?",
+      "options": [
+        "Vision 2025",
+        "Uraan Pakistan",
+        "Ehsaas Programme",
+        "Digital Pakistan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uraan Pakistan is the National Economic Transformation Plan 2024-29 launched on 31 December 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "What are the five pillars of Pakistan's Uraan Pakistan plan collectively called?",
+      "options": [
+        "The 4Ps",
+        "The 5Ds",
+        "The 3Cs",
+        "The 5Es"
+      ],
+      "correctIndex": 3,
+      "explanation": "The plan is built on the 5Es: Exports, E-Pakistan, Environment and climate, Energy and infrastructure, and Equity and empowerment.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "What annual export target does Pakistan's Uraan Pakistan plan set for 2029?",
+      "options": [
+        "US$30 billion",
+        "US$60 billion",
+        "US$100 billion",
+        "US$45 billion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uraan Pakistan aims to roughly double annual exports to about US$60 billion by 2029.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "What was the total outlay of Pakistan's federal budget for 2026-27?",
+      "options": [
+        "About Rs 18.77 trillion",
+        "About Rs 17.57 trillion",
+        "About Rs 14.46 trillion",
+        "About Rs 21.30 trillion"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 2026-27 federal budget presented on 12 June 2026 carried a total outlay of roughly Rs 18,771 billion.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "What GDP growth rate did Pakistan's federal budget for 2026-27 target?",
+      "options": [
+        "4.2 per cent",
+        "3.6 per cent",
+        "4 per cent",
+        "5 per cent"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 2026-27 budget set a real GDP growth target of 4 per cent.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from dawn.com (checked July 2026)."
+    },
+    {
+      "text": "What was the total outlay of Pakistan's federal budget for 2025-26, presented on 10 June 2025?",
+      "options": [
+        "About Rs 17.57 trillion",
+        "About Rs 18.77 trillion",
+        "About Rs 18.88 trillion",
+        "About Rs 16.20 trillion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Finance Minister Muhammad Aurangzeb presented a budget of about Rs 17,573 billion for 2025-26.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current",
+      "sourceNote": "Confirmed from en.wikipedia.org (checked July 2026)."
+    },
+    {
+      "text": "What is the name of the reinvigorated counter-terrorism campaign approved by Pakistan's government in June 2024?",
+      "options": [
+        "Radd-ul-Fasaad",
+        "Zarb-e-Azb",
+        "Azm-e-Istehkam",
+        "Bunyan-um-Marsoos"
+      ],
+      "correctIndex": 2,
+      "explanation": "Operation Azm-e-Istehkam was approved on 22 June 2024 as a reinvigorated national counter-terrorism drive.",
+      "difficulty": "EASY",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which forum approved Operation Azm-e-Istehkam in June 2024?",
+      "options": [
+        "The National Security Committee",
+        "The Central Apex Committee of the National Action Plan",
+        "The Council of Common Interests",
+        "The National Command Authority"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Central Apex Committee on the National Action Plan, chaired by Prime Minister Shehbaz Sharif, approved the campaign.",
+      "difficulty": "HARD",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Under the National Fiscal Pact agreed by Pakistan's federal and provincial governments in September 2024, the provinces undertook to tax which income?",
+      "options": [
+        "Income from foreign remittances",
+        "Income from digital services",
+        "Pension income",
+        "Agricultural income"
+      ],
+      "correctIndex": 3,
+      "explanation": "The pact, signed under the IMF programme, committed provinces to align agricultural income tax with federal personal and corporate rates.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "At which Islamabad location did the PTI protest of November 2024 culminate before being dispersed?",
+      "options": [
+        "Faizabad Interchange",
+        "Liaquat Bagh",
+        "D-Chowk",
+        "Aabpara Chowk"
+      ],
+      "correctIndex": 2,
+      "explanation": "PTI marchers reached D-Chowk near the Red Zone on 26 November 2024 before a night-time crackdown ended the protest.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    },
+    {
+      "text": "Which official was named in January 2020 as Chief Election Commissioner of Pakistan for a five-year term?",
+      "options": [
+        "Sikandar Sultan Raja",
+        "Fakhruddin G. Ebrahim",
+        "Sardar Muhammad Raza Khan",
+        "Justice Javed Iqbal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sikandar Sultan Raja was appointed Chief Election Commissioner on 27 January 2020 and oversaw the 2024 general election.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-current"
+    }
+  ]
+}

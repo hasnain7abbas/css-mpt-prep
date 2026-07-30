@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { signOut } from "next-auth/react";
-import { BarChart3, KeyRound, LayoutDashboard, ListChecks, LogOut, Shield } from "lucide-react";
+import { BarChart3, FileClock, KeyRound, LayoutDashboard, ListChecks, LogOut, Shield, Timer } from "lucide-react";
 import { Logo } from "@/components/brand/Logo";
 import { ThemeToggle } from "@/components/app/ThemeToggle";
 import { Avatar, AvatarFallback } from "@/components/ui/avatar";
@@ -19,7 +19,9 @@ import { cn } from "@/lib/utils";
 
 const NAV = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
-  { href: "/subjects", label: "Subjects", icon: ListChecks },
+  { href: "/mocks", label: "Mocks", icon: Timer },
+  { href: "/subjects", label: "Sections", icon: ListChecks },
+  { href: "/past-papers", label: "Past papers", icon: FileClock },
   { href: "/progress", label: "Progress", icon: BarChart3 },
 ];
 
@@ -40,13 +42,13 @@ export function TopBar({
   const pathname = usePathname();
 
   return (
-    <header className="sticky top-0 z-40 border-b border-ink/8 bg-surface/85 backdrop-blur">
+    <header className="sticky top-0 z-40 border-b border-ink/15 bg-surface/95 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-4 px-4 sm:px-6 lg:px-8">
         <Link href="/dashboard" aria-label="Dashboard">
           <Logo />
         </Link>
 
-        <nav className="hidden items-center gap-1 md:flex">
+        <nav className="hidden items-center gap-1 lg:flex">
           {NAV.map((item) => {
             const active =
               pathname === item.href || pathname.startsWith(item.href + "/");
@@ -55,10 +57,10 @@ export function TopBar({
                 key={item.href}
                 href={item.href}
                 className={cn(
-                  "flex items-center gap-2 rounded-xl px-3.5 py-2 text-sm font-medium transition-colors",
+                  "flex items-center gap-2 rounded-sm px-3 py-2 text-sm font-medium transition-colors duration-200",
                   active
-                    ? "bg-primary-light text-primary-dark dark:bg-primary/15 dark:text-emerald-300"
-                    : "text-ink-muted hover:bg-surface-muted hover:text-ink",
+                    ? "bg-ink text-surface"
+                    : "text-ink-muted hover:bg-ink/5 hover:text-ink",
                 )}
               >
                 <item.icon className="size-4" />
@@ -71,7 +73,7 @@ export function TopBar({
         <div className="flex items-center gap-1">
         <ThemeToggle />
         <DropdownMenu>
-          <DropdownMenuTrigger className="rounded-full outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2">
+          <DropdownMenuTrigger className="rounded-full outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2">
             <Avatar>
               <AvatarFallback>{initials(name)}</AvatarFallback>
             </Avatar>
@@ -83,7 +85,7 @@ export function TopBar({
             </DropdownMenuLabel>
             <DropdownMenuSeparator />
             {/* Mobile-only nav inside the menu */}
-            <div className="md:hidden">
+            <div className="lg:hidden">
               {NAV.map((item) => (
                 <DropdownMenuItem key={item.href} asChild>
                   <Link href={item.href}>
@@ -110,7 +112,7 @@ export function TopBar({
             </DropdownMenuItem>
             <DropdownMenuItem
               onSelect={() => signOut({ callbackUrl: "/" })}
-              className="text-danger focus:bg-rose-50 [&_svg]:text-danger"
+              className="text-accent focus:bg-accent/10 [&_svg]:text-accent"
             >
               <LogOut />
               Log out

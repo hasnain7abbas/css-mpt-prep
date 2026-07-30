@@ -1,8 +1,8 @@
-// FIA Job Prep — Prisma schema
+// CSS MPT Prep — Prisma schema
 //
 // DB: PostgreSQL (works locally and on serverless hosts like Vercel).
 //   - `options` / `answers` use `Json`.
-//   - `role` / `difficulty` are stored as `String`.
+//   - `role` / `difficulty` / `kind` are stored as `String`.
 // Use a free Postgres from Neon (neon.tech) or Supabase. Set DATABASE_URL to the
 // connection string, then `npm run db:push && npm run db:seed`.
 
@@ -27,29 +27,43 @@ model User {
   attempts           Attempt[]
 }
 
+/// One of the seven MPT subjects. `mptMarks` is the official FPSC weighting
+/// (English 50, GSA 60, Pakistan Affairs 20, Current Affairs 20, Islamic
+/// Studies 20, Urdu 20, General Knowledge 10 — 200 in total).
 model Subject {
   id          String  @id @default(cuid())
   slug        String  @unique
   title       String
   description String
   order       Int     @default(0)
+  mptMarks    Int     @default(0)
   tests       Test[]
 }
 
+/// A sittable paper. `kind` decides how it behaves in the UI:
+///   PRACTICE   — subject test (subjectId set)
+///   DRILL      — short topic drill (subjectId set, topic set)
+///   MOCK       — full 200-question MPT simulation (subjectId null)
+///   PAST_PAPER — recalled FPSC paper (subjectId null, paperYear set)
 model Test {
   id          String     @id @default(cuid())
-  subjectId   String
-  subject     Subject    @relation(fields: [subjectId], references: [id], onDelete: Cascade)
-  number      Int // 1, 2, 3 ... contiguous per subject
+  key         String     @unique // stable seed key, e.g. "english-3", "mock-2", "paper-mpt-2026"
+  subjectId   String?
+  subject     Subject?   @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  kind        String     @default("PRACTICE")
+  topic       String?
+  number      Int // contiguous within its kind / subject
   title       String
   difficulty  String     @default("MEDIUM") // EASY | MEDIUM | HARD
   durationMin Int        @default(30)
+  paperYear   Int?
   isPublished Boolean    @default(true)
   createdAt   DateTime   @default(now())
   questions   Question[]
   attempts    Attempt[]
 
-  @@unique([subjectId, number])
+  @@index([subjectId, number])
+  @@index([kind])
 }
 
 model Question {
@@ -61,6 +75,13 @@ model Question {
   options      Json // string[] — exactly 4 options
   correctIndex Int // 0..3
   explanation  String
+  /// Subject this question belongs to, even inside a mixed mock or past paper.
+  subjectSlug  String?
+  /// Fine-grained topic (e.g. "number-series", "seerah") — powers weak-area drills.
+  topic        String?
+
+  @@index([testId])
+  @@index([subjectSlug])
 }
 
 model Attempt {
@@ -79,4 +100,5 @@ model Attempt {
 
   @@index([userId])
   @@index([testId])
+  @@index([userId, submittedAt])
 }

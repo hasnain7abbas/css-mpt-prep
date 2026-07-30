@@ -1,0 +1,945 @@
+{
+  "subject": "current-affairs",
+  "unit": "ca-pakistan-foreign",
+  "questions": [
+    {
+      "text": "The April 2025 militant attack that triggered the India-Pakistan crisis of that year took place at which location in Indian-administered Kashmir?",
+      "options": [
+        "Pahalgam",
+        "Uri",
+        "Pulwama",
+        "Baramulla"
+      ],
+      "correctIndex": 0,
+      "explanation": "The attack on tourists at Pahalgam on 22 April 2025 killed 26 people and set off the diplomatic and military escalation between India and Pakistan.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "India's military operation launched against Pakistan on 7 May 2025 was code-named:",
+      "options": [
+        "Operation Meghdoot",
+        "Operation Sindoor",
+        "Operation Parakram",
+        "Operation Vijay"
+      ],
+      "correctIndex": 1,
+      "explanation": "India named its 7 May 2025 missile and air strikes on Pakistan and Azad Kashmir 'Operation Sindoor'.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Pakistan's retaliatory military operation launched on 10 May 2025 against India was code-named:",
+      "options": [
+        "Zarb-e-Azb",
+        "Radd-ul-Fasaad",
+        "Bunyan-um-Marsoos",
+        "Azm-e-Istehkam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan named its 10 May 2025 tri-services response 'Bunyan-um-Marsoos', a Quranic phrase meaning a firmly cemented structure.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "On which date did India launch Operation Sindoor against targets in Pakistan?",
+      "options": [
+        "22 April 2025",
+        "30 April 2025",
+        "7 May 2025",
+        "10 May 2025"
+      ],
+      "correctIndex": 2,
+      "explanation": "Operation Sindoor began in the early hours of 7 May 2025, about two weeks after the Pahalgam attack.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The ceasefire that ended the May 2025 armed conflict between India and Pakistan took effect on:",
+      "options": [
+        "7 May 2025",
+        "10 May 2025",
+        "16 May 2025",
+        "22 May 2025"
+      ],
+      "correctIndex": 1,
+      "explanation": "A ceasefire was announced and took effect on the evening of 10 May 2025, four days after hostilities began.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The head of state who publicly announced the India-Pakistan ceasefire of 10 May 2025 before either government did was the president of:",
+      "options": [
+        "Türkiye",
+        "China",
+        "Saudi Arabia",
+        "the United States"
+      ],
+      "correctIndex": 3,
+      "explanation": "US President Donald Trump announced the ceasefire publicly on social media on 10 May 2025, crediting American mediation.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "In Pakistan's official terminology, the May 2025 armed conflict with India is referred to as:",
+      "options": [
+        "Marka-e-Haq",
+        "Youm-e-Takbir",
+        "Zarb-e-Azb",
+        "Azm-e-Istehkam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakistan officially designates the May 2025 conflict 'Marka-e-Haq' (the battle for truth); Bunyan-um-Marsoos was the name of the military operation within it.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from en.wikipedia.org and nation.com.pk"
+    },
+    {
+      "text": "Which treaty did India announce it would hold 'in abeyance' after the April 2025 Pahalgam attack?",
+      "options": [
+        "The Simla Agreement",
+        "The Indus Waters Treaty",
+        "The Karachi Agreement",
+        "The Lahore Declaration"
+      ],
+      "correctIndex": 1,
+      "explanation": "India's Cabinet Committee on Security announced on 23 April 2025 that the Indus Waters Treaty would be held in abeyance with immediate effect.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "In its statement of 24 April 2025, Pakistan's National Security Committee said it reserved the right to hold which agreement in abeyance?",
+      "options": [
+        "The Simla Agreement of 1972",
+        "The Tashkent Declaration of 1966",
+        "The Indus Waters Treaty of 1960",
+        "The Lahore Declaration of 1999"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakistan's National Security Committee responded to India's measures by stating it had the right to hold the 1972 Simla Agreement, and other bilateral accords, in abeyance.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Pakistan's National Security Committee statement of 24 April 2025 declared that any attempt to stop or divert Pakistan's share of Indus waters would be treated as:",
+      "options": [
+        "A breach of the UN Charter only",
+        "Grounds for approaching the ICJ",
+        "An act of war",
+        "A matter for SAARC arbitration"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Committee stated that any attempt to stop or divert water belonging to Pakistan under the Indus Waters Treaty would be considered an act of war.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Which body issued the supplemental award of 27 June 2025 holding that the Indus Waters Treaty does not permit a party to unilaterally place it in abeyance?",
+      "options": [
+        "The International Court of Justice",
+        "The WTO Dispute Settlement Body",
+        "The International Tribunal for the Law of the Sea",
+        "The Court of Arbitration constituted under the Indus Waters Treaty"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Court of Arbitration constituted under the Treaty, with the Permanent Court of Arbitration as registry, ruled on 27 June 2025 that India's abeyance did not affect the Court's competence.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from pcacases.com and loc.gov"
+    },
+    {
+      "text": "Which land crossing with Pakistan did India announce it was closing after the April 2025 Pahalgam attack?",
+      "options": [
+        "The Attari-Wagah crossing",
+        "The Kartarpur Corridor",
+        "The Munabao-Khokhrapar crossing",
+        "The Hussainiwala crossing"
+      ],
+      "correctIndex": 0,
+      "explanation": "India ordered the closure of the Attari Integrated Check Post on the Attari-Wagah route as part of its 23 April 2025 measures.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Under the Indus Waters Treaty, the three rivers allocated to Pakistan are:",
+      "options": [
+        "Ravi, Beas and Sutlej",
+        "Indus, Jhelum and Chenab",
+        "Kabul, Swat and Panjkora",
+        "Chenab, Ravi and Sutlej"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Treaty gives Pakistan the western rivers - Indus, Jhelum and Chenab - while India receives the eastern rivers Ravi, Beas and Sutlej.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The Indus Waters Treaty between Pakistan and India was signed in which year, with which institution as broker?",
+      "options": [
+        "1955, the United Nations",
+        "1960, the World Bank",
+        "1965, the Asian Development Bank",
+        "1972, the Commonwealth Secretariat"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Treaty was signed in Karachi in September 1960 after negotiations brokered by the World Bank, which is also a signatory for limited purposes.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Which Pakistan Army chief was promoted to the rank of Field Marshal on 20 May 2025?",
+      "options": [
+        "Qamar Javed Bajwa",
+        "Sahir Shamshad Mirza",
+        "Asim Munir",
+        "Faiz Hameed"
+      ],
+      "correctIndex": 2,
+      "explanation": "The federal cabinet approved the promotion of General Syed Asim Munir to Field Marshal on 20 May 2025, citing his leadership during the conflict with India.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Asim Munir's elevation in May 2025 made him which Field Marshal in Pakistan's history?",
+      "options": [
+        "The first",
+        "The second",
+        "The third",
+        "The fourth"
+      ],
+      "correctIndex": 1,
+      "explanation": "He became Pakistan's second Field Marshal; the first was Ayub Khan, who assumed the rank in 1959.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The Pakistan-Afghanistan ceasefire of October 2025 was agreed at negotiations held in which city?",
+      "options": [
+        "Istanbul",
+        "Tehran",
+        "Riyadh",
+        "Doha"
+      ],
+      "correctIndex": 3,
+      "explanation": "After a week of the worst border fighting in years, Pakistani and Afghan delegations agreed to an immediate ceasefire at talks in Doha.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from aljazeera.com and rferl.org"
+    },
+    {
+      "text": "Which two countries mediated the Pakistan-Afghanistan ceasefire agreed in October 2025?",
+      "options": [
+        "Qatar and Türkiye",
+        "Saudi Arabia and the UAE",
+        "China and Iran",
+        "Russia and Uzbekistan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Qatar and Türkiye jointly mediated the Doha talks that produced the October 2025 ceasefire between Pakistan and Afghanistan.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from aljazeera.com and npr.org"
+    },
+    {
+      "text": "On what date was the Pakistan-Afghanistan ceasefire announced in Doha in 2025?",
+      "options": [
+        "11 October 2025",
+        "19 October 2025",
+        "29 October 2025",
+        "8 November 2025"
+      ],
+      "correctIndex": 1,
+      "explanation": "The immediate ceasefire was announced on 19 October 2025, following clashes that began around 11 October.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from aljazeera.com and rferl.org"
+    },
+    {
+      "text": "The follow-up rounds of Pakistan-Afghanistan negotiations after the October 2025 Doha ceasefire were hosted in which city?",
+      "options": [
+        "Ankara",
+        "Istanbul",
+        "Baku",
+        "Muscat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Follow-up talks intended to build mechanisms for a durable peace were held in Istanbul, and broke down in November 2025 without agreement.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from pbs.org and dailysabah.com"
+    },
+    {
+      "text": "The boundary between Pakistan and Afghanistan, which Kabul has never formally recognised, is known as the:",
+      "options": [
+        "Radcliffe Line",
+        "McMahon Line",
+        "Durand Line",
+        "Sir Creek Line"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Durand Line, demarcated in 1893 between British India and Afghanistan, remains the de facto Pakistan-Afghanistan border.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The Torkham border crossing links Pakistan's Khyber district with which Afghan province?",
+      "options": [
+        "Kandahar",
+        "Paktika",
+        "Kunar",
+        "Nangarhar"
+      ],
+      "correctIndex": 3,
+      "explanation": "Torkham is the busiest Pakistan-Afghanistan crossing, connecting Khyber district in Khyber Pakhtunkhwa with Nangarhar province.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The Chaman border crossing connects Balochistan with which Afghan province?",
+      "options": [
+        "Kandahar",
+        "Helmand",
+        "Herat",
+        "Zabul"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chaman in Balochistan faces Spin Boldak in Kandahar province, making it the second-busiest crossing on the Durand Line.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Pakistan's programme for the deportation of undocumented foreign nationals, under which large numbers of Afghans have been repatriated since 2023, is called the:",
+      "options": [
+        "National Action Plan",
+        "Illegal Foreigners Repatriation Plan",
+        "Voluntary Return Framework",
+        "Border Management Initiative"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Illegal Foreigners Repatriation Plan, announced in late 2023, has been implemented in phases covering undocumented migrants and later Afghan Citizen Card holders.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Pakistan's retaliatory strikes inside Iranian territory in January 2024 were code-named:",
+      "options": [
+        "Rah-e-Nijat",
+        "Zarb-e-Momin",
+        "Marg Bar Sarmachar",
+        "Sherdil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan carried out Operation Marg Bar Sarmachar on 18 January 2024 against Baloch separatist hideouts inside Iran, two days after Iranian strikes on Pakistani soil.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The Iranian strikes on Pakistani territory in January 2024 targeted alleged bases of which group?",
+      "options": [
+        "Tehreek-e-Taliban Pakistan",
+        "Islamic State-Khorasan",
+        "Lashkar-e-Jhangvi",
+        "Jaish al-Adl"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iran said its 16 January 2024 strikes in Balochistan targeted the Sunni militant group Jaish al-Adl, which operates across the Iran-Pakistan border.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Which Iranian president made a state visit to Pakistan in August 2025?",
+      "options": [
+        "Masoud Pezeshkian",
+        "Hassan Rouhani",
+        "Ebrahim Raisi",
+        "Mohammad Mokhber"
+      ],
+      "correctIndex": 0,
+      "explanation": "President Masoud Pezeshkian visited Islamabad on 2-3 August 2025, holding talks with Prime Minister Shehbaz Sharif on trade and border security.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from aljazeera.com and arabnews.com"
+    },
+    {
+      "text": "During the Iranian president's August 2025 visit to Islamabad, the two sides set a bilateral trade target of:",
+      "options": [
+        "US$3 billion",
+        "US$5 billion",
+        "US$10 billion",
+        "US$25 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan and Iran agreed to raise annual bilateral trade to US$10 billion from roughly US$3 billion at the time.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from aljazeera.com and arabnews.com"
+    },
+    {
+      "text": "The Taftan border crossing, Pakistan's main land route to Iran, lies in which province?",
+      "options": [
+        "Sindh",
+        "Balochistan",
+        "Khyber Pakhtunkhwa",
+        "Punjab"
+      ],
+      "correctIndex": 1,
+      "explanation": "Taftan is in Chagai district of Balochistan and faces Mirjaveh on the Iranian side.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The flagship deep-sea port of the China-Pakistan Economic Corridor is located at:",
+      "options": [
+        "Karachi",
+        "Port Qasim",
+        "Gwadar",
+        "Pasni"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gwadar port in Balochistan is CPEC's flagship maritime project, operated under a Chinese concession.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Pakistan hosted a Shanghai Cooperation Organisation summit in October 2024 in which city?",
+      "options": [
+        "Lahore",
+        "Karachi",
+        "Gwadar",
+        "Islamabad"
+      ],
+      "correctIndex": 3,
+      "explanation": "Islamabad hosted the 23rd meeting of the SCO Council of Heads of Government on 15-16 October 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Which Chinese leader represented China at the SCO Council of Heads of Government meeting hosted by Pakistan in October 2024?",
+      "options": [
+        "Premier Li Qiang",
+        "President Xi Jinping",
+        "Vice President Han Zheng",
+        "Foreign Minister Wang Yi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Premier Li Qiang led the Chinese delegation, as the Council of Heads of Government is a prime-ministerial-level SCO body.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "In 2025 Pakistan and China agreed to advance the China-Pakistan Economic Corridor into which stage?",
+      "options": [
+        "The Gwadar Free Zone stage",
+        "Phase-2, or CPEC 2.0",
+        "The Belt and Road pilot stage",
+        "The Karakoram Initiative"
+      ],
+      "correctIndex": 1,
+      "explanation": "During Prime Minister Shehbaz Sharif's China visit in 2025 the two governments reaffirmed an upgraded CPEC Phase-2, focused on industry, agriculture, mining and IT.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from dawn.com and cpec.gov.pk"
+    },
+    {
+      "text": "The 2025 SCO Council of Heads of State summit attended by Pakistan's prime minister was held in which Chinese city?",
+      "options": [
+        "Beijing",
+        "Qingdao",
+        "Tianjin",
+        "Samarkand"
+      ],
+      "correctIndex": 2,
+      "explanation": "The SCO Heads of State summit was held in Tianjin on 31 August-1 September 2025, and Prime Minister Shehbaz Sharif attended.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from mofa.gov.pk and en.wikipedia.org"
+    },
+    {
+      "text": "Pakistan became a full member of the Shanghai Cooperation Organisation in which year?",
+      "options": [
+        "2005",
+        "2012",
+        "2017",
+        "2021"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan and India were admitted as full SCO members at the Astana summit in June 2017, having earlier been observers.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The trade agreement announced between Pakistan and the United States in July 2025 was presented as centring on joint development of Pakistan's:",
+      "options": [
+        "Textile export quotas",
+        "Hydropower capacity",
+        "Fisheries sector",
+        "Oil reserves"
+      ],
+      "correctIndex": 3,
+      "explanation": "President Trump announced the deal by highlighting cooperation on developing Pakistan's oil reserves alongside tariff relief for Pakistani exports.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from nbcnews.com and en.wikipedia.org"
+    },
+    {
+      "text": "The reciprocal tariff rate applied to Pakistani exports under the United States order of July 2025 was:",
+      "options": [
+        "10 percent",
+        "19 percent",
+        "25 percent",
+        "29 percent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pakistan's rate was set at 19 percent, lower than the 25 percent applied to India and 20 percent to Bangladesh at the time.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from gulfnews.com and arabnews.com"
+    },
+    {
+      "text": "In March 2025 Pakistan handed over to the United States a suspect accused of planning which attack?",
+      "options": [
+        "The Abbey Gate bombing at Kabul airport",
+        "The 2008 Mumbai attacks",
+        "The 2019 Pulwama bombing",
+        "The 2021 Peshawar mosque bombing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakistan captured and transferred Mohammad Sharifullah, an Islamic State-Khorasan operative accused of planning the August 2021 Abbey Gate bombing that killed 13 US service members.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "In June 2025 the Government of Pakistan announced it would formally recommend which figure for the Nobel Peace Prize?",
+      "options": [
+        "Antonio Guterres",
+        "Donald Trump",
+        "Recep Tayyip Erdogan",
+        "Mohammed bin Salman"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pakistan announced in June 2025 that it would nominate US President Donald Trump for the Nobel Peace Prize, citing his role in the May 2025 India-Pakistan ceasefire.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Which Pakistani military officer was hosted for a working lunch at the White House by President Trump in June 2025?",
+      "options": [
+        "General Sahir Shamshad Mirza",
+        "Air Chief Marshal Zaheer Ahmed Baber Sidhu",
+        "Field Marshal Asim Munir",
+        "Admiral Naveed Ashraf"
+      ],
+      "correctIndex": 2,
+      "explanation": "Field Marshal Asim Munir was received at the White House in June 2025, an unusual honour for a serving army chief without a head of government present.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "In December 2025 the Export-Import Bank of the United States approved financing of about US$1.25 billion for which Pakistani project?",
+      "options": [
+        "The Diamer-Bhasha Dam",
+        "The Main Line-1 railway",
+        "The Thar coal block II",
+        "The Reko Diq copper-gold mine"
+      ],
+      "correctIndex": 3,
+      "explanation": "US EXIM approved roughly US$1.25 billion in financing for the Reko Diq mining project, part of a wider debt package involving the IFC and ADB.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from arabnews.com"
+    },
+    {
+      "text": "The Reko Diq copper and gold project, central to Pakistan's minerals diplomacy, is located in which province?",
+      "options": [
+        "Balochistan",
+        "Sindh",
+        "Punjab",
+        "Gilgit-Baltistan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reko Diq lies in Chagai district of Balochistan and is operated by Barrick alongside federal and provincial government shareholdings.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Pakistan and Saudi Arabia signed the Strategic Mutual Defence Agreement in September 2025 in which city?",
+      "options": [
+        "Jeddah",
+        "Riyadh",
+        "Islamabad",
+        "Mecca"
+      ],
+      "correctIndex": 1,
+      "explanation": "The agreement was signed at Al-Yamamah Palace in Riyadh on 17 September 2025 during Prime Minister Shehbaz Sharif's visit.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from en.wikipedia.org and nbcnews.com"
+    },
+    {
+      "text": "Who signed the Pakistan-Saudi Strategic Mutual Defence Agreement of September 2025 on behalf of Saudi Arabia?",
+      "options": [
+        "King Salman bin Abdulaziz",
+        "Foreign Minister Faisal bin Farhan",
+        "Crown Prince Mohammed bin Salman",
+        "Defence Minister Khalid bin Salman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Crown Prince and Prime Minister Mohammed bin Salman signed for Saudi Arabia, with Prime Minister Shehbaz Sharif signing for Pakistan.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from en.wikipedia.org and nbcnews.com"
+    },
+    {
+      "text": "The central clause of the Pakistan-Saudi Strategic Mutual Defence Agreement of 2025 states that:",
+      "options": [
+        "Neither state may host foreign military bases",
+        "Both states will jointly develop nuclear energy",
+        "Each will station a permanent brigade in the other",
+        "Any aggression against either country shall be considered aggression against both"
+      ],
+      "correctIndex": 3,
+      "explanation": "The agreement provides that aggression against either country shall be regarded as aggression against both, echoing collective-defence language.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from en.wikipedia.org and csis.org"
+    },
+    {
+      "text": "Which UAE head of state made his first official visit to Pakistan as president in December 2025?",
+      "options": [
+        "Sheikh Mohamed bin Zayed Al Nahyan",
+        "Sheikh Khalifa bin Zayed Al Nahyan",
+        "Sheikh Mohammed bin Rashid Al Maktoum",
+        "Sheikh Khaled bin Mohamed bin Zayed"
+      ],
+      "correctIndex": 0,
+      "explanation": "President Sheikh Mohamed bin Zayed Al Nahyan made his first official visit to Pakistan as UAE head of state in December 2025.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from dawn.com and arabnews.com"
+    },
+    {
+      "text": "Pakistan's prime minister attended the October 2025 Gaza peace summit held at which Egyptian city?",
+      "options": [
+        "Cairo",
+        "Sharm el-Sheikh",
+        "Alexandria",
+        "Ismailia"
+      ],
+      "correctIndex": 1,
+      "explanation": "The summit co-chaired by President Trump and President Sisi was held at Sharm el-Sheikh on 13 October 2025, with Shehbaz Sharif among the attending leaders.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from en.wikipedia.org and timesofisrael.com"
+    },
+    {
+      "text": "Pakistan began a two-year term as a non-permanent member of the UN Security Council covering which period?",
+      "options": [
+        "2023-2024",
+        "2024-2025",
+        "2025-2026",
+        "2026-2027"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan's term as a non-permanent member of the Security Council runs from 1 January 2025 to 31 December 2026.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "In the General Assembly election of June 2024, Pakistan won its Security Council seat with how many votes?",
+      "options": [
+        "124",
+        "156",
+        "182",
+        "193"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan secured 182 votes in the UN General Assembly, comfortably above the required two-thirds majority.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The 2025-2026 term is Pakistan's how-manieth term as a non-permanent member of the UN Security Council?",
+      "options": [
+        "Fifth",
+        "Sixth",
+        "Seventh",
+        "Eighth"
+      ],
+      "correctIndex": 3,
+      "explanation": "It is Pakistan's eighth term on the Security Council, one of the highest totals among Asian states.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Pakistan held the rotating presidency of the UN Security Council during which month of 2025?",
+      "options": [
+        "January",
+        "April",
+        "July",
+        "November"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan assumed the Security Council presidency for July 2025, the first of its two presidencies during the 2025-2026 term.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from mofa.gov.pk and arabnews.pk"
+    },
+    {
+      "text": "Which Security Council resolution on strengthening mechanisms for the peaceful settlement of disputes was adopted unanimously under Pakistan's presidency in July 2025?",
+      "options": [
+        "Resolution 2728",
+        "Resolution 2788",
+        "Resolution 2800",
+        "Resolution 2664"
+      ],
+      "correctIndex": 1,
+      "explanation": "Resolution 2788, sponsored by Pakistan, was adopted unanimously on 22 July 2025 during its Council presidency.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from securitycouncilreport.org and pakistanhc.org.nz"
+    },
+    {
+      "text": "Who chaired the high-level Security Council debate on multilateralism and peaceful settlement of disputes for Pakistan in July 2025?",
+      "options": [
+        "Prime Minister Shehbaz Sharif",
+        "President Asif Ali Zardari",
+        "Foreign Secretary Amna Baloch",
+        "Deputy Prime Minister and Foreign Minister Ishaq Dar"
+      ],
+      "correctIndex": 3,
+      "explanation": "Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar presided over the signature events of Pakistan's July 2025 Council presidency.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from arabnews.pk and mofa.gov.pk"
+    },
+    {
+      "text": "In June 2025 Pakistan was appointed chair of the Security Council sanctions committee established under which resolution?",
+      "options": [
+        "Resolution 1267 (1999)",
+        "Resolution 1373 (2001)",
+        "Resolution 1988 (2011)",
+        "Resolution 2231 (2015)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan chairs the committee created by Resolution 1988 (2011), which oversees sanctions measures relating to the Taliban.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from tribune.com.pk and factly.in"
+    },
+    {
+      "text": "Alongside chairing the Taliban sanctions committee, Pakistan was appointed vice-chair of which Security Council body for 2025?",
+      "options": [
+        "The Counter-Terrorism Committee",
+        "The Peacebuilding Commission",
+        "The Military Staff Committee",
+        "The Committee on Admission of New Members"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakistan was made a vice-chair of the Counter-Terrorism Committee, which monitors implementation of Resolution 1373 (2001).",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Who succeeded Munir Akram as Pakistan's Permanent Representative to the United Nations in 2025?",
+      "options": [
+        "Masood Khan",
+        "Asim Iftikhar Ahmad",
+        "Rizwan Saeed Sheikh",
+        "Aftab Hasan Khan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Asim Iftikhar Ahmad presented his credentials as Pakistan's Permanent Representative in April 2025 and led the mission during the July 2025 Council presidency.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from en.wikipedia.org and dunyanews.tv"
+    },
+    {
+      "text": "The 17th ECO Summit, attended by Pakistan's prime minister in July 2025, was held in which city?",
+      "options": [
+        "Tashkent",
+        "Ashgabat",
+        "Tehran",
+        "Khankendi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Azerbaijan hosted the 17th Economic Cooperation Organization summit at Khankendi on 3-4 July 2025.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from eco.int and mofa.gov.pk"
+    },
+    {
+      "text": "The permanent secretariat of the Economic Cooperation Organization, of which Pakistan is a founding member, is located in:",
+      "options": [
+        "Tehran",
+        "Islamabad",
+        "Ankara",
+        "Baku"
+      ],
+      "correctIndex": 0,
+      "explanation": "The ECO secretariat is in Tehran; the organisation was founded in 1985 by Pakistan, Iran and Turkey as successor to the RCD.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The 51st session of the OIC Council of Foreign Ministers, attended by Pakistan in June 2025, was hosted by which city?",
+      "options": [
+        "Jeddah",
+        "Istanbul",
+        "Niamey",
+        "Islamabad"
+      ],
+      "correctIndex": 1,
+      "explanation": "Türkiye hosted the 51st OIC Council of Foreign Ministers in Istanbul on 21-22 June 2025 under the theme 'The OIC in a Transforming World'.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from oic-oci.org and mofa.gov.pk"
+    },
+    {
+      "text": "The General Secretariat of the Organisation of Islamic Cooperation is headquartered in:",
+      "options": [
+        "Riyadh",
+        "Cairo",
+        "Rabat",
+        "Jeddah"
+      ],
+      "correctIndex": 3,
+      "explanation": "The OIC General Secretariat has been based in Jeddah, Saudi Arabia, pending the liberation of Jerusalem.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The most recent SAARC summit actually held was the 18th, convened in which capital?",
+      "options": [
+        "Kathmandu",
+        "Colombo",
+        "Thimphu",
+        "Dhaka"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 18th SAARC summit was held in Kathmandu in November 2014; no summit has been held since.",
+      "difficulty": "EASY",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The 19th SAARC summit, indefinitely postponed after several members withdrew, was scheduled to be hosted by which city?",
+      "options": [
+        "Kabul",
+        "Male",
+        "Dhaka",
+        "Islamabad"
+      ],
+      "correctIndex": 3,
+      "explanation": "Islamabad was to host the 19th SAARC summit in November 2016, but it was postponed after India and other members pulled out.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "The 11th D-8 Summit, attended by Prime Minister Shehbaz Sharif in December 2024, was held in which city?",
+      "options": [
+        "Cairo",
+        "Kuala Lumpur",
+        "Tehran",
+        "Dhaka"
+      ],
+      "correctIndex": 0,
+      "explanation": "Egypt hosted the 11th summit of the D-8 Organization for Economic Cooperation in Cairo in December 2024 and assumed its chairmanship.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Which head of state visited Pakistan in February 2025 for a meeting of the High Level Strategic Cooperation Council, during which 24 documents were exchanged?",
+      "options": [
+        "President Ilham Aliyev of Azerbaijan",
+        "President Xi Jinping of China",
+        "President Vladimir Putin of Russia",
+        "President Recep Tayyip Erdogan of Türkiye"
+      ],
+      "correctIndex": 3,
+      "explanation": "Turkish President Erdogan visited Islamabad on 12-13 February 2025 for the Pakistan-Türkiye High Level Strategic Cooperation Council.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "Azerbaijan signed an investment agreement with Pakistan on the sidelines of the July 2025 ECO Summit worth approximately:",
+      "options": [
+        "US$500 million",
+        "US$1 billion",
+        "US$2 billion",
+        "US$5 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Azerbaijan committed about US$2 billion of investment in Pakistan under an agreement signed during the Khankendi ECO Summit.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from arabnews.com and radio.gov.pk"
+    },
+    {
+      "text": "Which European head of state paid an official visit to Pakistan in November 2024, the first by a leader of his country in decades?",
+      "options": [
+        "Alexander Lukashenko of Belarus",
+        "Viktor Orban of Hungary",
+        "Aleksandar Vucic of Serbia",
+        "Milos Zeman of the Czech Republic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Belarusian President Alexander Lukashenko visited Pakistan on 25-27 November 2024, and several bilateral agreements were signed.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign"
+    },
+    {
+      "text": "In July 2025 Pakistan and Russia signed an agreement in Moscow to revive which industrial facility?",
+      "options": [
+        "Heavy Mechanical Complex Taxila",
+        "Pakistan Machine Tool Factory",
+        "Attock Refinery",
+        "Pakistan Steel Mills"
+      ],
+      "correctIndex": 3,
+      "explanation": "The agreement, signed at Pakistan's embassy in Moscow, provides for Russian participation in restarting and expanding Pakistan Steel Mills in Karachi.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from dawn.com and thenews.com.pk"
+    },
+    {
+      "text": "Ishaq Dar's visit to Dhaka in August 2025 was the first by a Pakistani foreign minister since which year?",
+      "options": [
+        "2004",
+        "2008",
+        "2012",
+        "2016"
+      ],
+      "correctIndex": 2,
+      "explanation": "It was described as the first visit by a Pakistani foreign minister to Bangladesh since 2012, and marked a thaw in bilateral ties.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from aljazeera.com and mofa.gov.pk"
+    },
+    {
+      "text": "In 2025 Pakistan established diplomatic relations, for the first time, with which country through an exchange of a joint communique at Tianjin?",
+      "options": [
+        "Armenia",
+        "Israel",
+        "Kosovo",
+        "South Sudan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakistan and Armenia exchanged a joint communique establishing diplomatic relations in 2025, ending Islamabad's long-standing non-recognition of Armenia.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign",
+      "sourceNote": "Confirmed from mofa.gov.pk and oc-media.org"
+    },
+    {
+      "text": "Who was appointed Foreign Secretary of Pakistan in September 2024, becoming only the second woman to hold the office?",
+      "options": [
+        "Amna Baloch",
+        "Tehmina Janjua",
+        "Mumtaz Zahra Baloch",
+        "Maleeha Lodhi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amna Baloch took charge as Foreign Secretary in September 2024, following Tehmina Janjua as the second woman in the post.",
+      "difficulty": "HARD",
+      "topic": "pakistan-foreign"
+    }
+  ]
+}

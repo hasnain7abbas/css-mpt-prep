@@ -3,21 +3,21 @@ import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/utils";
 
 const badgeVariants = cva(
-  "inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-semibold",
+  "inline-flex items-center gap-1 rounded-xs px-2 py-0.5 font-mono text-[11px] font-medium uppercase tracking-[0.08em]",
   {
     variants: {
       variant: {
         primary:
-          "bg-primary-light text-primary-dark dark:bg-primary/15 dark:text-emerald-300",
-        neutral: "bg-surface-muted text-ink-muted ring-1 ring-ink/10",
-        easy: "bg-emerald-50 text-emerald-700 ring-1 ring-emerald-200 dark:bg-emerald-500/15 dark:text-emerald-300 dark:ring-emerald-500/25",
+          "bg-primary text-surface",
+        neutral: "text-ink-muted ring-1 ring-ink/20",
+        easy: "text-primary ring-1 ring-primary/40",
         medium:
-          "bg-amber-50 text-amber-700 ring-1 ring-amber-200 dark:bg-amber-500/15 dark:text-amber-300 dark:ring-amber-500/25",
-        hard: "bg-rose-50 text-rose-700 ring-1 ring-rose-200 dark:bg-rose-500/15 dark:text-rose-300 dark:ring-rose-500/25",
+          "text-warning ring-1 ring-warning/40",
+        hard: "text-accent ring-1 ring-accent/40",
         success:
-          "bg-emerald-50 text-emerald-700 ring-1 ring-emerald-200 dark:bg-emerald-500/15 dark:text-emerald-300 dark:ring-emerald-500/25",
+          "bg-primary/10 text-primary ring-1 ring-primary/30",
         danger:
-          "bg-rose-50 text-rose-700 ring-1 ring-rose-200 dark:bg-rose-500/15 dark:text-rose-300 dark:ring-rose-500/25",
+          "bg-accent/10 text-accent ring-1 ring-accent/30",
       },
     },
     defaultVariants: { variant: "neutral" },

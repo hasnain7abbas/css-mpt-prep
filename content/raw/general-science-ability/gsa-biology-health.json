@@ -1,0 +1,1436 @@
+{
+  "subject": "general-science-ability",
+  "unit": "gsa-biology-health",
+  "questions": [
+    {
+      "text": "The organelle known as the powerhouse of the cell is the",
+      "options": [
+        "Lysosome",
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Aerobic respiration is completed in the mitochondrion, which releases most of the cell's energy in the form of ATP.",
+      "difficulty": "EASY",
+      "topic": "cell-biology"
+    },
+    {
+      "text": "Protein synthesis in a cell takes place on the",
+      "options": [
+        "Vacuoles",
+        "Golgi apparatus",
+        "Lysosomes",
+        "Ribosomes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ribosomes translate messenger RNA into polypeptide chains, so they are the site of protein synthesis.",
+      "difficulty": "EASY",
+      "topic": "cell-biology"
+    },
+    {
+      "text": "The cell organelles called suicide bags because of their digestive enzymes are the",
+      "options": [
+        "Plastids",
+        "Lysosomes",
+        "Ribosomes",
+        "Centrioles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lysosomes contain hydrolytic enzymes that can digest the cell's own contents if the organelle bursts.",
+      "difficulty": "MEDIUM",
+      "topic": "cell-biology"
+    },
+    {
+      "text": "The cell wall of a plant cell is mainly composed of",
+      "options": [
+        "Cellulose",
+        "Protein",
+        "Peptidoglycan",
+        "Chitin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plant cell walls are chiefly cellulose; chitin occurs in fungal walls and peptidoglycan in bacterial walls.",
+      "difficulty": "EASY",
+      "topic": "cell-biology"
+    },
+    {
+      "text": "The cell was first observed and named by",
+      "options": [
+        "Louis Pasteur",
+        "Robert Brown",
+        "Rudolf Virchow",
+        "Robert Hooke"
+      ],
+      "correctIndex": 3,
+      "explanation": "Robert Hooke in 1665 examined a thin slice of cork under his microscope and called the compartments he saw cells.",
+      "difficulty": "MEDIUM",
+      "topic": "cell-biology"
+    },
+    {
+      "text": "The nucleus of the cell was discovered by",
+      "options": [
+        "Robert Brown",
+        "Robert Hooke",
+        "Theodor Schwann",
+        "Anton van Leeuwenhoek"
+      ],
+      "correctIndex": 0,
+      "explanation": "Robert Brown described the nucleus in plant cells in 1831.",
+      "difficulty": "HARD",
+      "topic": "cell-biology"
+    },
+    {
+      "text": "The main function of the Golgi apparatus is",
+      "options": [
+        "Photosynthesis",
+        "Replication of DNA",
+        "Cellular respiration",
+        "Packaging and secretion of cell products"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Golgi apparatus modifies, packages and dispatches materials made in the endoplasmic reticulum.",
+      "difficulty": "MEDIUM",
+      "topic": "cell-biology"
+    },
+    {
+      "text": "The largest organ of the human body is the",
+      "options": [
+        "Liver",
+        "Lungs",
+        "Brain",
+        "Skin"
+      ],
+      "correctIndex": 3,
+      "explanation": "The skin covers the entire body surface and is the largest organ by both weight and area.",
+      "difficulty": "EASY",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The largest gland in the human body is the",
+      "options": [
+        "Liver",
+        "Thyroid",
+        "Pancreas",
+        "Salivary gland"
+      ],
+      "correctIndex": 0,
+      "explanation": "The liver is the largest gland; it secretes bile and performs numerous metabolic functions.",
+      "difficulty": "EASY",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The number of bones in the normal adult human skeleton is",
+      "options": [
+        "198",
+        "206",
+        "212",
+        "224"
+      ],
+      "correctIndex": 1,
+      "explanation": "An adult skeleton has 206 bones; a newborn has about 270, many of which fuse during growth.",
+      "difficulty": "EASY",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The longest bone in the human body is the",
+      "options": [
+        "Tibia",
+        "Femur",
+        "Humerus",
+        "Fibula"
+      ],
+      "correctIndex": 1,
+      "explanation": "The femur, or thigh bone, is the longest and strongest bone of the human body.",
+      "difficulty": "EASY",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The smallest bone in the human body is the",
+      "options": [
+        "Stapes",
+        "Incus",
+        "Malleus",
+        "Nasal bone"
+      ],
+      "correctIndex": 0,
+      "explanation": "The stapes, or stirrup bone, of the middle ear is the smallest bone in the body.",
+      "difficulty": "MEDIUM",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The structural and functional unit of the kidney is the",
+      "options": [
+        "Neuron",
+        "Villus",
+        "Alveolus",
+        "Nephron"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each kidney contains about a million nephrons, which filter blood and form urine.",
+      "difficulty": "EASY",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The structural and functional unit of the nervous system is the",
+      "options": [
+        "Synapse",
+        "Nephron",
+        "Axon",
+        "Neuron"
+      ],
+      "correctIndex": 3,
+      "explanation": "The neuron, or nerve cell, transmits impulses; the axon is only a part of a neuron.",
+      "difficulty": "EASY",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The gland known as the master gland of the human body is the",
+      "options": [
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "correctIndex": 1,
+      "explanation": "The pituitary secretes hormones that control the activity of most other endocrine glands.",
+      "difficulty": "MEDIUM",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The largest artery of the human body is the",
+      "options": [
+        "Pulmonary artery",
+        "Carotid artery",
+        "Femoral artery",
+        "Aorta"
+      ],
+      "correctIndex": 3,
+      "explanation": "The aorta leaves the left ventricle and distributes oxygenated blood to the whole body.",
+      "difficulty": "MEDIUM",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "Bile secreted by the liver is stored in the",
+      "options": [
+        "Gall bladder",
+        "Spleen",
+        "Pancreas",
+        "Duodenum"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bile made in the liver is concentrated and stored in the gall bladder before release into the duodenum.",
+      "difficulty": "MEDIUM",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The voice box of the human respiratory tract is the",
+      "options": [
+        "Trachea",
+        "Larynx",
+        "Pharynx",
+        "Epiglottis"
+      ],
+      "correctIndex": 1,
+      "explanation": "The larynx houses the vocal cords, whose vibration produces sound.",
+      "difficulty": "MEDIUM",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The number of teeth in a normal adult human being is",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctIndex": 2,
+      "explanation": "A complete adult set has 32 permanent teeth, compared with 20 milk teeth in a child.",
+      "difficulty": "MEDIUM",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The sheet of muscle separating the thoracic cavity from the abdominal cavity is the",
+      "options": [
+        "Pleura",
+        "Peritoneum",
+        "Diaphragm",
+        "Pericardium"
+      ],
+      "correctIndex": 2,
+      "explanation": "The diaphragm separates the chest from the abdomen and contracts during inhalation to enlarge the chest cavity.",
+      "difficulty": "MEDIUM",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "Urea is chiefly formed in the",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Urinary bladder",
+        "Spleen"
+      ],
+      "correctIndex": 1,
+      "explanation": "The liver converts ammonia from protein breakdown into urea, which the kidneys then excrete.",
+      "difficulty": "HARD",
+      "topic": "human-anatomy"
+    },
+    {
+      "text": "The blood group known as the universal donor is",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correctIndex": 3,
+      "explanation": "Group O red cells carry neither A nor B antigen, so they are not attacked by the recipient's anti-A or anti-B antibodies.",
+      "difficulty": "EASY",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The blood group known as the universal recipient is",
+      "options": [
+        "AB",
+        "A",
+        "O",
+        "B"
+      ],
+      "correctIndex": 0,
+      "explanation": "Group AB plasma contains neither anti-A nor anti-B antibodies, so blood of any ABO group can be received.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The ABO system of human blood groups was discovered by",
+      "options": [
+        "Alexander Fleming",
+        "William Harvey",
+        "Karl Landsteiner",
+        "Edward Jenner"
+      ],
+      "correctIndex": 2,
+      "explanation": "Karl Landsteiner identified the ABO blood groups in 1901 and received the Nobel Prize for the work.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The Rh factor of human blood takes its name from the",
+      "options": [
+        "Rhesus monkey",
+        "Rabbit",
+        "Rhodium metal",
+        "Guinea pig"
+      ],
+      "correctIndex": 0,
+      "explanation": "The antigen was first detected in the blood of the rhesus monkey, hence the name Rh factor.",
+      "difficulty": "HARD",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "In an adult human being, red blood cells are produced mainly in the",
+      "options": [
+        "Spleen",
+        "Bone marrow",
+        "Lymph nodes",
+        "Liver"
+      ],
+      "correctIndex": 1,
+      "explanation": "Red bone marrow is the site of erythrocyte formation after birth; the liver performs this role only in the foetus.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The average life span of a human red blood cell is about",
+      "options": [
+        "20 days",
+        "60 days",
+        "120 days",
+        "240 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Erythrocytes survive roughly 120 days before being destroyed, mainly in the spleen.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The metal present in haemoglobin is",
+      "options": [
+        "Zinc",
+        "Magnesium",
+        "Copper",
+        "Iron"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each haem group of haemoglobin contains an iron atom that binds oxygen reversibly.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "Clotting of blood is brought about mainly by",
+      "options": [
+        "Red blood cells",
+        "Monocytes",
+        "Platelets",
+        "Lymphocytes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Platelets, or thrombocytes, collect at a wound and set off the reactions that form a fibrin clot.",
+      "difficulty": "EASY",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The straw-coloured fluid in which blood cells remain suspended is called",
+      "options": [
+        "Serum",
+        "Lymph",
+        "Bile",
+        "Plasma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Plasma is the fluid part of whole blood; serum is plasma from which clotting proteins have been removed.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "A mature human red blood cell lacks a",
+      "options": [
+        "Haemoglobin molecule",
+        "Nucleus",
+        "Cell membrane",
+        "Cytoplasm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mature erythrocytes lose their nucleus, which leaves more room for haemoglobin.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The natural pacemaker of the human heart is the",
+      "options": [
+        "Bundle of His",
+        "Atrioventricular node",
+        "Sinoatrial node",
+        "Purkinje fibres"
+      ],
+      "correctIndex": 2,
+      "explanation": "The sinoatrial node in the right atrium generates the impulse that sets the heart rate.",
+      "difficulty": "HARD",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The circulation of blood in the human body was first described by",
+      "options": [
+        "Karl Landsteiner",
+        "Joseph Lister",
+        "Robert Koch",
+        "William Harvey"
+      ],
+      "correctIndex": 3,
+      "explanation": "William Harvey demonstrated in 1628 that blood circulates in a closed circuit driven by the heart.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "Oxygenated blood is carried from the lungs to the heart by the",
+      "options": [
+        "Pulmonary vein",
+        "Aorta",
+        "Pulmonary artery",
+        "Vena cava"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pulmonary vein is the only vein carrying oxygenated blood, returning it from the lungs to the left atrium.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The normal blood pressure of a healthy adult is taken as",
+      "options": [
+        "100/60 mm Hg",
+        "120/80 mm Hg",
+        "140/90 mm Hg",
+        "160/100 mm Hg"
+      ],
+      "correctIndex": 1,
+      "explanation": "A systolic pressure of about 120 mm Hg and a diastolic pressure of about 80 mm Hg is regarded as normal.",
+      "difficulty": "MEDIUM",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The valve between the left atrium and the left ventricle is the",
+      "options": [
+        "Aortic valve",
+        "Bicuspid valve",
+        "Pulmonary valve",
+        "Tricuspid valve"
+      ],
+      "correctIndex": 1,
+      "explanation": "The bicuspid or mitral valve guards the left atrioventricular opening; the tricuspid valve lies on the right side.",
+      "difficulty": "HARD",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "The pH of normal human blood is approximately",
+      "options": [
+        "6.4",
+        "7.0",
+        "7.4",
+        "8.4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Blood is slightly alkaline and is buffered at a pH of about 7.35 to 7.45.",
+      "difficulty": "HARD",
+      "topic": "blood-and-circulation"
+    },
+    {
+      "text": "Deficiency of vitamin C in the diet causes",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lack of ascorbic acid weakens connective tissue, producing scurvy with bleeding gums and poor wound healing.",
+      "difficulty": "EASY",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "Deficiency of vitamin D in children causes",
+      "options": [
+        "Night blindness",
+        "Scurvy",
+        "Rickets",
+        "Goitre"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vitamin D is needed for calcium absorption; without it bones soften and deform, a condition called rickets.",
+      "difficulty": "EASY",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "Night blindness results from the deficiency of",
+      "options": [
+        "Vitamin A",
+        "Vitamin B6",
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vitamin A is required to make rhodopsin, the pigment of the rod cells that gives vision in dim light.",
+      "difficulty": "EASY",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "Beriberi is caused by the deficiency of",
+      "options": [
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin C"
+      ],
+      "correctIndex": 0,
+      "explanation": "Beriberi results from a lack of thiamine, vitamin B1, and affects the nerves and heart.",
+      "difficulty": "MEDIUM",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "Pellagra is caused by the deficiency of",
+      "options": [
+        "Thiamine",
+        "Niacin",
+        "Riboflavin",
+        "Ascorbic acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pellagra follows a shortage of niacin, vitamin B3, and shows as dermatitis, diarrhoea and dementia.",
+      "difficulty": "HARD",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "Pernicious anaemia is caused by the deficiency of",
+      "options": [
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vitamin B12 is needed for the maturation of red blood cells; its lack produces pernicious anaemia.",
+      "difficulty": "MEDIUM",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "The vitamin essential for the normal clotting of blood is",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Vitamin E"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vitamin K is required by the liver to make prothrombin and other clotting factors.",
+      "difficulty": "MEDIUM",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "The chemical name of vitamin C is",
+      "options": [
+        "Calciferol",
+        "Citric acid",
+        "Ascorbic acid",
+        "Retinol"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vitamin C is ascorbic acid; retinol is vitamin A and calciferol is vitamin D.",
+      "difficulty": "MEDIUM",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "Which of the following vitamins is water soluble?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vitamins A, D, E and K are fat soluble, while vitamin C and the B group dissolve in water.",
+      "difficulty": "MEDIUM",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "The metal present in vitamin B12 is",
+      "options": [
+        "Zinc",
+        "Iron",
+        "Magnesium",
+        "Cobalt"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vitamin B12, cyanocobalamin, contains a cobalt atom at the centre of its corrin ring.",
+      "difficulty": "HARD",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "Goitre is caused by the deficiency of",
+      "options": [
+        "Iron",
+        "Fluorine",
+        "Calcium",
+        "Iodine"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iodine is needed to make thyroxine; without it the thyroid enlarges, producing goitre.",
+      "difficulty": "EASY",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "The chemical name of vitamin E is",
+      "options": [
+        "Tocopherol",
+        "Calciferol",
+        "Retinol",
+        "Riboflavin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vitamin E is tocopherol, an antioxidant that protects cell membranes.",
+      "difficulty": "HARD",
+      "topic": "vitamins-and-minerals"
+    },
+    {
+      "text": "Insulin is secreted by the",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Thyroid gland",
+        "Adrenal gland"
+      ],
+      "correctIndex": 1,
+      "explanation": "The beta cells of the islets of Langerhans in the pancreas secrete insulin.",
+      "difficulty": "EASY",
+      "topic": "hormones"
+    },
+    {
+      "text": "Diabetes mellitus is caused by the deficiency of",
+      "options": [
+        "Thyroxine",
+        "Adrenaline",
+        "Insulin",
+        "Glucagon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Insufficient insulin prevents cells from taking up glucose, so blood sugar rises and sugar appears in the urine.",
+      "difficulty": "EASY",
+      "topic": "hormones"
+    },
+    {
+      "text": "The pancreatic hormone that raises the level of glucose in the blood is",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Thyroxine",
+        "Prolactin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Glucagon from the alpha cells of the pancreas converts stored glycogen into glucose, raising blood sugar.",
+      "difficulty": "HARD",
+      "topic": "hormones"
+    },
+    {
+      "text": "The hormone released in large amounts during fear or anger is",
+      "options": [
+        "Insulin",
+        "Oestrogen",
+        "Thyroxine",
+        "Adrenaline"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adrenaline from the adrenal medulla prepares the body for fight or flight by raising heart rate and blood sugar.",
+      "difficulty": "MEDIUM",
+      "topic": "hormones"
+    },
+    {
+      "text": "Excessive secretion of growth hormone during childhood results in",
+      "options": [
+        "Goitre",
+        "Gigantism",
+        "Cretinism",
+        "Dwarfism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oversecretion of growth hormone before the growing ends of bones close causes abnormal height, called gigantism.",
+      "difficulty": "MEDIUM",
+      "topic": "hormones"
+    },
+    {
+      "text": "Deficiency of thyroxine in infancy leads to",
+      "options": [
+        "Rickets",
+        "Myxoedema",
+        "Cretinism",
+        "Gigantism"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lack of thyroxine in infancy stunts physical growth and mental development, a condition called cretinism.",
+      "difficulty": "HARD",
+      "topic": "hormones"
+    },
+    {
+      "text": "The level of calcium in the blood is regulated by",
+      "options": [
+        "Parathormone",
+        "Insulin",
+        "Adrenaline",
+        "Oxytocin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parathormone from the parathyroid glands raises blood calcium by mobilising it from bone.",
+      "difficulty": "HARD",
+      "topic": "hormones"
+    },
+    {
+      "text": "The principal male sex hormone is",
+      "options": [
+        "Oestrogen",
+        "Testosterone",
+        "Progesterone",
+        "Prolactin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Testosterone is secreted by the testes and controls male secondary sexual characters.",
+      "difficulty": "EASY",
+      "topic": "hormones"
+    },
+    {
+      "text": "The digestion of starch begins in the",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Mouth",
+        "Small intestine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Salivary amylase in the mouth starts breaking starch down into maltose.",
+      "difficulty": "EASY",
+      "topic": "digestion"
+    },
+    {
+      "text": "The digestion of protein begins in the",
+      "options": [
+        "Mouth",
+        "Ileum",
+        "Duodenum",
+        "Stomach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pepsin, activated by hydrochloric acid in the stomach, begins the breakdown of proteins into peptides.",
+      "difficulty": "MEDIUM",
+      "topic": "digestion"
+    },
+    {
+      "text": "The acid present in human gastric juice is",
+      "options": [
+        "Hydrochloric acid",
+        "Acetic acid",
+        "Nitric acid",
+        "Sulphuric acid"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hydrochloric acid makes the stomach contents acidic, activates pepsin and kills many swallowed microbes.",
+      "difficulty": "EASY",
+      "topic": "digestion"
+    },
+    {
+      "text": "Most of the absorption of digested food takes place in the",
+      "options": [
+        "Stomach",
+        "Oesophagus",
+        "Large intestine",
+        "Small intestine"
+      ],
+      "correctIndex": 3,
+      "explanation": "The villi lining the small intestine give a huge surface for absorbing digested nutrients.",
+      "difficulty": "EASY",
+      "topic": "digestion"
+    },
+    {
+      "text": "The chief function of the large intestine is the absorption of",
+      "options": [
+        "Water",
+        "Glucose",
+        "Fatty acids",
+        "Amino acids"
+      ],
+      "correctIndex": 0,
+      "explanation": "The large intestine reabsorbs most of the water from the undigested residue before faeces are formed.",
+      "difficulty": "MEDIUM",
+      "topic": "digestion"
+    },
+    {
+      "text": "Bile assists in the digestion of",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats",
+        "Vitamins"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bile salts emulsify fats into tiny droplets so that lipase can act on them more easily.",
+      "difficulty": "MEDIUM",
+      "topic": "digestion"
+    },
+    {
+      "text": "The vermiform appendix in man is attached to the",
+      "options": [
+        "Ileum",
+        "Duodenum",
+        "Rectum",
+        "Caecum"
+      ],
+      "correctIndex": 3,
+      "explanation": "The appendix is a narrow vestigial tube projecting from the caecum at the start of the large intestine.",
+      "difficulty": "HARD",
+      "topic": "digestion"
+    },
+    {
+      "text": "Exchange of gases in the lungs takes place in the",
+      "options": [
+        "Alveoli",
+        "Bronchi",
+        "Trachea",
+        "Pleura"
+      ],
+      "correctIndex": 0,
+      "explanation": "The thin, moist walls of the alveoli are surrounded by capillaries, allowing oxygen and carbon dioxide to diffuse.",
+      "difficulty": "EASY",
+      "topic": "respiration"
+    },
+    {
+      "text": "The energy currency of the living cell is",
+      "options": [
+        "RNA",
+        "ATP",
+        "DNA",
+        "ADP"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adenosine triphosphate stores energy in its phosphate bonds and releases it wherever the cell needs it.",
+      "difficulty": "MEDIUM",
+      "topic": "respiration"
+    },
+    {
+      "text": "During strenuous exercise, muscle cells respiring anaerobically produce",
+      "options": [
+        "Acetic acid",
+        "Lactic acid",
+        "Citric acid",
+        "Ethanol"
+      ],
+      "correctIndex": 1,
+      "explanation": "When oxygen supply falls short, glucose is converted to lactic acid, which causes muscle fatigue and cramp.",
+      "difficulty": "MEDIUM",
+      "topic": "respiration"
+    },
+    {
+      "text": "Carbon monoxide is poisonous to human beings because it",
+      "options": [
+        "Combines with haemoglobin more readily than oxygen",
+        "Dissolves in the blood plasma",
+        "Destroys white blood cells",
+        "Blocks the trachea"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carbon monoxide binds haemoglobin far more strongly than oxygen does, forming carboxyhaemoglobin and starving tissues of oxygen.",
+      "difficulty": "MEDIUM",
+      "topic": "respiration"
+    },
+    {
+      "text": "The flap of cartilage that prevents food from entering the windpipe during swallowing is the",
+      "options": [
+        "Glottis",
+        "Epiglottis",
+        "Soft palate",
+        "Uvula"
+      ],
+      "correctIndex": 1,
+      "explanation": "The epiglottis folds over the opening of the larynx while food is being swallowed.",
+      "difficulty": "HARD",
+      "topic": "respiration"
+    },
+    {
+      "text": "Malaria in human beings is caused by a",
+      "options": [
+        "Bacterium",
+        "Virus",
+        "Protozoan",
+        "Fungus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Malaria is caused by the protozoan parasite Plasmodium, which multiplies in the liver and red blood cells.",
+      "difficulty": "EASY",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Malaria is transmitted to man by the",
+      "options": [
+        "Aedes mosquito",
+        "Male Anopheles mosquito",
+        "Female Anopheles mosquito",
+        "Housefly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Only the female Anopheles takes blood meals and thus transfers Plasmodium from person to person.",
+      "difficulty": "EASY",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Dengue fever is transmitted by the",
+      "options": [
+        "Anopheles mosquito",
+        "Sand fly",
+        "Culex mosquito",
+        "Aedes mosquito"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Aedes aegypti mosquito, which bites mostly by day, carries the dengue virus.",
+      "difficulty": "EASY",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "The causative organism of tuberculosis is",
+      "options": [
+        "Vibrio cholerae",
+        "Salmonella typhi",
+        "Mycobacterium tuberculosis",
+        "Plasmodium vivax"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mycobacterium tuberculosis, identified by Robert Koch, causes tuberculosis and spreads through droplets.",
+      "difficulty": "MEDIUM",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "AIDS is caused by",
+      "options": [
+        "Hepatitis B virus",
+        "HIV",
+        "Human papilloma virus",
+        "Influenza virus"
+      ],
+      "correctIndex": 1,
+      "explanation": "The human immunodeficiency virus destroys helper T cells and so cripples immunity.",
+      "difficulty": "EASY",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Cholera is caused by",
+      "options": [
+        "Entamoeba histolytica",
+        "Salmonella typhi",
+        "Clostridium tetani",
+        "Vibrio cholerae"
+      ],
+      "correctIndex": 3,
+      "explanation": "The bacterium Vibrio cholerae spreads through contaminated water and causes severe watery diarrhoea.",
+      "difficulty": "MEDIUM",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Typhoid fever is caused by",
+      "options": [
+        "Mycobacterium leprae",
+        "Vibrio cholerae",
+        "Plasmodium falciparum",
+        "Salmonella typhi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Salmonella typhi, taken in with contaminated food or water, causes typhoid fever.",
+      "difficulty": "MEDIUM",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Rabies is usually transmitted to man through the",
+      "options": [
+        "Bite of an infected dog",
+        "Bite of a mosquito",
+        "Inhalation of dust",
+        "Drinking of contaminated water"
+      ],
+      "correctIndex": 0,
+      "explanation": "The rabies virus is present in the saliva of infected animals and enters through a bite wound.",
+      "difficulty": "EASY",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Sleeping sickness is transmitted by the",
+      "options": [
+        "Rat flea",
+        "Tsetse fly",
+        "Sand fly",
+        "Housefly"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tsetse fly of tropical Africa carries the protozoan Trypanosoma that causes sleeping sickness.",
+      "difficulty": "MEDIUM",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Bubonic plague is transmitted to man mainly by the",
+      "options": [
+        "Rat flea",
+        "Mosquito",
+        "Housefly",
+        "Body louse"
+      ],
+      "correctIndex": 0,
+      "explanation": "The rat flea carries the plague bacterium Yersinia pestis from infected rodents to human beings.",
+      "difficulty": "HARD",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Kala azar, or visceral leishmaniasis, is transmitted by the",
+      "options": [
+        "Tsetse fly",
+        "Aedes mosquito",
+        "Sand fly",
+        "Tick"
+      ],
+      "correctIndex": 2,
+      "explanation": "The bite of an infected sand fly transfers the protozoan Leishmania to human beings.",
+      "difficulty": "HARD",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Hepatitis is a disease affecting the",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Lung",
+        "Pancreas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hepatitis means inflammation of the liver and is most often caused by viruses A, B, C, D or E.",
+      "difficulty": "MEDIUM",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Antibiotics such as penicillin are effective against bacteria but not against",
+      "options": [
+        "Spirilla",
+        "Viruses",
+        "Cocci",
+        "Bacilli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Viruses have no cell wall or metabolic machinery of their own, so antibacterial antibiotics do not affect them.",
+      "difficulty": "MEDIUM",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Penicillin was discovered by",
+      "options": [
+        "Louis Pasteur",
+        "Edward Jenner",
+        "Robert Koch",
+        "Alexander Fleming"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alexander Fleming noticed in 1928 that the mould Penicillium notatum killed bacteria on his culture plate.",
+      "difficulty": "EASY",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "The first vaccine, used against smallpox, was developed by",
+      "options": [
+        "Robert Koch",
+        "Louis Pasteur",
+        "Jonas Salk",
+        "Edward Jenner"
+      ],
+      "correctIndex": 3,
+      "explanation": "Edward Jenner showed in 1796 that inoculation with cowpox material protected against smallpox.",
+      "difficulty": "MEDIUM",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "The BCG vaccine gives protection against",
+      "options": [
+        "Poliomyelitis",
+        "Tuberculosis",
+        "Tetanus",
+        "Measles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bacillus Calmette Guerin vaccine is given in infancy to protect against tuberculosis.",
+      "difficulty": "MEDIUM",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Oral rehydration salts are given chiefly in the treatment of",
+      "options": [
+        "Anaemia",
+        "Malaria",
+        "Diarrhoea",
+        "Asthma"
+      ],
+      "correctIndex": 2,
+      "explanation": "ORS replaces the water and salts lost in diarrhoea and so prevents dehydration.",
+      "difficulty": "MEDIUM",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "Vaccination protects a person by producing",
+      "options": [
+        "Passive immunity",
+        "Innate immunity",
+        "Active immunity",
+        "Inherited immunity"
+      ],
+      "correctIndex": 2,
+      "explanation": "A vaccine makes the body produce its own antibodies and memory cells, which is active immunity.",
+      "difficulty": "HARD",
+      "topic": "diseases-and-vectors"
+    },
+    {
+      "text": "The number of chromosomes in a normal human body cell is",
+      "options": [
+        "23",
+        "44",
+        "46",
+        "48"
+      ],
+      "correctIndex": 2,
+      "explanation": "Human somatic cells carry 46 chromosomes, that is 23 pairs, of which one pair determines sex.",
+      "difficulty": "EASY",
+      "topic": "genetics"
+    },
+    {
+      "text": "The sex chromosomes of a normal human male are",
+      "options": [
+        "XY",
+        "YY",
+        "XX",
+        "XO"
+      ],
+      "correctIndex": 0,
+      "explanation": "Males carry one X and one Y chromosome, while females carry two X chromosomes.",
+      "difficulty": "MEDIUM",
+      "topic": "genetics"
+    },
+    {
+      "text": "The sex of a human child is determined by the",
+      "options": [
+        "Mother",
+        "Diet of the mother",
+        "Father",
+        "Age of the parents"
+      ],
+      "correctIndex": 2,
+      "explanation": "The ovum always carries an X chromosome, so the sex depends on whether the sperm carries X or Y.",
+      "difficulty": "MEDIUM",
+      "topic": "genetics"
+    },
+    {
+      "text": "The father of genetics is",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Jean Lamarck",
+        "Hugo de Vries"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gregor Mendel worked out the laws of inheritance and is regarded as the father of genetics.",
+      "difficulty": "EASY",
+      "topic": "genetics"
+    },
+    {
+      "text": "The double helix model of DNA was proposed by",
+      "options": [
+        "Fleming and Florey",
+        "Mendel and Morgan",
+        "Darwin and Wallace",
+        "Watson and Crick"
+      ],
+      "correctIndex": 3,
+      "explanation": "James Watson and Francis Crick described the double helical structure of DNA in 1953.",
+      "difficulty": "MEDIUM",
+      "topic": "genetics"
+    },
+    {
+      "text": "The nitrogenous base present in RNA but not in DNA is",
+      "options": [
+        "Thymine",
+        "Adenine",
+        "Guanine",
+        "Uracil"
+      ],
+      "correctIndex": 3,
+      "explanation": "RNA carries uracil in place of the thymine found in DNA.",
+      "difficulty": "HARD",
+      "topic": "genetics"
+    },
+    {
+      "text": "Down syndrome results from an extra copy of chromosome number",
+      "options": [
+        "13",
+        "18",
+        "21",
+        "23"
+      ],
+      "correctIndex": 2,
+      "explanation": "Down syndrome, or trisomy 21, occurs when three copies of chromosome 21 are present instead of two.",
+      "difficulty": "HARD",
+      "topic": "genetics"
+    },
+    {
+      "text": "Haemophilia is an inherited disorder in which",
+      "options": [
+        "Blood fails to clot normally",
+        "Red cells are produced in excess",
+        "Blood sugar remains low",
+        "Blood pressure remains high"
+      ],
+      "correctIndex": 0,
+      "explanation": "Haemophilia is a sex-linked disease caused by the absence of a clotting factor, so bleeding continues for a long time.",
+      "difficulty": "MEDIUM",
+      "topic": "genetics"
+    },
+    {
+      "text": "Photosynthesis in a plant cell takes place in the",
+      "options": [
+        "Chloroplast",
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chloroplasts contain chlorophyll, which traps light energy for the manufacture of food.",
+      "difficulty": "EASY",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "The green pigment of plants that traps light energy is",
+      "options": [
+        "Haemoglobin",
+        "Melanin",
+        "Chlorophyll",
+        "Xanthophyll"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chlorophyll absorbs mainly red and blue light and reflects green, giving leaves their colour.",
+      "difficulty": "EASY",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "The metal present in the chlorophyll molecule is",
+      "options": [
+        "Iron",
+        "Magnesium",
+        "Calcium",
+        "Zinc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chlorophyll has a magnesium atom at the centre of its porphyrin ring, in contrast to the iron in haemoglobin.",
+      "difficulty": "HARD",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "The loss of water in the form of vapour from the aerial parts of a plant is called",
+      "options": [
+        "Respiration",
+        "Translocation",
+        "Transportation",
+        "Transpiration"
+      ],
+      "correctIndex": 3,
+      "explanation": "Transpiration takes place mainly through the stomata of leaves and helps draw water up the plant.",
+      "difficulty": "MEDIUM",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "Water and mineral salts are conducted in a plant by the",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Cambium",
+        "Cortex"
+      ],
+      "correctIndex": 0,
+      "explanation": "Xylem vessels carry water and dissolved minerals upwards from the roots to the leaves.",
+      "difficulty": "MEDIUM",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "The minute pores in a leaf through which gases are exchanged are called",
+      "options": [
+        "Lenticels",
+        "Villi",
+        "Stomata",
+        "Alveoli"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each stoma is bounded by two guard cells that open and close the pore.",
+      "difficulty": "MEDIUM",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "Bacteria that fix atmospheric nitrogen in the root nodules of leguminous plants belong to the genus",
+      "options": [
+        "Clostridium",
+        "Lactobacillus",
+        "Escherichia",
+        "Rhizobium"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rhizobium lives symbiotically in the root nodules of legumes and converts atmospheric nitrogen into usable compounds.",
+      "difficulty": "HARD",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "The plant hormone chiefly responsible for cell elongation in shoots is",
+      "options": [
+        "Auxin",
+        "Insulin",
+        "Thyroxine",
+        "Adrenaline"
+      ],
+      "correctIndex": 0,
+      "explanation": "Auxin promotes elongation of cells behind the shoot tip; the other three are animal hormones.",
+      "difficulty": "MEDIUM",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "The oxygen released during photosynthesis comes from",
+      "options": [
+        "Carbon dioxide",
+        "Glucose",
+        "Water",
+        "Chlorophyll"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the light reaction, water is split into hydrogen and oxygen, and it is this oxygen that escapes.",
+      "difficulty": "HARD",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "Water enters the root hairs of a plant mainly by the process of",
+      "options": [
+        "Evaporation",
+        "Osmosis",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soil water passes through the root hair membrane into the more concentrated cell sap by osmosis.",
+      "difficulty": "MEDIUM",
+      "topic": "plant-biology"
+    },
+    {
+      "text": "The chief source of energy in a normal human diet is",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Vitamins",
+        "Minerals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carbohydrates supply most of the body's energy, providing about four kilocalories per gram.",
+      "difficulty": "EASY",
+      "topic": "nutrition"
+    },
+    {
+      "text": "The nutrients mainly required for the growth and repair of body tissues are",
+      "options": [
+        "Carbohydrates",
+        "Water",
+        "Proteins",
+        "Fats"
+      ],
+      "correctIndex": 2,
+      "explanation": "Proteins supply the amino acids from which new tissue and enzymes are built.",
+      "difficulty": "MEDIUM",
+      "topic": "nutrition"
+    },
+    {
+      "text": "Kwashiorkor in children is caused by the deficiency of",
+      "options": [
+        "Iron",
+        "Carbohydrate",
+        "Vitamin C",
+        "Protein"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kwashiorkor follows a diet badly short of protein and shows swelling of the limbs and abdomen.",
+      "difficulty": "MEDIUM",
+      "topic": "nutrition"
+    },
+    {
+      "text": "Which food component supplies the greatest amount of energy per gram?",
+      "options": [
+        "Protein",
+        "Fat",
+        "Mineral salt",
+        "Carbohydrate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fat yields about nine kilocalories per gram, roughly twice as much as carbohydrate or protein.",
+      "difficulty": "MEDIUM",
+      "topic": "nutrition"
+    },
+    {
+      "text": "The roughage of the human diet consists mainly of",
+      "options": [
+        "Fat",
+        "Cellulose",
+        "Starch",
+        "Protein"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cellulose from plant foods cannot be digested by man but adds bulk that keeps the bowel moving.",
+      "difficulty": "MEDIUM",
+      "topic": "nutrition"
+    }
+  ]
+}

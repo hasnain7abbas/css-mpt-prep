@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState, useTransition } from "react";
-import { Check, ChevronLeft, ChevronRight, Grid3x3, Loader2, Send, Star, Timer } from "lucide-react";
+import { ChevronLeft, ChevronRight, Grid3x3, Loader2, Send, Star, Timer } from "lucide-react";
 import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
 import {
@@ -14,11 +14,10 @@ import {
 } from "@/components/ui/dialog";
 import { cn, formatClock } from "@/lib/utils";
 import { saveProgress, submitAttempt, type AnswerInput } from "@/lib/attempt-actions";
+import { LETTERS, OptionRow, isUrdu } from "@/components/app/OptionRow";
 
 type QuizQuestion = { id: string; order: number; text: string; options: string[] };
 type AnswerState = { selectedIndex: number | null; marked: boolean };
-
-const LETTERS = ["A", "B", "C", "D"];
 
 export function QuizRunner({
   attemptId,
@@ -151,13 +150,13 @@ export function QuizRunner({
             key={qq.id}
             onClick={() => goTo(i)}
             className={cn(
-              "flex aspect-square items-center justify-center rounded-lg border text-sm font-semibold transition-colors",
-              i === current && "ring-2 ring-primary ring-offset-1",
-              marked && answered && "border-amber-400 bg-emerald-100 text-emerald-800 dark:bg-emerald-500/20 dark:text-emerald-200",
-              marked && !answered && "border-amber-400 bg-amber-100 text-amber-800 dark:bg-amber-500/20 dark:text-amber-200",
-              !marked && answered && "border-emerald-400 bg-emerald-100 text-emerald-800 dark:bg-emerald-500/20 dark:text-emerald-200",
-              !marked && !answered && seen && "border-sky-300 bg-sky-50 text-sky-700 dark:bg-sky-500/15 dark:text-sky-300",
-              !marked && !answered && !seen && "border-ink/15 bg-surface text-ink-muted",
+              "flex aspect-square items-center justify-center rounded-full border-2 font-mono text-xs font-semibold transition-colors duration-200",
+              i === current && "ring-2 ring-accent ring-offset-2 ring-offset-surface",
+              marked && answered && "border-warning bg-primary text-surface",
+              marked && !answered && "border-warning bg-warning/15 text-warning",
+              !marked && answered && "border-primary bg-primary text-surface",
+              !marked && !answered && seen && "border-ink/60 text-ink",
+              !marked && !answered && !seen && "border-ink/20 text-ink-soft",
             )}
             aria-label={`Question ${i + 1}${answered ? ", answered" : ""}${marked ? ", marked for review" : ""}`}
           >
@@ -170,23 +169,23 @@ export function QuizRunner({
 
   const legend = (
     <div className="mt-4 grid grid-cols-2 gap-2 text-xs text-ink-muted">
-      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-emerald-100 ring-1 ring-emerald-400 dark:bg-emerald-500/30" /> Answered</span>
-      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-sky-50 ring-1 ring-sky-300 dark:bg-sky-500/20" /> Visited</span>
-      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-amber-100 ring-1 ring-amber-400 dark:bg-amber-500/30" /> Marked</span>
-      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded bg-surface ring-1 ring-ink/15" /> Not visited</span>
+      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded-full bg-primary" /> Answered</span>
+      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded-full ring-2 ring-ink/60" /> Visited</span>
+      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded-full bg-warning/30 ring-2 ring-warning" /> Marked</span>
+      <span className="inline-flex items-center gap-1.5"><i className="size-3 rounded-full ring-2 ring-ink/20" /> Not visited</span>
     </div>
   );
 
   return (
-    <div className="min-h-dvh bg-surface-muted">
+    <div className="min-h-dvh bg-surface">
       {/* Quiz top bar */}
-      <div className="sticky top-0 z-30 border-b border-ink/8 bg-surface/90 backdrop-blur">
+      <div className="sticky top-0 z-30 border-b border-ink/15 bg-surface/95 backdrop-blur">
         <div className="mx-auto flex h-14 max-w-5xl items-center justify-between gap-3 px-4 sm:px-6">
           <p className="truncate text-sm font-semibold text-ink">{testTitle}</p>
           <div
             className={cn(
-              "flex items-center gap-1.5 rounded-lg px-2.5 py-1 font-mono text-sm font-bold tabular-nums",
-              lowTime ? "bg-rose-100 text-rose-700 dark:bg-rose-500/20 dark:text-rose-200" : "bg-surface-muted text-ink",
+              "flex items-center gap-1.5 rounded-xs px-2.5 py-1 font-mono text-sm font-semibold tabular-nums",
+              lowTime ? "bg-accent text-surface" : "bg-ink/[0.06] text-ink",
             )}
             role="timer"
             aria-live="off"
@@ -203,38 +202,31 @@ export function QuizRunner({
       <div className="mx-auto max-w-5xl px-4 py-6 sm:px-6 lg:grid lg:grid-cols-[1fr_260px] lg:gap-6">
         {/* Main column */}
         <div>
-          <div className="rounded-2xl border border-ink/8 bg-surface p-6 shadow-sm sm:p-8">
-            <p className="text-xs font-semibold uppercase tracking-wide text-ink-soft">
-              {subjectTitle} · Question {current + 1}
+          <div className="border border-border bg-surface p-5 sm:p-7">
+            <p className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+              {subjectTitle} · Question {current + 1} of {questions.length}
             </p>
-            <p className="mt-2 text-lg leading-relaxed text-ink">{q.text}</p>
+            <p
+              className={cn(
+                "mt-3 text-lg leading-relaxed text-ink",
+                isUrdu(q.text) && "urdu",
+              )}
+              {...(isUrdu(q.text) ? { lang: "ur", dir: "rtl" } : {})}
+            >
+              {q.text}
+            </p>
 
-            <div className="mt-6 grid gap-3 md:grid-cols-2">
-              {q.options.map((opt, i) => {
-                const chosen = state.selectedIndex === i;
-                return (
-                  <button
-                    key={i}
-                    onClick={() => select(i)}
-                    className={cn(
-                      "flex min-h-[52px] items-center gap-3 rounded-xl border px-4 py-3 text-left text-sm font-medium transition-colors",
-                      chosen
-                        ? "border-primary bg-primary-light/60 text-ink dark:bg-primary/20"
-                        : "border-ink/12 bg-surface hover:border-primary/40 hover:bg-surface-muted",
-                    )}
-                  >
-                    <span
-                      className={cn(
-                        "flex size-7 shrink-0 items-center justify-center rounded-lg text-xs font-bold",
-                        chosen ? "bg-primary text-white" : "bg-surface-muted text-ink-muted",
-                      )}
-                    >
-                      {chosen ? <Check className="size-4" /> : LETTERS[i]}
-                    </span>
-                    <span>{opt}</span>
-                  </button>
-                );
-              })}
+            <div className="mt-5 border-t border-border">
+              {q.options.map((opt, i) => (
+                <OptionRow
+                  key={i}
+                  letter={LETTERS[i]}
+                  text={opt}
+                  state={state.selectedIndex === i ? "chosen" : "idle"}
+                  onSelect={() => select(i)}
+                  urdu={isUrdu(opt)}
+                />
+              ))}
             </div>
           </div>
 
@@ -257,7 +249,7 @@ export function QuizRunner({
             <button
               type="button"
               onClick={() => setPaletteOpen(true)}
-              className="ml-auto inline-flex items-center gap-1.5 rounded-xl border border-ink/15 px-3 py-2 text-sm font-medium text-ink-muted hover:bg-surface-muted lg:hidden"
+              className="ml-auto inline-flex items-center gap-1.5 rounded-sm border border-ink/25 px-3 py-2 text-sm font-medium text-ink-muted hover:bg-ink/5 lg:hidden"
             >
               <Grid3x3 className="size-4" /> Palette
             </button>
@@ -275,9 +267,9 @@ export function QuizRunner({
 
         {/* Desktop palette */}
         <aside className="hidden lg:block">
-          <div className="sticky top-20 rounded-2xl border border-ink/8 bg-surface p-5 shadow-sm">
+          <div className="sticky top-20 border border-border bg-surface p-5">
             <div className="flex items-center justify-between">
-              <h2 className="font-display text-sm font-bold text-ink">Questions</h2>
+              <h2 className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">Answer sheet</h2>
               <span className="text-xs text-ink-soft">
                 {answeredCount}/{questions.length}
               </span>

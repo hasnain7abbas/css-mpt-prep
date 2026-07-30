@@ -1,97 +1,132 @@
 "use client";
 
 import { useState } from "react";
-import { Check, X } from "lucide-react";
-import { cn } from "@/lib/utils";
+import { RotateCcw } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { LETTERS, OptionRow, isUrdu, type OptionState } from "@/components/app/OptionRow";
 
-const SAMPLE = {
-  subject: "English",
-  text: "Choose the correct synonym for “ABANDON”.",
-  options: ["Keep", "Forsake", "Retain", "Maintain"],
-  correctIndex: 1,
-  explanation:
-    "“Abandon” means to leave or give up entirely. “Forsake” is its closest synonym — to desert or renounce.",
+type Sample = {
+  subject: string;
+  text: string;
+  options: string[];
+  correctIndex: number;
+  explanation: string;
 };
 
+// One item from each of three sections — the paper as a candidate actually
+// meets it, including an Urdu item set in Nastaliq.
+const SAMPLES: Sample[] = [
+  {
+    subject: "General Science & Ability",
+    text: "A bag bought for Rs. 800 is sold for Rs. 1,000. What is the profit percentage?",
+    options: ["20%", "25%", "12.5%", "40%"],
+    correctIndex: 1,
+    explanation: "Profit = 1,000 − 800 = 200. Percentage = (200 ÷ 800) × 100 = 25%.",
+  },
+  {
+    subject: "English",
+    text: "Choose the correct synonym of 'INTRANSIGENT'.",
+    options: ["Flexible", "Uncompromising", "Temporary", "Generous"],
+    correctIndex: 1,
+    explanation:
+      "'Intransigent' describes someone unwilling to change their position — uncompromising.",
+  },
+  {
+    subject: "Urdu",
+    text: "”آب آب کرتے مر گئے، سرہانے دھرا رہا پانی“ — اس مصرعے میں کون سی صنعت استعمال ہوئی ہے؟",
+    options: ["صنعتِ تضاد", "صنعتِ تلمیح", "صنعتِ ایہام", "صنعتِ مراعاۃ النظیر"],
+    correctIndex: 0,
+    explanation:
+      "مصرعے میں پیاس اور پانی کی موجودگی کا تضاد بیان ہوا ہے، اس لیے یہاں صنعتِ تضاد پائی جاتی ہے۔",
+  },
+];
+
 export function SampleQuiz() {
+  const [index, setIndex] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
-  const isCorrect = submitted && selected === SAMPLE.correctIndex;
+  const sample = SAMPLES[index];
 
-  function reset() {
+  function stateFor(i: number): OptionState {
+    if (!submitted) return selected === i ? "chosen" : "idle";
+    if (i === sample.correctIndex) return selected === i ? "correct" : "missed";
+    if (selected === i) return "wrong";
+    return "idle";
+  }
+
+  function next() {
+    setIndex((i) => (i + 1) % SAMPLES.length);
     setSelected(null);
     setSubmitted(false);
   }
 
   return (
-    <div className="rounded-2xl border border-ink/8 bg-surface p-6 shadow-sm sm:p-8">
-      <div className="mb-4 flex items-center justify-between">
-        <span className="inline-flex items-center rounded-full bg-primary-light px-2.5 py-0.5 text-xs font-semibold text-primary-dark">
-          {SAMPLE.subject} · Sample
+    <div className="border border-ink/20 bg-surface">
+      <div className="flex items-center justify-between border-b border-border px-5 py-3">
+        <span className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+          {sample.subject}
         </span>
-        <span className="font-mono text-xs text-ink-soft">1 / 1</span>
+        <span className="font-mono text-[11px] text-ink-soft tabular-nums">
+          {index + 1} / {SAMPLES.length}
+        </span>
       </div>
 
-      <p className="text-lg font-medium leading-relaxed text-ink">{SAMPLE.text}</p>
-
-      <div className="mt-5 grid gap-2.5 sm:grid-cols-2">
-        {SAMPLE.options.map((opt, i) => {
-          const chosen = selected === i;
-          const correct = i === SAMPLE.correctIndex;
-          const showCorrect = submitted && correct;
-          const showWrong = submitted && chosen && !correct;
-          return (
-            <button
-              key={opt}
-              type="button"
-              disabled={submitted}
-              onClick={() => setSelected(i)}
-              className={cn(
-                "flex min-h-[44px] items-center justify-between gap-2 rounded-xl border px-4 py-3 text-left text-sm font-medium transition-colors",
-                "disabled:cursor-default",
-                !submitted &&
-                  (chosen
-                    ? "border-primary bg-primary-light/60 text-ink dark:bg-primary/20"
-                    : "border-ink/12 bg-surface hover:border-primary/40 hover:bg-surface-muted"),
-                showCorrect && "border-emerald-500 bg-emerald-50 text-emerald-800 dark:bg-emerald-500/15 dark:text-emerald-200",
-                showWrong && "border-rose-500 bg-rose-50 text-rose-800 dark:bg-rose-500/15 dark:text-rose-200",
-                submitted && !showCorrect && !showWrong && "border-ink/10 opacity-70",
-              )}
-            >
-              <span>{opt}</span>
-              {showCorrect && <Check className="size-4 text-emerald-600" />}
-              {showWrong && <X className="size-4 text-rose-600" />}
-            </button>
-          );
-        })}
-      </div>
-
-      {submitted ? (
-        <div className="mt-5">
-          <p
-            className={cn(
-              "text-sm font-semibold",
-              isCorrect ? "text-emerald-700 dark:text-emerald-300" : "text-rose-700 dark:text-rose-300",
-            )}
-          >
-            {isCorrect ? "Correct! 🎉" : "Not quite."}
-          </p>
-          <p className="mt-1 text-sm text-ink-muted">{SAMPLE.explanation}</p>
-          <Button variant="outline" size="sm" className="mt-4" onClick={reset}>
-            Try again
-          </Button>
-        </div>
-      ) : (
-        <Button
-          className="mt-5 w-full sm:w-auto"
-          disabled={selected === null}
-          onClick={() => setSubmitted(true)}
+      <div className="px-5 py-5">
+        <p
+          className={isUrdu(sample.text) ? "urdu text-ink" : "text-[17px] leading-relaxed text-ink"}
+          {...(isUrdu(sample.text) ? { lang: "ur", dir: "rtl" } : {})}
         >
-          Check answer
-        </Button>
-      )}
+          {sample.text}
+        </p>
+
+        <div className="mt-4 border-t border-border">
+          {sample.options.map((opt, i) => (
+            <OptionRow
+              key={i}
+              letter={LETTERS[i]}
+              text={opt}
+              state={stateFor(i)}
+              disabled={submitted}
+              urdu={isUrdu(opt)}
+              onSelect={() => setSelected(i)}
+            />
+          ))}
+        </div>
+
+        {submitted ? (
+          <div className="mt-5 border-l-2 border-primary bg-primary/[0.06] px-4 py-3">
+            <p className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-primary">
+              {selected === sample.correctIndex ? "Correct" : "Not quite"}
+            </p>
+            <p
+              className={
+                isUrdu(sample.explanation)
+                  ? "urdu mt-1 text-ink-muted"
+                  : "mt-1 text-sm leading-relaxed text-ink-muted"
+              }
+              {...(isUrdu(sample.explanation) ? { lang: "ur", dir: "rtl" } : {})}
+            >
+              {sample.explanation}
+            </p>
+          </div>
+        ) : null}
+
+        <div className="mt-5 flex flex-wrap items-center gap-3">
+          {submitted ? (
+            <Button onClick={next} variant="outline">
+              <RotateCcw /> Next sample
+            </Button>
+          ) : (
+            <Button onClick={() => setSubmitted(true)} disabled={selected === null}>
+              Check answer
+            </Button>
+          )}
+          <span className="text-xs text-ink-soft">
+            No negative marking — a guess costs nothing.
+          </span>
+        </div>
+      </div>
     </div>
   );
 }

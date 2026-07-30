@@ -1,0 +1,1436 @@
+{
+  "subject": "english",
+  "unit": "eng-vocab-advanced",
+  "questions": [
+    {
+      "text": "Choose the word nearest in meaning to 'obfuscate'.",
+      "options": [
+        "Clarify",
+        "Obscure",
+        "Endorse",
+        "Accelerate"
+      ],
+      "correctIndex": 1,
+      "explanation": "To obfuscate is to make something deliberately unclear or hard to understand, i.e. to obscure it.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A 'laconic' reply is one that is:",
+      "options": [
+        "Brief and to the point",
+        "Angry and abusive",
+        "Long and rambling",
+        "Polite but insincere"
+      ],
+      "correctIndex": 0,
+      "explanation": "Laconic describes speech or writing that uses very few words.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'ephemeral'.",
+      "options": [
+        "Highly contagious",
+        "Extremely valuable",
+        "Permanent and enduring",
+        "Lasting a very short time"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ephemeral means short-lived or fleeting, lasting only for a brief period.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "An 'intransigent' negotiator is one who is:",
+      "options": [
+        "Easily persuaded",
+        "Openly friendly",
+        "Refusing to compromise",
+        "Constantly travelling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Intransigent means unwilling to change one's position or reach a compromise.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'ubiquitous'.",
+      "options": [
+        "Extremely rare",
+        "Highly poisonous",
+        "Present everywhere",
+        "Long forgotten"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ubiquitous means appearing or existing everywhere at the same time.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'perfidious'.",
+      "options": [
+        "Perfect in every way",
+        "Extremely fragrant",
+        "Highly persistent",
+        "Treacherous"
+      ],
+      "correctIndex": 3,
+      "explanation": "Perfidious describes someone who betrays trust; its noun form is perfidy, meaning treachery.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'garrulous'.",
+      "options": [
+        "Excessively talkative",
+        "Physically strong",
+        "Deeply religious",
+        "Easily frightened"
+      ],
+      "correctIndex": 0,
+      "explanation": "Garrulous describes a person who talks too much, especially about trivial matters.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A 'recalcitrant' student is:",
+      "options": [
+        "Eager to please",
+        "Stubbornly disobedient",
+        "Slow to recover",
+        "Quick at arithmetic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Recalcitrant means resisting authority or discipline in a stubborn, defiant way.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A 'sycophant' is best described as:",
+      "options": [
+        "A servile flatterer",
+        "A harsh critic",
+        "A skilled physician",
+        "A silent observer"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sycophant flatters powerful people insincerely in order to gain advantage.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'nefarious'.",
+      "options": [
+        "Absolutely necessary",
+        "Slightly nervous",
+        "Extremely wicked",
+        "Widely admired"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nefarious describes acts that are criminal or extremely wicked.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'truculent'.",
+      "options": [
+        "Truthful",
+        "Aggressively hostile",
+        "Physically exhausted",
+        "Easily trusting"
+      ],
+      "correctIndex": 1,
+      "explanation": "Truculent means eager to argue or fight; it has no connection with truth despite the spelling.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'pellucid'.",
+      "options": [
+        "Muddy",
+        "Fragrant",
+        "Delicate",
+        "Crystal clear"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pellucid means transparently clear, whether of water, glass or an explanation.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'munificent'.",
+      "options": [
+        "Miserly",
+        "Powerful",
+        "Enormous",
+        "Extremely generous"
+      ],
+      "correctIndex": 3,
+      "explanation": "Munificent describes lavish generosity, especially in giving; it is unrelated to 'magnificent'.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A 'quixotic' scheme is one that is:",
+      "options": [
+        "Carefully costed",
+        "Idealistic but impractical",
+        "Secretly criminal",
+        "Extremely profitable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Quixotic, from Cervantes' Don Quixote, describes hopelessly idealistic plans that ignore practical reality.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'inchoate'.",
+      "options": [
+        "Fully developed",
+        "Long established",
+        "Just begun and undeveloped",
+        "Carefully organised"
+      ],
+      "correctIndex": 2,
+      "explanation": "Inchoate describes something only recently begun and therefore still rudimentary.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'lugubrious'.",
+      "options": [
+        "Mournful",
+        "Cheerful",
+        "Luxurious",
+        "Slippery"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lugubrious means looking or sounding sad and dismal, often exaggeratedly so.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'obdurate'.",
+      "options": [
+        "Obedient",
+        "Stubborn",
+        "Obscure",
+        "Outdated"
+      ],
+      "correctIndex": 1,
+      "explanation": "Obdurate means hardened against persuasion or pity, that is, stubbornly unyielding.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A person described as 'sanguine' about the future is:",
+      "options": [
+        "Optimistic",
+        "Gloomy",
+        "Indifferent",
+        "Confused"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sanguine means cheerfully confident and hopeful about what is to come.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'effrontery'.",
+      "options": [
+        "Modesty",
+        "Efficiency",
+        "Friendship",
+        "Shameless insolence"
+      ],
+      "correctIndex": 3,
+      "explanation": "Effrontery is insolent or impudent behaviour shown without any sense of shame.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A 'vituperative' speech is one that is:",
+      "options": [
+        "Full of praise",
+        "Full of statistics",
+        "Bitterly abusive",
+        "Deliberately vague"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vituperative language is harsh, bitter and abusive in its criticism.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'fastidious'.",
+      "options": [
+        "Rapid",
+        "Wasteful",
+        "Meticulous about detail",
+        "Easily satisfied"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fastidious means very attentive to detail and hard to please about cleanliness or accuracy.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "An 'apocryphal' story is one that is:",
+      "options": [
+        "Officially recorded",
+        "Written in verse",
+        "Told to children",
+        "Of doubtful authenticity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Apocryphal describes a widely circulated account that is probably not genuine or true.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "To 'prevaricate' is to:",
+      "options": [
+        "Speak evasively to avoid the truth",
+        "Prevent an accident",
+        "Predict future events",
+        "Argue at great length"
+      ],
+      "correctIndex": 0,
+      "explanation": "To prevaricate is to speak or act in an evasive way in order to avoid telling the truth.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'redolent'.",
+      "options": [
+        "Odourless",
+        "Fragrant",
+        "Redundant",
+        "Rebellious"
+      ],
+      "correctIndex": 1,
+      "explanation": "Redolent means strongly smelling of something, and by extension strongly suggestive of it.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "An 'insouciant' manner is one that is:",
+      "options": [
+        "Casually unconcerned",
+        "Deeply anxious",
+        "Openly insulting",
+        "Strictly formal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Insouciant means showing a relaxed lack of concern or anxiety.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'puerile'.",
+      "options": [
+        "Pure",
+        "Painful",
+        "Childish",
+        "Powerful"
+      ],
+      "correctIndex": 2,
+      "explanation": "Puerile means silly and immature, characteristic of a child rather than an adult.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'cupidity'.",
+      "options": [
+        "Affection",
+        "Greed for wealth",
+        "Stupidity",
+        "Physical courage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cupidity is an excessive desire for money or possessions, not for love.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A 'salubrious' climate is one that is:",
+      "options": [
+        "Extremely hot",
+        "Salty",
+        "Sorrowful",
+        "Good for health"
+      ],
+      "correctIndex": 3,
+      "explanation": "Salubrious means health-giving or wholesome, especially of air, climate or surroundings.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'impecunious'.",
+      "options": [
+        "Impatient",
+        "Peculiar",
+        "Impolite",
+        "Having little money"
+      ],
+      "correctIndex": 3,
+      "explanation": "Impecunious means habitually short of money, that is, penniless.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "An 'abstruse' argument is one that is:",
+      "options": [
+        "Absurd",
+        "Difficult to understand",
+        "Abruptly ended",
+        "Obviously false"
+      ],
+      "correctIndex": 1,
+      "explanation": "Abstruse means obscure and hard to comprehend without specialised knowledge.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'mendacious'.",
+      "options": [
+        "Charitable",
+        "Easily repaired",
+        "Given to lying",
+        "Extremely poor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mendacious means untruthful; the corresponding noun is mendacity.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "To 'enervate' someone is to:",
+      "options": [
+        "Drain their strength",
+        "Fill them with energy",
+        "Make them angry",
+        "Enclose them"
+      ],
+      "correctIndex": 0,
+      "explanation": "Enervate means to weaken or exhaust, despite sounding as though it should mean energise.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'ineluctable'.",
+      "options": [
+        "Illegible",
+        "Unavoidable",
+        "Ineffective",
+        "Unbelievable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ineluctable describes something that cannot be resisted or escaped.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "When attitudes 'ossify', they:",
+      "options": [
+        "Become rigid and unchanging",
+        "Disappear completely",
+        "Spread rapidly",
+        "Improve steadily"
+      ],
+      "correctIndex": 0,
+      "explanation": "To ossify is literally to turn into bone, and figuratively to become fixed and inflexible.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'perspicacious'.",
+      "options": [
+        "Sweaty",
+        "Transparent",
+        "Persuasive",
+        "Shrewd and discerning"
+      ],
+      "correctIndex": 3,
+      "explanation": "Perspicacious describes a person with keen insight and quick understanding.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "To 'ameliorate' a situation is to:",
+      "options": [
+        "Make it public",
+        "Make it worse",
+        "Make it better",
+        "Make it legal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ameliorate means to improve or make something bad more tolerable.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "An 'obsequious' assistant is one who is:",
+      "options": [
+        "Openly rude",
+        "Highly efficient",
+        "Excessively fawning",
+        "Frequently absent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Obsequious means attentive to an excessive, servile degree in order to win favour.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'anodyne'.",
+      "options": [
+        "Deafening",
+        "Poisonous",
+        "Corrosive",
+        "Soothing and inoffensive"
+      ],
+      "correctIndex": 3,
+      "explanation": "An anodyne is something that relieves pain, and as an adjective it means bland and unlikely to offend.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Knowledge described as 'esoteric' is:",
+      "options": [
+        "Understood by only a small group",
+        "Known to everybody",
+        "Written in verse",
+        "Purely mathematical"
+      ],
+      "correctIndex": 0,
+      "explanation": "Esoteric knowledge is intended for or understood by only a few people with special interest or training.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word nearest in meaning to 'pusillanimous'.",
+      "options": [
+        "Fearless",
+        "Cowardly",
+        "Talkative",
+        "Wealthy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pusillanimous means showing a lack of courage or determination.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'prodigal'.",
+      "options": [
+        "Thrifty",
+        "Wasteful",
+        "Talented",
+        "Returning"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prodigal means recklessly extravagant with money, so its opposite is thrifty.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'taciturn'.",
+      "options": [
+        "Silent",
+        "Sullen",
+        "Loquacious",
+        "Timid"
+      ],
+      "correctIndex": 2,
+      "explanation": "Taciturn means saying very little, so its opposite is loquacious, meaning talkative.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'exacerbate'.",
+      "options": [
+        "Aggravate",
+        "Alleviate",
+        "Accelerate",
+        "Accuse"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exacerbate means to make a problem worse; alleviate means to make it less severe.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'nadir'.",
+      "options": [
+        "Abyss",
+        "Origin",
+        "Boundary",
+        "Zenith"
+      ],
+      "correctIndex": 3,
+      "explanation": "The nadir is the lowest point of something; the zenith is the highest.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'ostentatious'.",
+      "options": [
+        "Showy",
+        "Obvious",
+        "Expensive",
+        "Unpretentious"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ostentatious means designed to impress by conspicuous display, the opposite of unpretentious.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'voluble'.",
+      "options": [
+        "Fluent",
+        "Reticent",
+        "Volatile",
+        "Cheerful"
+      ],
+      "correctIndex": 1,
+      "explanation": "Voluble means speaking easily and at length; reticent means unwilling to speak.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'ratify'.",
+      "options": [
+        "Approve",
+        "Announce",
+        "Annul",
+        "Amend"
+      ],
+      "correctIndex": 2,
+      "explanation": "To ratify is to give formal consent to an agreement; to annul is to declare it invalid.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'diffident'.",
+      "options": [
+        "Self-assured",
+        "Different",
+        "Indifferent",
+        "Careless"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diffident means shy and lacking self-confidence, so its opposite is self-assured.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'amalgamate'.",
+      "options": [
+        "Combine",
+        "Separate",
+        "Accumulate",
+        "Analyse"
+      ],
+      "correctIndex": 1,
+      "explanation": "Amalgamate means to merge two or more things into one, the opposite of separating them.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'extol'.",
+      "options": [
+        "Denigrate",
+        "Praise",
+        "Extend",
+        "Elevate"
+      ],
+      "correctIndex": 0,
+      "explanation": "To extol is to praise highly; to denigrate is to belittle or disparage.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'culpable'.",
+      "options": [
+        "Guilty",
+        "Punishable",
+        "Capable",
+        "Blameless"
+      ],
+      "correctIndex": 3,
+      "explanation": "Culpable means deserving blame, so its opposite is blameless.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'pristine'.",
+      "options": [
+        "Pure",
+        "Polished",
+        "Sullied",
+        "Ancient"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pristine means clean and untouched; sullied means soiled or spoiled.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'magnanimous'.",
+      "options": [
+        "Forgiving",
+        "Splendid",
+        "Vindictive",
+        "Modest"
+      ],
+      "correctIndex": 2,
+      "explanation": "Magnanimous means generous and forgiving towards a rival, the opposite of vindictive.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'ebullient'.",
+      "options": [
+        "Bubbling",
+        "Energetic",
+        "Edible",
+        "Despondent"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ebullient means overflowing with enthusiasm; despondent means dejected and low in spirits.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'innocuous'.",
+      "options": [
+        "Harmful",
+        "Harmless",
+        "Innocent",
+        "Insincere"
+      ],
+      "correctIndex": 0,
+      "explanation": "Innocuous means causing no injury or offence, so its opposite is harmful.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'alacrity'.",
+      "options": [
+        "Eagerness",
+        "Reluctance",
+        "Accuracy",
+        "Clarity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alacrity is brisk and cheerful readiness, the opposite of reluctance.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'perfunctory'.",
+      "options": [
+        "Thorough",
+        "Careless",
+        "Punctual",
+        "Brief"
+      ],
+      "correctIndex": 0,
+      "explanation": "A perfunctory action is done as a routine duty without care, so its opposite is thorough.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'cacophony'.",
+      "options": [
+        "Uproar",
+        "Clamour",
+        "Euphony",
+        "Monotony"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cacophony is a harsh, discordant mixture of sounds; euphony is pleasing, harmonious sound.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'antipathy'.",
+      "options": [
+        "Aversion",
+        "Affinity",
+        "Apathy",
+        "Anxiety"
+      ],
+      "correctIndex": 1,
+      "explanation": "Antipathy is a deep-seated dislike; affinity is a natural liking or attraction.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'laud'.",
+      "options": [
+        "Applaud",
+        "Permit",
+        "Broadcast",
+        "Censure"
+      ],
+      "correctIndex": 3,
+      "explanation": "To laud is to praise; to censure is to criticise severely and formally.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'placate'.",
+      "options": [
+        "Pacify",
+        "Please",
+        "Plead",
+        "Provoke"
+      ],
+      "correctIndex": 3,
+      "explanation": "To placate is to calm someone's anger; to provoke is to arouse it.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'erudite'.",
+      "options": [
+        "Learned",
+        "Ignorant",
+        "Rude",
+        "Elegant"
+      ],
+      "correctIndex": 1,
+      "explanation": "Erudite means having or showing great scholarly learning, so its opposite is ignorant.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'sporadic'.",
+      "options": [
+        "Occasional",
+        "Scattered",
+        "Incessant",
+        "Sudden"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sporadic means occurring at irregular intervals; incessant means never ceasing.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'callous'.",
+      "options": [
+        "Compassionate",
+        "Cruel",
+        "Careless",
+        "Cautious"
+      ],
+      "correctIndex": 0,
+      "explanation": "Callous means insensitive to the suffering of others, the opposite of compassionate.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'vindicate'.",
+      "options": [
+        "Exonerate",
+        "Incriminate",
+        "Justify",
+        "Avenge"
+      ],
+      "correctIndex": 1,
+      "explanation": "To vindicate is to clear someone of blame; to incriminate is to show them to be guilty.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'abstemious'.",
+      "options": [
+        "Self-indulgent",
+        "Temperate",
+        "Abstract",
+        "Absent-minded"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abstemious means sparing in eating and drinking, so its opposite is self-indulgent.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'rescind'.",
+      "options": [
+        "Revoke",
+        "Repeal",
+        "Cancel",
+        "Enact"
+      ],
+      "correctIndex": 3,
+      "explanation": "To rescind is to cancel a law or order; to enact is to bring one into force.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'docile'.",
+      "options": [
+        "Gentle",
+        "Teachable",
+        "Intractable",
+        "Dull"
+      ],
+      "correctIndex": 2,
+      "explanation": "Docile means easily managed or taught; intractable means stubbornly difficult to control.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'paucity'.",
+      "options": [
+        "Scarcity",
+        "Poverty",
+        "Abundance",
+        "Silence"
+      ],
+      "correctIndex": 2,
+      "explanation": "Paucity means a shortage or smallness of supply, so its opposite is abundance.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the word most nearly opposite in meaning to 'clandestine'.",
+      "options": [
+        "Covert",
+        "Secretive",
+        "Sly",
+        "Overt"
+      ],
+      "correctIndex": 3,
+      "explanation": "Clandestine means kept secret because it is illicit; overt means done openly.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who speaks many languages:",
+      "options": [
+        "Polyglot",
+        "Philanthropist",
+        "Philologist",
+        "Bibliophile"
+      ],
+      "correctIndex": 0,
+      "explanation": "A polyglot knows and is able to use several languages.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who hates mankind:",
+      "options": [
+        "Misogynist",
+        "Misanthrope",
+        "Philanthropist",
+        "Anarchist"
+      ],
+      "correctIndex": 1,
+      "explanation": "A misanthrope dislikes humankind in general, while a misogynist dislikes women in particular.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Government by the wealthy is called:",
+      "options": [
+        "Plutocracy",
+        "Aristocracy",
+        "Autocracy",
+        "Bureaucracy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Plutocracy is rule by the rich, from the Greek 'ploutos' meaning wealth.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A speech delivered without previous preparation is called:",
+      "options": [
+        "Eulogy",
+        "Elegy",
+        "Extempore",
+        "Epilogue"
+      ],
+      "correctIndex": 2,
+      "explanation": "An extempore speech is made on the spur of the moment without prior preparation.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A poem of mourning for the dead is called:",
+      "options": [
+        "Ode",
+        "Elegy",
+        "Sonnet",
+        "Ballad"
+      ],
+      "correctIndex": 1,
+      "explanation": "An elegy is a poem of serious reflection, typically a lament for someone who has died.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Words inscribed on a tombstone are called:",
+      "options": [
+        "Epigram",
+        "Epilogue",
+        "Epithet",
+        "Epitaph"
+      ],
+      "correctIndex": 3,
+      "explanation": "An epitaph is the inscription written on a tomb in memory of the person buried there.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "An abnormal fear of enclosed spaces is called:",
+      "options": [
+        "Agoraphobia",
+        "Acrophobia",
+        "Hydrophobia",
+        "Claustrophobia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Claustrophobia is the fear of confined or enclosed spaces.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who remains unaffected by pleasure or pain:",
+      "options": [
+        "Cynic",
+        "Stoic",
+        "Epicurean",
+        "Sceptic"
+      ],
+      "correctIndex": 1,
+      "explanation": "A stoic endures hardship and pleasure alike without showing feeling or complaint.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who holds that nothing can be known about the existence of God:",
+      "options": [
+        "Atheist",
+        "Fanatic",
+        "Agnostic",
+        "Heretic"
+      ],
+      "correctIndex": 2,
+      "explanation": "An agnostic believes that the existence of God can neither be proved nor disproved, unlike an atheist who denies it.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A supposed remedy for all diseases is called:",
+      "options": [
+        "Panacea",
+        "Placebo",
+        "Antibiotic",
+        "Anaesthetic"
+      ],
+      "correctIndex": 0,
+      "explanation": "A panacea is a single cure claimed to work for every disease or difficulty.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "The killing of a king is called:",
+      "options": [
+        "Genocide",
+        "Regicide",
+        "Homicide",
+        "Patricide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Regicide is the killing of a king, from the Latin 'rex' meaning king.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who abandons his religious faith:",
+      "options": [
+        "Apostate",
+        "Ascetic",
+        "Altruist",
+        "Anarchist"
+      ],
+      "correctIndex": 0,
+      "explanation": "An apostate is one who renounces a religious or political belief he formerly held.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a raw beginner in a skill or trade:",
+      "options": [
+        "Maestro",
+        "Virtuoso",
+        "Doyen",
+        "Tyro"
+      ],
+      "correctIndex": 3,
+      "explanation": "A tyro is a novice or beginner, the opposite of an expert such as a maestro or virtuoso.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "The study of the origin and history of words is called:",
+      "options": [
+        "Entomology",
+        "Ethnology",
+        "Etymology",
+        "Etiology"
+      ],
+      "correctIndex": 2,
+      "explanation": "Etymology traces the derivation and historical development of words; entomology is the study of insects.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who cannot be reformed or corrected:",
+      "options": [
+        "Illegible",
+        "Ineligible",
+        "Incorrigible",
+        "Irreparable"
+      ],
+      "correctIndex": 2,
+      "explanation": "Incorrigible describes a person whose bad habits cannot be corrected or reformed.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who withdraws from society and lives alone:",
+      "options": [
+        "Refugee",
+        "Renegade",
+        "Rebel",
+        "Recluse"
+      ],
+      "correctIndex": 3,
+      "explanation": "A recluse lives in solitude, avoiding contact with other people.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who never drinks alcohol:",
+      "options": [
+        "Teetotaller",
+        "Gourmand",
+        "Connoisseur",
+        "Epicure"
+      ],
+      "correctIndex": 0,
+      "explanation": "A teetotaller is someone who abstains completely from alcoholic drink.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Favouritism shown by those in power to their own relatives is called:",
+      "options": [
+        "Plagiarism",
+        "Nepotism",
+        "Ostracism",
+        "Fanaticism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nepotism is the granting of jobs or privileges to relatives regardless of merit.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who falsely claims to have special knowledge or skill:",
+      "options": [
+        "Charlatan",
+        "Connoisseur",
+        "Curator",
+        "Custodian"
+      ],
+      "correctIndex": 0,
+      "explanation": "A charlatan is an impostor who pretends to expertise he does not possess.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A mild or indirect expression substituted for a harsh or blunt one is called:",
+      "options": [
+        "Epithet",
+        "Metaphor",
+        "Euphemism",
+        "Malapropism"
+      ],
+      "correctIndex": 2,
+      "explanation": "A euphemism softens an unpleasant idea, as in saying 'passed away' for 'died'.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who is too ready to believe things:",
+      "options": [
+        "Credible",
+        "Credulous",
+        "Creditable",
+        "Incredulous"
+      ],
+      "correctIndex": 1,
+      "explanation": "Credulous describes a person willing to believe without proof; credible describes a claim that is believable.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who attacks cherished beliefs and established institutions:",
+      "options": [
+        "Idealist",
+        "Ideologue",
+        "Isolationist",
+        "Iconoclast"
+      ],
+      "correctIndex": 3,
+      "explanation": "An iconoclast attacks or ridicules settled beliefs and revered institutions.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person of wide and varied learning:",
+      "options": [
+        "Pedant",
+        "Prodigy",
+        "Plagiarist",
+        "Polymath"
+      ],
+      "correctIndex": 3,
+      "explanation": "A polymath has expert knowledge across many different subjects.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "A scene of wild and noisy disorder is called:",
+      "options": [
+        "Panorama",
+        "Pandemonium",
+        "Pantheon",
+        "Panacea"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pandemonium, a word coined by Milton, means utter uproar and confusion.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "One word for a person who is unable to pay his debts:",
+      "options": [
+        "Indolent",
+        "Insolent",
+        "Insolvent",
+        "Indigent"
+      ],
+      "correctIndex": 2,
+      "explanation": "An insolvent person cannot meet his financial obligations as they fall due.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of SCALPEL : SURGEON.",
+      "options": [
+        "Chisel : Sculptor",
+        "Canvas : Painter",
+        "Hospital : Nurse",
+        "Music : Composer"
+      ],
+      "correctIndex": 0,
+      "explanation": "A scalpel is the cutting tool used by a surgeon just as a chisel is the cutting tool used by a sculptor.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of PARSIMONIOUS : MISER.",
+      "options": [
+        "Brave : Coward",
+        "Garrulous : Chatterbox",
+        "Timid : Bully",
+        "Honest : Thief"
+      ],
+      "correctIndex": 1,
+      "explanation": "Parsimonious names the defining quality of a miser, as garrulous names the defining quality of a chatterbox.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of BIBLIOPHILE : BOOKS.",
+      "options": [
+        "Philatelist : Stamps",
+        "Numismatist : Insects",
+        "Oenophile : Maps",
+        "Archivist : Fossils"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bibliophile is a lover and collector of books, as a philatelist is a collector of stamps.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of LEXICOGRAPHER : DICTIONARY.",
+      "options": [
+        "Choreographer : Music",
+        "Philosopher : Laboratory",
+        "Astronomer : Telescope",
+        "Cartographer : Map"
+      ],
+      "correctIndex": 3,
+      "explanation": "A lexicographer compiles dictionaries as a cartographer draws maps; both pairs are maker and product.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of EMOLLIENT : SOOTHE.",
+      "options": [
+        "Sedative : Awaken",
+        "Toxin : Heal",
+        "Stimulant : Excite",
+        "Anaesthetic : Sharpen"
+      ],
+      "correctIndex": 2,
+      "explanation": "An emollient is applied in order to soothe, as a stimulant is taken in order to excite.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of PENURY : WEALTH.",
+      "options": [
+        "Wealth : Luxury",
+        "Illness : Doctor",
+        "Famine : Food",
+        "Silence : Peace"
+      ],
+      "correctIndex": 2,
+      "explanation": "Penury is an extreme lack of wealth, just as famine is an extreme lack of food.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of SONNET : POEM.",
+      "options": [
+        "Novel : Chapter",
+        "Painting : Artist",
+        "Verse : Rhyme",
+        "Waltz : Dance"
+      ],
+      "correctIndex": 3,
+      "explanation": "A sonnet is a particular kind of poem, as a waltz is a particular kind of dance.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of APIARY : BEES.",
+      "options": [
+        "Aviary : Birds",
+        "Granary : Cattle",
+        "Dairy : Bees",
+        "Foundry : Sheep"
+      ],
+      "correctIndex": 0,
+      "explanation": "An apiary is a place where bees are kept, as an aviary is an enclosure where birds are kept.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of GLUTTON : FOOD.",
+      "options": [
+        "Athlete : Sport",
+        "Drunkard : Liquor",
+        "Chef : Kitchen",
+        "Farmer : Crops"
+      ],
+      "correctIndex": 1,
+      "explanation": "A glutton consumes food to excess, as a drunkard consumes liquor to excess.",
+      "difficulty": "EASY",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of AUDACIOUS : TIMID.",
+      "options": [
+        "Prudent : Reckless",
+        "Brave : Fearless",
+        "Wise : Clever",
+        "Quick : Rapid"
+      ],
+      "correctIndex": 0,
+      "explanation": "Audacious and timid are opposites, and of the choices only prudent and reckless are opposites.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of ORNITHOLOGY : BIRDS.",
+      "options": [
+        "Etymology : Insects",
+        "Ichthyology : Birds",
+        "Entomology : Insects",
+        "Geology : Plants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ornithology is the study of birds, as entomology is the study of insects.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of ARCHIPELAGO : ISLANDS.",
+      "options": [
+        "Ocean : Rivers",
+        "Constellation : Stars",
+        "Mountain : Valleys",
+        "Desert : Oases"
+      ],
+      "correctIndex": 1,
+      "explanation": "An archipelago is a group of islands, as a constellation is a group of stars.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of ANTIDOTE : POISON.",
+      "options": [
+        "Poison : Snake",
+        "Doctor : Hospital",
+        "Bandage : Nurse",
+        "Remedy : Ailment"
+      ],
+      "correctIndex": 3,
+      "explanation": "An antidote counteracts a poison, as a remedy counteracts an ailment.",
+      "difficulty": "MEDIUM",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of PLETHORA : SCARCITY.",
+      "options": [
+        "Abundance : Plenty",
+        "Excess : Surfeit",
+        "Many : Numerous",
+        "Surplus : Deficit"
+      ],
+      "correctIndex": 3,
+      "explanation": "A plethora is an over-supply and scarcity is a shortage, an opposition matched only by surplus and deficit.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    },
+    {
+      "text": "Choose the pair whose relationship is most like that of PROFLIGATE : THRIFT.",
+      "options": [
+        "Frugal : Economy",
+        "Miserly : Generosity",
+        "Brave : Valour",
+        "Wise : Insight"
+      ],
+      "correctIndex": 1,
+      "explanation": "A profligate person lacks thrift, as a miserly person lacks generosity; the other pairs show possession, not absence.",
+      "difficulty": "HARD",
+      "topic": "vocabulary"
+    }
+  ]
+}

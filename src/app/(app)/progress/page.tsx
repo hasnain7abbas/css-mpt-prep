@@ -1,16 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Activity, BarChart3, CalendarDays, Target, TrendingUp } from "lucide-react";
 import { prisma } from "@/lib/db";
 import { getCurrentUser } from "@/lib/auth-helpers";
 import { getUserStats } from "@/lib/stats";
 import { subjectMeta } from "@/lib/subjects";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Progress } from "@/components/ui/progress";
-import { Badge } from "@/components/ui/badge";
 import { buttonVariants } from "@/components/ui/button";
 import { Sparkline } from "@/components/app/Sparkline";
 import { StreakHeatmap } from "@/components/app/StreakHeatmap";
+import { EXAM, cutoffFor, marksFor } from "@/lib/mpt";
 import { cn, formatClock } from "@/lib/utils";
 
 export const metadata: Metadata = { title: "Progress" };
@@ -18,6 +15,8 @@ export const metadata: Metadata = { title: "Progress" };
 const dayKey = (d: Date) =>
   `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
 const fmtDate = (d: Date) => d.toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+const titleCase = (s: string) =>
+  s.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
 
 export default async function ProgressPage() {
   const user = await getCurrentUser();
@@ -25,22 +24,19 @@ export default async function ProgressPage() {
 
   if (stats.totalAttempts === 0) {
     return (
-      <div className="flex flex-col items-center justify-center py-20 text-center">
-        <div className="flex size-14 items-center justify-center rounded-2xl bg-primary-light text-primary-dark">
-          <BarChart3 className="size-7" />
-        </div>
-        <h1 className="mt-5 font-display text-2xl font-bold text-ink">No progress yet</h1>
+      <div className="flex flex-col items-center justify-center border border-dashed border-ink/25 py-20 text-center">
+        <h1 className="font-display text-2xl font-bold text-ink">Nothing to report yet</h1>
         <p className="mt-2 max-w-sm text-ink-muted">
-          Take your first test and your accuracy, streak, and weak areas will show up here.
+          Sit one paper and this page fills up: accuracy by section, your weak topics,
+          and how close you are to the {EXAM.passMarks}-mark line.
         </p>
-        <Link href="/subjects" className={cn(buttonVariants(), "mt-6")}>
-          Browse subjects →
+        <Link href="/mocks" className={cn(buttonVariants(), "mt-6")}>
+          Start a mock
         </Link>
       </div>
     );
   }
 
-  // Daily series + heatmap counts.
   const attempts = await prisma.attempt.findMany({
     where: { userId: user.id, submittedAt: { not: null } },
     select: { accuracy: true, submittedAt: true },
@@ -58,7 +54,6 @@ export default async function ProgressPage() {
     dailyAcc[k] = cur;
   }
 
-  // Last 30 days average accuracy, only days with data (for the sparkline).
   const series: number[] = [];
   for (let i = 29; i >= 0; i--) {
     const d = new Date();
@@ -67,151 +62,250 @@ export default async function ProgressPage() {
     if (dailyAcc[k]) series.push(Math.round(dailyAcc[k].sum / dailyAcc[k].n));
   }
 
+  // Projected MPT score: apply per-section accuracy to the official weighting.
+  const projected = stats.perSubject.length
+    ? Math.round(
+        stats.perSubject.reduce((n, s) => n + (s.accuracy / 100) * marksFor(s.slug), 0),
+      )
+    : null;
+  const projectedClears = projected != null && projected >= EXAM.passMarks;
+
   return (
-    <div className="space-y-6">
-      <div>
-        <h1 className="font-display text-2xl font-bold text-ink sm:text-3xl">Your progress</h1>
-        <p className="mt-1 text-ink-muted">
-          {stats.totalAttempts} tests completed · {stats.attemptedQuestions} questions attempted.
+    <div className="space-y-12">
+      <header>
+        <p className="font-mono text-[11px] font-medium uppercase tracking-[0.2em] text-ink-muted">
+          {stats.totalAttempts} papers · {stats.attemptedQuestions.toLocaleString()} questions
         </p>
-      </div>
+        <div className="rule-double mt-3" />
+        <h1 className="pt-6 font-display text-3xl font-bold text-ink sm:text-4xl">Progress</h1>
+      </header>
 
-      {/* Overall accuracy + trend */}
-      <div className="grid gap-4 lg:grid-cols-3">
-        <Card className="lg:col-span-1">
-          <CardHeader>
-            <CardTitle className="flex items-center gap-2 text-sm text-ink-muted">
-              <Target className="size-4 text-primary" /> Overall accuracy
-            </CardTitle>
-          </CardHeader>
-          <CardContent>
-            <p className="font-mono text-5xl font-extrabold tabular-nums text-ink">
-              {stats.accuracy}%
-            </p>
-            <p className="mt-2 text-sm text-ink-muted">
-              {stats.correct} correct of {stats.attemptedQuestions} attempted
-            </p>
-            <div className="mt-3 inline-flex items-center gap-1.5 rounded-full bg-amber-50 px-2.5 py-1 text-xs font-semibold text-amber-700">
-              <Activity className="size-3.5" /> {stats.streak}-day streak
-            </div>
-          </CardContent>
-        </Card>
+      {/* Headline + projection */}
+      <section className="grid gap-px border border-border bg-border lg:grid-cols-[1fr_1.4fr]">
+        <div className="bg-surface px-6 py-7">
+          <p className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+            Overall accuracy
+          </p>
+          <p className="mt-3 font-mono text-6xl font-medium text-ink tabular-nums">
+            {stats.accuracy}%
+          </p>
+          <p className="mt-2 text-sm text-ink-muted">
+            {stats.correct.toLocaleString()} correct of {stats.attemptedQuestions.toLocaleString()}
+          </p>
+          <p className="mt-4 font-mono text-xs text-ink-soft">
+            {stats.streak}-day streak
+          </p>
+        </div>
 
-        <Card className="lg:col-span-2">
-          <CardHeader>
-            <CardTitle className="flex items-center gap-2 text-sm text-ink-muted">
-              <TrendingUp className="size-4 text-primary" /> Accuracy trend (last 30 days)
-            </CardTitle>
-          </CardHeader>
-          <CardContent>
-            <Sparkline values={series} className="h-20 w-full" />
-          </CardContent>
-        </Card>
-      </div>
-
-      {/* Per-subject breakdown */}
-      <Card>
-        <CardHeader>
-          <CardTitle className="flex items-center gap-2">
-            <BarChart3 className="size-4 text-primary" /> Accuracy by subject
-          </CardTitle>
-        </CardHeader>
-        <CardContent className="space-y-4">
-          {stats.perSubject.map((s) => {
-            const meta = subjectMeta(s.slug);
-            const isWeakest = stats.weakest?.slug === s.slug && stats.perSubject.length > 1;
-            return (
-              <div key={s.slug}>
-                <div className="mb-1.5 flex items-center justify-between text-sm">
-                  <span className="flex items-center gap-2 font-medium text-ink">
-                    {meta && <meta.icon className="size-4 text-ink-soft" />}
-                    {s.title}
-                    {isWeakest && <Badge variant="hard">Weakest</Badge>}
-                  </span>
-                  <span className="font-mono font-semibold tabular-nums text-ink-muted">
-                    {s.accuracy}%
-                  </span>
-                </div>
-                <Progress
-                  value={s.accuracy}
-                  barClassName={isWeakest ? "bg-amber-500" : undefined}
+        <div className="bg-surface px-6 py-7">
+          <p className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+            Projected MPT score
+          </p>
+          {projected != null ? (
+            <>
+              <p className="mt-3 flex items-baseline gap-2">
+                <span
+                  className={cn(
+                    "font-mono text-6xl font-medium tabular-nums",
+                    projectedClears ? "text-primary" : "text-accent",
+                  )}
+                >
+                  {projected}
+                </span>
+                <span className="font-mono text-2xl text-ink-soft">/ {EXAM.totalQuestions}</span>
+              </p>
+              <div className="relative mt-4 h-2 w-full bg-ink/10">
+                <div
+                  className={cn("h-full", projectedClears ? "bg-primary" : "bg-accent")}
+                  style={{ width: `${Math.min(100, (projected / EXAM.totalQuestions) * 100)}%` }}
+                />
+                <div
+                  className="absolute -top-1 h-4 w-px bg-ink"
+                  style={{ left: `${(EXAM.passMarks / EXAM.totalQuestions) * 100}%` }}
+                  aria-hidden
                 />
               </div>
-            );
-          })}
-        </CardContent>
-      </Card>
+              <p className="mt-2 text-sm text-ink-muted">
+                Your section accuracy applied to the official weighting. The line is at{" "}
+                {EXAM.passMarks}.
+              </p>
+            </>
+          ) : (
+            <p className="mt-3 text-ink-muted">Sit a few section tests to see a projection.</p>
+          )}
+        </div>
+      </section>
 
-      {/* Streak heatmap */}
-      <Card>
-        <CardHeader>
-          <CardTitle className="flex items-center gap-2">
-            <CalendarDays className="size-4 text-primary" /> Activity (last 12 weeks)
-          </CardTitle>
-        </CardHeader>
-        <CardContent>
-          <StreakHeatmap counts={counts} />
-        </CardContent>
-      </Card>
+      {/* Trend */}
+      {series.length > 1 && (
+        <section>
+          <h2 className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+            Accuracy, last 30 days
+          </h2>
+          <div className="mt-4 border border-border p-5">
+            <Sparkline values={series} className="h-24 w-full" />
+          </div>
+        </section>
+      )}
 
-      {/* Recent attempts */}
-      <Card>
-        <CardHeader>
-          <CardTitle>Recent attempts</CardTitle>
-        </CardHeader>
-        <CardContent className="px-0 pb-2">
-          <div className="overflow-x-auto">
-            <table className="w-full text-sm">
-              <thead>
-                <tr className="border-b border-ink/8 text-left text-xs uppercase tracking-wide text-ink-soft">
-                  <th className="px-6 py-2 font-semibold">Test</th>
-                  <th className="px-3 py-2 font-semibold">Date</th>
-                  <th className="px-3 py-2 font-semibold">Score</th>
-                  <th className="px-3 py-2 font-semibold">Accuracy</th>
-                  <th className="px-3 py-2 font-semibold">Time</th>
-                  <th className="px-6 py-2 text-right font-semibold">Action</th>
-                </tr>
-              </thead>
-              <tbody>
-                {stats.recent.map((a) => (
-                  <tr key={a.id} className="border-b border-ink/5 last:border-0">
-                    <td className="px-6 py-3 font-medium text-ink">{a.testTitle}</td>
-                    <td className="px-3 py-3 text-ink-muted">{fmtDate(a.date)}</td>
-                    <td className="px-3 py-3 font-mono tabular-nums text-ink">
-                      {a.score}/{a.total}
-                    </td>
-                    <td className="px-3 py-3">
-                      <span
-                        className={cn(
-                          "font-mono font-semibold tabular-nums",
-                          a.accuracy >= 70
-                            ? "text-emerald-600"
-                            : a.accuracy >= 50
-                              ? "text-amber-600"
-                              : "text-rose-600",
+      {/* By section */}
+      <section>
+        <h2 className="font-display text-xl font-bold text-ink">By section</h2>
+        <table className="mt-4 w-full border-collapse text-left">
+          <thead>
+            <tr className="border-y border-ink/25">
+              <th className="py-2.5 pr-4 font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+                Section
+              </th>
+              <th className="py-2.5 pr-4 text-right font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+                Marks
+              </th>
+              <th className="py-2.5 pr-4 text-right font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+                Correct
+              </th>
+              <th className="py-2.5 text-right font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+                Accuracy
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            {[...stats.perSubject]
+              .sort((a, b) => marksFor(b.slug) - marksFor(a.slug))
+              .map((s) => {
+                const meta = subjectMeta(s.slug);
+                const weakest = stats.weakest?.slug === s.slug && stats.perSubject.length > 1;
+                return (
+                  <tr key={s.slug} className="border-b border-border">
+                    <td className="py-3 pr-4">
+                      <span className="flex items-center gap-2 font-medium text-ink">
+                        {meta && <meta.icon className="size-4 text-ink-soft" />}
+                        {s.title}
+                        {weakest && (
+                          <span className="font-mono text-[10px] uppercase tracking-[0.1em] text-accent">
+                            weakest
+                          </span>
                         )}
-                      >
-                        {a.accuracy}%
                       </span>
                     </td>
-                    <td className="px-3 py-3 font-mono tabular-nums text-ink-muted">
+                    <td className="py-3 pr-4 text-right font-mono text-sm text-ink-soft tabular-nums">
+                      {marksFor(s.slug)}
+                    </td>
+                    <td className="py-3 pr-4 text-right font-mono text-sm text-ink-muted tabular-nums">
+                      {s.correct}/{s.attempted}
+                    </td>
+                    <td
+                      className={cn(
+                        "py-3 text-right font-mono text-sm font-medium tabular-nums",
+                        s.accuracy >= 60
+                          ? "text-primary"
+                          : s.accuracy >= EXAM.passPercent
+                            ? "text-ink"
+                            : "text-accent",
+                      )}
+                    >
+                      {s.accuracy}%
+                    </td>
+                  </tr>
+                );
+              })}
+          </tbody>
+        </table>
+      </section>
+
+      {/* Weak topics */}
+      {stats.weakTopics.length > 0 && (
+        <section>
+          <h2 className="font-display text-xl font-bold text-ink">Weakest topics</h2>
+          <ul className="mt-4 divide-y divide-border border-y border-border">
+            {stats.weakTopics.map((t) => (
+              <li key={`${t.subjectSlug}:${t.topic}`} className="flex items-center gap-4 py-3">
+                <span className="min-w-0 flex-1">
+                  <span className="block text-sm font-medium text-ink">{titleCase(t.topic)}</span>
+                  <span className="font-mono text-xs text-ink-soft">
+                    {subjectMeta(t.subjectSlug)?.title ?? t.subjectSlug} · {t.correct}/{t.attempted}
+                  </span>
+                </span>
+                <span
+                  className={cn(
+                    "font-mono text-sm tabular-nums",
+                    t.accuracy < EXAM.passPercent ? "text-accent" : "text-ink-muted",
+                  )}
+                >
+                  {t.accuracy}%
+                </span>
+                <Link
+                  href={`/subjects/${t.subjectSlug}`}
+                  className="shrink-0 text-sm font-medium text-ink underline decoration-accent decoration-2 underline-offset-4"
+                >
+                  Drill
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {/* Activity */}
+      <section>
+        <h2 className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+          Activity, last 12 weeks
+        </h2>
+        <div className="mt-4 border border-border p-5">
+          <StreakHeatmap counts={counts} />
+        </div>
+      </section>
+
+      {/* Recent */}
+      <section>
+        <h2 className="font-display text-xl font-bold text-ink">Recent papers</h2>
+        <div className="mt-4 overflow-x-auto">
+          <table className="w-full border-collapse text-left text-sm">
+            <thead>
+              <tr className="border-y border-ink/25 font-mono text-[11px] uppercase tracking-[0.14em] text-ink-soft">
+                <th className="py-2.5 pr-4 font-medium">Paper</th>
+                <th className="py-2.5 pr-4 font-medium">Date</th>
+                <th className="py-2.5 pr-4 text-right font-medium">Score</th>
+                <th className="py-2.5 pr-4 text-right font-medium">Line</th>
+                <th className="py-2.5 pr-4 text-right font-medium">Time</th>
+                <th className="py-2.5 text-right font-medium">Review</th>
+              </tr>
+            </thead>
+            <tbody>
+              {stats.recent.map((a) => {
+                const cleared = a.score >= cutoffFor(a.total);
+                return (
+                  <tr key={a.id} className="border-b border-border">
+                    <td className="py-3 pr-4 font-medium text-ink">{a.testTitle}</td>
+                    <td className="py-3 pr-4 text-ink-muted">{fmtDate(a.date)}</td>
+                    <td className="py-3 pr-4 text-right font-mono text-ink tabular-nums">
+                      {a.score}/{a.total}
+                    </td>
+                    <td
+                      className={cn(
+                        "py-3 pr-4 text-right font-mono tabular-nums",
+                        cleared ? "text-primary" : "text-accent",
+                      )}
+                    >
+                      {cleared ? "clear" : `−${cutoffFor(a.total) - a.score}`}
+                    </td>
+                    <td className="py-3 pr-4 text-right font-mono text-ink-muted tabular-nums">
                       {a.timeSec != null ? formatClock(a.timeSec) : "—"}
                     </td>
-                    <td className="px-6 py-3 text-right">
+                    <td className="py-3 text-right">
                       <Link
                         href={`/tests/${a.testId}/result?attempt=${a.id}`}
-                        className="font-semibold text-primary-dark hover:underline"
+                        className="font-medium text-ink underline decoration-accent decoration-2 underline-offset-4"
                       >
-                        Review
+                        Open
                       </Link>
                     </td>
                   </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </CardContent>
-      </Card>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+      </section>
     </div>
   );
 }

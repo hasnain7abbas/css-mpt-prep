@@ -1,0 +1,1566 @@
+{
+  "subject": "general-science-ability",
+  "unit": "gsa-algebra-geometry",
+  "questions": [
+    {
+      "text": "If 3x + 7 = 22, then x is:",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "3x = 22 - 7 = 15, so x = 15/3 = 5.",
+      "difficulty": "EASY",
+      "topic": "linear-equations"
+    },
+    {
+      "text": "If 5x - 9 = 2x + 6, then x is:",
+      "options": [
+        "3",
+        "4",
+        "7",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "5x - 2x = 6 + 9 gives 3x = 15, so x = 5.",
+      "difficulty": "EASY",
+      "topic": "linear-equations"
+    },
+    {
+      "text": "If 2(x - 3) = 4x + 6, then x is:",
+      "options": [
+        "-3",
+        "3",
+        "-6",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "2x - 6 = 4x + 6 gives -12 = 2x, so x = -6.",
+      "difficulty": "MEDIUM",
+      "topic": "linear-equations"
+    },
+    {
+      "text": "If 4x + 5 = 3, then x is:",
+      "options": [
+        "-2",
+        "-1/2",
+        "1/2",
+        "2"
+      ],
+      "correctIndex": 1,
+      "explanation": "4x = 3 - 5 = -2, so x = -2/4 = -1/2.",
+      "difficulty": "MEDIUM",
+      "topic": "linear-equations"
+    },
+    {
+      "text": "The value of x satisfying (2x + 1)/3 = (x - 1)/2 is:",
+      "options": [
+        "-1",
+        "-5",
+        "1",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cross-multiplying: 2(2x + 1) = 3(x - 1), so 4x + 2 = 3x - 3 and x = -5.",
+      "difficulty": "MEDIUM",
+      "topic": "linear-equations"
+    },
+    {
+      "text": "If x/3 - x/5 = 2, then x is:",
+      "options": [
+        "15",
+        "5",
+        "10",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "(5x - 3x)/15 = 2 gives 2x/15 = 2, so 2x = 30 and x = 15.",
+      "difficulty": "MEDIUM",
+      "topic": "linear-equations"
+    },
+    {
+      "text": "If 3(y + 2) - 2(y - 1) = 11, then y is:",
+      "options": [
+        "1",
+        "5",
+        "7",
+        "3"
+      ],
+      "correctIndex": 3,
+      "explanation": "3y + 6 - 2y + 2 = 11 gives y + 8 = 11, so y = 3.",
+      "difficulty": "MEDIUM",
+      "topic": "linear-equations"
+    },
+    {
+      "text": "If 2x + 3 > 11, then the solution set is:",
+      "options": [
+        "x < 4",
+        "x > 7",
+        "x > 4",
+        "x < 7"
+      ],
+      "correctIndex": 2,
+      "explanation": "2x > 11 - 3 = 8, and dividing by the positive number 2 keeps the sign, so x > 4.",
+      "difficulty": "MEDIUM",
+      "topic": "linear-equations"
+    },
+    {
+      "text": "If x + y = 10 and x - y = 4, then x is:",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Adding the two equations gives 2x = 14, so x = 7 (and y = 3).",
+      "difficulty": "EASY",
+      "topic": "simultaneous-equations"
+    },
+    {
+      "text": "If 2x + y = 11 and x + y = 7, then y is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "Subtracting gives x = 4; substituting in x + y = 7 gives y = 3.",
+      "difficulty": "EASY",
+      "topic": "simultaneous-equations"
+    },
+    {
+      "text": "If x + 2y = 8 and 2x + y = 7, then x is:",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "From the first, x = 8 - 2y; then 2(8 - 2y) + y = 7 gives y = 3 and x = 2.",
+      "difficulty": "MEDIUM",
+      "topic": "simultaneous-equations"
+    },
+    {
+      "text": "If 5x - 3y = 1 and 2x + 3y = 13, then y is:",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adding eliminates y: 7x = 14, so x = 2; then 4 + 3y = 13 gives y = 3.",
+      "difficulty": "MEDIUM",
+      "topic": "simultaneous-equations"
+    },
+    {
+      "text": "If 2a + b = 7 and a + 2b = 8, then a + b is:",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adding gives 3a + 3b = 15, so a + b = 5.",
+      "difficulty": "MEDIUM",
+      "topic": "simultaneous-equations"
+    },
+    {
+      "text": "The sum of two numbers is 25 and their difference is 7. The larger number is:",
+      "options": [
+        "9",
+        "14",
+        "16",
+        "18"
+      ],
+      "correctIndex": 2,
+      "explanation": "The numbers are (25 + 7)/2 = 16 and (25 - 7)/2 = 9, so the larger is 16.",
+      "difficulty": "EASY",
+      "topic": "simultaneous-equations"
+    },
+    {
+      "text": "If x - y = 3 and x + y = 11, then the product xy is:",
+      "options": [
+        "21",
+        "28",
+        "24",
+        "33"
+      ],
+      "correctIndex": 1,
+      "explanation": "Adding gives x = 7 and then y = 4, so xy = 28.",
+      "difficulty": "MEDIUM",
+      "topic": "simultaneous-equations"
+    },
+    {
+      "text": "If x + y = 12 and xy = 35, then x^2 + y^2 is:",
+      "options": [
+        "74",
+        "70",
+        "78",
+        "144"
+      ],
+      "correctIndex": 0,
+      "explanation": "x^2 + y^2 = (x + y)^2 - 2xy = 144 - 70 = 74.",
+      "difficulty": "HARD",
+      "topic": "simultaneous-equations"
+    },
+    {
+      "text": "The roots of x^2 - 5x + 6 = 0 are:",
+      "options": [
+        "2 and 3",
+        "-2 and -3",
+        "1 and 6",
+        "-1 and -6"
+      ],
+      "correctIndex": 0,
+      "explanation": "The equation factors as (x - 2)(x - 3) = 0, giving x = 2 and x = 3.",
+      "difficulty": "EASY",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "The sum of the roots of 2x^2 - 8x + 6 = 0 is:",
+      "options": [
+        "-4",
+        "3",
+        "8",
+        "4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sum of roots = -b/a = 8/2 = 4.",
+      "difficulty": "MEDIUM",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "The product of the roots of 3x^2 + 6x - 9 = 0 is:",
+      "options": [
+        "-2",
+        "2",
+        "-3",
+        "3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Product of roots = c/a = -9/3 = -3.",
+      "difficulty": "MEDIUM",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "The discriminant of x^2 - 4x + 4 = 0 is:",
+      "options": [
+        "-16",
+        "0",
+        "8",
+        "16"
+      ],
+      "correctIndex": 1,
+      "explanation": "b^2 - 4ac = 16 - 16 = 0, so the equation has two equal roots.",
+      "difficulty": "MEDIUM",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "The solution of x^2 - 9 = 0 is:",
+      "options": [
+        "x = 3 only",
+        "x = 3 or x = -3",
+        "x = 9 or x = -9",
+        "x = 81 only"
+      ],
+      "correctIndex": 1,
+      "explanation": "x^2 = 9, and both 3 and -3 square to 9, so x = +/-3.",
+      "difficulty": "EASY",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "The roots of x^2 + 5x = 0 are:",
+      "options": [
+        "0 and -5",
+        "0 and 5",
+        "5 and -5",
+        "-5 only"
+      ],
+      "correctIndex": 0,
+      "explanation": "Factoring gives x(x + 5) = 0, so x = 0 or x = -5.",
+      "difficulty": "EASY",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "The roots of 2x^2 - 5x + 2 = 0 are:",
+      "options": [
+        "-2 and -1/2",
+        "1 and 2",
+        "2 and 1/4",
+        "2 and 1/2"
+      ],
+      "correctIndex": 3,
+      "explanation": "Using the formula, x = (5 +/- 3)/4, which gives x = 2 and x = 1/2.",
+      "difficulty": "MEDIUM",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "If x^2 + kx + 9 = 0 has equal roots, the positive value of k is:",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "12"
+      ],
+      "correctIndex": 2,
+      "explanation": "Equal roots require k^2 - 4(1)(9) = 0, so k^2 = 36 and the positive value is 6.",
+      "difficulty": "HARD",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "The roots of x^2 + x + 1 = 0 are:",
+      "options": [
+        "Real and equal",
+        "Real and distinct",
+        "Imaginary",
+        "Both zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "The discriminant is 1 - 4 = -3, which is negative, so the roots are imaginary.",
+      "difficulty": "MEDIUM",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "If one root of x^2 - 6x + c = 0 is 2, then c is:",
+      "options": [
+        "-8",
+        "8",
+        "4",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "Substituting x = 2: 4 - 12 + c = 0, so c = 8.",
+      "difficulty": "MEDIUM",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "The quadratic equation whose roots are 3 and -5 is:",
+      "options": [
+        "x^2 + 2x - 15 = 0",
+        "x^2 - 2x - 15 = 0",
+        "x^2 + 2x + 15 = 0",
+        "x^2 - 8x - 15 = 0"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sum of roots = -2 and product = -15, so the equation is x^2 - (sum)x + product = x^2 + 2x - 15 = 0.",
+      "difficulty": "HARD",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "If a and b are the roots of x^2 - 3x + 2 = 0, then 1/a + 1/b is:",
+      "options": [
+        "2/3",
+        "1/2",
+        "5/2",
+        "3/2"
+      ],
+      "correctIndex": 3,
+      "explanation": "1/a + 1/b = (a + b)/ab = 3/2, since the sum of roots is 3 and the product is 2.",
+      "difficulty": "HARD",
+      "topic": "quadratic-equations"
+    },
+    {
+      "text": "(a + b)^2 - (a - b)^2 equals:",
+      "options": [
+        "2ab",
+        "a^2 + b^2",
+        "2(a^2 + b^2)",
+        "4ab"
+      ],
+      "correctIndex": 3,
+      "explanation": "(a + b)^2 = a^2 + 2ab + b^2 and (a - b)^2 = a^2 - 2ab + b^2; subtracting leaves 4ab.",
+      "difficulty": "MEDIUM",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "The expansion of (x + 3)^2 is:",
+      "options": [
+        "x^2 + 9",
+        "x^2 + 3x + 9",
+        "x^2 + 6x + 9",
+        "x^2 + 6x + 6"
+      ],
+      "correctIndex": 2,
+      "explanation": "(x + 3)^2 = x^2 + 2(3)x + 3^2 = x^2 + 6x + 9.",
+      "difficulty": "EASY",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "The factors of 49x^2 - 16 are:",
+      "options": [
+        "(7x + 8)(7x - 2)",
+        "(7x + 4)(7x - 4)",
+        "(49x + 4)(x - 4)",
+        "(7x - 4)(7x - 4)"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is a difference of squares: (7x)^2 - 4^2 = (7x + 4)(7x - 4).",
+      "difficulty": "MEDIUM",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "If a + b = 5 and ab = 6, then a^2 + b^2 is:",
+      "options": [
+        "13",
+        "11",
+        "19",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "a^2 + b^2 = (a + b)^2 - 2ab = 25 - 12 = 13.",
+      "difficulty": "MEDIUM",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "If x + y = 3 and xy = 2, then x^3 + y^3 is:",
+      "options": [
+        "9",
+        "5",
+        "7",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "x^3 + y^3 = (x + y)^3 - 3xy(x + y) = 27 - 3(2)(3) = 27 - 18 = 9.",
+      "difficulty": "HARD",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "If x + 1/x = 3, then x^2 + 1/x^2 is:",
+      "options": [
+        "6",
+        "9",
+        "11",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "Squaring: (x + 1/x)^2 = x^2 + 2 + 1/x^2 = 9, so x^2 + 1/x^2 = 7.",
+      "difficulty": "MEDIUM",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "If x + 1/x = 2, then x^3 + 1/x^3 is:",
+      "options": [
+        "4",
+        "6",
+        "2",
+        "8"
+      ],
+      "correctIndex": 2,
+      "explanation": "x^3 + 1/x^3 = (x + 1/x)^3 - 3(x + 1/x) = 8 - 6 = 2.",
+      "difficulty": "HARD",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "The expansion of (2x - 3y)^2 is:",
+      "options": [
+        "4x^2 - 6xy + 9y^2",
+        "4x^2 - 12xy + 9y^2",
+        "4x^2 + 12xy + 9y^2",
+        "2x^2 - 12xy + 3y^2"
+      ],
+      "correctIndex": 1,
+      "explanation": "(2x - 3y)^2 = (2x)^2 - 2(2x)(3y) + (3y)^2 = 4x^2 - 12xy + 9y^2.",
+      "difficulty": "MEDIUM",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "The factors of x^2 + 7x + 10 are:",
+      "options": [
+        "(x + 1)(x + 10)",
+        "(x + 2)(x + 5)",
+        "(x - 2)(x - 5)",
+        "(x + 3)(x + 4)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two numbers with sum 7 and product 10 are 2 and 5, so the factors are (x + 2)(x + 5).",
+      "difficulty": "EASY",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "The value of 101^2 - 99^2 is:",
+      "options": [
+        "400",
+        "200",
+        "800",
+        "4000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Using a^2 - b^2 = (a + b)(a - b): (101 + 99)(101 - 99) = 200 x 2 = 400.",
+      "difficulty": "MEDIUM",
+      "topic": "algebraic-identities"
+    },
+    {
+      "text": "The value of 2^5 x 2^3 is:",
+      "options": [
+        "64",
+        "128",
+        "1024",
+        "256"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adding the indices gives 2^8 = 256.",
+      "difficulty": "EASY",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "The value of (2^3)^2 is:",
+      "options": [
+        "12",
+        "32",
+        "64",
+        "128"
+      ],
+      "correctIndex": 2,
+      "explanation": "Multiplying the indices gives 2^6 = 64.",
+      "difficulty": "EASY",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "The value of 5^0 is:",
+      "options": [
+        "0",
+        "5",
+        "1",
+        "1/5"
+      ],
+      "correctIndex": 2,
+      "explanation": "Any non-zero number raised to the power zero equals 1.",
+      "difficulty": "EASY",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "The value of 2^-3 is:",
+      "options": [
+        "-8",
+        "1/8",
+        "-6",
+        "1/6"
+      ],
+      "correctIndex": 1,
+      "explanation": "A negative index gives the reciprocal: 2^-3 = 1/2^3 = 1/8.",
+      "difficulty": "MEDIUM",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "The square root of 144 is:",
+      "options": [
+        "12",
+        "11",
+        "13",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "12 x 12 = 144.",
+      "difficulty": "EASY",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "The square root of 0.09 is:",
+      "options": [
+        "0.03",
+        "0.9",
+        "0.003",
+        "0.3"
+      ],
+      "correctIndex": 3,
+      "explanation": "0.3 x 0.3 = 0.09.",
+      "difficulty": "MEDIUM",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "The value of 16^(3/4) is:",
+      "options": [
+        "4",
+        "12",
+        "64",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "The fourth root of 16 is 2, and 2^3 = 8.",
+      "difficulty": "HARD",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "The value of 8^(-1/3) is:",
+      "options": [
+        "-2",
+        "2",
+        "1/2",
+        "1/4"
+      ],
+      "correctIndex": 2,
+      "explanation": "8^(1/3) = 2, and the negative index takes the reciprocal, giving 1/2.",
+      "difficulty": "HARD",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "If 3^x = 81, then x is:",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "27"
+      ],
+      "correctIndex": 1,
+      "explanation": "81 = 3^4, so x = 4.",
+      "difficulty": "EASY",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "The square root of 50 in simplest surd form is:",
+      "options": [
+        "5 root 2",
+        "2 root 5",
+        "5 root 5",
+        "25 root 2"
+      ],
+      "correctIndex": 0,
+      "explanation": "50 = 25 x 2, so the square root is 5 root 2.",
+      "difficulty": "MEDIUM",
+      "topic": "exponents-roots"
+    },
+    {
+      "text": "The 10th term of the arithmetic sequence 3, 7, 11, ... is:",
+      "options": [
+        "39",
+        "35",
+        "40",
+        "43"
+      ],
+      "correctIndex": 0,
+      "explanation": "Here a = 3 and d = 4, so the 10th term = 3 + 9(4) = 39.",
+      "difficulty": "MEDIUM",
+      "topic": "sequences"
+    },
+    {
+      "text": "The sum of the first 20 natural numbers is:",
+      "options": [
+        "190",
+        "200",
+        "420",
+        "210"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sum = n(n + 1)/2 = 20 x 21/2 = 210.",
+      "difficulty": "EASY",
+      "topic": "sequences"
+    },
+    {
+      "text": "The 5th term of the geometric sequence 2, 6, 18, ... is:",
+      "options": [
+        "54",
+        "108",
+        "162",
+        "216"
+      ],
+      "correctIndex": 2,
+      "explanation": "Here a = 2 and r = 3, so the 5th term = 2 x 3^4 = 162.",
+      "difficulty": "MEDIUM",
+      "topic": "sequences"
+    },
+    {
+      "text": "The common difference of the sequence 5, 2, -1, -4, ... is:",
+      "options": [
+        "-2",
+        "-3",
+        "3",
+        "-4"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each term is 3 less than the one before, so d = 2 - 5 = -3.",
+      "difficulty": "EASY",
+      "topic": "sequences"
+    },
+    {
+      "text": "The sum of the first 10 terms of an arithmetic progression with first term 2 and common difference 3 is:",
+      "options": [
+        "145",
+        "155",
+        "150",
+        "165"
+      ],
+      "correctIndex": 1,
+      "explanation": "S = (n/2)[2a + (n - 1)d] = 5[4 + 27] = 5 x 31 = 155.",
+      "difficulty": "HARD",
+      "topic": "sequences"
+    },
+    {
+      "text": "The 20th term of the arithmetic sequence 7, 10, 13, ... is:",
+      "options": [
+        "64",
+        "61",
+        "67",
+        "70"
+      ],
+      "correctIndex": 0,
+      "explanation": "With a = 7 and d = 3, the 20th term = 7 + 19(3) = 64.",
+      "difficulty": "MEDIUM",
+      "topic": "sequences"
+    },
+    {
+      "text": "The sum 1 + 3 + 5 + ... + 19 is:",
+      "options": [
+        "81",
+        "90",
+        "121",
+        "100"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sum of the first n odd numbers is n^2; there are 10 terms, so the sum is 100.",
+      "difficulty": "MEDIUM",
+      "topic": "sequences"
+    },
+    {
+      "text": "The 4th term of the geometric sequence with first term 3 and common ratio 1/2 is:",
+      "options": [
+        "3/4",
+        "3/16",
+        "3/8",
+        "1/8"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 4th term = 3 x (1/2)^3 = 3/8.",
+      "difficulty": "HARD",
+      "topic": "sequences"
+    },
+    {
+      "text": "The number of terms in the arithmetic sequence 5, 9, 13, ..., 101 is:",
+      "options": [
+        "24",
+        "26",
+        "25",
+        "27"
+      ],
+      "correctIndex": 2,
+      "explanation": "n = (101 - 5)/4 + 1 = 24 + 1 = 25.",
+      "difficulty": "HARD",
+      "topic": "sequences"
+    },
+    {
+      "text": "The complement of an angle of 35 degrees is:",
+      "options": [
+        "45 degrees",
+        "55 degrees",
+        "65 degrees",
+        "145 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Complementary angles add up to 90 degrees, so the complement is 90 - 35 = 55 degrees.",
+      "difficulty": "EASY",
+      "topic": "angles"
+    },
+    {
+      "text": "The supplement of an angle of 110 degrees is:",
+      "options": [
+        "70 degrees",
+        "20 degrees",
+        "80 degrees",
+        "250 degrees"
+      ],
+      "correctIndex": 0,
+      "explanation": "Supplementary angles add up to 180 degrees, so the supplement is 180 - 110 = 70 degrees.",
+      "difficulty": "EASY",
+      "topic": "angles"
+    },
+    {
+      "text": "The sum of the interior angles of a hexagon is:",
+      "options": [
+        "540 degrees",
+        "900 degrees",
+        "1080 degrees",
+        "720 degrees"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sum is (n - 2) x 180 = (6 - 2) x 180 = 720 degrees.",
+      "difficulty": "MEDIUM",
+      "topic": "angles"
+    },
+    {
+      "text": "Each interior angle of a regular pentagon measures:",
+      "options": [
+        "72 degrees",
+        "120 degrees",
+        "135 degrees",
+        "108 degrees"
+      ],
+      "correctIndex": 3,
+      "explanation": "The interior angle sum is (5 - 2) x 180 = 540 degrees, so each angle is 540/5 = 108 degrees.",
+      "difficulty": "MEDIUM",
+      "topic": "angles"
+    },
+    {
+      "text": "The sum of the exterior angles of any convex polygon is:",
+      "options": [
+        "180 degrees",
+        "540 degrees",
+        "360 degrees",
+        "720 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "One exterior angle at each vertex always totals one full turn, that is 360 degrees, whatever the number of sides.",
+      "difficulty": "MEDIUM",
+      "topic": "angles"
+    },
+    {
+      "text": "Each exterior angle of a regular octagon measures:",
+      "options": [
+        "36 degrees",
+        "45 degrees",
+        "60 degrees",
+        "135 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "Exterior angles total 360 degrees, so each is 360/8 = 45 degrees.",
+      "difficulty": "MEDIUM",
+      "topic": "angles"
+    },
+    {
+      "text": "A regular polygon whose each interior angle is 150 degrees has how many sides?",
+      "options": [
+        "12",
+        "9",
+        "10",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each exterior angle is 180 - 150 = 30 degrees, so n = 360/30 = 12.",
+      "difficulty": "HARD",
+      "topic": "angles"
+    },
+    {
+      "text": "When two parallel lines are cut by a transversal, alternate interior angles are:",
+      "options": [
+        "Equal",
+        "Supplementary",
+        "Complementary",
+        "In the ratio 2 : 1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alternate interior angles formed by a transversal across parallel lines are always equal in measure.",
+      "difficulty": "EASY",
+      "topic": "angles"
+    },
+    {
+      "text": "The angle between the hour hand and the minute hand of a clock at exactly 3 o'clock is:",
+      "options": [
+        "30 degrees",
+        "60 degrees",
+        "120 degrees",
+        "90 degrees"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each hour mark is 30 degrees apart and the hands are three marks apart, so the angle is 3 x 30 = 90 degrees.",
+      "difficulty": "EASY",
+      "topic": "angles"
+    },
+    {
+      "text": "Two angles of a triangle are 50 degrees and 60 degrees. The third angle is:",
+      "options": [
+        "60 degrees",
+        "80 degrees",
+        "70 degrees",
+        "110 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "The angles of a triangle add to 180 degrees, so the third is 180 - 110 = 70 degrees.",
+      "difficulty": "EASY",
+      "topic": "triangles"
+    },
+    {
+      "text": "The area of a triangle with base 10 cm and height 6 cm is:",
+      "options": [
+        "16 sq cm",
+        "30 sq cm",
+        "60 sq cm",
+        "36 sq cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = (1/2) x base x height = (1/2) x 10 x 6 = 30 square centimetres.",
+      "difficulty": "EASY",
+      "topic": "triangles"
+    },
+    {
+      "text": "The area of a right-angled triangle whose perpendicular sides are 9 cm and 12 cm is:",
+      "options": [
+        "21 sq cm",
+        "54 sq cm",
+        "108 sq cm",
+        "72 sq cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "The two perpendicular sides act as base and height, so area = (1/2) x 9 x 12 = 54 square centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "triangles"
+    },
+    {
+      "text": "In an isosceles triangle the vertex angle is 40 degrees. Each base angle measures:",
+      "options": [
+        "70 degrees",
+        "40 degrees",
+        "50 degrees",
+        "140 degrees"
+      ],
+      "correctIndex": 0,
+      "explanation": "The two base angles are equal and together measure 180 - 40 = 140 degrees, so each is 70 degrees.",
+      "difficulty": "MEDIUM",
+      "topic": "triangles"
+    },
+    {
+      "text": "An exterior angle of a triangle whose two remote interior angles are 45 degrees and 65 degrees measures:",
+      "options": [
+        "70 degrees",
+        "90 degrees",
+        "125 degrees",
+        "110 degrees"
+      ],
+      "correctIndex": 3,
+      "explanation": "An exterior angle equals the sum of the two opposite interior angles: 45 + 65 = 110 degrees.",
+      "difficulty": "MEDIUM",
+      "topic": "triangles"
+    },
+    {
+      "text": "The area of an equilateral triangle of side 6 cm is:",
+      "options": [
+        "6 root 3 sq cm",
+        "18 root 3 sq cm",
+        "9 root 3 sq cm",
+        "36 root 3 sq cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = (root 3 / 4) x side^2 = (root 3 / 4) x 36 = 9 root 3 square centimetres.",
+      "difficulty": "HARD",
+      "topic": "triangles"
+    },
+    {
+      "text": "The centroid of a triangle divides each median in the ratio:",
+      "options": [
+        "1 : 1",
+        "3 : 1",
+        "2 : 1",
+        "3 : 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "The centroid cuts every median so that the part towards the vertex is twice the part towards the side.",
+      "difficulty": "MEDIUM",
+      "topic": "triangles"
+    },
+    {
+      "text": "The point where the three angle bisectors of a triangle meet is called the:",
+      "options": [
+        "Centroid",
+        "Incentre",
+        "Circumcentre",
+        "Orthocentre"
+      ],
+      "correctIndex": 1,
+      "explanation": "The angle bisectors are concurrent at the incentre, the centre of the inscribed circle.",
+      "difficulty": "MEDIUM",
+      "topic": "triangles"
+    },
+    {
+      "text": "Two similar triangles have corresponding sides in the ratio 1 : 2. The ratio of their areas is:",
+      "options": [
+        "1 : 4",
+        "1 : 2",
+        "1 : 8",
+        "2 : 1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Areas of similar figures are in the ratio of the squares of corresponding sides, so 1^2 : 2^2 = 1 : 4.",
+      "difficulty": "HARD",
+      "topic": "triangles"
+    },
+    {
+      "text": "Which set of lengths cannot form a triangle?",
+      "options": [
+        "3 cm, 4 cm, 5 cm",
+        "5 cm, 6 cm, 10 cm",
+        "7 cm, 7 cm, 7 cm",
+        "3 cm, 4 cm, 8 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "The sum of any two sides must exceed the third; 3 + 4 = 7 is less than 8, so no triangle is possible.",
+      "difficulty": "MEDIUM",
+      "topic": "triangles"
+    },
+    {
+      "text": "In a right-angled triangle the legs are 5 cm and 12 cm. The hypotenuse is:",
+      "options": [
+        "11 cm",
+        "15 cm",
+        "17 cm",
+        "13 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "5^2 + 12^2 = 25 + 144 = 169, and the square root of 169 is 13.",
+      "difficulty": "EASY",
+      "topic": "pythagoras"
+    },
+    {
+      "text": "A triangle with sides 7 cm, 24 cm and 25 cm is:",
+      "options": [
+        "Acute-angled",
+        "Obtuse-angled",
+        "Right-angled",
+        "Equilateral"
+      ],
+      "correctIndex": 2,
+      "explanation": "49 + 576 = 625 = 25^2, so the sides satisfy Pythagoras and the triangle is right-angled.",
+      "difficulty": "MEDIUM",
+      "topic": "pythagoras"
+    },
+    {
+      "text": "A ladder 13 m long rests against a wall with its foot 5 m from the wall. The height reached on the wall is:",
+      "options": [
+        "8 m",
+        "12 m",
+        "10 m",
+        "14 m"
+      ],
+      "correctIndex": 1,
+      "explanation": "The wall height^2 = 13^2 - 5^2 = 169 - 25 = 144, so the height is 12 metres.",
+      "difficulty": "MEDIUM",
+      "topic": "pythagoras"
+    },
+    {
+      "text": "The length of the diagonal of a rectangle 12 cm by 5 cm is:",
+      "options": [
+        "13 cm",
+        "7 cm",
+        "17 cm",
+        "60 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "The diagonal is the hypotenuse of a right triangle: root(144 + 25) = root 169 = 13 centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "pythagoras"
+    },
+    {
+      "text": "The length of the diagonal of a square of side 5 cm is:",
+      "options": [
+        "5 root 2 cm",
+        "10 cm",
+        "5 root 3 cm",
+        "25 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "The diagonal of a square of side a is a root 2, so it is 5 root 2 centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "pythagoras"
+    },
+    {
+      "text": "The length of the longest diagonal of a cuboid measuring 3 cm by 4 cm by 12 cm is:",
+      "options": [
+        "12 cm",
+        "14 cm",
+        "19 cm",
+        "13 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "The space diagonal is root(9 + 16 + 144) = root 169 = 13 centimetres.",
+      "difficulty": "HARD",
+      "topic": "pythagoras"
+    },
+    {
+      "text": "The sum of the interior angles of a quadrilateral is:",
+      "options": [
+        "180 degrees",
+        "270 degrees",
+        "360 degrees",
+        "540 degrees"
+      ],
+      "correctIndex": 2,
+      "explanation": "A quadrilateral splits into two triangles, so the angle sum is 2 x 180 = 360 degrees.",
+      "difficulty": "EASY",
+      "topic": "quadrilaterals"
+    },
+    {
+      "text": "The area of a rectangle 12 cm long and 5 cm wide is:",
+      "options": [
+        "17 sq cm",
+        "60 sq cm",
+        "34 sq cm",
+        "120 sq cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = length x width = 12 x 5 = 60 square centimetres.",
+      "difficulty": "EASY",
+      "topic": "quadrilaterals"
+    },
+    {
+      "text": "The perimeter of a square whose area is 49 sq cm is:",
+      "options": [
+        "14 cm",
+        "28 cm",
+        "21 cm",
+        "49 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "The side is root 49 = 7 cm, so the perimeter is 4 x 7 = 28 centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "quadrilaterals"
+    },
+    {
+      "text": "The area of a parallelogram with base 8 cm and corresponding height 5 cm is:",
+      "options": [
+        "40 sq cm",
+        "13 sq cm",
+        "20 sq cm",
+        "26 sq cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Area = base x height = 8 x 5 = 40 square centimetres.",
+      "difficulty": "EASY",
+      "topic": "quadrilaterals"
+    },
+    {
+      "text": "The area of a trapezium whose parallel sides are 6 cm and 10 cm and whose height is 4 cm is:",
+      "options": [
+        "16 sq cm",
+        "40 sq cm",
+        "64 sq cm",
+        "32 sq cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = (1/2)(sum of parallel sides) x height = (1/2)(16)(4) = 32 square centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "quadrilaterals"
+    },
+    {
+      "text": "The area of a rhombus whose diagonals are 10 cm and 24 cm is:",
+      "options": [
+        "60 sq cm",
+        "34 sq cm",
+        "120 sq cm",
+        "240 sq cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = (1/2) x product of diagonals = (1/2) x 10 x 24 = 120 square centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "quadrilaterals"
+    },
+    {
+      "text": "The area of a square whose diagonal is 10 cm is:",
+      "options": [
+        "25 sq cm",
+        "100 sq cm",
+        "50 sq cm",
+        "200 sq cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area of a square = (diagonal^2)/2 = 100/2 = 50 square centimetres.",
+      "difficulty": "HARD",
+      "topic": "quadrilaterals"
+    },
+    {
+      "text": "In which quadrilateral are the diagonals equal in length and bisect each other, but do not meet at right angles?",
+      "options": [
+        "Rhombus",
+        "Rectangle",
+        "Kite",
+        "Trapezium"
+      ],
+      "correctIndex": 1,
+      "explanation": "A rectangle has equal diagonals that bisect each other; in a rhombus they are perpendicular but unequal.",
+      "difficulty": "MEDIUM",
+      "topic": "quadrilaterals"
+    },
+    {
+      "text": "Consecutive angles of a parallelogram are always:",
+      "options": [
+        "Supplementary",
+        "Equal",
+        "Complementary",
+        "Right angles"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consecutive angles lie between parallel sides, so they add up to 180 degrees.",
+      "difficulty": "MEDIUM",
+      "topic": "quadrilaterals"
+    },
+    {
+      "text": "Taking pi as 22/7, the circumference of a circle of radius 7 cm is:",
+      "options": [
+        "22 cm",
+        "88 cm",
+        "154 cm",
+        "44 cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Circumference = 2 pi r = 2 x 22/7 x 7 = 44 centimetres.",
+      "difficulty": "EASY",
+      "topic": "circles"
+    },
+    {
+      "text": "Taking pi as 22/7, the area of a circle of radius 7 cm is:",
+      "options": [
+        "44 sq cm",
+        "22 sq cm",
+        "308 sq cm",
+        "154 sq cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = pi r^2 = 22/7 x 49 = 154 square centimetres.",
+      "difficulty": "EASY",
+      "topic": "circles"
+    },
+    {
+      "text": "Taking pi as 3.14, the area of a circle of radius 10 cm is:",
+      "options": [
+        "31.4 sq cm",
+        "62.8 sq cm",
+        "314 sq cm",
+        "100 sq cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = pi r^2 = 3.14 x 100 = 314 square centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "circles"
+    },
+    {
+      "text": "The angle subtended by a diameter at any point on the circumference of a circle is:",
+      "options": [
+        "45 degrees",
+        "90 degrees",
+        "60 degrees",
+        "180 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "An angle in a semicircle is a right angle.",
+      "difficulty": "EASY",
+      "topic": "circles"
+    },
+    {
+      "text": "The longest chord of a circle is its:",
+      "options": [
+        "Diameter",
+        "Radius",
+        "Tangent",
+        "Arc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Every chord passes at most through the centre, and the chord through the centre is the diameter.",
+      "difficulty": "EASY",
+      "topic": "circles"
+    },
+    {
+      "text": "A tangent to a circle is perpendicular to the:",
+      "options": [
+        "Radius drawn to the point of contact",
+        "Diameter parallel to it",
+        "Nearest chord",
+        "Circumference at every point"
+      ],
+      "correctIndex": 0,
+      "explanation": "At the point of contact the tangent makes a right angle with the radius drawn to that point.",
+      "difficulty": "MEDIUM",
+      "topic": "circles"
+    },
+    {
+      "text": "The area of a quadrant of a circle of radius 4 cm, taking pi as 3.14, is:",
+      "options": [
+        "6.28 sq cm",
+        "25.12 sq cm",
+        "50.24 sq cm",
+        "12.56 sq cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "A quadrant is one fourth of the circle: (1/4) x 3.14 x 16 = 12.56 square centimetres.",
+      "difficulty": "HARD",
+      "topic": "circles"
+    },
+    {
+      "text": "The length of an arc subtending 60 degrees at the centre of a circle of radius 6 cm is:",
+      "options": [
+        "pi cm",
+        "3 pi cm",
+        "2 pi cm",
+        "6 pi cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Arc length = (60/360) x 2 pi x 6 = (1/6) x 12 pi = 2 pi centimetres.",
+      "difficulty": "HARD",
+      "topic": "circles"
+    },
+    {
+      "text": "If the radius of a circle is doubled, its area becomes:",
+      "options": [
+        "Twice the original",
+        "Four times the original",
+        "Three times the original",
+        "Eight times the original"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area is proportional to r^2, so doubling r multiplies the area by 2^2 = 4.",
+      "difficulty": "MEDIUM",
+      "topic": "circles"
+    },
+    {
+      "text": "An inscribed angle standing on an arc measures 35 degrees. The central angle on the same arc measures:",
+      "options": [
+        "17.5 degrees",
+        "70 degrees",
+        "35 degrees",
+        "145 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "The angle at the centre is twice the angle at the circumference standing on the same arc, so it is 70 degrees.",
+      "difficulty": "MEDIUM",
+      "topic": "circles"
+    },
+    {
+      "text": "The volume of a cube of edge 5 cm is:",
+      "options": [
+        "125 cu cm",
+        "25 cu cm",
+        "75 cu cm",
+        "150 cu cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Volume = edge^3 = 5 x 5 x 5 = 125 cubic centimetres.",
+      "difficulty": "EASY",
+      "topic": "mensuration"
+    },
+    {
+      "text": "The total surface area of a cube of edge 4 cm is:",
+      "options": [
+        "16 sq cm",
+        "64 sq cm",
+        "128 sq cm",
+        "96 sq cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Surface area = 6 x edge^2 = 6 x 16 = 96 square centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "mensuration"
+    },
+    {
+      "text": "The volume of a cuboid measuring 5 cm by 4 cm by 3 cm is:",
+      "options": [
+        "12 cu cm",
+        "47 cu cm",
+        "60 cu cm",
+        "94 cu cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Volume = length x width x height = 5 x 4 x 3 = 60 cubic centimetres.",
+      "difficulty": "EASY",
+      "topic": "mensuration"
+    },
+    {
+      "text": "Taking pi as 22/7, the volume of a cylinder of radius 7 cm and height 10 cm is:",
+      "options": [
+        "440 cu cm",
+        "770 cu cm",
+        "1540 cu cm",
+        "2200 cu cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Volume = pi r^2 h = (22/7) x 49 x 10 = 1540 cubic centimetres.",
+      "difficulty": "HARD",
+      "topic": "mensuration"
+    },
+    {
+      "text": "Taking pi as 22/7, the curved surface area of a cylinder of radius 7 cm and height 10 cm is:",
+      "options": [
+        "220 sq cm",
+        "440 sq cm",
+        "308 sq cm",
+        "1540 sq cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Curved surface area = 2 pi r h = 2 x (22/7) x 7 x 10 = 440 square centimetres.",
+      "difficulty": "HARD",
+      "topic": "mensuration"
+    },
+    {
+      "text": "The volume of a sphere of radius 3 cm is:",
+      "options": [
+        "36 pi cu cm",
+        "12 pi cu cm",
+        "27 pi cu cm",
+        "108 pi cu cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Volume = (4/3) pi r^3 = (4/3) pi x 27 = 36 pi cubic centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "mensuration"
+    },
+    {
+      "text": "The volume of a cone of radius 3 cm and height 4 cm is:",
+      "options": [
+        "9 pi cu cm",
+        "24 pi cu cm",
+        "36 pi cu cm",
+        "12 pi cu cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Volume = (1/3) pi r^2 h = (1/3) pi x 9 x 4 = 12 pi cubic centimetres.",
+      "difficulty": "MEDIUM",
+      "topic": "mensuration"
+    },
+    {
+      "text": "Taking pi as 22/7, the surface area of a sphere of radius 7 cm is:",
+      "options": [
+        "154 sq cm",
+        "308 sq cm",
+        "1232 sq cm",
+        "616 sq cm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Surface area = 4 pi r^2 = 4 x (22/7) x 49 = 616 square centimetres.",
+      "difficulty": "HARD",
+      "topic": "mensuration"
+    },
+    {
+      "text": "The distance between the points (1, 2) and (4, 6) is:",
+      "options": [
+        "3 units",
+        "4 units",
+        "5 units",
+        "7 units"
+      ],
+      "correctIndex": 2,
+      "explanation": "Distance = root((4 - 1)^2 + (6 - 2)^2) = root(9 + 16) = 5 units.",
+      "difficulty": "MEDIUM",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "The midpoint of the segment joining (2, 4) and (6, 8) is:",
+      "options": [
+        "(2, 2)",
+        "(4, 6)",
+        "(8, 12)",
+        "(3, 5)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The midpoint is ((2 + 6)/2, (4 + 8)/2) = (4, 6).",
+      "difficulty": "EASY",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "The slope of the line joining (1, 2) and (3, 6) is:",
+      "options": [
+        "2",
+        "1/2",
+        "-2",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Slope = (6 - 2)/(3 - 1) = 4/2 = 2.",
+      "difficulty": "MEDIUM",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "The slope of the line y = 3x + 5 is:",
+      "options": [
+        "3",
+        "5",
+        "-3",
+        "1/3"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the form y = mx + c the coefficient of x is the slope, so m = 3.",
+      "difficulty": "EASY",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "The y-intercept of the line 2x + y = 8 is:",
+      "options": [
+        "2",
+        "4",
+        "-8",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "Putting x = 0 gives y = 8, so the line cuts the y-axis at 8.",
+      "difficulty": "MEDIUM",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "The x-intercept of the line 3x + 4y = 12 is:",
+      "options": [
+        "3",
+        "12",
+        "4",
+        "-4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Putting y = 0 gives 3x = 12, so x = 4.",
+      "difficulty": "MEDIUM",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "The point (3, -4) lies in which quadrant?",
+      "options": [
+        "First",
+        "Fourth",
+        "Second",
+        "Third"
+      ],
+      "correctIndex": 1,
+      "explanation": "A positive x with a negative y places the point in the fourth quadrant.",
+      "difficulty": "EASY",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "The slope of a line perpendicular to a line of slope 3 is:",
+      "options": [
+        "3",
+        "-1/3",
+        "1/3",
+        "-3"
+      ],
+      "correctIndex": 1,
+      "explanation": "The product of the slopes of perpendicular lines is -1, so the required slope is -1/3.",
+      "difficulty": "HARD",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "Every point lying on the x-axis has:",
+      "options": [
+        "y-coordinate equal to zero",
+        "x-coordinate equal to zero",
+        "Both coordinates equal",
+        "Both coordinates equal to zero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Points on the x-axis have no vertical displacement, so their y-coordinate is 0.",
+      "difficulty": "EASY",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "The area of the triangle whose vertices are (0, 0), (4, 0) and (0, 3) is:",
+      "options": [
+        "7 square units",
+        "12 square units",
+        "24 square units",
+        "6 square units"
+      ],
+      "correctIndex": 3,
+      "explanation": "The legs along the axes are 4 and 3, so the area = (1/2) x 4 x 3 = 6 square units.",
+      "difficulty": "HARD",
+      "topic": "coordinate-geometry"
+    },
+    {
+      "text": "If 2^(x + 1) = 32, then x is:",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "16"
+      ],
+      "correctIndex": 2,
+      "explanation": "32 = 2^5, so x + 1 = 5 and x = 4.",
+      "difficulty": "MEDIUM",
+      "topic": "exponents-roots"
+    }
+  ]
+}

@@ -1,0 +1,1091 @@
+{
+  "subject": "current-affairs",
+  "unit": "ca-pakistan-economy",
+  "questions": [
+    {
+      "text": "The Extended Fund Facility arrangement approved for Pakistan by the IMF Executive Board in September 2024 was worth approximately how much?",
+      "options": [
+        "US$3 billion",
+        "US$5 billion",
+        "US$7 billion",
+        "US$11 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The IMF Board approved a 37-month Extended Arrangement of SDR 5,320 million, about US$7 billion, on 25 September 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "What is the duration of the Extended Fund Facility arrangement approved for Pakistan in September 2024?",
+      "options": [
+        "37 months",
+        "24 months",
+        "48 months",
+        "9 months"
+      ],
+      "correctIndex": 0,
+      "explanation": "The arrangement was approved as a 37-month Extended Arrangement under the Extended Fund Facility.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Which IMF programme did Pakistan complete immediately before entering the 2024 Extended Fund Facility?",
+      "options": [
+        "A nine-month Stand-By Arrangement of about US$3 billion",
+        "A Rapid Financing Instrument of about US$1.4 billion",
+        "A Poverty Reduction and Growth Trust loan",
+        "A Flexible Credit Line of about US$6 billion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakistan completed a nine-month Stand-By Arrangement of about US$3 billion, approved in July 2023, before the 2024 Extended Fund Facility.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "In May 2025 the IMF Executive Board approved for Pakistan, alongside the first EFF review, an arrangement under which facility?",
+      "options": [
+        "Rapid Credit Facility",
+        "Resilience and Sustainability Facility",
+        "Short-term Liquidity Line",
+        "Catastrophe Containment and Relief Trust"
+      ],
+      "correctIndex": 1,
+      "explanation": "On 9 May 2025 the Board completed the first EFF review and approved a new arrangement under the Resilience and Sustainability Facility, which finances climate-related reforms.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "The Resilience and Sustainability Facility arrangement approved for Pakistan in May 2025 was worth approximately how much?",
+      "options": [
+        "US$0.5 billion",
+        "US$1.4 billion",
+        "US$2.6 billion",
+        "US$4.0 billion"
+      ],
+      "correctIndex": 1,
+      "explanation": "The RSF arrangement was approved at about US$1.4 billion to support climate-resilience reforms.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from imf.org and arabnews.com"
+    },
+    {
+      "text": "The IMF disbursement released to Pakistan on completion of the first review of the Extended Fund Facility in May 2025 was approximately how much?",
+      "options": [
+        "US$500 million",
+        "US$700 million",
+        "US$1 billion",
+        "US$2 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Completion of the first EFF review on 9 May 2025 allowed an immediate disbursement of about US$1 billion (SDR 760 million).",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "In which month did the IMF Executive Board complete the second review of Pakistan's Extended Fund Facility, unlocking a tranche of about US$1.2 billion?",
+      "options": [
+        "June 2025",
+        "September 2025",
+        "October 2025",
+        "December 2025"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Board completed the second EFF review and the first RSF review on 8 December 2025, releasing about US$1.2 billion.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from imf.org and brecorder.com"
+    },
+    {
+      "text": "The IMF Executive Board completed the third review of Pakistan's Extended Fund Facility in May 2026, approving a total immediate disbursement of about how much?",
+      "options": [
+        "US$0.7 billion",
+        "US$1.32 billion",
+        "US$2.1 billion",
+        "US$3.4 billion"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 8 May 2026 decision released about US$1.1 billion under the EFF and about US$220 million under the RSF, roughly US$1.32 billion in total.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from imf.org and thenews.pk"
+    },
+    {
+      "text": "After the third EFF review in May 2026, total IMF disbursements to Pakistan under the EFF and RSF arrangements stood at approximately how much?",
+      "options": [
+        "US$2.4 billion",
+        "US$4.8 billion",
+        "US$6.5 billion",
+        "US$8.4 billion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cumulative disbursements under the two arrangements reached about US$4.8 billion (SDR 3,348 million) after the May 2026 decision.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from imf.org and thenews.pk"
+    },
+    {
+      "text": "What was the total outlay of Pakistan's federal budget for fiscal year 2025-26?",
+      "options": [
+        "Rs20.4 trillion",
+        "Rs13.3 trillion",
+        "Rs15.1 trillion",
+        "Rs17.57 trillion"
+      ],
+      "correctIndex": 3,
+      "explanation": "The FY2025-26 federal budget carried a total outlay of about Rs17.573 trillion, some 7 percent lower than the previous year's budget.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "What tax collection target was set for the Federal Board of Revenue in the federal budget for 2025-26?",
+      "options": [
+        "Rs11,000 billion",
+        "Rs12,970 billion",
+        "Rs14,131 billion",
+        "Rs16,500 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The FY2025-26 budget set an FBR revenue target of Rs14,131 billion, about 9 percent above the previous year's target.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "How much was allocated to defence in Pakistan's federal budget for 2025-26?",
+      "options": [
+        "Rs2,122 billion",
+        "Rs2,550 billion",
+        "Rs3,000 billion",
+        "Rs1,850 billion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Defence was allocated Rs2,550 billion in the FY2025-26 budget, an increase of about 20 percent over the previous year.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "What real GDP growth target did the government set in the federal budget for 2025-26?",
+      "options": [
+        "5.5 percent",
+        "2.6 percent",
+        "3.6 percent",
+        "4.2 percent"
+      ],
+      "correctIndex": 3,
+      "explanation": "The FY2025-26 budget targeted real GDP growth of 4.2 percent; actual growth came in lower.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "What inflation target was set for fiscal year 2025-26 in Pakistan's federal budget?",
+      "options": [
+        "7.5 percent",
+        "9.5 percent",
+        "12 percent",
+        "15 percent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The FY2025-26 budget assumed average inflation of 7.5 percent for the year.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "The federal budget for 2025-26 set the fiscal deficit target at what share of GDP?",
+      "options": [
+        "2.4 percent",
+        "3.9 percent",
+        "5.9 percent",
+        "6.8 percent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The FY2025-26 budget targeted a fiscal deficit of 3.9 percent of GDP, down from a 5.9 percent target the previous year.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Which new levy on petroleum products was introduced in Pakistan's federal budget for 2025-26?",
+      "options": [
+        "Green surcharge",
+        "Carbon levy",
+        "Fuel adjustment cess",
+        "Climate adaptation duty"
+      ],
+      "correctIndex": 1,
+      "explanation": "The FY2025-26 budget imposed a carbon levy of Rs2.50 per litre on petrol, diesel and furnace oil.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com and profit.pakistantoday.com.pk"
+    },
+    {
+      "text": "What pay increase was announced for federal government employees in grades 1 to 20 in the 2025-26 federal budget?",
+      "options": [
+        "10 percent",
+        "15 percent",
+        "20 percent",
+        "25 percent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The FY2025-26 budget granted a 10 percent pay rise to federal employees in grades 1-20 and a 7 percent increase in pensions.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "What was the total outlay of Pakistan's federal budget for fiscal year 2026-27?",
+      "options": [
+        "Rs16.4 trillion",
+        "Rs17.57 trillion",
+        "Rs18.77 trillion",
+        "Rs21.3 trillion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The FY2026-27 federal budget carried a total outlay of about Rs18.771 trillion, roughly 7 percent higher than the previous year.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com and dailytimes.com.pk"
+    },
+    {
+      "text": "Who presented Pakistan's federal budget for fiscal year 2026-27 in the National Assembly?",
+      "options": [
+        "Ishaq Dar",
+        "Muhammad Aurangzeb",
+        "Ahsan Iqbal",
+        "Shaukat Tarin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finance Minister Muhammad Aurangzeb presented the FY2026-27 budget in June 2026.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "In which month was Pakistan's federal budget for 2026-27 presented?",
+      "options": [
+        "May 2026",
+        "July 2026",
+        "June 2026",
+        "April 2026"
+      ],
+      "correctIndex": 2,
+      "explanation": "The FY2026-27 budget was presented in June 2026, in line with the usual budget calendar.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "What FBR tax collection target was set in Pakistan's federal budget for 2026-27?",
+      "options": [
+        "Rs13.15 trillion",
+        "Rs14.13 trillion",
+        "Rs15.26 trillion",
+        "Rs17.80 trillion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The FY2026-27 budget set an FBR target of about Rs15.26 trillion, some 8 percent above the previous year's target.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "How much was allocated to defence in Pakistan's federal budget for 2026-27?",
+      "options": [
+        "Rs3.0 trillion",
+        "Rs3.8 trillion",
+        "Rs2.12 trillion",
+        "Rs2.55 trillion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Defence spending was set at about Rs3 trillion in the FY2026-27 budget, an increase of roughly 15.6 percent.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "The federal budget for 2026-27 set the fiscal deficit target at what share of GDP?",
+      "options": [
+        "3.6 percent",
+        "3.9 percent",
+        "4.5 percent",
+        "5.1 percent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The FY2026-27 budget targeted a fiscal deficit of 3.6 percent of GDP alongside a primary surplus of 2 percent of GDP.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "To what level was the monthly minimum wage raised in Pakistan's federal budget for 2026-27?",
+      "options": [
+        "Rs32,000",
+        "Rs37,000",
+        "Rs40,700",
+        "Rs45,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "The FY2026-27 budget raised the minimum wage from Rs37,000 to Rs40,700 per month.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "According to the Pakistan Economic Survey 2025-26, what was the country's real GDP growth in fiscal year 2025-26?",
+      "options": [
+        "2.7 percent",
+        "3.7 percent",
+        "4.2 percent",
+        "5.1 percent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Economic Survey 2025-26 recorded provisional GDP growth of 3.7 percent, the fastest in four years but short of the 4.2 percent target.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from dawn.com and brecorder.com"
+    },
+    {
+      "text": "Which sector recorded the highest growth rate in Pakistan in fiscal year 2025-26 according to the Economic Survey 2025-26?",
+      "options": [
+        "Services",
+        "Agriculture",
+        "Large-scale manufacturing",
+        "Construction"
+      ],
+      "correctIndex": 0,
+      "explanation": "Services grew about 4.09 percent, ahead of industry at about 3.51 percent and agriculture at about 2.89 percent.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "According to the Pakistan Economic Survey 2025-26, per capita income in FY2025-26 rose to approximately what level?",
+      "options": [
+        "US$1,662",
+        "US$1,751",
+        "US$1,901",
+        "US$2,240"
+      ],
+      "correctIndex": 2,
+      "explanation": "Per capita income was reported at about US$1,901 in FY2025-26, up from about US$1,751 the previous year.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "What poverty rate did the Pakistan Economic Survey 2025-26 report for the country?",
+      "options": [
+        "21.9 percent",
+        "24.5 percent",
+        "28.9 percent",
+        "34.2 percent"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Economic Survey 2025-26 reported that poverty had risen to 28.9 percent.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from dawn.com and thenews.pk"
+    },
+    {
+      "text": "According to the Pakistan Economic Survey 2025-26, total public debt at the end of March 2026 stood at approximately how much?",
+      "options": [
+        "Rs52 trillion",
+        "Rs68 trillion",
+        "Rs76 trillion",
+        "Rs83 trillion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total public debt was reported at about Rs83,285 billion, roughly Rs83 trillion, at end-March 2026.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "According to the Pakistan Economic Survey 2024-25, what was Pakistan's real GDP growth in fiscal year 2024-25?",
+      "options": [
+        "2.68 percent",
+        "3.70 percent",
+        "4.30 percent",
+        "1.20 percent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Economic Survey 2024-25 put provisional GDP growth for FY2024-25 at 2.68 percent.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "What were Pakistan's total merchandise exports in fiscal year 2025-26?",
+      "options": [
+        "US$24.8 billion",
+        "US$27.5 billion",
+        "US$32.0 billion",
+        "US$30.1 billion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pakistan Bureau of Statistics data put FY2025-26 exports at about US$30.126 billion, down nearly 6 percent year-on-year.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from profit.pakistantoday.com.pk and tribune.com.pk"
+    },
+    {
+      "text": "What were Pakistan's total merchandise imports in fiscal year 2025-26?",
+      "options": [
+        "US$69.6 billion",
+        "US$54.2 billion",
+        "US$64.5 billion",
+        "US$78.9 billion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Imports rose about 7.9 percent to roughly US$69.6 billion in FY2025-26.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from profit.pakistantoday.com.pk"
+    },
+    {
+      "text": "Pakistan's merchandise trade deficit in fiscal year 2025-26 was approximately how large?",
+      "options": [
+        "US$24.3 billion",
+        "US$32.5 billion",
+        "US$39.5 billion",
+        "US$48.7 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The trade deficit widened by about 21.6 percent to roughly US$39.5 billion in FY2025-26.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from profit.pakistantoday.com.pk and dunyanews.tv"
+    },
+    {
+      "text": "Workers' remittances to Pakistan in fiscal year 2025-26 reached what record level?",
+      "options": [
+        "US$31.2 billion",
+        "US$35.0 billion",
+        "US$38.3 billion",
+        "US$41.6 billion"
+      ],
+      "correctIndex": 3,
+      "explanation": "The State Bank reported record remittances of about US$41.6 billion in FY2025-26, a rise of roughly 8.6 percent.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from thenews.pk and gulfnews.com"
+    },
+    {
+      "text": "Which country was the largest single source of workers' remittances to Pakistan in fiscal year 2025-26?",
+      "options": [
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States",
+        "Saudi Arabia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Saudi Arabia sent about US$9.78 billion in FY2025-26, ahead of the UAE at about US$8.81 billion.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from thenews.pk"
+    },
+    {
+      "text": "Pakistan's exports of information technology and IT-enabled services crossed which milestone for the first time in fiscal year 2025-26?",
+      "options": [
+        "US$2 billion",
+        "US$3 billion",
+        "US$4 billion",
+        "US$7 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "IT and IT-enabled services exports set a record above US$4 billion in FY2025-26, up from about US$3.8 billion the previous year.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from arabnews.com and dailytimes.com.pk"
+    },
+    {
+      "text": "According to the Pakistan Economic Survey 2025-26, the average rupee-dollar exchange rate in FY2025-26 was approximately what?",
+      "options": [
+        "Rs225 per dollar",
+        "Rs250 per dollar",
+        "Rs281 per dollar",
+        "Rs320 per dollar"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Survey reported an average exchange rate of about Rs281.1 per US dollar during FY2025-26.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "What was the State Bank of Pakistan's policy rate after the Monetary Policy Committee decision of April 2026?",
+      "options": [
+        "12.5 percent",
+        "10.5 percent",
+        "11.0 percent",
+        "11.5 percent"
+      ],
+      "correctIndex": 3,
+      "explanation": "The MPC raised the policy rate by 100 basis points to 11.5 percent in April 2026 and held it there in subsequent meetings.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from sbp.org.pk and tradingeconomics.com"
+    },
+    {
+      "text": "The State Bank of Pakistan's policy rate increase in April 2026 was the first rise in the rate since which year?",
+      "options": [
+        "2019",
+        "2021",
+        "2023",
+        "2025"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 100 basis point increase in April 2026 was Pakistan's first policy rate hike since June 2023.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from tradingeconomics.com"
+    },
+    {
+      "text": "What was the peak level of the State Bank of Pakistan's policy rate before the monetary easing cycle that began in June 2024?",
+      "options": [
+        "22 percent",
+        "17 percent",
+        "19.5 percent",
+        "25 percent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The policy rate peaked at 22 percent, held from June 2023 until the first cut in June 2024.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "In August 2025 Moody's upgraded Pakistan's sovereign credit rating to which level?",
+      "options": [
+        "B3",
+        "B2",
+        "Caa1",
+        "Ba3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Moody's raised Pakistan's rating from Caa2 to Caa1 in August 2025, citing an improving external position.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from dawn.com and ratings.moodys.com"
+    },
+    {
+      "text": "In April 2025 Fitch Ratings upgraded Pakistan's long-term sovereign credit rating to which level?",
+      "options": [
+        "BB-",
+        "CCC+",
+        "B-",
+        "B+"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fitch upgraded Pakistan from CCC+ to B- with a stable outlook in April 2025, and later affirmed that rating.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "In July 2026 S&P Global Ratings upgraded Pakistan's long-term sovereign credit rating from B- to which level?",
+      "options": [
+        "B",
+        "B+",
+        "BB-",
+        "CCC+"
+      ],
+      "correctIndex": 0,
+      "explanation": "S&P raised Pakistan's long-term sovereign rating to B with a stable outlook in July 2026, citing stronger institutional capacity for reform.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from dawn.com"
+    },
+    {
+      "text": "In May 2026 Pakistan issued its first ever Panda bond. In which market and currency was it issued?",
+      "options": [
+        "China's onshore market, in renminbi",
+        "Hong Kong's offshore market, in US dollars",
+        "Japan's market, in yen",
+        "Singapore's market, in Singapore dollars"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Panda bond is a renminbi-denominated bond sold by a foreign issuer in China's onshore capital market; Pakistan debuted there in May 2026.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com and thenews.pk"
+    },
+    {
+      "text": "How much did Pakistan raise through its inaugural Panda bond issued in May 2026?",
+      "options": [
+        "US$100 million",
+        "US$500 million",
+        "US$1 billion",
+        "US$250 million"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pakistan raised RMB 1.75 billion, about US$250 million, in its debut Panda bond, which was more than five times oversubscribed.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from thenews.pk and propakistani.pk"
+    },
+    {
+      "text": "In January 2025 the World Bank Group announced a ten-year Country Partnership Framework for Pakistan of approximately what value?",
+      "options": [
+        "US$10 billion",
+        "US$20 billion",
+        "US$40 billion",
+        "US$60 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The World Bank Group announced a Country Partnership Framework for Pakistan worth about US$40 billion over ten years, covering 2026-2035.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Which consortium won the bid to acquire a majority stake in Pakistan International Airlines in December 2025?",
+      "options": [
+        "A consortium led by Arif Habib",
+        "A consortium led by Airblue",
+        "A consortium led by Fauji Foundation",
+        "A consortium led by Serene Air"
+      ],
+      "correctIndex": 0,
+      "explanation": "An Arif Habib-led consortium won the PIA privatisation bid in December 2025 with an offer of Rs135 billion.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from tribune.com.pk and brecorder.com"
+    },
+    {
+      "text": "What was the winning bid amount for the majority stake in Pakistan International Airlines offered in December 2025?",
+      "options": [
+        "Rs85 billion",
+        "Rs100 billion",
+        "Rs135 billion",
+        "Rs210 billion"
+      ],
+      "correctIndex": 2,
+      "explanation": "The winning consortium bid Rs135 billion for a 75 percent stake, against a government reference price of Rs100 billion.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from tribune.com.pk"
+    },
+    {
+      "text": "Which mobile operator did Pakistan Telecommunication Company Limited acquire under a transaction cleared by the Competition Commission of Pakistan in 2025?",
+      "options": [
+        "Telenor Pakistan",
+        "Zong",
+        "Jazz",
+        "SCO"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Competition Commission of Pakistan approved PTCL's acquisition of Telenor Pakistan in 2025, consolidating the mobile market.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from developingtelecoms.com and profit.pakistantoday.com.pk"
+    },
+    {
+      "text": "The Rs1.225 trillion financing deal that the government signed with commercial banks in 2025 was intended to retire debt in which sector?",
+      "options": [
+        "Aviation",
+        "Power",
+        "Railways",
+        "Steel"
+      ],
+      "correctIndex": 1,
+      "explanation": "The deal with a consortium of commercial banks was designed to clear a large part of the power sector's circular debt.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from pakistanbanks.org.pk and tribune.com.pk"
+    },
+    {
+      "text": "In April 2025 the Prime Minister announced a reduction in electricity tariffs of approximately how much per unit?",
+      "options": [
+        "Rs2.15 per unit",
+        "Rs4.90 per unit",
+        "Rs7.41 per unit",
+        "Rs12.00 per unit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Prime Minister Shehbaz Sharif announced a cut of Rs7.41 per unit in electricity prices in early April 2025.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Mainline-1, the railway upgrade project under the China-Pakistan Economic Corridor, runs between which two cities?",
+      "options": [
+        "Karachi and Quetta",
+        "Lahore and Peshawar",
+        "Gwadar and Sukkur",
+        "Karachi and Peshawar"
+      ],
+      "correctIndex": 3,
+      "explanation": "ML-1 is the roughly 1,700-kilometre Karachi-Peshawar main railway line, the largest infrastructure project under CPEC.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "In September 2025 Pakistan and China agreed to finance the ML-1 railway project through a consortium including which two multilateral lenders?",
+      "options": [
+        "IMF and World Bank",
+        "ADB and AIIB",
+        "IDB and OPEC Fund",
+        "EBRD and NDB"
+      ],
+      "correctIndex": 1,
+      "explanation": "The agreed financing consortium for the roughly US$7 billion ML-1 project included the Asian Development Bank and the Asian Infrastructure Investment Bank alongside China and Pakistan.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from dawn.com"
+    },
+    {
+      "text": "The China-Pakistan Economic Corridor was formally launched during a visit by the Chinese President in which year?",
+      "options": [
+        "2013",
+        "2015",
+        "2017",
+        "2019"
+      ],
+      "correctIndex": 1,
+      "explanation": "CPEC agreements were signed during President Xi Jinping's visit to Pakistan in April 2015.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "The Reko Diq copper and gold project is located in which district of Balochistan?",
+      "options": [
+        "Chagai",
+        "Khuzdar",
+        "Lasbela",
+        "Zhob"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reko Diq lies in Chagai district in western Balochistan, near the borders with Iran and Afghanistan.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Which company holds a 50 percent stake and operates the Reko Diq copper-gold project in Pakistan?",
+      "options": [
+        "Barrick",
+        "BHP",
+        "Rio Tinto",
+        "Anglo American"
+      ],
+      "correctIndex": 0,
+      "explanation": "Under the 2022 reconstituted arrangement, Barrick holds 50 percent of Reko Diq and operates it, with the remainder split between federal entities and Balochistan.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "The 34 memoranda of understanding signed between Pakistan and Saudi Arabia in October 2024 were valued at approximately how much?",
+      "options": [
+        "US$1.2 billion",
+        "US$2.8 billion",
+        "US$5 billion",
+        "US$10 billion"
+      ],
+      "correctIndex": 1,
+      "explanation": "The October 2024 agreements were reported at a combined value of about US$2.8 billion.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "In February 2025 Pakistan signed an agreement with Saudi Arabia to defer payment for oil imports worth approximately how much?",
+      "options": [
+        "US$1.2 billion",
+        "US$3 billion",
+        "US$300 million",
+        "US$600 million"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakistan signed an agreement in February 2025 for a US$1.2 billion Saudi oil facility on deferred payment terms.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "In October 2025 Pakistan and Saudi Arabia launched which economic arrangement?",
+      "options": [
+        "A Comprehensive Economic Cooperation Framework",
+        "A common currency arrangement",
+        "A free trade agreement",
+        "A customs union"
+      ],
+      "correctIndex": 0,
+      "explanation": "The two countries launched a Comprehensive Economic Cooperation Framework in October 2025 covering trade, investment, energy, mining and IT.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from gulfnews.com"
+    },
+    {
+      "text": "At the ECO summit in July 2025 Pakistan signed an investment agreement with which country worth about US$2 billion?",
+      "options": [
+        "Turkiye",
+        "Azerbaijan",
+        "Uzbekistan",
+        "Iran"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pakistan and Azerbaijan signed a US$2 billion investment agreement on the sidelines of the ECO summit in July 2025.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from tribune.com.pk and radio.gov.pk"
+    },
+    {
+      "text": "Under the trade arrangement announced with the United States in July 2025, Pakistani exports to the US were made subject to a tariff of what rate?",
+      "options": [
+        "29 percent",
+        "10 percent",
+        "15 percent",
+        "19 percent"
+      ],
+      "correctIndex": 3,
+      "explanation": "The July 2025 arrangement set a 19 percent tariff on Pakistani goods entering the United States, lower than the rate initially threatened.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from en.wikipedia.org and nbcnews.com"
+    },
+    {
+      "text": "Which sector featured prominently in the July 2025 Pakistan-United States trade understanding besides tariff reduction?",
+      "options": [
+        "Textile quotas",
+        "Oil and gas reserve development",
+        "Pharmaceutical patents",
+        "Agricultural subsidies"
+      ],
+      "correctIndex": 1,
+      "explanation": "The understanding included cooperation on developing Pakistan's oil and gas reserves alongside the tariff arrangement.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from nbcnews.com"
+    },
+    {
+      "text": "In December 2024 the Prime Minister launched which five-year national economic transformation plan?",
+      "options": [
+        "Vision 2035",
+        "Uraan Pakistan",
+        "Pakistan Rises",
+        "Roshan Mustaqbil"
+      ],
+      "correctIndex": 1,
+      "explanation": "Prime Minister Shehbaz Sharif launched 'Uraan Pakistan', the National Economic Transformation Plan 2024-29, on 31 December 2024.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "The Uraan Pakistan plan launched in December 2024 is built around a framework known by what name?",
+      "options": [
+        "The 6Ds",
+        "The 3Ps",
+        "The 4Is",
+        "The 5Es"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uraan Pakistan is organised around the 5Es: Exports, E-Pakistan, Environment and climate, Energy and infrastructure, and Equity and empowerment.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "The Uraan Pakistan plan sets a target of raising annual exports to approximately what level by 2029?",
+      "options": [
+        "US$100 billion",
+        "US$35 billion",
+        "US$45 billion",
+        "US$60 billion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uraan Pakistan aims to roughly double exports to about US$60 billion a year by 2029.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Under the National Tariff Policy 2025-30, the maximum customs duty slab is to be brought down to what rate?",
+      "options": [
+        "5 percent",
+        "10 percent",
+        "15 percent",
+        "20 percent"
+      ],
+      "correctIndex": 2,
+      "explanation": "The policy reduces the tariff structure to four slabs with a maximum rate of 15 percent over five years.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from profit.pakistantoday.com.pk and pid.gov.pk"
+    },
+    {
+      "text": "Which two import levies is Pakistan's National Tariff Policy 2025-30 designed to phase out entirely?",
+      "options": [
+        "Regulatory duties and additional customs duties",
+        "Sales tax and federal excise duty",
+        "Petroleum levy and carbon levy",
+        "Withholding tax and super tax"
+      ],
+      "correctIndex": 0,
+      "explanation": "The policy commits to eliminating regulatory duties and additional customs duties over about five years.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from profit.pakistantoday.com.pk"
+    },
+    {
+      "text": "The Special Investment Facilitation Council, created to fast-track foreign investment in Pakistan, was established in which year?",
+      "options": [
+        "2024",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Special Investment Facilitation Council was set up in June 2023 to coordinate investment in priority sectors such as minerals, agriculture, IT and energy.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "The National Fiscal Pact, under which provinces committed to take on additional spending responsibilities and raise agricultural income tax, was signed in which year?",
+      "options": [
+        "2026",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "correctIndex": 3,
+      "explanation": "The National Fiscal Pact was signed by the federal government and the provinces in September 2024 as part of the IMF programme commitments.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "The Pakistan Virtual Assets Regulatory Authority, created under legislation passed in 2025, regulates which sector?",
+      "options": [
+        "Insurance broking",
+        "Virtual and digital assets",
+        "Real estate investment trusts",
+        "Microfinance banking"
+      ],
+      "correctIndex": 1,
+      "explanation": "PVARA was established under the 2025 virtual assets law to license and supervise virtual asset service providers.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from arabnews.com and dawn.com"
+    },
+    {
+      "text": "The KSE-100 index of the Pakistan Stock Exchange recorded a gain of approximately what percentage during fiscal year 2025-26?",
+      "options": [
+        "70 percent",
+        "12 percent",
+        "24 percent",
+        "44 percent"
+      ],
+      "correctIndex": 3,
+      "explanation": "The KSE-100 rose about 44 percent during FY2025-26, outperforming other domestic asset classes for a third straight year.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com and profit.pakistantoday.com.pk"
+    },
+    {
+      "text": "According to the Pakistan Economic Survey 2025-26, Pakistan's total liquid foreign exchange reserves in mid-May 2026 stood at approximately how much?",
+      "options": [
+        "US$28.5 billion",
+        "US$14.2 billion",
+        "US$18.0 billion",
+        "US$22.6 billion"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Survey reported total liquid reserves of about US$22.6 billion on 15 May 2026, of which about US$17.1 billion was held by the State Bank.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "According to the Pakistan Economic Survey 2024-25, average consumer price inflation during July-April of FY2024-25 fell to approximately what level?",
+      "options": [
+        "4.7 percent",
+        "9.8 percent",
+        "14.5 percent",
+        "26.0 percent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Average CPI inflation fell to about 4.7 percent during July-April FY2024-25, down from about 26 percent in the same period a year earlier.",
+      "difficulty": "MEDIUM",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "According to the Pakistan Economic Survey 2025-26, average consumer price inflation during July-April of FY2025-26 rose to approximately what level?",
+      "options": [
+        "3.1 percent",
+        "6.2 percent",
+        "11.4 percent",
+        "17.8 percent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Average CPI inflation was about 6.19 percent during July-April FY2025-26, up from about 4.73 percent a year earlier.",
+      "difficulty": "HARD",
+      "topic": "pakistan-economy",
+      "sourceNote": "Confirmed from brecorder.com"
+    },
+    {
+      "text": "The Extended Fund Facility arrangement approved for Pakistan in 2024 was denominated in which unit of account?",
+      "options": [
+        "Chinese renminbi",
+        "US dollars",
+        "Euros",
+        "Special Drawing Rights"
+      ],
+      "correctIndex": 3,
+      "explanation": "IMF arrangements are denominated in Special Drawing Rights; Pakistan's arrangement was SDR 5,320 million, about US$7 billion.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Pakistan's federal budget for fiscal year 2025-26 was presented in which month?",
+      "options": [
+        "July 2025",
+        "April 2025",
+        "May 2025",
+        "June 2025"
+      ],
+      "correctIndex": 3,
+      "explanation": "The FY2025-26 federal budget was presented in June 2025, ahead of the fiscal year beginning on 1 July.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Pakistan's fiscal year for budget purposes runs between which dates?",
+      "options": [
+        "1 January to 31 December",
+        "1 April to 31 March",
+        "1 July to 30 June",
+        "1 October to 30 September"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan's fiscal year runs from 1 July to 30 June, so FY2025-26 ended on 30 June 2026.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Which institution publishes the Pakistan Economic Survey each year on the eve of the federal budget?",
+      "options": [
+        "State Bank of Pakistan",
+        "Ministry of Finance",
+        "Pakistan Bureau of Statistics",
+        "Planning Commission"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Pakistan Economic Survey is issued by the Finance Division of the Ministry of Finance a day before the budget is presented.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Which body in Pakistan takes the decision on the policy interest rate?",
+      "options": [
+        "Economic Coordination Committee",
+        "Monetary Policy Committee of the State Bank of Pakistan",
+        "National Economic Council",
+        "Federal Board of Revenue"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Monetary Policy Committee of the State Bank of Pakistan sets the policy rate at its scheduled meetings.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    },
+    {
+      "text": "Which organisation compiles Pakistan's monthly merchandise trade statistics used to report annual export and import totals?",
+      "options": [
+        "Federal Board of Revenue",
+        "Securities and Exchange Commission of Pakistan",
+        "Trade Development Authority of Pakistan",
+        "Pakistan Bureau of Statistics"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Pakistan Bureau of Statistics publishes the monthly and annual merchandise trade data on which the FY2025-26 figures were based.",
+      "difficulty": "EASY",
+      "topic": "pakistan-economy"
+    }
+  ]
+}

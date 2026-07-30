@@ -1,0 +1,1436 @@
+{
+  "subject": "pakistan-affairs",
+  "unit": "pak-geography-economy",
+  "questions": [
+    {
+      "text": "The highest mountain peak of Pakistan is",
+      "options": [
+        "K2",
+        "Nanga Parbat",
+        "Tirich Mir",
+        "Rakaposhi"
+      ],
+      "correctIndex": 0,
+      "explanation": "K2, at 8,611 metres, is the highest peak in Pakistan and the second highest in the world after Mount Everest.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "K2 is situated in which mountain range?",
+      "options": [
+        "Himalaya",
+        "Hindu Kush",
+        "Sulaiman",
+        "Karakoram"
+      ],
+      "correctIndex": 3,
+      "explanation": "K2 stands in the Karakoram range on the Pakistan-China frontier in Gilgit-Baltistan.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Nanga Parbat lies in which mountain range?",
+      "options": [
+        "Karakoram",
+        "Hindu Kush",
+        "Kirthar",
+        "Himalaya"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nanga Parbat, 8,126 metres high, is the western anchor of the Himalayan range and lies in Diamer district.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The highest peak of the Hindu Kush range is",
+      "options": [
+        "Tirich Mir",
+        "Broad Peak",
+        "Masherbrum",
+        "Gasherbrum I"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tirich Mir, 7,708 metres, in Chitral district is the highest peak of the Hindu Kush.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "How many peaks above 8,000 metres are located in Pakistan?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Seven"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan has five eight-thousanders: K2, Nanga Parbat, Gasherbrum I, Broad Peak and Gasherbrum II.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Siachen Glacier lies in which mountain range?",
+      "options": [
+        "Himalaya",
+        "Hindu Kush",
+        "Sulaiman",
+        "Karakoram"
+      ],
+      "correctIndex": 3,
+      "explanation": "Siachen is a long glacier of the eastern Karakoram range and is the world's highest battleground.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Khunjerab Pass connects Pakistan with",
+      "options": [
+        "China",
+        "Afghanistan",
+        "India",
+        "Tajikistan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Khunjerab Pass in Gilgit-Baltistan is the border crossing between Pakistan and China's Xinjiang region.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Khyber Pass links Pakistan with",
+      "options": [
+        "China",
+        "Iran",
+        "Turkmenistan",
+        "Afghanistan"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Khyber Pass runs from Peshawar valley through the Safed Koh to Afghanistan and has been the historic invasion route into the subcontinent.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Shandur Pass connects Chitral with",
+      "options": [
+        "Gilgit",
+        "Swat",
+        "Kohistan",
+        "Bajaur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shandur, the site of the world's highest polo ground, links Chitral with Gilgit.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Lowari Pass provides a route between Chitral and",
+      "options": [
+        "Dir",
+        "Swat",
+        "Gilgit",
+        "Mohmand"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Lowari Pass, now bypassed by the Lowari Tunnel, connects Chitral with the Dir district.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Babusar Pass links the Kaghan Valley with",
+      "options": [
+        "Skardu",
+        "Astore",
+        "Gilgit city",
+        "Chilas"
+      ],
+      "correctIndex": 3,
+      "explanation": "Babusar Top joins the upper Kaghan Valley to Chilas on the Karakoram Highway.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Indus River rises in",
+      "options": [
+        "Tibet",
+        "Nepal",
+        "Afghanistan",
+        "Bhutan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Indus originates in the Tibetan plateau near Lake Mansarovar before entering Gilgit-Baltistan.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Kabul River joins the Indus at",
+      "options": [
+        "Attock",
+        "Nowshera",
+        "Kalabagh",
+        "Mianwali"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Kabul River meets the Indus near Attock, just below Khairabad.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Panjnad River joins the Indus near",
+      "options": [
+        "Sukkur",
+        "Multan",
+        "Bhakkar",
+        "Mithankot"
+      ],
+      "correctIndex": 3,
+      "explanation": "The combined waters of the five eastern rivers form the Panjnad, which enters the Indus at Mithankot.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Tarbela Dam is built on which river?",
+      "options": [
+        "Jhelum",
+        "Kabul",
+        "Chenab",
+        "Indus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tarbela, in Swabi district, is an earth-filled dam on the Indus completed in 1976.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Mangla Dam is constructed on which river?",
+      "options": [
+        "Indus",
+        "Chenab",
+        "Ravi",
+        "Jhelum"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mangla Dam, completed in 1967, impounds the Jhelum River near Mirpur in Azad Kashmir.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Warsak Dam has been built on which river?",
+      "options": [
+        "Kabul",
+        "Swat",
+        "Kunar",
+        "Panjkora"
+      ],
+      "correctIndex": 0,
+      "explanation": "Warsak Dam lies on the Kabul River about twenty kilometres from Peshawar.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Diamer-Bhasha Dam is being constructed on which river?",
+      "options": [
+        "Indus",
+        "Jhelum",
+        "Swat",
+        "Gilgit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diamer-Bhasha is a concrete gravity dam on the Indus upstream of Tarbela.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Mohmand Dam is being built on which river?",
+      "options": [
+        "Kabul",
+        "Panjkora",
+        "Indus",
+        "Swat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mohmand Dam is a hydropower and storage project on the Swat River in Mohmand district.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Sukkur Barrage on the Indus was completed in",
+      "options": [
+        "1922",
+        "1932",
+        "1947",
+        "1958"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formerly called the Lloyd Barrage, Sukkur Barrage was completed in 1932 and feeds one of the world's largest irrigation systems.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Ghulam Muhammad Barrage on the Indus is commonly known as",
+      "options": [
+        "Guddu Barrage",
+        "Taunsa Barrage",
+        "Chashma Barrage",
+        "Kotri Barrage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kotri Barrage near Hyderabad is officially named the Ghulam Muhammad Barrage and is the lowest barrage on the Indus.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The largest desert of Pakistan is the",
+      "options": [
+        "Cholistan",
+        "Thal",
+        "Kharan",
+        "Thar"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Thar Desert of southeastern Sindh is the largest desert in Pakistan and extends into Indian Rajasthan.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Thal Desert lies between the Indus and which other river?",
+      "options": [
+        "Chenab",
+        "Ravi",
+        "Jhelum",
+        "Sutlej"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thal occupies the doab between the Indus and the Jhelum in districts such as Bhakkar and Layyah.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The largest freshwater lake of Pakistan is",
+      "options": [
+        "Keenjhar Lake",
+        "Rawal Lake",
+        "Hanna Lake",
+        "Manchar Lake"
+      ],
+      "correctIndex": 3,
+      "explanation": "Manchar Lake in Sindh, west of the Indus, is the largest natural freshwater lake in Pakistan.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Keenjhar Lake mainly supplies drinking water to which city?",
+      "options": [
+        "Hyderabad",
+        "Sukkur",
+        "Karachi",
+        "Thatta"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keenjhar (Kalri) Lake in Thatta district is the principal source of piped water for Karachi.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Lake Saiful Muluk is located in which valley?",
+      "options": [
+        "Neelum",
+        "Hunza",
+        "Swat",
+        "Kaghan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Saiful Muluk is an alpine lake near Naran in the Kaghan Valley of Khyber Pakhtunkhwa.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Attabad Lake, formed by a landslide in 2010, lies in which valley?",
+      "options": [
+        "Hunza",
+        "Kalash",
+        "Kaghan",
+        "Kurram"
+      ],
+      "correctIndex": 0,
+      "explanation": "A massive landslide at Attabad in January 2010 blocked the Hunza River and created the lake.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Hanna Lake is situated near which city?",
+      "options": [
+        "Peshawar",
+        "Muzaffarabad",
+        "Gilgit",
+        "Quetta"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hanna Lake lies in the Urak valley a short distance from Quetta.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The largest province of Pakistan by area is",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Balochistan",
+        "Khyber Pakhtunkhwa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Balochistan covers about 347,190 square kilometres, roughly 44 per cent of Pakistan's territory.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The total area of Pakistan is approximately",
+      "options": [
+        "596,096 square kilometres",
+        "696,096 square kilometres",
+        "896,096 square kilometres",
+        "796,096 square kilometres"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pakistan's area is officially given as 796,096 square kilometres.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The length of Pakistan's coastline is approximately",
+      "options": [
+        "1,046 kilometres",
+        "650 kilometres",
+        "1,600 kilometres",
+        "2,200 kilometres"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakistan's Arabian Sea coastline of about 1,046 kilometres is shared between Sindh and Balochistan.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Pakistan's shortest international land border is with",
+      "options": [
+        "Afghanistan",
+        "Iran",
+        "China",
+        "India"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Pakistan-China boundary along the Karakoram is the shortest of Pakistan's land borders.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Durand Line between Pakistan and Afghanistan was demarcated in",
+      "options": [
+        "1849",
+        "1893",
+        "1901",
+        "1919"
+      ],
+      "correctIndex": 1,
+      "explanation": "The line was agreed in 1893 between Sir Mortimer Durand and Amir Abdur Rahman Khan of Afghanistan.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Sir Creek dispute concerns the boundary between Sindh and the Indian state of",
+      "options": [
+        "Rajasthan",
+        "Maharashtra",
+        "Punjab",
+        "Gujarat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sir Creek is a tidal estuary in the Rann of Kutch marking the disputed Sindh-Gujarat maritime boundary.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Gwadar was purchased by Pakistan in 1958 from",
+      "options": [
+        "Iran",
+        "Britain",
+        "Oman",
+        "Bahrain"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gwadar had been an enclave of the Sultanate of Oman and was bought by Pakistan in 1958.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Port Qasim is located near which city?",
+      "options": [
+        "Thatta",
+        "Gwadar",
+        "Ormara",
+        "Karachi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Port Qasim, Pakistan's second busiest port, lies on the Indus delta creeks southeast of Karachi.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Khewra Salt Mine is located in which district?",
+      "options": [
+        "Jhelum",
+        "Chakwal",
+        "Attock",
+        "Mianwali"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khewra, in Jhelum district of Punjab, is one of the largest rock-salt mines in the world.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Saindak copper and gold project is located in which district?",
+      "options": [
+        "Kech",
+        "Lasbela",
+        "Khuzdar",
+        "Chagai"
+      ],
+      "correctIndex": 3,
+      "explanation": "Saindak lies in Chagai district of Balochistan near the Iranian and Afghan borders.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Sui gas field lies in which district of Balochistan?",
+      "options": [
+        "Dera Bugti",
+        "Kohlu",
+        "Sibi",
+        "Nasirabad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sui is located in Dera Bugti district in eastern Balochistan.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Mari gas field is located in which province?",
+      "options": [
+        "Punjab",
+        "Balochistan",
+        "Khyber Pakhtunkhwa",
+        "Sindh"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Mari gas field lies near Daharki in the Ghotki area of upper Sindh.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Thar coalfield is located in which province?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "Balochistan",
+        "Khyber Pakhtunkhwa"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Thar lignite deposits in Tharparkar district of Sindh are among the largest coal reserves in the world.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Muslim Bagh, known for chromite mining, is located in which province?",
+      "options": [
+        "Khyber Pakhtunkhwa",
+        "Sindh",
+        "Punjab",
+        "Balochistan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Muslim Bagh in Killa Saifullah district of Balochistan is Pakistan's main chromite producing area.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Emerald mines in Pakistan are chiefly located in which valley?",
+      "options": [
+        "Kaghan",
+        "Neelum",
+        "Swat",
+        "Kurram"
+      ],
+      "correctIndex": 2,
+      "explanation": "The emerald deposits near Mingora in the Swat valley are Pakistan's best known source of the gemstone.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Kalabagh, known for its iron ore deposits, lies in which district?",
+      "options": [
+        "Chakwal",
+        "Bhakkar",
+        "Attock",
+        "Mianwali"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Kalabagh iron ore field is in Mianwali district of Punjab on the right bank of the Indus.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Deosai Plains are located in",
+      "options": [
+        "Gilgit-Baltistan",
+        "Azad Jammu and Kashmir",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Deosai, near Skardu in Gilgit-Baltistan, is one of the highest plateaus in the world and a national park.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Salt Range lies between the Jhelum River and which other river?",
+      "options": [
+        "Chenab",
+        "Ravi",
+        "Indus",
+        "Soan"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Salt Range stretches across northern Punjab between the Jhelum and the Indus, south of the Potohar Plateau.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The largest national park of Pakistan by area is",
+      "options": [
+        "Kirthar National Park",
+        "Lal Suhanra National Park",
+        "Chitral Gol National Park",
+        "Hingol National Park"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hingol National Park on the Makran coast of Balochistan is the largest national park in Pakistan.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Astola Island, the largest island of Pakistan, lies off the coast of",
+      "options": [
+        "Sindh",
+        "Balochistan",
+        "Punjab",
+        "Khyber Pakhtunkhwa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Astola, also called Jezira Haft Talar, lies in the Arabian Sea off the Makran coast near Pasni.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The capital of Azad Jammu and Kashmir is",
+      "options": [
+        "Mirpur",
+        "Muzaffarabad",
+        "Rawalakot",
+        "Kotli"
+      ],
+      "correctIndex": 1,
+      "explanation": "Muzaffarabad, on the confluence of the Neelum and Jhelum rivers, is the capital of Azad Jammu and Kashmir.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Changa Manga, one of the largest planted forests of Pakistan, is located in which province?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Changa Manga is a man-made irrigated plantation in Kasur district of Punjab.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The monsoon rains in Pakistan generally occur between",
+      "options": [
+        "March and May",
+        "July and September",
+        "October and December",
+        "January and March"
+      ],
+      "correctIndex": 1,
+      "explanation": "The summer monsoon reaches Pakistan in early July and withdraws by September, bringing most of the annual rainfall.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The largest food crop of Pakistan in terms of area sown is",
+      "options": [
+        "Rice",
+        "Maize",
+        "Sugarcane",
+        "Wheat"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wheat, a Rabi crop, occupies the largest cultivated area and is the staple food grain of Pakistan.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The province producing the largest share of Pakistan's cotton is",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Balochistan",
+        "Khyber Pakhtunkhwa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Punjab's southern districts account for the greater part of national cotton output, with Sindh second.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Faisalabad is popularly known as",
+      "options": [
+        "The city of gardens",
+        "The Manchester of Pakistan",
+        "The city of saints",
+        "The city of lights"
+      ],
+      "correctIndex": 1,
+      "explanation": "Faisalabad earned the title because of its concentration of cotton textile mills.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Sialkot is chiefly known for the manufacture of",
+      "options": [
+        "Cement and glass",
+        "Fans and electric goods",
+        "Sports goods and surgical instruments",
+        "Carpets and ceramics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sialkot is the centre of Pakistan's sports goods, leather and surgical instrument industries.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Pakistan Steel Mills was set up with the technical and financial assistance of",
+      "options": [
+        "The Soviet Union",
+        "The United States",
+        "Japan",
+        "West Germany"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Karachi steel mill was built at Pipri under a 1971 agreement with the Soviet Union.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Heavy Mechanical Complex of Pakistan is located at",
+      "options": [
+        "Kamra",
+        "Wah",
+        "Taxila",
+        "Nowshera"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Heavy Mechanical Complex at Taxila, built with Chinese assistance, manufactures industrial plant and machinery.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Pakistan's first nuclear power plant, KANUPP, began operating in",
+      "options": [
+        "1965",
+        "1972",
+        "1978",
+        "1986"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Karachi Nuclear Power Plant, built with Canadian assistance, was commissioned in 1972.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The State Bank of Pakistan was established on",
+      "options": [
+        "14 August 1947",
+        "1 July 1948",
+        "1 January 1949",
+        "23 March 1956"
+      ],
+      "correctIndex": 1,
+      "explanation": "The State Bank of Pakistan was inaugurated by Quaid-e-Azam Muhammad Ali Jinnah on 1 July 1948.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The fiscal year of the Government of Pakistan runs from",
+      "options": [
+        "1 January to 31 December",
+        "1 April to 31 March",
+        "1 July to 30 June",
+        "1 October to 30 September"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan's financial year begins on 1 July and closes on 30 June.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The largest single category of Pakistan's exports is",
+      "options": [
+        "Textiles and clothing",
+        "Leather goods",
+        "Cement",
+        "Sports goods"
+      ],
+      "correctIndex": 0,
+      "explanation": "Textiles and made-up garments have long accounted for roughly three-fifths of Pakistan's export earnings.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The largest group of Pakistan's imports by value is",
+      "options": [
+        "Machinery",
+        "Petroleum and petroleum products",
+        "Food grains",
+        "Chemicals"
+      ],
+      "correctIndex": 1,
+      "explanation": "Petroleum crude and refined products form Pakistan's biggest import bill and drive its trade deficit.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Economic Survey of Pakistan is published each year by the",
+      "options": [
+        "State Bank of Pakistan",
+        "Planning Commission",
+        "Federal Board of Revenue",
+        "Ministry of Finance"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Ministry of Finance issues the Economic Survey a day before the federal budget is presented.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Pakistan Stock Exchange was created in 2016 by merging the stock exchanges of",
+      "options": [
+        "Karachi, Lahore and Islamabad",
+        "Karachi, Faisalabad and Multan",
+        "Lahore, Peshawar and Quetta",
+        "Karachi, Lahore and Peshawar"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Karachi, Lahore and Islamabad stock exchanges were integrated into the Pakistan Stock Exchange in January 2016.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The nationalization of major industries, banks and insurance companies in Pakistan was carried out under",
+      "options": [
+        "Ayub Khan",
+        "Yahya Khan",
+        "Zulfikar Ali Bhutto",
+        "Zia-ul-Haq"
+      ],
+      "correctIndex": 2,
+      "explanation": "Zulfikar Ali Bhutto's government began nationalizing basic industries in 1972 and banks in 1974.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Green Revolution in Pakistan's agriculture took place mainly during the government of",
+      "options": [
+        "Liaquat Ali Khan",
+        "Ayub Khan",
+        "Zulfikar Ali Bhutto",
+        "Zia-ul-Haq"
+      ],
+      "correctIndex": 1,
+      "explanation": "High-yielding seed varieties, tubewells and fertilizer use spread rapidly in the 1960s under Ayub Khan.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Pakistan's First Five Year Plan covered the period",
+      "options": [
+        "1951-56",
+        "1955-60",
+        "1960-65",
+        "1965-70"
+      ],
+      "correctIndex": 1,
+      "explanation": "The First Five Year Plan ran from 1955 to 1960, though it was formally approved only in 1957.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Motorway M-2 connects Islamabad with",
+      "options": [
+        "Peshawar",
+        "Faisalabad",
+        "Lahore",
+        "Multan"
+      ],
+      "correctIndex": 2,
+      "explanation": "The M-2, Pakistan's first motorway, links Islamabad with Lahore and was opened in 1997.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "National Highway N-5, the Grand Trunk Road, runs from Karachi to",
+      "options": [
+        "Quetta",
+        "Chaman",
+        "Torkham",
+        "Peshawar"
+      ],
+      "correctIndex": 3,
+      "explanation": "N-5 is Pakistan's longest national highway, running from Karachi through Lahore and Rawalpindi to Peshawar.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The China-Pakistan Economic Corridor links Gwadar with which Chinese city?",
+      "options": [
+        "Kashgar",
+        "Urumqi",
+        "Lhasa",
+        "Beijing"
+      ],
+      "correctIndex": 0,
+      "explanation": "CPEC connects Gwadar port to Kashgar in China's Xinjiang region by road, rail and pipeline routes.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The main CPEC agreements were signed in April 2015 during the visit to Pakistan of",
+      "options": [
+        "Hu Jintao",
+        "Li Keqiang",
+        "Wen Jiabao",
+        "Xi Jinping"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chinese President Xi Jinping's April 2015 visit produced the package of CPEC agreements worth about 46 billion dollars.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The operational control of Gwadar Port was transferred in 2013 to a company of",
+      "options": [
+        "Singapore",
+        "Turkey",
+        "China",
+        "the United Arab Emirates"
+      ],
+      "correctIndex": 2,
+      "explanation": "Operations passed from the Port of Singapore Authority to the China Overseas Ports Holding Company in 2013.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Indus Waters Treaty between Pakistan and India was signed in",
+      "options": [
+        "1948",
+        "1954",
+        "1960",
+        "1966"
+      ],
+      "correctIndex": 2,
+      "explanation": "The treaty was signed on 19 September 1960 after nine years of negotiation.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Indus Waters Treaty was negotiated through the good offices of",
+      "options": [
+        "The World Bank",
+        "The United Nations",
+        "The Commonwealth",
+        "The United States"
+      ],
+      "correctIndex": 0,
+      "explanation": "The World Bank mediated the dispute and remains a signatory and guarantor of the treaty.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Under the Indus Waters Treaty the eastern rivers allotted to India are",
+      "options": [
+        "Indus, Jhelum and Chenab",
+        "Ravi, Beas and Sutlej",
+        "Chenab, Ravi and Sutlej",
+        "Jhelum, Beas and Ravi"
+      ],
+      "correctIndex": 1,
+      "explanation": "India received unrestricted use of the Ravi, Beas and Sutlej, while Pakistan received the Indus, Jhelum and Chenab.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Indus Waters Treaty was signed on behalf of Pakistan by",
+      "options": [
+        "Iskander Mirza",
+        "Ayub Khan",
+        "Feroz Khan Noon",
+        "Yahya Khan"
+      ],
+      "correctIndex": 1,
+      "explanation": "President Ayub Khan signed for Pakistan and Prime Minister Jawaharlal Nehru for India.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Indus Waters Treaty was signed in which city?",
+      "options": [
+        "Lahore",
+        "New Delhi",
+        "Karachi",
+        "Washington"
+      ],
+      "correctIndex": 2,
+      "explanation": "The treaty was signed at Karachi, then the capital of Pakistan, in September 1960.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The body established under the Indus Waters Treaty to handle routine questions between the two countries is the",
+      "options": [
+        "Permanent Indus Commission",
+        "Indus Basin Authority",
+        "Joint Rivers Board",
+        "Indus Arbitration Council"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each country appoints an Indus Commissioner, and together they form the Permanent Indus Commission.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The ceasefire ending the first Kashmir war between Pakistan and India came into effect on",
+      "options": [
+        "27 October 1947",
+        "1 January 1949",
+        "5 February 1949",
+        "14 August 1948"
+      ],
+      "correctIndex": 1,
+      "explanation": "A United Nations sponsored ceasefire took effect on 1 January 1949 and produced the ceasefire line in Kashmir.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The 1965 war between Pakistan and India on the international border began on",
+      "options": [
+        "6 September 1965",
+        "1 September 1965",
+        "23 September 1965",
+        "17 August 1965"
+      ],
+      "correctIndex": 0,
+      "explanation": "Indian forces crossed the international border towards Lahore on 6 September 1965, now observed as Defence Day.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Pakistani operation launched in Kashmir in August 1965 was code-named",
+      "options": [
+        "Operation Grand Slam",
+        "Operation Gibraltar",
+        "Operation Searchlight",
+        "Operation Fair Play"
+      ],
+      "correctIndex": 1,
+      "explanation": "Operation Gibraltar sent infiltrators into Indian-held Kashmir and led to the escalation of the 1965 war.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Tashkent Declaration ending the 1965 war was signed in",
+      "options": [
+        "September 1965",
+        "December 1965",
+        "January 1966",
+        "July 1966"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ayub Khan and Lal Bahadur Shastri signed the declaration on 10 January 1966.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Tashkent talks of 1966 were mediated by",
+      "options": [
+        "The United States",
+        "The Soviet Union",
+        "The United Kingdom",
+        "China"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soviet Premier Alexei Kosygin hosted and mediated the talks at Tashkent in Soviet Uzbekistan.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Dhaka fell to Indian forces on",
+      "options": [
+        "3 December 1971",
+        "16 December 1971",
+        "25 March 1971",
+        "20 December 1971"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Pakistani eastern command surrendered at Dhaka on 16 December 1971, ending the war in East Pakistan.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The Simla Agreement was signed by Zulfikar Ali Bhutto and",
+      "options": [
+        "Jawaharlal Nehru",
+        "Lal Bahadur Shastri",
+        "Indira Gandhi",
+        "Morarji Desai"
+      ],
+      "correctIndex": 2,
+      "explanation": "Indian Prime Minister Indira Gandhi signed the agreement with Pakistan's President Zulfikar Ali Bhutto.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Pakistan formally recognized Bangladesh in",
+      "options": [
+        "1972",
+        "1973",
+        "1974",
+        "1976"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan recognized Bangladesh in February 1974, shortly before the second Islamic Summit at Lahore.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The second Islamic Summit Conference was held in 1974 at",
+      "options": [
+        "Karachi",
+        "Islamabad",
+        "Lahore",
+        "Rawalpindi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lahore hosted the second summit of the Organisation of the Islamic Conference in February 1974.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Pakistan carried out its nuclear tests of 28 May 1998 in the hills of",
+      "options": [
+        "Chagai",
+        "Kharan",
+        "Khuzdar",
+        "Zhob"
+      ],
+      "correctIndex": 0,
+      "explanation": "Five devices were detonated in the Ras Koh Hills of Chagai district on 28 May 1998.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The first Prime Minister of Pakistan was assassinated in 1951 at",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Rawalpindi",
+        "Peshawar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Liaquat Ali Khan was shot on 16 October 1951 at Company Bagh, Rawalpindi, later renamed Liaquat Bagh.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The first Chief Martial Law Administrator of Pakistan in October 1958 was",
+      "options": [
+        "Iskander Mirza",
+        "Ayub Khan",
+        "Yahya Khan",
+        "Feroz Khan Noon"
+      ],
+      "correctIndex": 1,
+      "explanation": "When martial law was proclaimed on 7 October 1958, General Ayub Khan was appointed Chief Martial Law Administrator.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "General Zia-ul-Haq imposed martial law in Pakistan on",
+      "options": [
+        "5 July 1977",
+        "17 August 1977",
+        "25 March 1977",
+        "20 September 1977"
+      ],
+      "correctIndex": 0,
+      "explanation": "Zia-ul-Haq removed the Bhutto government in Operation Fair Play on 5 July 1977.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "General Zia-ul-Haq died in an air crash in 1988 near",
+      "options": [
+        "Multan",
+        "Bahawalpur",
+        "Sargodha",
+        "Sukkur"
+      ],
+      "correctIndex": 1,
+      "explanation": "The presidential aircraft crashed shortly after take-off from Bahawalpur on 17 August 1988.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The first woman to become Prime Minister of Pakistan was",
+      "options": [
+        "Fatima Jinnah",
+        "Begum Rana Liaquat Ali Khan",
+        "Benazir Bhutto",
+        "Nusrat Bhutto"
+      ],
+      "correctIndex": 2,
+      "explanation": "Benazir Bhutto took office in December 1988 as the first woman prime minister of Pakistan.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The first general elections in Pakistan held on the basis of adult franchise took place in",
+      "options": [
+        "1962",
+        "1965",
+        "1970",
+        "1977"
+      ],
+      "correctIndex": 2,
+      "explanation": "The December 1970 polls were Pakistan's first direct general elections on universal adult franchise.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Which city served as the interim capital of Pakistan while Islamabad was under construction?",
+      "options": [
+        "Rawalpindi",
+        "Lahore",
+        "Peshawar",
+        "Karachi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Rawalpindi functioned as the interim capital from 1959 until Islamabad was ready to receive the government.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Pakistan became a member of the United Nations on",
+      "options": [
+        "14 August 1947",
+        "30 September 1947",
+        "1 January 1948",
+        "26 October 1947"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pakistan was admitted to the United Nations on 30 September 1947, six weeks after independence.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The highest civil award of Pakistan is",
+      "options": [
+        "Hilal-e-Imtiaz",
+        "Sitara-e-Imtiaz",
+        "Nishan-e-Pakistan",
+        "Tamgha-e-Pakistan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nishan-e-Pakistan is the highest civil decoration, usually conferred on foreign heads of state and government.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The first recipient of Nishan-e-Haider was",
+      "options": [
+        "Major Tufail Muhammad",
+        "Major Aziz Bhatti",
+        "Captain Muhammad Sarwar",
+        "Major Shabbir Sharif"
+      ],
+      "correctIndex": 2,
+      "explanation": "Captain Muhammad Sarwar Shaheed was awarded the first Nishan-e-Haider for gallantry in Kashmir in 1948.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The only officer of the Pakistan Air Force awarded the Nishan-e-Haider is",
+      "options": [
+        "M. M. Alam",
+        "Rashid Minhas",
+        "Sarfaraz Rafiqui",
+        "Cecil Chaudhry"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pilot Officer Rashid Minhas received the award for preventing the hijacking of his aircraft to India in 1971.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "Captain Karnal Sher Khan was awarded the Nishan-e-Haider for gallantry in",
+      "options": [
+        "The 1965 war",
+        "The 1971 war",
+        "The Kargil conflict",
+        "The Siachen operations"
+      ],
+      "correctIndex": 2,
+      "explanation": "Captain Karnal Sher Khan received the award posthumously for his defence of positions in the Kargil sector in 1999.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The national flower of Pakistan is",
+      "options": [
+        "Rose",
+        "Jasmine",
+        "Tulip",
+        "Marigold"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jasmine, known locally as chambeli, is the national flower of Pakistan.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The national tree of Pakistan is",
+      "options": [
+        "Deodar",
+        "Banyan",
+        "Chinar",
+        "Shisham"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Himalayan cedar or deodar is the national tree of Pakistan.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The national animal of Pakistan is the",
+      "options": [
+        "Snow leopard",
+        "Ibex",
+        "Markhor",
+        "Blackbuck"
+      ],
+      "correctIndex": 2,
+      "explanation": "The markhor, a wild goat of the northern mountains, is Pakistan's national animal.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The national bird of Pakistan is the",
+      "options": [
+        "Peacock",
+        "Falcon",
+        "Houbara bustard",
+        "Chukar partridge"
+      ],
+      "correctIndex": 3,
+      "explanation": "The chukar partridge is recognized as the national bird of Pakistan.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The national sport of Pakistan is",
+      "options": [
+        "Cricket",
+        "Field hockey",
+        "Squash",
+        "Kabaddi"
+      ],
+      "correctIndex": 1,
+      "explanation": "Field hockey is Pakistan's national game, in which the country has won several Olympic and World Cup titles.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The words of Pakistan's national anthem were written by",
+      "options": [
+        "Hafeez Jalandhari",
+        "Ahmed G. Chagla",
+        "Jagan Nath Azad",
+        "Faiz Ahmed Faiz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abu-al-Asar Hafeez Jalandhari wrote the lyrics of the Qaumi Taranah.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The music of Pakistan's national anthem was composed by",
+      "options": [
+        "Hafeez Jalandhari",
+        "Ahmed G. Chagla",
+        "Khawaja Khurshid Anwar",
+        "Sohail Rana"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ahmed Ghulamali Chagla composed the tune, which was approved before the lyrics were selected.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The national anthem of Pakistan was officially adopted in",
+      "options": [
+        "1947",
+        "1950",
+        "1954",
+        "1956"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Qaumi Taranah was formally adopted in August 1954 and first broadcast on Radio Pakistan.",
+      "difficulty": "HARD",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The national flag of Pakistan was adopted by the Constituent Assembly on",
+      "options": [
+        "14 August 1947",
+        "11 August 1947",
+        "23 March 1947",
+        "15 August 1947"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Constituent Assembly approved the design of the national flag on 11 August 1947.",
+      "difficulty": "MEDIUM",
+      "topic": "geography-economy"
+    },
+    {
+      "text": "The white stripe in the national flag of Pakistan represents",
+      "options": [
+        "Peace and prosperity",
+        "Religious minorities",
+        "Agricultural wealth",
+        "The armed forces"
+      ],
+      "correctIndex": 1,
+      "explanation": "The vertical white band stands for the non-Muslim minorities of Pakistan, while the green field represents the Muslim majority.",
+      "difficulty": "EASY",
+      "topic": "geography-economy"
+    }
+  ]
+}

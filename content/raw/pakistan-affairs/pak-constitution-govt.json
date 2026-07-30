@@ -1,0 +1,1436 @@
+{
+  "subject": "pakistan-affairs",
+  "unit": "pak-constitution-govt",
+  "questions": [
+    {
+      "text": "The Objectives Resolution was passed by the Constituent Assembly of Pakistan on",
+      "options": [
+        "8 June 1962",
+        "12 March 1949",
+        "14 August 1947",
+        "23 March 1956"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Constituent Assembly adopted the Objectives Resolution on 12 March 1949, laying down the ideological basis of Pakistan's future constitutions.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Objectives Resolution was moved in the Constituent Assembly by",
+      "options": [
+        "Liaquat Ali Khan",
+        "Chaudhry Muhammad Ali",
+        "Khawaja Nazimuddin",
+        "Muhammad Ali Jinnah"
+      ],
+      "correctIndex": 0,
+      "explanation": "Prime Minister Liaquat Ali Khan introduced the Objectives Resolution in the Constituent Assembly in March 1949.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "According to the Objectives Resolution, sovereignty over the entire universe belongs to",
+      "options": [
+        "The Constituent Assembly",
+        "Allah Almighty",
+        "The Head of State",
+        "The people of Pakistan"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Resolution opens by declaring that sovereignty over the entire universe belongs to Allah Almighty alone, and authority is a sacred trust exercised by the people within His limits.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Objectives Resolution was made a substantive part of the Constitution by",
+      "options": [
+        "The Eighth Amendment",
+        "The Ninth Amendment",
+        "The Thirteenth Amendment",
+        "The Seventh Amendment"
+      ],
+      "correctIndex": 0,
+      "explanation": "Until 1985 the Objectives Resolution was only a preamble; the Eighth Amendment inserted it into the operative text of the Constitution.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "As a substantive part of the 1973 Constitution, the Objectives Resolution appears as",
+      "options": [
+        "Article 2A",
+        "Article 3A",
+        "Article 4A",
+        "Article 1A"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 2A gives the Objectives Resolution the status of a substantive provision of the Constitution.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "From 1947 until the first Constitution was framed, Pakistan was governed under an adapted version of the",
+      "options": [
+        "Indian Councils Act 1909",
+        "Government of India Act 1919",
+        "Government of India Act 1935",
+        "Pakistan Act 1950"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Government of India Act 1935, as adapted under the Indian Independence Act 1947, served as Pakistan's interim constitution until 1956.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The first Constituent Assembly of Pakistan was dissolved in 1954 by Governor-General",
+      "options": [
+        "Khawaja Nazimuddin",
+        "Muhammad Ali Bogra",
+        "Ghulam Muhammad",
+        "Iskander Mirza"
+      ],
+      "correctIndex": 2,
+      "explanation": "Governor-General Ghulam Muhammad dissolved the first Constituent Assembly in October 1954, a step challenged in the Maulvi Tamizuddin Khan case.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The One Unit scheme, merging the provinces of West Pakistan into a single unit, was introduced in",
+      "options": [
+        "1955",
+        "1958",
+        "1962",
+        "1953"
+      ],
+      "correctIndex": 0,
+      "explanation": "The One Unit was established in 1955, combining the provinces and states of West Pakistan into one administrative unit.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The first Constitution of Pakistan came into force on",
+      "options": [
+        "14 August 1973",
+        "14 August 1955",
+        "23 March 1956",
+        "8 June 1962"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1956 Constitution was enforced on 23 March 1956, the anniversary of the Pakistan Resolution.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Prime Minister of Pakistan when the 1956 Constitution was enforced was",
+      "options": [
+        "Chaudhry Muhammad Ali",
+        "Feroz Khan Noon",
+        "Huseyn Shaheed Suhrawardy",
+        "Muhammad Ali Bogra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chaudhry Muhammad Ali headed the government that framed and enforced the 1956 Constitution.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The first President of Pakistan under the 1956 Constitution was",
+      "options": [
+        "Fazal Ilahi Chaudhry",
+        "Ayub Khan",
+        "Ghulam Muhammad",
+        "Iskander Mirza"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iskander Mirza became the first President when the 1956 Constitution replaced the office of Governor-General.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The official title 'Islamic Republic of Pakistan' was adopted for the first time in the Constitution of",
+      "options": [
+        "1973",
+        "1985",
+        "1956",
+        "1962"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1956 Constitution formally named the country the Islamic Republic of Pakistan.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The 1956 Constitution of Pakistan was abrogated on",
+      "options": [
+        "25 March 1969",
+        "5 July 1977",
+        "7 October 1958",
+        "27 October 1958"
+      ],
+      "correctIndex": 2,
+      "explanation": "President Iskander Mirza abrogated the 1956 Constitution and imposed martial law on 7 October 1958.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The 1956 Constitution of Pakistan consisted of",
+      "options": [
+        "234 articles",
+        "250 articles",
+        "280 articles",
+        "198 articles"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pakistan's first Constitution contained 234 articles arranged in thirteen parts with six schedules.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Constitution Commission appointed in 1960 to recommend a new constitutional framework was headed by",
+      "options": [
+        "Justice A. R. Cornelius",
+        "Justice Muhammad Shahabuddin",
+        "Justice Hamoodur Rahman",
+        "Justice Muhammad Munir"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ayub Khan appointed a Constitution Commission in 1960 under Justice Muhammad Shahabuddin, whose report preceded the 1962 Constitution.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The second Constitution of Pakistan was promulgated on",
+      "options": [
+        "1 March 1962",
+        "8 June 1962",
+        "23 March 1962",
+        "14 August 1962"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1962 Constitution, framed under Ayub Khan, came into effect on 8 June 1962.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The form of government provided by the 1962 Constitution was",
+      "options": [
+        "Parliamentary",
+        "Presidential",
+        "Confederal",
+        "Collegiate"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1962 Constitution concentrated executive authority in a directly responsible President, replacing the parliamentary system of 1956.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under the 1962 Constitution the President was elected by an electoral college composed of",
+      "options": [
+        "All adult citizens",
+        "Members of the National Assembly",
+        "Basic Democrats",
+        "Provincial Governors"
+      ],
+      "correctIndex": 2,
+      "explanation": "The elected members of the Basic Democracies system formed the electoral college for the presidency and the legislatures under the 1962 Constitution.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The 1962 Constitution was abrogated in 1969 by",
+      "options": [
+        "Zulfikar Ali Bhutto",
+        "Zia-ul-Haq",
+        "Ayub Khan",
+        "Yahya Khan"
+      ],
+      "correctIndex": 3,
+      "explanation": "General Yahya Khan abrogated the 1962 Constitution and imposed martial law in March 1969 after Ayub Khan handed over power.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The National Assembly passed the 1973 Constitution on",
+      "options": [
+        "10 April 1973",
+        "12 May 1973",
+        "14 August 1973",
+        "20 October 1972"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Constitution Bill was approved by the National Assembly on 10 April 1973 and enforced later that year.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The 1973 Constitution of Pakistan came into force on",
+      "options": [
+        "14 August 1973",
+        "1 January 1974",
+        "23 March 1973",
+        "10 April 1973"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 1973 Constitution became operative on 14 August 1973, when Zulfikar Ali Bhutto took office as Prime Minister.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The first Prime Minister under the 1973 Constitution was",
+      "options": [
+        "Muhammad Khan Junejo",
+        "Nurul Amin",
+        "Chaudhry Muhammad Ali",
+        "Zulfikar Ali Bhutto"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zulfikar Ali Bhutto assumed the office of Prime Minister when the 1973 Constitution took effect.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The first President under the 1973 Constitution was",
+      "options": [
+        "Fazal Ilahi Chaudhry",
+        "Ghulam Ishaq Khan",
+        "Zia-ul-Haq",
+        "Zulfikar Ali Bhutto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fazal Ilahi Chaudhry held the largely ceremonial presidency created by the 1973 Constitution.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The 1973 Constitution of Pakistan contains",
+      "options": [
+        "250 articles",
+        "280 articles",
+        "320 articles",
+        "234 articles"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1973 Constitution is arranged in twelve parts containing 280 articles.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "A bicameral legislature at the centre was provided for the first time by the Constitution of",
+      "options": [
+        "1985",
+        "1956",
+        "1962",
+        "1973"
+      ],
+      "correctIndex": 3,
+      "explanation": "The 1973 Constitution created the Senate alongside the National Assembly; the 1956 and 1962 constitutions had single chambers.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under Article 2 of the 1973 Constitution, the state religion of Pakistan is",
+      "options": [
+        "Islam",
+        "Determined by Parliament",
+        "Left to each province",
+        "Not specified"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 2 declares that Islam shall be the State religion of Pakistan.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Abrogating or subverting the Constitution amounts to high treason under",
+      "options": [
+        "Article 8",
+        "Article 12",
+        "Article 4",
+        "Article 6"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 6 declares any act of abrogating, subverting or suspending the Constitution by force to be high treason.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Fundamental Rights in the 1973 Constitution are contained in Articles",
+      "options": [
+        "8 to 28",
+        "29 to 40",
+        "41 to 60",
+        "1 to 7"
+      ],
+      "correctIndex": 0,
+      "explanation": "Part II Chapter 1 of the Constitution sets out Fundamental Rights in Articles 8 to 28.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The right to a fair trial and due process was inserted into the Constitution as",
+      "options": [
+        "Article 10A",
+        "Article 12A",
+        "Article 14A",
+        "Article 9A"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 10A, added by the Eighteenth Amendment in 2010, guarantees the right to a fair trial and due process.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Freedom of association and the right to form political parties are guaranteed by",
+      "options": [
+        "Article 18",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 17 protects freedom of association, including the right of citizens to form or be members of political parties.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Freedom of speech and expression is guaranteed by which article of the 1973 Constitution?",
+      "options": [
+        "Article 17",
+        "Article 19",
+        "Article 25",
+        "Article 27"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 19 guarantees freedom of speech and expression subject to reasonable restrictions imposed by law.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The right to information in matters of public importance is provided by",
+      "options": [
+        "Article 18A",
+        "Article 19A",
+        "Article 20A",
+        "Article 24A"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 19A, inserted by the Eighteenth Amendment, gives every citizen the right to have access to information in all matters of public importance.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Equality of all citizens before law is guaranteed by",
+      "options": [
+        "Article 24",
+        "Article 25",
+        "Article 26",
+        "Article 23"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 25 declares all citizens equal before law and entitled to equal protection of law.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Free and compulsory education for children aged five to sixteen years is guaranteed by",
+      "options": [
+        "Article 25A",
+        "Article 26A",
+        "Article 27A",
+        "Article 24A"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 25A, added by the Eighteenth Amendment, obliges the State to provide free and compulsory education to children aged five to sixteen.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Which article requires all existing laws to be brought into conformity with the injunctions of Islam as laid down in the Quran and Sunnah?",
+      "options": [
+        "Article 260",
+        "Article 203",
+        "Article 227",
+        "Article 230"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 227 requires existing laws to conform to Islamic injunctions and bars enactment of any law repugnant to them.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Council of Islamic Ideology is constituted under which article of the 1973 Constitution?",
+      "options": [
+        "Article 227",
+        "Article 228",
+        "Article 231",
+        "Article 203"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 228 provides for the constitution of the Council of Islamic Ideology and the appointment of its members.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under Article 251 of the Constitution, the national language of Pakistan is",
+      "options": [
+        "Urdu",
+        "English",
+        "Urdu and English jointly",
+        "Determined by each province"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 251 declares Urdu the national language and required arrangements for its use for official purposes within fifteen years of the commencing day.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Defection by a member of Parliament from his political party is dealt with under",
+      "options": [
+        "Article 62",
+        "Article 63A",
+        "Article 64",
+        "Article 66"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 63A allows the party head to declare a defecting member for disqualification, with the matter decided by the Election Commission and appealable to the Supreme Court.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "A bill to amend the Constitution must be passed by the votes of not less than",
+      "options": [
+        "Two-thirds of the total membership of each House",
+        "Three-fourths of the total membership of each House",
+        "Two-thirds of a joint sitting only",
+        "A simple majority of members present in each House"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 239 requires a constitutional amendment bill to be passed by two-thirds of the total membership of each House of Parliament.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The minimum age prescribed for a person to be elected President of Pakistan is",
+      "options": [
+        "35 years",
+        "40 years",
+        "45 years",
+        "50 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 41 requires the President to be a Muslim of not less than forty-five years of age who is qualified to be elected a member of the National Assembly.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The term of office of the President of Pakistan is",
+      "options": [
+        "Four years",
+        "Five years",
+        "Six years",
+        "Three years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 44 fixes the President's term at five years from the day he enters upon office.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The President of Pakistan is elected by an electoral college consisting of",
+      "options": [
+        "Members of the National Assembly only",
+        "Members of both Houses of Parliament only",
+        "Members of both Houses of Parliament and the Provincial Assemblies",
+        "All registered voters of Pakistan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 41 provides that the President is elected by members of the Senate, the National Assembly and the four Provincial Assemblies.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The President may be removed through impeachment by a resolution passed by",
+      "options": [
+        "Three-fourths of the National Assembly",
+        "Two-thirds of the Senate alone",
+        "A simple majority of a joint sitting",
+        "Two-thirds of the total membership of Parliament in a joint sitting"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 47 requires not less than two-thirds of the total membership of Parliament, voting in a joint sitting, to remove or impeach the President.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under Article 48 of the Constitution, the President shall generally act",
+      "options": [
+        "On and in accordance with the advice of the Cabinet or the Prime Minister",
+        "On the advice of the Chief Justice",
+        "On the advice of the Chairman of the Senate",
+        "In his own discretion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 48 binds the President to act on the advice of the Cabinet or the Prime Minister, except where the Constitution allows him to act in his discretion.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "An Ordinance promulgated by the President remains in force for",
+      "options": [
+        "30 days",
+        "60 days",
+        "120 days",
+        "180 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Under Article 89 an Ordinance stands repealed after 120 days unless extended once for a further 120 days by a resolution of the National Assembly.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "If the office of President becomes vacant, his functions are performed by the",
+      "options": [
+        "Chairman of the Senate",
+        "Chief Justice of Pakistan",
+        "Prime Minister",
+        "Speaker of the National Assembly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 49 provides that the Chairman of the Senate, or in his absence the Speaker of the National Assembly, acts as President until a new President is elected.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The total number of seats in the National Assembly of Pakistan after the Twenty-fifth Amendment is",
+      "options": [
+        "342",
+        "272",
+        "326",
+        "336"
+      ],
+      "correctIndex": 3,
+      "explanation": "The merger of FATA into Khyber Pakhtunkhwa reduced the National Assembly from 342 to 336 seats.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The number of seats reserved for women in the National Assembly is",
+      "options": [
+        "60",
+        "70",
+        "77",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 51 reserves sixty seats in the National Assembly for women, filled through proportional representation from party lists.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The number of seats reserved for non-Muslims in the National Assembly is",
+      "options": [
+        "8",
+        "10",
+        "14",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ten National Assembly seats are reserved for non-Muslims under Article 51.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The total membership of the Senate of Pakistan after the Twenty-fifth Amendment is",
+      "options": [
+        "104",
+        "87",
+        "96",
+        "100"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Twenty-fifth Amendment abolished the four Senate seats of FATA and reduced the House from 104 to 96 members.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The term of office of a member of the Senate of Pakistan is",
+      "options": [
+        "Five years",
+        "Six years",
+        "Three years",
+        "Four years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Senators are elected for six years, with half the House retiring every three years.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Each province is represented in the Senate of Pakistan by",
+      "options": [
+        "19 members",
+        "23 members",
+        "25 members",
+        "14 members"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each Provincial Assembly elects 23 senators, comprising 14 general, 4 women, 4 technocrats or ulema and 1 non-Muslim member.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The normal term of the National Assembly of Pakistan is",
+      "options": [
+        "Three years",
+        "Four years",
+        "Five years",
+        "Six years"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 52 fixes the National Assembly's term at five years from the day of its first sitting unless dissolved earlier.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The minimum age for election as a member of the National Assembly is",
+      "options": [
+        "30 years",
+        "35 years",
+        "21 years",
+        "25 years"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 62 requires a candidate for the National Assembly to be not less than twenty-five years of age.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The minimum voting age for elections to the National Assembly of Pakistan is",
+      "options": [
+        "18 years",
+        "20 years",
+        "21 years",
+        "16 years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Citizens of Pakistan who are not less than eighteen years of age and enrolled on the electoral roll may vote.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under the 1973 Constitution a money bill may originate only in the",
+      "options": [
+        "Joint sitting of Parliament",
+        "Senate",
+        "National Assembly",
+        "Council of Common Interests"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 73 provides that a money bill originates in the National Assembly; the Senate may only make recommendations on it.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under the 1973 Constitution, the office of Prime Minister of Pakistan can be held only by",
+      "options": [
+        "A member of the Senate",
+        "A person of at least forty-five years of age",
+        "A university graduate",
+        "A Muslim"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 91 requires that the Prime Minister be a Muslim, as does Article 41 for the President.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "A vote of no-confidence against the Prime Minister is provided for in",
+      "options": [
+        "Article 93",
+        "Article 95",
+        "Article 99",
+        "Article 91"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 95 lays down the procedure for a resolution of no-confidence against the Prime Minister in the National Assembly.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Prime Minister of Pakistan is elected by",
+      "options": [
+        "A majority of the total membership of the National Assembly",
+        "A joint sitting of Parliament",
+        "The President in his discretion",
+        "A majority of the members present in the National Assembly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 91 requires the Prime Minister to secure the votes of a majority of the total membership of the National Assembly.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under the Eighteenth Amendment, the total strength of the federal Cabinet including Ministers of State may not exceed",
+      "options": [
+        "15 per cent of the total membership of Parliament",
+        "20 per cent of the National Assembly",
+        "25 members",
+        "11 per cent of the total membership of Parliament"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 92 caps the federal Cabinet, including Ministers of State, at eleven per cent of the total membership of Parliament.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "A Proclamation of Emergency on account of war, external aggression or internal disturbance is issued under",
+      "options": [
+        "Article 232",
+        "Article 234",
+        "Article 235",
+        "Article 245"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 232 empowers the President to proclaim an emergency when the security of Pakistan is threatened by war, external aggression or internal disturbance beyond a province's control.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Command and control of the Armed Forces of Pakistan is dealt with in which article of the Constitution?",
+      "options": [
+        "Article 245",
+        "Article 199",
+        "Article 232",
+        "Article 243"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 243 vests control and command of the Armed Forces in the Federal Government and provides for the appointment of the services chiefs.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The writ jurisdiction of a High Court is derived from which article of the Constitution?",
+      "options": [
+        "Article 203",
+        "Article 184",
+        "Article 187",
+        "Article 199"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 199 empowers a High Court to issue writs for the enforcement of rights within its territorial jurisdiction.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The original jurisdiction of the Supreme Court in questions of public importance concerning fundamental rights arises under",
+      "options": [
+        "Article 186",
+        "Article 199(1)",
+        "Article 184(3)",
+        "Article 185(2)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 184(3) allows the Supreme Court to act where a question of public importance relating to the enforcement of fundamental rights is involved.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The advisory jurisdiction of the Supreme Court, exercised on a reference by the President, is contained in",
+      "options": [
+        "Article 188",
+        "Article 184",
+        "Article 185",
+        "Article 186"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 186 allows the President to refer a question of law of public importance to the Supreme Court for its opinion.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "A judge of the Supreme Court of Pakistan retires at the age of",
+      "options": [
+        "68 years",
+        "60 years",
+        "62 years",
+        "65 years"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 179 fixes the retirement age of a Supreme Court judge at sixty-five years.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Supreme Judicial Council of Pakistan is provided for in",
+      "options": [
+        "Article 212",
+        "Article 175A",
+        "Article 199",
+        "Article 209"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 209 establishes the Supreme Judicial Council to inquire into the capacity or conduct of judges of the superior courts.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Supreme Judicial Council consists of the Chief Justice of Pakistan,",
+      "options": [
+        "The Chief Justices of all High Courts",
+        "Two next most senior Supreme Court judges and two most senior High Court Chief Justices",
+        "The Attorney General and the Federal Law Minister",
+        "Four judges nominated by the President"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 209 composes the Council of the Chief Justice of Pakistan, the two next most senior judges of the Supreme Court and the two most senior Chief Justices of the High Courts.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Federal Shariat Court of Pakistan was established in",
+      "options": [
+        "1980",
+        "1985",
+        "1973",
+        "1977"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Federal Shariat Court was created in 1980 to examine whether laws are repugnant to the injunctions of Islam.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Judicial Commission of Pakistan for the appointment of superior court judges was created by inserting",
+      "options": [
+        "Article 175A",
+        "Article 176A",
+        "Article 177A",
+        "Article 209A"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 175A, inserted by the Eighteenth Amendment, established the Judicial Commission and the Parliamentary Committee for judicial appointments.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The permanent seat of the Supreme Court of Pakistan is at",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Rawalpindi"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Constitution places the seat of the Supreme Court at Islamabad, with registries in the provincial capitals.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Council of Common Interests is constituted under which article of the 1973 Constitution?",
+      "options": [
+        "Article 160",
+        "Article 151",
+        "Article 153",
+        "Article 156"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 153 provides for the constitution of the Council of Common Interests by the President.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Council of Common Interests is chaired by the",
+      "options": [
+        "Chairman of the Senate",
+        "Federal Minister for Inter-Provincial Coordination",
+        "President",
+        "Prime Minister"
+      ],
+      "correctIndex": 3,
+      "explanation": "Since the Eighteenth Amendment the Prime Minister is the chairman of the Council of Common Interests.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Council of Common Interests consists of how many members in total?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Council has eight members: the Prime Minister as chairman, the four Chief Ministers and three members of the Federal Government nominated by the Prime Minister.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Constitution requires the Council of Common Interests to meet at least once in every",
+      "options": [
+        "180 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 154 obliges the Council of Common Interests to meet at least once in ninety days.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under the Constitution the Council of Common Interests is responsible to",
+      "options": [
+        "Parliament",
+        "The Supreme Court",
+        "The President",
+        "The Prime Minister"
+      ],
+      "correctIndex": 0,
+      "explanation": "Article 154 makes the Council of Common Interests responsible to Majlis-e-Shoora (Parliament), to which it submits an annual report.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "A complaint by a province about interference with its water supplies is referred under Article 155 to the",
+      "options": [
+        "Indus River System Authority",
+        "Supreme Court",
+        "Council of Common Interests",
+        "National Economic Council"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 155 provides that such a complaint is made to the Council of Common Interests, which may appoint a commission to investigate it.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The National Economic Council under Article 156 of the Constitution is headed by the",
+      "options": [
+        "Governor of the State Bank",
+        "President",
+        "Prime Minister",
+        "Finance Minister"
+      ],
+      "correctIndex": 2,
+      "explanation": "Since the Eighteenth Amendment the Prime Minister chairs the National Economic Council, which reviews the overall economic condition of the country.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under Article 160 the National Finance Commission must be constituted at intervals not exceeding",
+      "options": [
+        "Four years",
+        "Five years",
+        "Ten years",
+        "Three years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 160 requires the President to constitute a National Finance Commission at intervals not exceeding five years.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The National Finance Commission is chaired by the",
+      "options": [
+        "Chairman of the Planning Commission",
+        "Prime Minister",
+        "Federal Minister for Finance",
+        "Governor of the State Bank of Pakistan"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Federal Minister for Finance heads the National Finance Commission, whose other members include the provincial finance ministers.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under the Seventh National Finance Commission Award the provincial share in the divisible pool was raised to",
+      "options": [
+        "47.5 per cent",
+        "50 per cent",
+        "57.5 per cent",
+        "62.5 per cent"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Seventh NFC Award increased the provinces' share of the divisible pool to 57.5 per cent from the second year of the award.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "In the Seventh NFC Award the weight assigned to population in the horizontal distribution among provinces was",
+      "options": [
+        "100 per cent",
+        "82 per cent",
+        "70 per cent",
+        "50 per cent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Seventh NFC Award used multiple criteria for the first time, giving population 82 per cent weight alongside poverty, revenue generation and inverse population density.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Eighteenth Amendment added a clause to Article 160 providing that a province's share in each NFC award shall not be",
+      "options": [
+        "Subject to federal approval",
+        "Revised for ten years",
+        "Less than its share in the previous award",
+        "More than its population share"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 160(3A) guarantees that the share of the provinces in each successive award shall not be less than that given in the previous award.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under Article 161 the net proceeds of the excise duty on natural gas and the royalty on crude oil are paid to",
+      "options": [
+        "The Council of Common Interests",
+        "The National Economic Council",
+        "The Federal Government",
+        "The province in which the well-head is situated"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 161 assigns these proceeds to the province in which the well-head of natural gas or crude oil is located.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under Article 172(3), inserted by the Eighteenth Amendment, mineral oil and natural gas within a province vest",
+      "options": [
+        "Solely in the Federal Government",
+        "Solely in the province",
+        "Jointly and equally in the province and the Federal Government",
+        "In the Council of Common Interests"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 172(3) gives the province concerned and the Federal Government joint and equal ownership of mineral oil and natural gas within the province.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Chief Election Commissioner of Pakistan is appointed by the",
+      "options": [
+        "Chairman of the Senate",
+        "President",
+        "Prime Minister",
+        "Chief Justice of Pakistan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 213 provides that the Chief Election Commissioner is appointed by the President following the consultation procedure laid down in the Constitution.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Election Commission of Pakistan consists of the Chief Election Commissioner and",
+      "options": [
+        "Six members",
+        "Two members",
+        "Three members",
+        "Four members"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 218 composes the Commission of the Chief Election Commissioner as chairman and four members, one from each province.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The term of office of the Chief Election Commissioner of Pakistan is",
+      "options": [
+        "Five years",
+        "Six years",
+        "Three years",
+        "Four years"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Eighteenth Amendment fixed the Chief Election Commissioner's term at five years.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "A general election must be held within how many days of the expiry of the National Assembly's term?",
+      "options": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "120 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 224 requires a general election within sixty days of the natural expiry of the Assembly's term.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Detailed constitutional provisions for the appointment of caretaker governments were introduced by the",
+      "options": [
+        "Eighteenth Amendment",
+        "Twentieth Amendment",
+        "Twenty-second Amendment",
+        "Seventeenth Amendment"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Twentieth Amendment of 2012 laid down the procedure for appointing caretaker Prime Ministers and Chief Ministers in consultation with the opposition.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under Article 226 of the Constitution all elections are held by secret ballot except the election of the",
+      "options": [
+        "Senate Chairman and Deputy Chairman",
+        "President and Governors",
+        "Prime Minister and Chief Ministers",
+        "Speaker and Deputy Speaker"
+      ],
+      "correctIndex": 2,
+      "explanation": "Article 226 exempts the elections of the Prime Minister and the Chief Ministers from the requirement of a secret ballot.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "Which article of the Constitution obliges each province to establish a local government system and devolve authority to elected local representatives?",
+      "options": [
+        "Article 137",
+        "Article 140A",
+        "Article 147",
+        "Article 129"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 140A requires every province to establish a local government system and devolve political, administrative and financial responsibility to elected representatives.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Under the Eighteenth Amendment, elections to local governments in Pakistan are to be held by the",
+      "options": [
+        "High Courts",
+        "Provincial governments",
+        "Election Commission of Pakistan",
+        "Federal Government"
+      ],
+      "correctIndex": 2,
+      "explanation": "Clause (2) of Article 140A, added in 2010, assigns the conduct of local government elections to the Election Commission of Pakistan.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Governor of a province is appointed by the",
+      "options": [
+        "Provincial Assembly",
+        "President",
+        "Prime Minister",
+        "Chief Minister"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 101 provides that the President appoints the Governor of a province on the advice of the Prime Minister.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "A Chief Minister of a province is elected by",
+      "options": [
+        "The Governor in his discretion",
+        "A majority of members present in the Provincial Assembly",
+        "The Prime Minister on the Governor's advice",
+        "A majority of the total membership of the Provincial Assembly"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 130 requires the Chief Minister to be elected by the votes of a majority of the total membership of the Provincial Assembly.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "Where a provincial law is inconsistent with an Act of Parliament that Parliament is competent to enact, the Constitution provides that",
+      "options": [
+        "The provincial law prevails",
+        "The Act of Parliament prevails",
+        "The matter goes to the Council of Common Interests",
+        "Both are void"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 143 provides that the Act of Parliament prevails and the inconsistent provincial law is void to the extent of the inconsistency.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Auditor-General of Pakistan is appointed by the",
+      "options": [
+        "Prime Minister",
+        "Chief Justice of Pakistan",
+        "Public Accounts Committee",
+        "President"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 168 provides for the appointment of the Auditor-General of Pakistan by the President.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The power of the President to dissolve the National Assembly in his discretion under Article 58(2)(b) was introduced by the",
+      "options": [
+        "Twelfth Amendment",
+        "Seventeenth Amendment",
+        "Fifth Amendment",
+        "Eighth Amendment"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Eighth Amendment of 1985 inserted Article 58(2)(b), giving the President discretionary power to dissolve the National Assembly.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "Article 58(2)(b) was deleted from the Constitution in 1997 by the",
+      "options": [
+        "Thirteenth Amendment",
+        "Fourteenth Amendment",
+        "Fifteenth Amendment",
+        "Twelfth Amendment"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Thirteenth Amendment, passed in 1997, stripped the President of the discretionary power to dissolve the National Assembly.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Fourteenth Amendment of 1997 was primarily concerned with",
+      "options": [
+        "Provincial autonomy",
+        "Islamisation of laws",
+        "Disqualification of members on defection from their party",
+        "Creation of military courts"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Fourteenth Amendment introduced anti-defection provisions to prevent floor crossing by legislators.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Seventeenth Amendment, passed in 2003, is best known for",
+      "options": [
+        "Introducing the right to education",
+        "Abolishing the Concurrent List",
+        "Restoring the President's power to dissolve the National Assembly",
+        "Creating the Council of Common Interests"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Seventeenth Amendment revived Article 58(2)(b) and validated the Legal Framework Order issued during General Musharraf's rule.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Eighteenth Amendment to the Constitution of Pakistan was passed in",
+      "options": [
+        "2012",
+        "2014",
+        "2008",
+        "2010"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Eighteenth Amendment was approved by Parliament and assented to in April 2010.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Concurrent Legislative List was abolished by the",
+      "options": [
+        "Seventeenth Amendment",
+        "Eighteenth Amendment",
+        "Twentieth Amendment",
+        "Thirteenth Amendment"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Eighteenth Amendment deleted the Concurrent Legislative List, transferring its subjects to the provinces.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The North-West Frontier Province was renamed Khyber Pakhtunkhwa by the",
+      "options": [
+        "Twentieth Amendment",
+        "Twenty-fifth Amendment",
+        "Seventeenth Amendment",
+        "Eighteenth Amendment"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Eighteenth Amendment of 2010 changed the name of the North-West Frontier Province to Khyber Pakhtunkhwa.",
+      "difficulty": "EASY",
+      "topic": "constitution"
+    },
+    {
+      "text": "The parliamentary committee that drafted the Eighteenth Amendment was chaired by",
+      "options": [
+        "Aitzaz Ahsan",
+        "Farooq Naek",
+        "Nisar Ali Khan",
+        "Raza Rabbani"
+      ],
+      "correctIndex": 3,
+      "explanation": "Senator Mian Raza Rabbani headed the Parliamentary Committee on Constitutional Reforms that produced the Eighteenth Amendment.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Twenty-first Amendment to the Constitution was passed to",
+      "options": [
+        "Establish military courts for terrorism cases",
+        "Create the office of caretaker Prime Minister",
+        "Fix the tenure of the Chief Justice",
+        "Merge FATA into Khyber Pakhtunkhwa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Passed in January 2015 after the Peshawar school attack, the Twenty-first Amendment allowed military courts to try terrorism suspects.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Twenty-first Amendment contained a sunset clause under which it was to expire after",
+      "options": [
+        "Five years",
+        "One year",
+        "Two years",
+        "Three years"
+      ],
+      "correctIndex": 2,
+      "explanation": "The military courts created by the Twenty-first Amendment were given a life of two years from the date of commencement.",
+      "difficulty": "HARD",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Twenty-fifth Amendment to the Constitution of Pakistan provided for the",
+      "options": [
+        "Creation of the Council of Common Interests",
+        "Restoration of the parliamentary system",
+        "Abolition of the Concurrent List",
+        "Merger of FATA with Khyber Pakhtunkhwa"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Twenty-fifth Amendment of 2018 merged the Federally Administered Tribal Areas into Khyber Pakhtunkhwa and omitted Article 247.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Second Amendment to the 1973 Constitution, passed in 1974, dealt with",
+      "options": [
+        "The definition of a Muslim",
+        "Preventive detention",
+        "Election of the President",
+        "Recognition of Bangladesh"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Second Amendment amended Article 260 to define who is a Muslim, declaring Ahmadis to be non-Muslims for constitutional purposes.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    },
+    {
+      "text": "The Twenty-sixth Amendment of 2024 fixed the tenure of the Chief Justice of Pakistan at",
+      "options": [
+        "Two years",
+        "Three years",
+        "Four years",
+        "Five years"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Twenty-sixth Amendment limited the Chief Justice of Pakistan to a three-year term and provided for constitutional benches in the Supreme Court.",
+      "difficulty": "MEDIUM",
+      "topic": "constitution"
+    }
+  ]
+}

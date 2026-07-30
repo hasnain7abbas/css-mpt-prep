@@ -1,0 +1,1306 @@
+{
+  "subject": "general-science-ability",
+  "unit": "gsa-mental-ability",
+  "questions": [
+    {
+      "text": "Which one does not belong to the group: Punjab, Lahore, Karachi, Peshawar?",
+      "options": [
+        "Punjab",
+        "Lahore",
+        "Karachi",
+        "Peshawar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Karachi, Lahore and Peshawar are cities, while Punjab is a province.",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Iron, Copper, Bronze, Aluminium?",
+      "options": [
+        "Iron",
+        "Copper",
+        "Bronze",
+        "Aluminium"
+      ],
+      "correctIndex": 2,
+      "explanation": "Copper, iron and aluminium are pure metallic elements; bronze is an alloy of copper and tin.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Rose, Mango, Lily, Jasmine?",
+      "options": [
+        "Rose",
+        "Mango",
+        "Lily",
+        "Jasmine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rose, lily and jasmine are flowers; mango is a fruit.",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Eye, Ear, Nose, Lung?",
+      "options": [
+        "Eye",
+        "Ear",
+        "Nose",
+        "Lung"
+      ],
+      "correctIndex": 3,
+      "explanation": "Eye, ear and nose are sense organs; the lung is a respiratory organ.",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Sparrow, Emu, Ostrich, Kiwi?",
+      "options": [
+        "Sparrow",
+        "Emu",
+        "Ostrich",
+        "Kiwi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ostrich, emu and kiwi are flightless birds; the sparrow can fly.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Square, Rectangle, Triangle, Rhombus?",
+      "options": [
+        "Square",
+        "Rectangle",
+        "Triangle",
+        "Rhombus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Square, rectangle and rhombus have four sides; the triangle has three.",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Litre, Metre, Gallon, Pint?",
+      "options": [
+        "Litre",
+        "Metre",
+        "Gallon",
+        "Pint"
+      ],
+      "correctIndex": 1,
+      "explanation": "Litre, gallon and pint measure volume; the metre measures length.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Indus, Jhelum, Chenab, Karakoram?",
+      "options": [
+        "Indus",
+        "Jhelum",
+        "Chenab",
+        "Karakoram"
+      ],
+      "correctIndex": 3,
+      "explanation": "Indus, Jhelum and Chenab are rivers; Karakoram is a mountain range.",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Cotton, Wheat, Rice, Maize?",
+      "options": [
+        "Cotton",
+        "Wheat",
+        "Rice",
+        "Maize"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wheat, rice and maize are food grains; cotton is a fibre crop.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: April, June, August, September?",
+      "options": [
+        "April",
+        "June",
+        "August",
+        "September"
+      ],
+      "correctIndex": 2,
+      "explanation": "April, June and September have 30 days each; August has 31.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Mercury, Moon, Venus, Mars?",
+      "options": [
+        "Mercury",
+        "Moon",
+        "Venus",
+        "Mars"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mercury, Venus and Mars are planets; the Moon is a natural satellite.",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Hammer, Screwdriver, Saw, Nail?",
+      "options": [
+        "Hammer",
+        "Screwdriver",
+        "Saw",
+        "Nail"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hammer, saw and screwdriver are tools; a nail is a fastener worked on by tools.",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which one does not belong to the group: Sahara, Amazon, Nile, Danube?",
+      "options": [
+        "Sahara",
+        "Amazon",
+        "Nile",
+        "Danube"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nile, Amazon and Danube are rivers; the Sahara is a desert.",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which number does not belong to the group: 3, 5, 9, 7?",
+      "options": [
+        "3",
+        "5",
+        "9",
+        "7"
+      ],
+      "correctIndex": 2,
+      "explanation": "3, 5 and 7 are prime numbers, while 9 is composite (3 x 3).",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which number does not belong to the group: 8, 100, 27, 64?",
+      "options": [
+        "8",
+        "100",
+        "27",
+        "64"
+      ],
+      "correctIndex": 1,
+      "explanation": "8, 27 and 64 are perfect cubes of 2, 3 and 4; 100 is not a perfect cube.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which number does not belong to the group: 49, 64, 81, 80?",
+      "options": [
+        "49",
+        "64",
+        "81",
+        "80"
+      ],
+      "correctIndex": 3,
+      "explanation": "49, 64 and 81 are the squares of 7, 8 and 9; 80 is not a perfect square.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which number does not belong to the group: 21, 17, 13, 19?",
+      "options": [
+        "21",
+        "17",
+        "13",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "13, 17 and 19 are prime; 21 is divisible by 3 and 7.",
+      "difficulty": "EASY",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which number does not belong to the group: 15, 25, 42, 35?",
+      "options": [
+        "15",
+        "25",
+        "42",
+        "35"
+      ],
+      "correctIndex": 2,
+      "explanation": "15, 25 and 35 are multiples of 5; 42 is not.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which number does not belong to the group: 4, 20, 16, 8?",
+      "options": [
+        "4",
+        "20",
+        "16",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "4, 8 and 16 are powers of 2; 20 is not.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Which number does not belong to the group: 121, 144, 169, 180?",
+      "options": [
+        "121",
+        "144",
+        "169",
+        "180"
+      ],
+      "correctIndex": 3,
+      "explanation": "121, 144 and 169 are the squares of 11, 12 and 13; 180 is not a perfect square.",
+      "difficulty": "MEDIUM",
+      "topic": "odd-one-out"
+    },
+    {
+      "text": "Doctor is to Patient as Lawyer is to:",
+      "options": [
+        "Client",
+        "Judge",
+        "Court",
+        "Law"
+      ],
+      "correctIndex": 0,
+      "explanation": "A doctor renders professional service to a patient just as a lawyer does to a client.",
+      "difficulty": "EASY",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Pen is to Write as Knife is to:",
+      "options": [
+        "Metal",
+        "Sharp",
+        "Cut",
+        "Kitchen"
+      ],
+      "correctIndex": 2,
+      "explanation": "The pair links an instrument with its function: a pen is used to write, a knife to cut.",
+      "difficulty": "EASY",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Bird is to Nest as Bee is to:",
+      "options": [
+        "Honey",
+        "Hive",
+        "Flower",
+        "Sting"
+      ],
+      "correctIndex": 1,
+      "explanation": "The relation is creature to its dwelling: a bird lives in a nest, a bee in a hive.",
+      "difficulty": "EASY",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Foot is to Shoe as Hand is to:",
+      "options": [
+        "Finger",
+        "Ring",
+        "Watch",
+        "Glove"
+      ],
+      "correctIndex": 3,
+      "explanation": "A shoe is the covering worn on the foot, as a glove is the covering worn on the hand.",
+      "difficulty": "EASY",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Cat is to Kitten as Dog is to:",
+      "options": [
+        "Puppy",
+        "Cub",
+        "Foal",
+        "Calf"
+      ],
+      "correctIndex": 0,
+      "explanation": "The relation is adult to young: a young cat is a kitten and a young dog is a puppy.",
+      "difficulty": "EASY",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Teacher is to School as Judge is to:",
+      "options": [
+        "Law",
+        "Verdict",
+        "Court",
+        "Prison"
+      ],
+      "correctIndex": 2,
+      "explanation": "The relation is professional to workplace: a teacher works in a school, a judge in a court.",
+      "difficulty": "EASY",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Thermometer is to Temperature as Barometer is to:",
+      "options": [
+        "Humidity",
+        "Atmospheric pressure",
+        "Rainfall",
+        "Wind speed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each instrument is paired with what it measures; a barometer measures atmospheric pressure.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Island is to Water as Oasis is to:",
+      "options": [
+        "Well",
+        "Palm",
+        "Sand storm",
+        "Desert"
+      ],
+      "correctIndex": 3,
+      "explanation": "An island is land surrounded by water, and an oasis is a fertile patch surrounded by desert.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Sculptor is to Statue as Poet is to:",
+      "options": [
+        "Poem",
+        "Pen",
+        "Language",
+        "Reader"
+      ],
+      "correctIndex": 0,
+      "explanation": "The relation is maker to the work produced: a sculptor makes a statue, a poet composes a poem.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Circle is to Sphere as Square is to:",
+      "options": [
+        "Rectangle",
+        "Cylinder",
+        "Cube",
+        "Prism"
+      ],
+      "correctIndex": 2,
+      "explanation": "A sphere is the three-dimensional counterpart of a circle, and a cube is that of a square.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Carpenter is to Wood as Blacksmith is to:",
+      "options": [
+        "Anvil",
+        "Iron",
+        "Fire",
+        "Hammer"
+      ],
+      "correctIndex": 1,
+      "explanation": "The relation is craftsman to the material worked upon: a carpenter works with wood, a blacksmith with iron.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Ship is to Captain as Aeroplane is to:",
+      "options": [
+        "Runway",
+        "Passenger",
+        "Engineer",
+        "Pilot"
+      ],
+      "correctIndex": 3,
+      "explanation": "The relation is vehicle to the person who commands it; an aeroplane is flown by a pilot.",
+      "difficulty": "EASY",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Frog is to Amphibian as Snake is to:",
+      "options": [
+        "Reptile",
+        "Mammal",
+        "Insect",
+        "Rodent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The relation is animal to its class; the snake belongs to the class of reptiles.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Deaf is to Hearing as Blind is to:",
+      "options": [
+        "Speech",
+        "Touch",
+        "Sight",
+        "Smell"
+      ],
+      "correctIndex": 2,
+      "explanation": "A deaf person lacks hearing, and a blind person lacks sight.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Pakistan is to Islamabad as Turkey is to:",
+      "options": [
+        "Istanbul",
+        "Ankara",
+        "Izmir",
+        "Bursa"
+      ],
+      "correctIndex": 1,
+      "explanation": "The relation is country to capital; Ankara, not Istanbul, is the capital of Turkey.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Wheat is to Flour as Sugarcane is to:",
+      "options": [
+        "Sweet",
+        "Juice",
+        "Field",
+        "Sugar"
+      ],
+      "correctIndex": 3,
+      "explanation": "The relation is raw crop to the product processed from it; sugarcane yields sugar.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Novel is to Chapter as Poem is to:",
+      "options": [
+        "Stanza",
+        "Rhyme",
+        "Title",
+        "Metre"
+      ],
+      "correctIndex": 0,
+      "explanation": "A chapter is a division of a novel, as a stanza is a division of a poem.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Zoology is to Animals as Botany is to:",
+      "options": [
+        "Rocks",
+        "Fossils",
+        "Plants",
+        "Soil"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each branch of science is paired with its subject matter; botany is the study of plants.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Ornithology is to Birds as Entomology is to:",
+      "options": [
+        "Fishes",
+        "Insects",
+        "Reptiles",
+        "Bacteria"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ornithology is the study of birds and entomology is the study of insects.",
+      "difficulty": "HARD",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "Melting is to Liquid as Freezing is to:",
+      "options": [
+        "Gas",
+        "Plasma",
+        "Vapour",
+        "Solid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Melting produces a liquid, while freezing produces a solid.",
+      "difficulty": "MEDIUM",
+      "topic": "verbal-analogy"
+    },
+    {
+      "text": "If 3 : 10 and 5 : 26, then 7 : ?",
+      "options": [
+        "50",
+        "42",
+        "56",
+        "64"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each second term is the square of the first plus 1, so 7 gives 49 + 1 = 50.",
+      "difficulty": "HARD",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 2 : 5 and 4 : 9, then 6 : ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "15"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each second term is twice the first plus 1, so 6 gives 12 + 1 = 13.",
+      "difficulty": "EASY",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 3 : 12 and 5 : 30, then 7 : ?",
+      "options": [
+        "49",
+        "56",
+        "54",
+        "63"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each second term is the first multiplied by the next integer, so 7 gives 7 x 8 = 56.",
+      "difficulty": "HARD",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 2 : 7 and 3 : 13, then 4 : ?",
+      "options": [
+        "19",
+        "20",
+        "23",
+        "21"
+      ],
+      "correctIndex": 3,
+      "explanation": "The rule is n squared plus n plus 1, so 4 gives 16 + 4 + 1 = 21.",
+      "difficulty": "HARD",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 5 : 24 and 7 : 48, then 9 : ?",
+      "options": [
+        "80",
+        "78",
+        "72",
+        "90"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each second term is the square of the first minus 1, so 9 gives 81 - 1 = 80.",
+      "difficulty": "HARD",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 2 : 8 and 3 : 27, then 4 : ?",
+      "options": [
+        "32",
+        "48",
+        "64",
+        "60"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each second term is the cube of the first, so 4 gives 4 x 4 x 4 = 64.",
+      "difficulty": "MEDIUM",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 6 : 18 and 8 : 32, then 10 : ?",
+      "options": [
+        "40",
+        "50",
+        "45",
+        "60"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each second term is half the square of the first, so 10 gives 100 / 2 = 50.",
+      "difficulty": "HARD",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 9 : 3 and 25 : 5, then 64 : ?",
+      "options": [
+        "6",
+        "7",
+        "16",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each second term is the square root of the first, and the square root of 64 is 8.",
+      "difficulty": "MEDIUM",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 12 : 4 and 21 : 7, then 27 : ?",
+      "options": [
+        "9",
+        "8",
+        "6",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each second term is one third of the first, so 27 gives 27 / 3 = 9.",
+      "difficulty": "EASY",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 10 : 100 and 11 : 121, then 13 : ?",
+      "options": [
+        "143",
+        "156",
+        "169",
+        "196"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each second term is the square of the first, so 13 gives 13 x 13 = 169.",
+      "difficulty": "MEDIUM",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 4 : 13 and 6 : 19, then 9 : ?",
+      "options": [
+        "26",
+        "28",
+        "27",
+        "30"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each second term is three times the first plus 1, so 9 gives 27 + 1 = 28.",
+      "difficulty": "MEDIUM",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "If 1 : 4 and 2 : 9, then 4 : ?",
+      "options": [
+        "16",
+        "20",
+        "36",
+        "25"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each second term is the square of one more than the first, so 4 gives 5 x 5 = 25.",
+      "difficulty": "HARD",
+      "topic": "numerical-analogy"
+    },
+    {
+      "text": "Aeroplane, helicopter and glider form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Hot-air balloon",
+        "Submarine",
+        "Train",
+        "Ship"
+      ],
+      "correctIndex": 0,
+      "explanation": "All the given items are means of air transport, and a hot-air balloon also travels through the air.",
+      "difficulty": "MEDIUM",
+      "topic": "classification"
+    },
+    {
+      "text": "Copper, zinc and nickel form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Bronze",
+        "Brass",
+        "Cobalt",
+        "Steel"
+      ],
+      "correctIndex": 2,
+      "explanation": "The three named substances are pure metallic elements, and cobalt is also an element, whereas bronze, brass and steel are alloys.",
+      "difficulty": "HARD",
+      "topic": "classification"
+    },
+    {
+      "text": "Triangle, quadrilateral and pentagon form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Circle",
+        "Hexagon",
+        "Ellipse",
+        "Arc"
+      ],
+      "correctIndex": 1,
+      "explanation": "All three are polygons bounded by straight sides, and a hexagon is a six-sided polygon.",
+      "difficulty": "MEDIUM",
+      "topic": "classification"
+    },
+    {
+      "text": "Sparrow, crow and pigeon form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Bat",
+        "Butterfly",
+        "Squirrel",
+        "Parrot"
+      ],
+      "correctIndex": 3,
+      "explanation": "The three named creatures are birds, and the parrot is also a bird, while a bat and a squirrel are mammals and a butterfly is an insect.",
+      "difficulty": "EASY",
+      "topic": "classification"
+    },
+    {
+      "text": "Rupee, dollar and dinar form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Riyal",
+        "Bank",
+        "Cheque",
+        "Gold"
+      ],
+      "correctIndex": 0,
+      "explanation": "All three are currencies, and the riyal is likewise a currency.",
+      "difficulty": "MEDIUM",
+      "topic": "classification"
+    },
+    {
+      "text": "Kidney, liver and heart form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Blood",
+        "Plasma",
+        "Lung",
+        "Bone marrow"
+      ],
+      "correctIndex": 2,
+      "explanation": "The three named items are internal organs of the body, and the lung is also an organ.",
+      "difficulty": "MEDIUM",
+      "topic": "classification"
+    },
+    {
+      "text": "Mango, banana and apple form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Carrot",
+        "Guava",
+        "Potato",
+        "Cabbage"
+      ],
+      "correctIndex": 1,
+      "explanation": "The three named items are fruits, and guava is also a fruit while the others are vegetables.",
+      "difficulty": "EASY",
+      "topic": "classification"
+    },
+    {
+      "text": "Hydrogen, oxygen and nitrogen form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Water",
+        "Ammonia",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "correctIndex": 3,
+      "explanation": "The three named gases are chemical elements, and helium is also an element, whereas the other options are compounds.",
+      "difficulty": "MEDIUM",
+      "topic": "classification"
+    },
+    {
+      "text": "Square, rhombus and rectangle form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Trapezium",
+        "Triangle",
+        "Pentagon",
+        "Circle"
+      ],
+      "correctIndex": 0,
+      "explanation": "All three are four-sided figures, and a trapezium is also a quadrilateral.",
+      "difficulty": "MEDIUM",
+      "topic": "classification"
+    },
+    {
+      "text": "Poetry, drama and novel form one class. Which of the following belongs to the same class?",
+      "options": [
+        "Painting",
+        "Sculpture",
+        "Essay",
+        "Music"
+      ],
+      "correctIndex": 2,
+      "explanation": "The three named items are forms of literature, and the essay is also a literary form.",
+      "difficulty": "MEDIUM",
+      "topic": "classification"
+    },
+    {
+      "text": "Which pair of unit and quantity is correctly matched?",
+      "options": [
+        "Newton : Pressure",
+        "Watt : Power",
+        "Joule : Force",
+        "Pascal : Energy"
+      ],
+      "correctIndex": 1,
+      "explanation": "The watt is the SI unit of power; the newton measures force, the joule energy and the pascal pressure.",
+      "difficulty": "MEDIUM",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair of scientist and discovery is correctly matched?",
+      "options": [
+        "Isaac Newton : Radium",
+        "Marie Curie : Telephone",
+        "Charles Darwin : X-rays",
+        "Alexander Fleming : Penicillin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Alexander Fleming discovered penicillin in 1928; the other three pairings are false.",
+      "difficulty": "MEDIUM",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair of country and currency is correctly matched?",
+      "options": [
+        "Japan : Yen",
+        "China : Won",
+        "Bangladesh : Rupee",
+        "Iran : Dinar"
+      ],
+      "correctIndex": 0,
+      "explanation": "The currency of Japan is the yen; China uses the yuan, Bangladesh the taka and Iran the rial.",
+      "difficulty": "EASY",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair of animal and dwelling is correctly matched?",
+      "options": [
+        "Lion : Kennel",
+        "Bee : Burrow",
+        "Horse : Stable",
+        "Sparrow : Sty"
+      ],
+      "correctIndex": 2,
+      "explanation": "A horse is kept in a stable; a lion lives in a den, a bee in a hive and a sparrow in a nest.",
+      "difficulty": "EASY",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair of instrument and use is correctly matched?",
+      "options": [
+        "Seismograph : Measuring rainfall",
+        "Hygrometer : Measuring humidity",
+        "Lactometer : Measuring blood pressure",
+        "Barometer : Measuring wind speed"
+      ],
+      "correctIndex": 1,
+      "explanation": "A hygrometer measures humidity; a seismograph records earthquakes, a lactometer checks the purity of milk and a barometer measures atmospheric pressure.",
+      "difficulty": "HARD",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair of collective noun and group is correctly matched?",
+      "options": [
+        "Herd : Birds",
+        "Flock : Fish",
+        "Shoal : Cattle",
+        "Swarm : Bees"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bees move in a swarm; cattle form a herd, birds a flock and fish a shoal.",
+      "difficulty": "MEDIUM",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair of province and its capital is correctly matched?",
+      "options": [
+        "Balochistan : Quetta",
+        "Punjab : Multan",
+        "Sindh : Sukkur",
+        "Khyber Pakhtunkhwa : Abbottabad"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quetta is the provincial capital of Balochistan; the capitals of Sindh, Punjab and Khyber Pakhtunkhwa are Karachi, Lahore and Peshawar.",
+      "difficulty": "MEDIUM",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair of book and author is correctly matched?",
+      "options": [
+        "Shahnama : Hafiz",
+        "Gulistan : Rumi",
+        "Bang-e-Dara : Allama Iqbal",
+        "Masnavi : Ghalib"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bang-e-Dara is the Urdu poetry collection of Allama Iqbal; Gulistan is by Saadi, Shahnama by Firdausi and Masnavi by Rumi.",
+      "difficulty": "HARD",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair shows the same relationship as Cow : Calf?",
+      "options": [
+        "Dog : Kennel",
+        "Horse : Foal",
+        "Hen : Egg",
+        "Lion : Jungle"
+      ],
+      "correctIndex": 1,
+      "explanation": "The relationship is adult animal to its young; the young of a horse is a foal.",
+      "difficulty": "MEDIUM",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair shows the same relationship as Doctor : Stethoscope?",
+      "options": [
+        "Soldier : Barracks",
+        "Student : School",
+        "Painter : Gallery",
+        "Farmer : Plough"
+      ],
+      "correctIndex": 3,
+      "explanation": "The relationship is worker to the tool he uses; a farmer uses a plough, while the other options name places.",
+      "difficulty": "MEDIUM",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair shows the same relationship as Kilogram : Mass?",
+      "options": [
+        "Ampere : Electric current",
+        "Metre : Time",
+        "Second : Length",
+        "Litre : Weight"
+      ],
+      "correctIndex": 0,
+      "explanation": "The relationship is unit to the quantity it measures; the ampere measures electric current.",
+      "difficulty": "MEDIUM",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair shows the same relationship as Hot : Cold?",
+      "options": [
+        "Big : Huge",
+        "Happy : Joyful",
+        "Ancient : Modern",
+        "Rapid : Quick"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hot and cold are opposites, and only ancient and modern are opposites; the other pairs are synonyms.",
+      "difficulty": "EASY",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "Which pair shows the same relationship as Chapter : Book?",
+      "options": [
+        "Library : Book",
+        "Room : House",
+        "Forest : Tree",
+        "House : Brick"
+      ],
+      "correctIndex": 1,
+      "explanation": "A chapter is a part of a book, and a room is a part of a house; the other pairs place the whole before the part.",
+      "difficulty": "HARD",
+      "topic": "matching-pairs"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 4, 5, 20; Row 2 is 6, 3, 18; Row 3 is 7, 8, ?. What number replaces the question mark?",
+      "options": [
+        "15",
+        "48",
+        "63",
+        "56"
+      ],
+      "correctIndex": 3,
+      "explanation": "The third entry of each row is the product of the first two, so 7 x 8 = 56.",
+      "difficulty": "EASY",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 9, 4, 5; Row 2 is 12, 7, 5; Row 3 is 15, 6, ?. What number replaces the question mark?",
+      "options": [
+        "9",
+        "5",
+        "10",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "The third entry is the first minus the second, so 15 - 6 = 9.",
+      "difficulty": "MEDIUM",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 3, 5, 34; Row 2 is 4, 6, 52; Row 3 is 5, 7, ?. What number replaces the question mark?",
+      "options": [
+        "70",
+        "72",
+        "74",
+        "84"
+      ],
+      "correctIndex": 2,
+      "explanation": "The third entry is the sum of the squares of the first two, so 25 + 49 = 74.",
+      "difficulty": "HARD",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 6, 4, 20; Row 2 is 8, 3, 22; Row 3 is 9, 5, ?. What number replaces the question mark?",
+      "options": [
+        "14",
+        "28",
+        "24",
+        "45"
+      ],
+      "correctIndex": 1,
+      "explanation": "The third entry is twice the sum of the first two, so 2 x (9 + 5) = 28.",
+      "difficulty": "HARD",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 5, 4, 15; Row 2 is 6, 3, 12; Row 3 is 7, 5, ?. What number replaces the question mark?",
+      "options": [
+        "42",
+        "30",
+        "35",
+        "28"
+      ],
+      "correctIndex": 3,
+      "explanation": "The third entry is the product of the first two minus the first number, so 35 - 7 = 28.",
+      "difficulty": "HARD",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 8, 4, 6; Row 2 is 10, 6, 8; Row 3 is 14, 8, ?. What number replaces the question mark?",
+      "options": [
+        "11",
+        "10",
+        "6",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "The third entry is the average of the first two, so (14 + 8) / 2 = 11.",
+      "difficulty": "HARD",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In a 3 by 3 grid every row adds up to the same total: Row 1 is 8, 1, 6; Row 2 is 3, 5, 7; Row 3 is 4, 9, ?. What number replaces the question mark?",
+      "options": [
+        "5",
+        "3",
+        "2",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each row totals 15, and 15 - 4 - 9 = 2.",
+      "difficulty": "EASY",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every column follows the same rule: Column 1 is 5, 4, 21; Column 2 is 7, 9, 40; Column 3 is 8, 14, ?. What number replaces the question mark?",
+      "options": [
+        "42",
+        "50",
+        "56",
+        "78"
+      ],
+      "correctIndex": 1,
+      "explanation": "The third entry is the square of the first minus the second, so 64 - 14 = 50.",
+      "difficulty": "HARD",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 2, 3, 11; Row 2 is 4, 5, 29; Row 3 is 3, 6, ?. What number replaces the question mark?",
+      "options": [
+        "18",
+        "24",
+        "45",
+        "27"
+      ],
+      "correctIndex": 3,
+      "explanation": "The third entry is the product of the first two plus their sum, so 18 + 9 = 27.",
+      "difficulty": "HARD",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 18, 3, 6; Row 2 is 28, 4, 7; Row 3 is 45, 5, ?. What number replaces the question mark?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "The third entry is the first divided by the second, so 45 / 5 = 9.",
+      "difficulty": "MEDIUM",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 7, 2, 45; Row 2 is 9, 4, 65; Row 3 is 10, 6, ?. What number replaces the question mark?",
+      "options": [
+        "56",
+        "60",
+        "64",
+        "76"
+      ],
+      "correctIndex": 2,
+      "explanation": "The third entry is the square of the first minus the square of the second, so 100 - 36 = 64.",
+      "difficulty": "HARD",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below every row follows the same rule: Row 1 is 2, 4, 8; Row 2 is 3, 9, 27; Row 3 is 4, 16, ?. What number replaces the question mark?",
+      "options": [
+        "32",
+        "64",
+        "48",
+        "81"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each row gives a number, its square and its cube, so the missing entry is 4 cubed, that is 64.",
+      "difficulty": "MEDIUM",
+      "topic": "missing-number"
+    },
+    {
+      "text": "In the table below the middle number of each row is the average of the outer two: Row 1 is 4, 7, 10; Row 2 is 6, 11, 16; Row 3 is 9, ?, 21. What number replaces the question mark?",
+      "options": [
+        "12",
+        "14",
+        "18",
+        "15"
+      ],
+      "correctIndex": 3,
+      "explanation": "The average of 9 and 21 is (9 + 21) / 2 = 15.",
+      "difficulty": "MEDIUM",
+      "topic": "missing-number"
+    },
+    {
+      "text": "A table records a shop's sales as Monday 120 units, Tuesday 150 units, Wednesday 90 units and Thursday 160 units. What is the average number of units sold per day?",
+      "options": [
+        "130",
+        "125",
+        "120",
+        "140"
+      ],
+      "correctIndex": 0,
+      "explanation": "The total is 520 units over four days, and 520 divided by 4 is 130.",
+      "difficulty": "EASY",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A student's marks, each out of 100, are Urdu 72, English 65, Mathematics 88 and Science 75. What is his average percentage?",
+      "options": [
+        "72",
+        "74",
+        "75",
+        "78"
+      ],
+      "correctIndex": 2,
+      "explanation": "The marks total 300 out of 400, so the average is 300 divided by 4, that is 75 per cent.",
+      "difficulty": "MEDIUM",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A college enrolment table shows Arts 250 students, Science 400 students and Commerce 150 students. What percentage of the total enrolment is in Science?",
+      "options": [
+        "40 per cent",
+        "50 per cent",
+        "45 per cent",
+        "55 per cent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The total enrolment is 800, and 400 out of 800 is 50 per cent.",
+      "difficulty": "MEDIUM",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A monthly budget table shows rent Rs 12,000, food Rs 9,000, transport Rs 3,000 and other items Rs 6,000. What fraction of the total expenditure is spent on food?",
+      "options": [
+        "1/5",
+        "1/4",
+        "1/3",
+        "3/10"
+      ],
+      "correctIndex": 3,
+      "explanation": "The total expenditure is Rs 30,000, and 9,000 out of 30,000 equals 3/10.",
+      "difficulty": "MEDIUM",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A rainfall table shows January 25 mm, February 40 mm, March 15 mm and April 60 mm. What is the difference between the highest and the lowest monthly rainfall?",
+      "options": [
+        "45 mm",
+        "40 mm",
+        "35 mm",
+        "50 mm"
+      ],
+      "correctIndex": 0,
+      "explanation": "The highest is 60 mm in April and the lowest 15 mm in March, and 60 - 15 = 45 mm.",
+      "difficulty": "EASY",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A table shows that a town's population was 50,000 in 2010 and 65,000 in 2020. What was the percentage increase over the decade?",
+      "options": [
+        "15 per cent",
+        "23 per cent",
+        "30 per cent",
+        "35 per cent"
+      ],
+      "correctIndex": 2,
+      "explanation": "The rise is 15,000 on a base of 50,000, and 15,000 divided by 50,000 is 30 per cent.",
+      "difficulty": "HARD",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A table of test marks out of 50 shows Ali 35, Bilal 42, Sara 28 and Hina 45. How many of the four scored more than 60 per cent?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sixty per cent of 50 is 30 marks, and Ali, Bilal and Hina all scored above 30.",
+      "difficulty": "HARD",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A production table shows unit A made 240 items and unit B made 180 items. What is the ratio of unit A's output to unit B's output?",
+      "options": [
+        "3 : 2",
+        "4 : 3",
+        "5 : 4",
+        "6 : 5"
+      ],
+      "correctIndex": 1,
+      "explanation": "The ratio 240 to 180 reduces to 4 : 3 after dividing both numbers by 60.",
+      "difficulty": "MEDIUM",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A table of daily maximum temperatures gives 30, 34, 28, 36 and 32 degrees Celsius for five days. What is the average daily maximum temperature?",
+      "options": [
+        "30 degrees",
+        "31 degrees",
+        "33 degrees",
+        "32 degrees"
+      ],
+      "correctIndex": 3,
+      "explanation": "The five readings total 160 degrees, and 160 divided by 5 is 32 degrees.",
+      "difficulty": "EASY",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A library table shows books issued as Monday 45, Tuesday 60, Wednesday 35, Thursday 50 and Friday 60. On how many days were more than 45 books issued?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tuesday, Thursday and Friday exceed 45 books, so the answer is three days.",
+      "difficulty": "MEDIUM",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A profit table shows Rs 8 lakh in 2019, Rs 6 lakh in 2020, Rs 10 lakh in 2021 and Rs 12 lakh in 2022. In which year did profit fall compared with the previous year?",
+      "options": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correctIndex": 1,
+      "explanation": "Profit dropped from Rs 8 lakh in 2019 to Rs 6 lakh in 2020, the only year showing a decrease.",
+      "difficulty": "EASY",
+      "topic": "data-interpretation"
+    },
+    {
+      "text": "A staff table shows production 120 employees, sales 90, administration 60 and others 30. Sales staff form what percentage of the total staff?",
+      "options": [
+        "25 per cent",
+        "40 per cent",
+        "35 per cent",
+        "30 per cent"
+      ],
+      "correctIndex": 3,
+      "explanation": "The total staff is 300, and 90 out of 300 is 30 per cent.",
+      "difficulty": "MEDIUM",
+      "topic": "data-interpretation"
+    }
+  ]
+}

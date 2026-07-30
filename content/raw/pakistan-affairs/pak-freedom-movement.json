@@ -1,0 +1,1436 @@
+{
+  "subject": "pakistan-affairs",
+  "unit": "pak-freedom-movement",
+  "questions": [
+    {
+      "text": "In which year did Sir Syed Ahmad Khan die?",
+      "options": [
+        "1888",
+        "1893",
+        "1898",
+        "1902"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sir Syed died on 27 March 1898 at Aligarh and was buried beside the mosque of the college he had founded.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Muhammadan Anglo-Oriental College at Aligarh was established in which year?",
+      "options": [
+        "1863",
+        "1870",
+        "1875",
+        "1886"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sir Syed opened the school at Aligarh in 1875, which was raised to the status of a college in 1877.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Which book did Sir Syed Ahmad Khan write to explain the causes of the 1857 uprising?",
+      "options": [
+        "Loyal Muhammadans of India",
+        "Asbab-e-Baghawat-e-Hind",
+        "Khutbat-e-Ahmadiyya",
+        "Athar-us-Sanadid"
+      ],
+      "correctIndex": 1,
+      "explanation": "In Asbab-e-Baghawat-e-Hind Sir Syed argued that British ignorance of Indian feeling, not Muslim disloyalty, had caused the revolt.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Sir Syed Ahmad Khan launched the magazine Tahzib-ul-Akhlaq in which year?",
+      "options": [
+        "1864",
+        "1870",
+        "1877",
+        "1886"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tahzib-ul-Akhlaq was started in 1870 to promote social and intellectual reform among Indian Muslims.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Sir Syed Ahmad Khan founded the Scientific Society in 1864 at which place?",
+      "options": [
+        "Aligarh",
+        "Ghazipur",
+        "Delhi",
+        "Bijnaur"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Scientific Society was established at Ghazipur in 1864 to translate Western works on science into Urdu, and was later moved to Aligarh.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Urdu-Hindi controversy of 1867, which deepened Sir Syed's belief in Muslim separateness, began in which city?",
+      "options": [
+        "Banaras",
+        "Allahabad",
+        "Lucknow",
+        "Patna"
+      ],
+      "correctIndex": 0,
+      "explanation": "A movement at Banaras in 1867 demanded that Hindi in Devanagari script replace Urdu in the courts, convincing Sir Syed that Hindus and Muslims could not remain one nation.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Muhammadan Educational Conference was founded by Sir Syed Ahmad Khan in which year?",
+      "options": [
+        "1870",
+        "1875",
+        "1880",
+        "1886"
+      ],
+      "correctIndex": 3,
+      "explanation": "Founded in 1886, the Muhammadan Educational Conference met annually across India to spread modern education among Muslims and later provided the platform on which the Muslim League was formed.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Which Viceroy ordered the partition of Bengal in 1905?",
+      "options": [
+        "Lord Ripon",
+        "Lord Curzon",
+        "Lord Minto",
+        "Lord Hardinge"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lord Curzon carried out the partition of Bengal on administrative grounds, dividing a province that was too large to govern effectively.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The partition of Bengal took effect on 16 October of which year?",
+      "options": [
+        "1903",
+        "1905",
+        "1906",
+        "1911"
+      ],
+      "correctIndex": 1,
+      "explanation": "The partition became effective on 16 October 1905, a day observed by Hindu opponents as a day of mourning.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "What was the capital of the new province of Eastern Bengal and Assam created in 1905?",
+      "options": [
+        "Calcutta",
+        "Dacca",
+        "Chittagong",
+        "Shillong"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dacca became the capital of Eastern Bengal and Assam, giving the Muslim-majority east its own administrative centre.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "In which year was the partition of Bengal annulled?",
+      "options": [
+        "1908",
+        "1909",
+        "1911",
+        "1916"
+      ],
+      "correctIndex": 2,
+      "explanation": "The partition was reversed in 1911 in the face of sustained Hindu agitation, which convinced Muslims that British assurances were unreliable.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Which Muslim leader of Dacca was the strongest supporter of the partition of Bengal?",
+      "options": [
+        "Nawab Mohsin-ul-Mulk",
+        "Syed Ameer Ali",
+        "Nawab Viqar-ul-Mulk",
+        "Nawab Salimullah Khan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nawab Salimullah Khan of Dacca championed the partition because it gave the Muslims of eastern Bengal an administration of their own.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Simla Deputation waited upon the Viceroy on 1 October of which year?",
+      "options": [
+        "1905",
+        "1906",
+        "1907",
+        "1909"
+      ],
+      "correctIndex": 1,
+      "explanation": "The deputation of Muslim notables met the Viceroy at Simla on 1 October 1906, three months before the Muslim League was founded.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who led the Simla Deputation of 1906?",
+      "options": [
+        "Nawab Salimullah Khan",
+        "Sir Aga Khan III",
+        "Nawab Mohsin-ul-Mulk",
+        "Syed Ameer Ali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sir Aga Khan III headed the deputation and read the address presented to the Viceroy.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "How many members made up the Simla Deputation of 1906?",
+      "options": [
+        "25",
+        "35",
+        "45",
+        "70"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thirty-five Muslim leaders drawn from all provinces of India formed the deputation that met Lord Minto.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The central demand of the Simla Deputation was for",
+      "options": [
+        "separate electorates for Muslims",
+        "the partition of Bengal",
+        "Urdu as the official language of India",
+        "the abolition of the zamindari system"
+      ],
+      "correctIndex": 0,
+      "explanation": "The deputation asked that Muslims be given separate electorates and weightage in representation because of their political importance, a demand conceded in 1909.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The All India Muslim League was founded on 30 December of which year?",
+      "options": [
+        "1885",
+        "1906",
+        "1913",
+        "1916"
+      ],
+      "correctIndex": 1,
+      "explanation": "The League was founded on 30 December 1906 during the annual session of the Muhammadan Educational Conference.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "In which city was the All India Muslim League founded?",
+      "options": [
+        "Lucknow",
+        "Aligarh",
+        "Dacca",
+        "Delhi"
+      ],
+      "correctIndex": 2,
+      "explanation": "The League was founded at Dacca, where the Muhammadan Educational Conference was holding its annual session.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who was the first President of the All India Muslim League?",
+      "options": [
+        "Nawab Viqar-ul-Mulk",
+        "Syed Ameer Ali",
+        "Sir Aga Khan III",
+        "Nawab Salimullah Khan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sir Aga Khan III was chosen as the first President of the League and held the office until 1912.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The London branch of the All India Muslim League was established in 1908 by",
+      "options": [
+        "Sir Aga Khan III",
+        "Syed Ameer Ali",
+        "Muhammad Ali Jinnah",
+        "Maulana Shaukat Ali"
+      ],
+      "correctIndex": 1,
+      "explanation": "Syed Ameer Ali set up the League's London branch in 1908 to present the Muslim case before British opinion.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Muhammad Ali Jinnah formally joined the All India Muslim League in which year?",
+      "options": [
+        "1906",
+        "1910",
+        "1913",
+        "1916"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jinnah joined the League in 1913 after it adopted self-government as its aim, while retaining his Congress membership for some years.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Muhammad Ali Jinnah was born on 25 December of which year?",
+      "options": [
+        "1872",
+        "1874",
+        "1876",
+        "1878"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jinnah was born at Karachi on 25 December 1876.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Jinnah was first elected to the Imperial Legislative Council in 1910 as a Muslim member from",
+      "options": [
+        "Bombay",
+        "Bengal",
+        "Madras",
+        "Punjab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jinnah entered the Imperial Legislative Council in 1910 as the Muslim member for Bombay.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Which measure did Jinnah pilot through the Imperial Legislative Council in 1913 to protect Muslim family endowments?",
+      "options": [
+        "The Wakf Alal Aulad Act",
+        "The Rowlatt Act",
+        "The Indian Councils Act",
+        "The Press Act"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jinnah secured passage of the Mussalman Wakf Validating Act, commonly called the Wakf Alal Aulad Act, restoring the legality of family endowments.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Lucknow Pact was concluded in which year?",
+      "options": [
+        "1913",
+        "1916",
+        "1919",
+        "1920"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Congress and the Muslim League concluded the Lucknow Pact in December 1916 on a joint scheme of constitutional reform.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Under the Lucknow Pact the Indian National Congress for the first time accepted",
+      "options": [
+        "the partition of India",
+        "separate electorates for Muslims",
+        "Urdu as the national language",
+        "the demand for complete independence"
+      ],
+      "correctIndex": 1,
+      "explanation": "The chief Muslim gain from the Lucknow Pact was Congress recognition of separate electorates and of weightage for Muslims in minority provinces.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who gave Jinnah the title 'Ambassador of Hindu-Muslim Unity'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Sarojini Naidu",
+        "Motilal Nehru",
+        "Gopal Krishna Gokhale"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sarojini Naidu described Jinnah as the Ambassador of Hindu-Muslim Unity for his role in bringing about the Lucknow Pact.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who ordered the firing at Jallianwala Bagh?",
+      "options": [
+        "General Reginald Dyer",
+        "Lord Chelmsford",
+        "Sir John Simon",
+        "General Roberts"
+      ],
+      "correctIndex": 0,
+      "explanation": "Brigadier-General Reginald Dyer commanded the troops that fired on the crowd at Jallianwala Bagh.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Montagu-Chelmsford Reforms of 1919 introduced which system in the provinces?",
+      "options": [
+        "Dyarchy",
+        "Provincial autonomy",
+        "Separate electorates",
+        "Adult franchise"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Government of India Act 1919 introduced dyarchy, dividing provincial subjects into reserved and transferred halves.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Khilafat Movement was launched in which year?",
+      "options": [
+        "1911",
+        "1919",
+        "1920",
+        "1924"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Khilafat Movement began in 1919 to defend the Ottoman Caliphate after the Turkish defeat in the First World War.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The All India Khilafat Committee was formed in 1919 in which city?",
+      "options": [
+        "Bombay",
+        "Delhi",
+        "Lucknow",
+        "Calcutta"
+      ],
+      "correctIndex": 0,
+      "explanation": "The All India Khilafat Committee was set up at Bombay in 1919 to organise the movement and raise funds for it.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The 'Ali Brothers' of the Khilafat Movement were",
+      "options": [
+        "Zafar Ali Khan and Shaukat Ali",
+        "Muhammad Ali Jauhar and Zafar Ali Khan",
+        "Muhammad Ali Jauhar and Shaukat Ali",
+        "Shaukat Ali and Syed Ameer Ali"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maulana Muhammad Ali Jauhar and Maulana Shaukat Ali led the Khilafat agitation and were known as the Ali Brothers.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Hijrat Movement of 1920 involved the migration of Indian Muslims to",
+      "options": [
+        "Turkey",
+        "Hijaz",
+        "Iran",
+        "Afghanistan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thousands of Muslims left for Afghanistan in 1920 after India was declared dar-ul-harb, but the migration ended in hardship and failure.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The newspaper 'Al-Hilal' was launched in 1912 by",
+      "options": [
+        "Maulana Abul Kalam Azad",
+        "Maulana Muhammad Ali Jauhar",
+        "Maulana Zafar Ali Khan",
+        "Allama Shibli Nomani"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maulana Abul Kalam Azad brought out Al-Hilal from Calcutta in 1912, giving Urdu journalism a militant anti-British tone.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Simon Commission was appointed by the British government in which year?",
+      "options": [
+        "1919",
+        "1927",
+        "1928",
+        "1930"
+      ],
+      "correctIndex": 1,
+      "explanation": "The commission was appointed in 1927 to review the working of the 1919 reforms and reached India in 1928.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Indian parties boycotted the Simon Commission chiefly because",
+      "options": [
+        "it contained no Indian member",
+        "it recommended the partition of India",
+        "it proposed to abolish separate electorates",
+        "it was headed by a serving general"
+      ],
+      "correctIndex": 0,
+      "explanation": "All seven members of the commission were British, which Indians of every party resented as a denial of their fitness to shape their own constitution.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The committee that produced the Nehru Report of 1928 was chaired by",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Tej Bahadur Sapru",
+        "Motilal Nehru"
+      ],
+      "correctIndex": 3,
+      "explanation": "Motilal Nehru chaired the committee appointed by the All Parties Conference to draft a constitution for India.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "On the question of representation, the Nehru Report recommended",
+      "options": [
+        "separate electorates",
+        "reservation of half the seats for Muslims",
+        "nomination of minority members",
+        "joint electorates"
+      ],
+      "correctIndex": 3,
+      "explanation": "The report proposed joint electorates with reservation in some cases, which Muslims saw as the withdrawal of the safeguard granted in 1909 and confirmed in 1916.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Jinnah presented his Fourteen Points in which year?",
+      "options": [
+        "1927",
+        "1928",
+        "1929",
+        "1930"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jinnah placed the Fourteen Points before the Muslim League in March 1929 as the Muslim answer to the Nehru Report.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "One of Jinnah's Fourteen Points demanded that Muslim representation in the central legislature should not be less than",
+      "options": [
+        "one-fourth",
+        "one-third",
+        "two-fifths",
+        "one-half"
+      ],
+      "correctIndex": 1,
+      "explanation": "The points required that Muslims be given not less than one-third of the seats in the central legislature.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Delhi Muslim Proposals were put forward by Jinnah in which year?",
+      "options": [
+        "1925",
+        "1927",
+        "1928",
+        "1929"
+      ],
+      "correctIndex": 1,
+      "explanation": "In 1927 Jinnah offered to give up separate electorates in return for stated safeguards, an offer set aside after the Nehru Report.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Allama Iqbal delivered his famous Allahabad Address in which year?",
+      "options": [
+        "1928",
+        "1929",
+        "1930",
+        "1931"
+      ],
+      "correctIndex": 2,
+      "explanation": "Iqbal delivered the address in December 1930, outlining the idea of a consolidated Muslim state in north-western India.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "In the Allahabad Address Iqbal proposed the amalgamation of which areas into a single state?",
+      "options": [
+        "Punjab, North-West Frontier Province, Sindh and Balochistan",
+        "Punjab, Bengal, Sindh and Assam",
+        "Kashmir, Punjab, Bengal and Bihar",
+        "Sindh, Bengal, Bihar and Balochistan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Iqbal called for the Punjab, the North-West Frontier Province, Sindh and Balochistan to be amalgamated into a single state.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Allama Iqbal died on",
+      "options": [
+        "21 April 1936",
+        "21 April 1938",
+        "11 September 1938",
+        "9 November 1938"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iqbal died at Lahore on 21 April 1938, nine years before the state he had envisaged came into being.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Allama Iqbal obtained his doctorate from a university in which city?",
+      "options": [
+        "Cambridge",
+        "Berlin",
+        "Heidelberg",
+        "Munich"
+      ],
+      "correctIndex": 3,
+      "explanation": "Iqbal took his doctorate from the University of Munich in 1908 with a thesis on the development of metaphysics in Persia.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Allama Iqbal was knighted in which year?",
+      "options": [
+        "1918",
+        "1922",
+        "1927",
+        "1930"
+      ],
+      "correctIndex": 1,
+      "explanation": "Iqbal received a knighthood in 1922 in recognition of his poetry and scholarship.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Which party boycotted the First Round Table Conference of 1930-31?",
+      "options": [
+        "The Muslim League",
+        "The Sikh League",
+        "The Hindu Mahasabha",
+        "The Indian National Congress"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Congress stayed away from the First Round Table Conference because its leaders were in jail during the civil disobedience movement.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Gandhi personally attended which Round Table Conference?",
+      "options": [
+        "The first",
+        "The second",
+        "The third",
+        "None of the three"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gandhi attended only the Second Round Table Conference of 1931 as the sole representative of the Congress.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Gandhi's participation in the Second Round Table Conference followed which agreement?",
+      "options": [
+        "The Lucknow Pact",
+        "The Sikandar-Jinnah Pact",
+        "The Poona Pact",
+        "The Gandhi-Irwin Pact"
+      ],
+      "correctIndex": 3,
+      "explanation": "Under the Gandhi-Irwin Pact of March 1931 civil disobedience was suspended and the Congress agreed to attend the conference.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Third Round Table Conference was held in which year?",
+      "options": [
+        "1931",
+        "1932",
+        "1933",
+        "1934"
+      ],
+      "correctIndex": 1,
+      "explanation": "The third and last conference met in London late in 1932 and was attended by only a small number of delegates.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Communal Award of 1932 was announced by the British Prime Minister",
+      "options": [
+        "Ramsay MacDonald",
+        "Stanley Baldwin",
+        "Neville Chamberlain",
+        "Clement Attlee"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ramsay MacDonald announced the Communal Award in August 1932 after the Round Table Conferences failed to reach a communal settlement.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The name 'Pakistan' was coined by",
+      "options": [
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Muhammad Ali Jinnah",
+        "Chaudhry Rahmat Ali"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chaudhry Rahmat Ali coined the name in 1933 in a pamphlet issued from Cambridge.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Chaudhry Rahmat Ali's pamphlet of 1933 in which the name Pakistan first appeared was titled",
+      "options": [
+        "Now or Never",
+        "The Indian Musalmans",
+        "The Cambridge Declaration",
+        "The Muslim Nation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pamphlet Now or Never, issued on 28 January 1933, first used the word Pakistan for the Muslim homeland in north-western India.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Government of India Act 1935 introduced which system in the provinces?",
+      "options": [
+        "Provincial autonomy",
+        "Dyarchy",
+        "Direct rule by governors",
+        "Nomination of ministers by the Viceroy"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Act of 1935 abolished provincial dyarchy and gave the provinces autonomy under ministers responsible to elected legislatures.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Under the constitutional changes of the mid-1930s, Sindh was made a separate province by separating it from",
+      "options": [
+        "the Punjab",
+        "the Madras Presidency",
+        "Balochistan",
+        "the Bombay Presidency"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sindh, long a part of the Bombay Presidency, became a separate province in 1936 under the Government of India Act 1935.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Muslim League observed the 'Day of Deliverance' on 22 December of which year?",
+      "options": [
+        "1937",
+        "1938",
+        "1939",
+        "1940"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jinnah called for a Day of Deliverance on 22 December 1939 after the Congress ministries resigned.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Pirpur Report of 1938 dealt with",
+      "options": [
+        "Muslim grievances under the Congress ministries",
+        "the demarcation of the Punjab boundary",
+        "educational reform at Aligarh",
+        "the economic condition of Bengal"
+      ],
+      "correctIndex": 0,
+      "explanation": "The committee headed by Raja Syed Muhammad Mehdi of Pirpur inquired into Muslim complaints against the Congress provincial governments.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Sikandar-Jinnah Pact was concluded in which year?",
+      "options": [
+        "1935",
+        "1937",
+        "1940",
+        "1944"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sir Sikandar Hayat Khan agreed in 1937 that Muslim members of his Unionist Party would join the Muslim League, greatly strengthening it in the Punjab.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "A. K. Fazlul Haq was popularly known as",
+      "options": [
+        "Sher-e-Bengal",
+        "Shaheed-e-Millat",
+        "Baba-e-Qaum",
+        "Quaid-e-Millat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fazlul Haq, Premier of Bengal, was called Sher-e-Bengal, the Lion of Bengal.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Jinnah returned permanently from England to India to reorganise the Muslim League in",
+      "options": [
+        "1930",
+        "1932",
+        "1934",
+        "1937"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jinnah gave up his London practice and returned in 1934, when he was elected permanent president of the Muslim League.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Liaquat Ali Khan became Honorary General Secretary of the All India Muslim League in",
+      "options": [
+        "1930",
+        "1936",
+        "1940",
+        "1946"
+      ],
+      "correctIndex": 1,
+      "explanation": "Liaquat Ali Khan was elected general secretary in 1936 and held the office until independence.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Lahore Resolution was passed on",
+      "options": [
+        "23 March 1940",
+        "26 March 1940",
+        "14 August 1940",
+        "23 March 1941"
+      ],
+      "correctIndex": 0,
+      "explanation": "The resolution was adopted on 23 March 1940 on the concluding day of the League's Lahore session.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Lahore Resolution of 1940 was moved by",
+      "options": [
+        "Chaudhry Khaliquzzaman",
+        "Sir Sikandar Hayat Khan",
+        "Liaquat Ali Khan",
+        "A. K. Fazlul Haq"
+      ],
+      "correctIndex": 3,
+      "explanation": "A. K. Fazlul Haq, then Premier of Bengal, moved the resolution before the Lahore session.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Lahore session of the Muslim League in March 1940 was presided over by",
+      "options": [
+        "A. K. Fazlul Haq",
+        "Allama Iqbal",
+        "Muhammad Ali Jinnah",
+        "Liaquat Ali Khan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jinnah presided over the Lahore session and in his address set out the case that Muslims were a nation by every definition.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Lahore Resolution was passed at which ground in Lahore?",
+      "options": [
+        "Minto Park",
+        "Shalimar Gardens",
+        "Bagh-e-Jinnah",
+        "Mochi Gate Gardens"
+      ],
+      "correctIndex": 0,
+      "explanation": "The session was held at Minto Park, now Iqbal Park, where the Minar-e-Pakistan later marked the spot.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Delhi Convention of Muslim League legislators in April 1946 amended the Lahore Resolution to demand",
+      "options": [
+        "two separate independent states",
+        "dominion status within the British Empire",
+        "a federation with India at the centre",
+        "a single independent state of Pakistan"
+      ],
+      "correctIndex": 3,
+      "explanation": "The 1946 convention replaced the wording about independent states with the demand for one sovereign state of Pakistan comprising the Muslim-majority zones.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Which was the first provincial legislature in British India to pass a resolution in favour of Pakistan?",
+      "options": [
+        "The Punjab Assembly",
+        "The North-West Frontier Province Assembly",
+        "The Bengal Assembly",
+        "The Sindh Assembly"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Sindh Legislative Assembly was the first to adopt a resolution supporting the demand for Pakistan.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Cripps Mission came to India in which year?",
+      "options": [
+        "1940",
+        "1942",
+        "1944",
+        "1945"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sir Stafford Cripps arrived in March 1942 with proposals meant to secure Indian support for the war effort.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who described the Cripps proposals as 'a post-dated cheque'?",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Maulana Abul Kalam Azad",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gandhi dismissed the offer of dominion status after the war as a post-dated cheque, because nothing was to be conceded immediately.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Quit India Movement was launched in August of which year?",
+      "options": [
+        "1940",
+        "1941",
+        "1942",
+        "1943"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Congress passed the Quit India resolution in August 1942, after which its leadership was imprisoned for the rest of the war.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The C. R. Formula of 1944 was an attempt to settle the deadlock between",
+      "options": [
+        "the British government and the Congress",
+        "the Congress and the princely states",
+        "the Muslim League and the Sikhs",
+        "the Congress and the Muslim League"
+      ],
+      "correctIndex": 3,
+      "explanation": "C. Rajagopalachari's formula offered a plebiscite in the Muslim-majority districts in return for League cooperation, and formed the basis of the Gandhi-Jinnah talks.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Gandhi-Jinnah talks of September 1944 were held in which city?",
+      "options": [
+        "Delhi",
+        "Bombay",
+        "Simla",
+        "Lahore"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gandhi met Jinnah at Jinnah's Bombay residence in September 1944, but the talks broke down over the definition of Pakistan.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Simla Conference of 1945 was convened by which Viceroy?",
+      "options": [
+        "Lord Linlithgow",
+        "Lord Willingdon",
+        "Lord Mountbatten",
+        "Lord Wavell"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lord Wavell called the Simla Conference in June 1945 to form a new Executive Council of Indian members.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Simla Conference of 1945 failed mainly because of a disagreement over",
+      "options": [
+        "the Muslim League's claim to nominate all Muslim members of the Executive Council",
+        "the date of British withdrawal from India",
+        "the future of the princely states",
+        "the partition of the Punjab"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jinnah insisted that the League alone could nominate the Muslim members, a claim the Congress refused to accept, and the conference collapsed.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "In the elections to the Central Legislative Assembly held in 1945-46, the Muslim League won",
+      "options": [
+        "twenty of the thirty Muslim seats",
+        "half of the Muslim seats",
+        "twenty-five of the thirty Muslim seats",
+        "all thirty Muslim seats"
+      ],
+      "correctIndex": 3,
+      "explanation": "The League captured every one of the thirty Muslim seats in the central assembly, establishing its claim to speak for Indian Muslims.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who was the Viceroy of India when the Lahore Resolution was passed?",
+      "options": [
+        "Lord Willingdon",
+        "Lord Mountbatten",
+        "Lord Wavell",
+        "Lord Linlithgow"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lord Linlithgow was Viceroy from 1936 to 1943 and therefore held office in March 1940.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Cabinet Mission reached India in which month and year?",
+      "options": [
+        "March 1946",
+        "May 1946",
+        "June 1946",
+        "August 1946"
+      ],
+      "correctIndex": 0,
+      "explanation": "The three British ministers arrived in India in March 1946 to negotiate the transfer of power.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Cabinet Mission of 1946 was headed by",
+      "options": [
+        "Sir Stafford Cripps",
+        "Lord Wavell",
+        "A. V. Alexander",
+        "Lord Pethick-Lawrence"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lord Pethick-Lawrence, the Secretary of State for India, led the mission as its senior member.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Cabinet Mission Plan was announced on",
+      "options": [
+        "16 May 1946",
+        "3 June 1946",
+        "16 August 1946",
+        "20 February 1947"
+      ],
+      "correctIndex": 0,
+      "explanation": "The mission published its own plan on 16 May 1946 after the Simla talks between the Congress and the League failed.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Into how many groups or sections did the Cabinet Mission Plan divide the provinces of British India?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctIndex": 1,
+      "explanation": "The plan placed the provinces in three sections, labelled A, B and C, within a loose federation.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Under the Cabinet Mission Plan, Group B was to consist of",
+      "options": [
+        "Bengal and Assam",
+        "Bombay, Madras and the United Provinces",
+        "the Punjab, the North-West Frontier Province and Sindh",
+        "Sindh and Balochistan only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Group B comprised the Muslim-majority provinces of the north-west, while Group C contained Bengal and Assam.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Muslim League observed Direct Action Day on",
+      "options": [
+        "16 May 1946",
+        "3 June 1946",
+        "14 August 1946",
+        "16 August 1946"
+      ],
+      "correctIndex": 3,
+      "explanation": "Direct Action Day was observed on 16 August 1946 and was followed by severe rioting in Calcutta.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Muslim League called Direct Action Day after withdrawing its acceptance of",
+      "options": [
+        "the Cabinet Mission Plan",
+        "the Nehru Report",
+        "the Cripps proposals",
+        "the Wavell Plan"
+      ],
+      "correctIndex": 0,
+      "explanation": "The League withdrew its acceptance of the Cabinet Mission Plan when the Congress placed its own interpretation on the grouping clauses.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Interim Government took office on 2 September of which year?",
+      "options": [
+        "1944",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Interim Government headed by Jawaharlal Nehru was sworn in on 2 September 1946, and the Muslim League joined it in October.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Which portfolio did Liaquat Ali Khan hold in the Interim Government of 1946?",
+      "options": [
+        "Defence",
+        "Foreign Affairs",
+        "Finance",
+        "Commerce"
+      ],
+      "correctIndex": 2,
+      "explanation": "Liaquat Ali Khan took charge of Finance and used the department to demonstrate the League's weight within the Interim Government.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Prime Minister Attlee announced Britain's intention to transfer power in India by June 1948 on",
+      "options": [
+        "20 February 1947",
+        "3 June 1947",
+        "18 July 1947",
+        "15 August 1947"
+      ],
+      "correctIndex": 0,
+      "explanation": "Attlee's statement of 20 February 1947 fixed a deadline for withdrawal and announced the appointment of a new Viceroy.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who was the last Viceroy of British India?",
+      "options": [
+        "Lord Wavell",
+        "Lord Chelmsford",
+        "Lord Linlithgow",
+        "Lord Mountbatten"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lord Mountbatten succeeded Lord Wavell in March 1947 and presided over the transfer of power.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The plan for the partition of India announced on 3 June 1947 is also known as the",
+      "options": [
+        "Wavell Plan",
+        "Cripps Plan",
+        "Mountbatten Plan",
+        "Attlee Plan"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 3 June Plan, drawn up under Lord Mountbatten, provided the scheme by which British India was divided.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Under the 3 June Plan a referendum was to be held in the North-West Frontier Province and in",
+      "options": [
+        "the state of Kalat",
+        "the state of Junagadh",
+        "the province of Sindh",
+        "the district of Sylhet"
+      ],
+      "correctIndex": 3,
+      "explanation": "Referendums were prescribed for the North-West Frontier Province and for the Sylhet district of Assam.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The referendum in the North-West Frontier Province was held in which month of 1947?",
+      "options": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "correctIndex": 2,
+      "explanation": "The referendum took place in July 1947 and returned a large majority in favour of joining Pakistan, though the Khudai Khidmatgars boycotted it.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The 1947 referendum in Sylhet resulted in the district joining",
+      "options": [
+        "Pakistan",
+        "Assam within India",
+        "India",
+        "Burma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sylhet voted to leave Assam and join East Bengal, and so became part of Pakistan.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The decision of British Balochistan to join Pakistan in 1947 was taken by",
+      "options": [
+        "a general referendum of voters",
+        "the Balochistan Legislative Assembly",
+        "the Governor-General's proclamation",
+        "the Shahi Jirga at Quetta"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Shahi Jirga of Quetta, together with the non-official members of the Quetta municipality, voted in June 1947 for accession to Pakistan.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Indian Independence Act received the royal assent on",
+      "options": [
+        "3 June 1947",
+        "4 July 1947",
+        "18 July 1947",
+        "14 August 1947"
+      ],
+      "correctIndex": 2,
+      "explanation": "The British Parliament passed the Indian Independence Act, which received the royal assent on 18 July 1947.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who was appointed chairman of the Punjab and Bengal Boundary Commissions?",
+      "options": [
+        "Sir Cyril Radcliffe",
+        "Sir Stafford Cripps",
+        "Lord Mountbatten",
+        "Sir John Simon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sir Cyril Radcliffe chaired both boundary commissions, and the resulting line bears his name.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Radcliffe Award was made public on",
+      "options": [
+        "14 August 1947",
+        "15 August 1947",
+        "17 August 1947",
+        "20 August 1947"
+      ],
+      "correctIndex": 2,
+      "explanation": "The boundary award was published on 17 August 1947, three days after Pakistan came into being.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Apart from its chairman, each Boundary Commission of 1947 consisted of how many members?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each commission had four members, two nominated by the Congress and two by the Muslim League, so the chairman's casting voice decided every disputed point.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Which Muslim-majority district was controversially awarded to India by the Radcliffe Award?",
+      "options": [
+        "Gurdaspur",
+        "Sialkot",
+        "Jhang",
+        "Multan"
+      ],
+      "correctIndex": 0,
+      "explanation": "Most of Gurdaspur district went to India despite its Muslim majority, giving India a land route to Kashmir.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Pakistan came into being on",
+      "options": [
+        "23 March 1947",
+        "11 August 1947",
+        "14 August 1947",
+        "15 August 1947"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pakistan's independence was celebrated on 14 August 1947, the day the transfer of power took effect for the new dominion.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Jinnah took the oath as the first Governor-General of Pakistan on",
+      "options": [
+        "23 March 1947",
+        "11 August 1947",
+        "15 August 1947",
+        "14 September 1947"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jinnah was sworn in as Governor-General on 15 August 1947, the day after the independence celebrations.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who was elected the first President of the Constituent Assembly of Pakistan?",
+      "options": [
+        "Liaquat Ali Khan",
+        "Jogendra Nath Mandal",
+        "Muhammad Ali Jinnah",
+        "Maulvi Tamizuddin Khan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jinnah was elected President of the Constituent Assembly on 11 August 1947 and delivered his celebrated address on that occasion.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "In his address to the Constituent Assembly on 11 August 1947 Jinnah stressed",
+      "options": [
+        "freedom of religion for every citizen of the new state",
+        "the nationalisation of industry",
+        "the abolition of the princely states",
+        "the recovery of Kashmir by force"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jinnah told the Assembly that every citizen was free to go to his temple or mosque and that religion had nothing to do with the business of the state.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Darul Uloom at Deoband was founded in 1866 by",
+      "options": [
+        "Maulana Ashraf Ali Thanvi",
+        "Maulana Shibli Nomani",
+        "Maulana Muhammad Qasim Nanautvi",
+        "Maulana Abul Kalam Azad"
+      ],
+      "correctIndex": 2,
+      "explanation": "Maulana Muhammad Qasim Nanautvi established the seminary at Deoband in 1866 to preserve traditional Islamic learning after 1857.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Nadwatul Ulema was established in 1894 at",
+      "options": [
+        "Deoband",
+        "Delhi",
+        "Aligarh",
+        "Lucknow"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Nadwatul Ulema was founded at Lucknow with the aim of combining religious learning with modern subjects.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Anjuman-i-Himayat-i-Islam was founded in 1884 in which city?",
+      "options": [
+        "Lahore",
+        "Amritsar",
+        "Delhi",
+        "Aligarh"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Anjuman-i-Himayat-i-Islam was set up at Lahore to promote education among Muslims and to counter missionary activity.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Faraizi Movement in Bengal was founded by",
+      "options": [
+        "Titu Mir",
+        "Shah Waliullah",
+        "Syed Ahmad Barelvi",
+        "Haji Shariatullah"
+      ],
+      "correctIndex": 3,
+      "explanation": "Haji Shariatullah began the Faraizi Movement in Bengal to make Muslims observe the obligatory duties of Islam and to resist landlord oppression.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Syed Ahmad Barelvi was killed in 1831 in the battle of",
+      "options": [
+        "Balakot",
+        "Panipat",
+        "Plassey",
+        "Chillianwala"
+      ],
+      "correctIndex": 0,
+      "explanation": "Syed Ahmad Barelvi and Shah Ismail Shaheed fell at Balakot in 1831 fighting the Sikh forces.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Indian National Congress was founded in 1885 with the help of",
+      "options": [
+        "W. C. Bonnerjee",
+        "Lord Curzon",
+        "A. O. Hume",
+        "Sir Syed Ahmad Khan"
+      ],
+      "correctIndex": 2,
+      "explanation": "Allan Octavian Hume, a retired British civil servant, took the leading part in organising the Congress in 1885.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Khudai Khidmatgar movement was founded by",
+      "options": [
+        "Dr Khan Sahib",
+        "Amir Muhammad Khan",
+        "Abdul Qayyum Khan",
+        "Khan Abdul Ghaffar Khan"
+      ],
+      "correctIndex": 3,
+      "explanation": "Khan Abdul Ghaffar Khan organised the Khudai Khidmatgars, known as the Red Shirts, in the North-West Frontier Province and allied them with the Congress.",
+      "difficulty": "EASY",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "Who was the first Muslim to preside over a session of the Indian National Congress?",
+      "options": [
+        "Syed Ameer Ali",
+        "Hakim Ajmal Khan",
+        "Badruddin Tyabji",
+        "Maulana Abul Kalam Azad"
+      ],
+      "correctIndex": 2,
+      "explanation": "Badruddin Tyabji presided over the Congress session of 1887 at Madras, the first Muslim to hold that office.",
+      "difficulty": "HARD",
+      "topic": "freedom-movement"
+    },
+    {
+      "text": "The Khaksar Movement was founded by",
+      "options": [
+        "Allama Shibli Nomani",
+        "Maulana Zafar Ali Khan",
+        "Maulana Hasrat Mohani",
+        "Allama Inayatullah Khan Mashriqi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Allama Inayatullah Khan Mashriqi founded the Khaksar Movement, whose members drilled with spades as a symbol of service and discipline.",
+      "difficulty": "MEDIUM",
+      "topic": "freedom-movement"
+    }
+  ]
+}

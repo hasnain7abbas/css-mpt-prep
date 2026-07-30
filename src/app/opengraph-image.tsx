@@ -1,6 +1,7 @@
 import { ImageResponse } from "next/og";
+import { EXAM, formatExamDate } from "@/lib/mpt";
 
-export const alt = "FIA Job Prep — Prepare Smart, Get Selected";
+export const alt = "CSS MPT Prep — clear the FPSC screening test";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -15,22 +16,31 @@ export default function OgImage() {
           height: "100%",
           display: "flex",
           flexDirection: "column",
-          justifyContent: "center",
-          padding: "80px",
-          background:
-            "linear-gradient(135deg, #064e3b 0%, #047857 55%, #10b981 100%)",
-          color: "white",
-          fontFamily: "sans-serif",
+          justifyContent: "space-between",
+          padding: "72px",
+          background: "#fbf9f4",
+          color: "#12161c",
+          fontFamily: "serif",
         }}
       >
-        <div style={{ fontSize: 38, fontWeight: 700, opacity: 0.9 }}>
-          FIA Job Prep
+        <div style={{ display: "flex", flexDirection: "column" }}>
+          <div style={{ fontSize: 26, letterSpacing: 4, fontFamily: "monospace", color: "#4d5560" }}>
+            FPSC / MCQ-BASED PRELIMINARY TEST / {EXAM.cycle.toUpperCase()}
+          </div>
+          <div style={{ height: 6, background: "#12161c", marginTop: 20, width: "100%" }} />
         </div>
-        <div style={{ fontSize: 74, fontWeight: 800, lineHeight: 1.1, marginTop: 28 }}>
-          Crack Your FIA Jobs Exam With Confidence
+
+        <div style={{ display: "flex", flexDirection: "column" }}>
+          <div style={{ fontSize: 84, fontWeight: 700, lineHeight: 1.05, letterSpacing: -3 }}>
+            Two hundred questions stand between you and the CSS exam.
+          </div>
         </div>
-        <div style={{ fontSize: 30, marginTop: 30, opacity: 0.92 }}>
-          250+ past-paper MCQs / Timed mocks / Progress tracking
+
+        <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "space-between" }}>
+          <div style={{ fontSize: 30, fontFamily: "monospace", color: "#14563c" }}>
+            {formatExamDate(EXAM.testDate)} / pass mark {EXAM.passMarks} of {EXAM.totalQuestions}
+          </div>
+          <div style={{ fontSize: 30, fontWeight: 700 }}>CSS MPT Prep</div>
         </div>
       </div>
     ),

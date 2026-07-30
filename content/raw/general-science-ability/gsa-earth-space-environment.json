@@ -1,0 +1,1436 @@
+{
+  "subject": "general-science-ability",
+  "unit": "gsa-earth-space-environment",
+  "questions": [
+    {
+      "text": "Which is the largest planet in the solar system?",
+      "options": [
+        "Saturn",
+        "Neptune",
+        "Jupiter",
+        "Uranus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jupiter's diameter is about eleven times that of Earth, making it larger than all the other planets combined.",
+      "difficulty": "EASY",
+      "topic": "solar-system"
+    },
+    {
+      "text": "Which planet is called the Red Planet?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Iron oxide dust on the Martian surface gives Mars its characteristic reddish colour.",
+      "difficulty": "EASY",
+      "topic": "solar-system"
+    },
+    {
+      "text": "Which planet has the highest surface temperature?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Venus has a dense carbon dioxide atmosphere that traps heat, giving surface temperatures near 460 degrees Celsius even though Mercury is closer to the Sun.",
+      "difficulty": "MEDIUM",
+      "topic": "solar-system"
+    },
+    {
+      "text": "Which planet is tilted almost on its side, with an axial tilt of about 98 degrees?",
+      "options": [
+        "Neptune",
+        "Saturn",
+        "Venus",
+        "Uranus"
+      ],
+      "correctIndex": 3,
+      "explanation": "Uranus rotates with its axis nearly in the plane of its orbit, so its poles alternately face the Sun.",
+      "difficulty": "MEDIUM",
+      "topic": "solar-system"
+    },
+    {
+      "text": "Which planet takes about 243 Earth days to complete one rotation on its axis?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Venus has the slowest rotation of any planet, and it also rotates in a retrograde direction.",
+      "difficulty": "MEDIUM",
+      "topic": "solar-system"
+    },
+    {
+      "text": "Which is the largest natural satellite in the solar system?",
+      "options": [
+        "Titan",
+        "Callisto",
+        "Triton",
+        "Ganymede"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ganymede, a moon of Jupiter, is larger than the planet Mercury.",
+      "difficulty": "MEDIUM",
+      "topic": "solar-system"
+    },
+    {
+      "text": "Which moon of Saturn has a dense atmosphere rich in nitrogen?",
+      "options": [
+        "Io",
+        "Europa",
+        "Titan",
+        "Phobos"
+      ],
+      "correctIndex": 2,
+      "explanation": "Titan is the only moon known to have a thick atmosphere, composed mainly of nitrogen with some methane.",
+      "difficulty": "HARD",
+      "topic": "solar-system"
+    },
+    {
+      "text": "Which body lost its status as a planet when the International Astronomical Union redefined the term in 2006?",
+      "options": [
+        "Makemake",
+        "Ceres",
+        "Pluto",
+        "Eris"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pluto was reclassified as a dwarf planet because it has not cleared the neighbourhood around its orbit.",
+      "difficulty": "EASY",
+      "topic": "solar-system"
+    },
+    {
+      "text": "The asteroid belt lies between the orbits of which two planets?",
+      "options": [
+        "Earth and Mars",
+        "Mars and Jupiter",
+        "Jupiter and Saturn",
+        "Venus and Earth"
+      ],
+      "correctIndex": 1,
+      "explanation": "The main asteroid belt occupies the region between Mars and Jupiter.",
+      "difficulty": "EASY",
+      "topic": "solar-system"
+    },
+    {
+      "text": "Which is the largest object in the asteroid belt?",
+      "options": [
+        "Vesta",
+        "Pallas",
+        "Ceres",
+        "Juno"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ceres contains roughly a quarter of the belt's total mass and is classified as a dwarf planet.",
+      "difficulty": "HARD",
+      "topic": "solar-system"
+    },
+    {
+      "text": "The energy radiated by the Sun is produced by",
+      "options": [
+        "nuclear fission",
+        "nuclear fusion",
+        "chemical combustion",
+        "radioactive decay"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hydrogen nuclei fuse into helium in the Sun's core, releasing energy according to mass-energy equivalence.",
+      "difficulty": "EASY",
+      "topic": "sun-stars"
+    },
+    {
+      "text": "The visible surface of the Sun is called the",
+      "options": [
+        "chromosphere",
+        "corona",
+        "photosphere",
+        "core"
+      ],
+      "correctIndex": 2,
+      "explanation": "The photosphere is the layer from which sunlight escapes into space, at a temperature of about 5,500 degrees Celsius.",
+      "difficulty": "MEDIUM",
+      "topic": "sun-stars"
+    },
+    {
+      "text": "Light from the Sun takes approximately how long to reach the Earth?",
+      "options": [
+        "8 seconds",
+        "80 minutes",
+        "8 minutes",
+        "8 hours"
+      ],
+      "correctIndex": 2,
+      "explanation": "At about 150 million kilometres and a light speed of 300,000 km per second, sunlight takes roughly 8 minutes 20 seconds.",
+      "difficulty": "EASY",
+      "topic": "sun-stars"
+    },
+    {
+      "text": "Which star is nearest to the Sun?",
+      "options": [
+        "Sirius",
+        "Proxima Centauri",
+        "Alpha Centauri A",
+        "Barnard's Star"
+      ],
+      "correctIndex": 1,
+      "explanation": "Proxima Centauri lies about 4.24 light years away, closer than any other known star.",
+      "difficulty": "MEDIUM",
+      "topic": "sun-stars"
+    },
+    {
+      "text": "A fragment of rock from space that survives its passage through the atmosphere and lands on Earth is called a",
+      "options": [
+        "meteor",
+        "comet",
+        "meteoroid",
+        "meteorite"
+      ],
+      "correctIndex": 3,
+      "explanation": "A meteoroid becomes a meteor while burning in the atmosphere and is called a meteorite once it reaches the ground.",
+      "difficulty": "MEDIUM",
+      "topic": "solar-system"
+    },
+    {
+      "text": "A solar eclipse occurs when",
+      "options": [
+        "the Earth's shadow falls on the Sun",
+        "the Earth comes between the Sun and the Moon",
+        "the Sun comes between the Earth and the Moon",
+        "the Moon comes between the Sun and the Earth"
+      ],
+      "correctIndex": 3,
+      "explanation": "During a solar eclipse the Moon blocks sunlight and casts its shadow on part of the Earth's surface.",
+      "difficulty": "EASY",
+      "topic": "moon-eclipses"
+    },
+    {
+      "text": "A lunar eclipse can occur only at the phase of",
+      "options": [
+        "new moon",
+        "first quarter",
+        "full moon",
+        "last quarter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Only at full moon is the Earth positioned directly between the Sun and the Moon so that its shadow can fall on the Moon.",
+      "difficulty": "MEDIUM",
+      "topic": "moon-eclipses"
+    },
+    {
+      "text": "The same face of the Moon is always turned towards the Earth because",
+      "options": [
+        "the Moon does not rotate at all",
+        "the Moon orbits in the plane of the ecliptic",
+        "the Earth's gravity stops lunar rotation",
+        "the Moon's rotation period equals its period of revolution"
+      ],
+      "correctIndex": 3,
+      "explanation": "This synchronous rotation means the Moon turns once on its axis in exactly the time it takes to orbit the Earth.",
+      "difficulty": "MEDIUM",
+      "topic": "moon-eclipses"
+    },
+    {
+      "text": "Ocean tides are caused mainly by the gravitational pull of the",
+      "options": [
+        "Sun",
+        "Earth's core",
+        "Jupiter",
+        "Moon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Although the Sun also contributes, the Moon is far closer and exerts roughly twice the tide-raising force.",
+      "difficulty": "EASY",
+      "topic": "moon-eclipses"
+    },
+    {
+      "text": "Spring tides, the highest tides of the month, occur at",
+      "options": [
+        "the first quarter only",
+        "new moon and full moon",
+        "the last quarter only",
+        "the first and last quarters"
+      ],
+      "correctIndex": 1,
+      "explanation": "At new and full moon the Sun, Earth and Moon are aligned, so their tide-raising forces add together.",
+      "difficulty": "MEDIUM",
+      "topic": "moon-eclipses"
+    },
+    {
+      "text": "Who was the first human being to travel into space?",
+      "options": [
+        "Alan Shepard",
+        "Neil Armstrong",
+        "John Glenn",
+        "Yuri Gagarin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Yuri Gagarin orbited the Earth aboard Vostok 1 in April 1961.",
+      "difficulty": "EASY",
+      "topic": "space-exploration"
+    },
+    {
+      "text": "Who was the first person to set foot on the Moon?",
+      "options": [
+        "Buzz Aldrin",
+        "Alan Shepard",
+        "Neil Armstrong",
+        "Michael Collins"
+      ],
+      "correctIndex": 2,
+      "explanation": "Neil Armstrong stepped onto the lunar surface during the Apollo 11 mission.",
+      "difficulty": "EASY",
+      "topic": "space-exploration"
+    },
+    {
+      "text": "The seasons on Earth are caused by",
+      "options": [
+        "the changing distance of the Earth from the Sun",
+        "changes in solar output",
+        "the rotation of the Earth on its axis",
+        "the tilt of the Earth's axis together with its revolution"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because the axis stays tilted at a fixed angle as the Earth orbits, each hemisphere receives more direct sunlight for part of the year.",
+      "difficulty": "MEDIUM",
+      "topic": "earth-motions"
+    },
+    {
+      "text": "The Earth's axis is inclined to the plane of its orbit at an angle of about",
+      "options": [
+        "21.5 degrees",
+        "23.5 degrees",
+        "27.5 degrees",
+        "30 degrees"
+      ],
+      "correctIndex": 1,
+      "explanation": "This tilt of roughly 23.5 degrees from the vertical produces the annual cycle of seasons.",
+      "difficulty": "MEDIUM",
+      "topic": "earth-motions"
+    },
+    {
+      "text": "The summer solstice in the Northern Hemisphere falls on about",
+      "options": [
+        "21 June",
+        "22 December",
+        "23 September",
+        "21 March"
+      ],
+      "correctIndex": 0,
+      "explanation": "On 21 June the Sun is overhead at the Tropic of Cancer, giving the Northern Hemisphere its longest day.",
+      "difficulty": "MEDIUM",
+      "topic": "earth-motions"
+    },
+    {
+      "text": "The Tropic of Cancer lies at a latitude of",
+      "options": [
+        "0 degrees",
+        "66.5 degrees north",
+        "23.5 degrees north",
+        "23.5 degrees south"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Tropic of Cancer marks the northern limit at which the Sun can be directly overhead.",
+      "difficulty": "EASY",
+      "topic": "earth-motions"
+    },
+    {
+      "text": "The lowest layer of the Earth's atmosphere is the",
+      "options": [
+        "mesosphere",
+        "stratosphere",
+        "troposphere",
+        "thermosphere"
+      ],
+      "correctIndex": 2,
+      "explanation": "The troposphere extends from the surface to about 8-16 km and contains almost all weather phenomena.",
+      "difficulty": "EASY",
+      "topic": "atmosphere"
+    },
+    {
+      "text": "The ozone layer is located in the",
+      "options": [
+        "troposphere",
+        "stratosphere",
+        "mesosphere",
+        "exosphere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ozone is concentrated in the stratosphere at heights of roughly 15 to 35 kilometres.",
+      "difficulty": "EASY",
+      "topic": "atmosphere"
+    },
+    {
+      "text": "Most meteors entering the Earth's atmosphere burn up in the",
+      "options": [
+        "troposphere",
+        "mesosphere",
+        "stratosphere",
+        "exosphere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Friction with the increasingly dense air of the mesosphere vaporises most incoming meteoroids.",
+      "difficulty": "MEDIUM",
+      "topic": "atmosphere"
+    },
+    {
+      "text": "Which region of the atmosphere reflects radio waves back to the Earth, making long-distance radio communication possible?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Ionosphere",
+        "Exosphere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ionised gas layers in the ionosphere bend and reflect radio waves back towards the surface.",
+      "difficulty": "MEDIUM",
+      "topic": "atmosphere"
+    },
+    {
+      "text": "Which gas is present in the largest proportion in dry air?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Argon",
+        "Nitrogen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nitrogen makes up about 78 per cent of dry air by volume.",
+      "difficulty": "EASY",
+      "topic": "atmosphere"
+    },
+    {
+      "text": "Oxygen forms approximately what percentage of dry air by volume?",
+      "options": [
+        "11 per cent",
+        "21 per cent",
+        "31 per cent",
+        "41 per cent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oxygen accounts for roughly 21 per cent of dry air, the second most abundant constituent after nitrogen.",
+      "difficulty": "EASY",
+      "topic": "atmosphere"
+    },
+    {
+      "text": "The boundary separating the troposphere from the stratosphere is called the",
+      "options": [
+        "thermopause",
+        "stratopause",
+        "mesopause",
+        "tropopause"
+      ],
+      "correctIndex": 3,
+      "explanation": "The tropopause marks the level at which the fall of temperature with height in the troposphere ceases.",
+      "difficulty": "MEDIUM",
+      "topic": "atmosphere"
+    },
+    {
+      "text": "Which is the third most abundant gas in dry air?",
+      "options": [
+        "Argon",
+        "Neon",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Argon makes up about 0.93 per cent of dry air, more than carbon dioxide or any other trace gas.",
+      "difficulty": "HARD",
+      "topic": "atmosphere"
+    },
+    {
+      "text": "Atmospheric pressure is measured with a",
+      "options": [
+        "hygrometer",
+        "thermometer",
+        "anemometer",
+        "barometer"
+      ],
+      "correctIndex": 3,
+      "explanation": "A barometer measures the weight of the column of air above it, usually in millibars or millimetres of mercury.",
+      "difficulty": "EASY",
+      "topic": "atmosphere"
+    },
+    {
+      "text": "In the Northern Hemisphere, winds circulating around a low-pressure centre blow",
+      "options": [
+        "anticlockwise",
+        "directly outward",
+        "directly inward without deflection",
+        "clockwise"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Coriolis deflection to the right in the Northern Hemisphere makes air spiral anticlockwise into a cyclone.",
+      "difficulty": "MEDIUM",
+      "topic": "weather-climate"
+    },
+    {
+      "text": "The Coriolis effect, which deflects winds and ocean currents, is a consequence of",
+      "options": [
+        "unequal heating of land and sea",
+        "the Earth's revolution around the Sun",
+        "the Moon's gravity",
+        "the Earth's rotation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Because the Earth spins beneath moving air, winds appear deflected to the right in the Northern Hemisphere and to the left in the Southern.",
+      "difficulty": "MEDIUM",
+      "topic": "weather-climate"
+    },
+    {
+      "text": "Which cloud type is associated with thunderstorms and heavy showers?",
+      "options": [
+        "Cumulonimbus",
+        "Stratus",
+        "Cirrus",
+        "Altocumulus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cumulonimbus clouds are tall vertical clouds produced by strong convection and bring thunder, lightning and heavy rain.",
+      "difficulty": "MEDIUM",
+      "topic": "weather-climate"
+    },
+    {
+      "text": "Lines joining places receiving equal amounts of rainfall are called",
+      "options": [
+        "isohyets",
+        "isotherms",
+        "isobars",
+        "isohalines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Isohyets are used on climatic maps to show the distribution of precipitation.",
+      "difficulty": "HARD",
+      "topic": "weather-climate"
+    },
+    {
+      "text": "Jet streams are fast-moving air currents found in the",
+      "options": [
+        "lower troposphere",
+        "exosphere",
+        "mesosphere",
+        "upper troposphere"
+      ],
+      "correctIndex": 3,
+      "explanation": "Jet streams flow near the tropopause, at heights of roughly 9 to 12 kilometres.",
+      "difficulty": "MEDIUM",
+      "topic": "weather-climate"
+    },
+    {
+      "text": "El Nino refers to the abnormal warming of surface waters in the",
+      "options": [
+        "Arabian Sea",
+        "North Atlantic Ocean",
+        "eastern Pacific Ocean",
+        "Southern Ocean"
+      ],
+      "correctIndex": 2,
+      "explanation": "El Nino is a periodic warming of the eastern and central equatorial Pacific that disturbs weather patterns worldwide.",
+      "difficulty": "MEDIUM",
+      "topic": "weather-climate"
+    },
+    {
+      "text": "The summer monsoon rains of Pakistan and India are brought by winds blowing from the",
+      "options": [
+        "north-east",
+        "south-east",
+        "north-west",
+        "south-west"
+      ],
+      "correctIndex": 3,
+      "explanation": "Moisture-laden south-west monsoon winds blow from the Indian Ocean towards the heated land mass in summer.",
+      "difficulty": "MEDIUM",
+      "topic": "weather-climate"
+    },
+    {
+      "text": "The belt of calm, light and variable winds lying near the equator is known as the",
+      "options": [
+        "horse latitudes",
+        "doldrums",
+        "roaring forties",
+        "polar front"
+      ],
+      "correctIndex": 1,
+      "explanation": "Intense heating at the equator causes air to rise rather than blow horizontally, producing a zone of calms.",
+      "difficulty": "HARD",
+      "topic": "weather-climate"
+    },
+    {
+      "text": "Granite is an example of which type of rock?",
+      "options": [
+        "Igneous",
+        "Organic",
+        "Metamorphic",
+        "Sedimentary"
+      ],
+      "correctIndex": 0,
+      "explanation": "Granite crystallises slowly from magma deep below the surface, making it a coarse-grained intrusive igneous rock.",
+      "difficulty": "EASY",
+      "topic": "rocks-minerals"
+    },
+    {
+      "text": "Marble is formed by the metamorphism of",
+      "options": [
+        "granite",
+        "limestone",
+        "sandstone",
+        "basalt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heat and pressure recrystallise the calcite in limestone to produce marble.",
+      "difficulty": "MEDIUM",
+      "topic": "rocks-minerals"
+    },
+    {
+      "text": "Slate is a metamorphic rock formed from",
+      "options": [
+        "sandstone",
+        "granite",
+        "limestone",
+        "shale"
+      ],
+      "correctIndex": 3,
+      "explanation": "Low-grade metamorphism of fine-grained shale produces slate, which splits into thin sheets.",
+      "difficulty": "MEDIUM",
+      "topic": "rocks-minerals"
+    },
+    {
+      "text": "Which mineral occupies the top position on the Mohs scale of hardness?",
+      "options": [
+        "Quartz",
+        "Corundum",
+        "Diamond",
+        "Topaz"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diamond is rated 10 on the Mohs scale and can scratch every other mineral.",
+      "difficulty": "EASY",
+      "topic": "rocks-minerals"
+    },
+    {
+      "text": "Which element is most abundant in the Earth's crust?",
+      "options": [
+        "Oxygen",
+        "Aluminium",
+        "Silicon",
+        "Iron"
+      ],
+      "correctIndex": 0,
+      "explanation": "Oxygen forms roughly 46 per cent of the crust by weight, mostly combined in silicate minerals.",
+      "difficulty": "MEDIUM",
+      "topic": "rocks-minerals"
+    },
+    {
+      "text": "Which metal is most abundant in the Earth's crust?",
+      "options": [
+        "Iron",
+        "Magnesium",
+        "Aluminium",
+        "Calcium"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aluminium makes up about 8 per cent of the crust, more than any other metal.",
+      "difficulty": "MEDIUM",
+      "topic": "rocks-minerals"
+    },
+    {
+      "text": "Bauxite is the chief ore of",
+      "options": [
+        "copper",
+        "iron",
+        "lead",
+        "aluminium"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bauxite is a hydrated aluminium oxide from which almost all commercial aluminium is extracted.",
+      "difficulty": "MEDIUM",
+      "topic": "rocks-minerals"
+    },
+    {
+      "text": "Cinnabar is the principal ore of",
+      "options": [
+        "lead",
+        "tin",
+        "zinc",
+        "mercury"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cinnabar is mercuric sulphide and is roasted to obtain metallic mercury.",
+      "difficulty": "HARD",
+      "topic": "rocks-minerals"
+    },
+    {
+      "text": "The Earth's core consists mainly of",
+      "options": [
+        "silicon and magnesium",
+        "carbon and sulphur",
+        "iron and nickel",
+        "aluminium and oxygen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Seismic evidence and meteorite composition indicate a core dominated by iron with about 5-10 per cent nickel.",
+      "difficulty": "MEDIUM",
+      "topic": "earth-interior"
+    },
+    {
+      "text": "Which layer accounts for the greatest share of the Earth's volume?",
+      "options": [
+        "Inner core",
+        "Crust",
+        "Outer core",
+        "Mantle"
+      ],
+      "correctIndex": 3,
+      "explanation": "The mantle is about 2,900 kilometres thick and makes up roughly 84 per cent of the Earth's volume.",
+      "difficulty": "MEDIUM",
+      "topic": "earth-interior"
+    },
+    {
+      "text": "The boundary between the Earth's crust and the mantle is known as the",
+      "options": [
+        "Gutenberg discontinuity",
+        "Conrad discontinuity",
+        "Mohorovicic discontinuity",
+        "Lehmann discontinuity"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Mohorovicic discontinuity, or Moho, is marked by a sudden increase in seismic wave velocity.",
+      "difficulty": "HARD",
+      "topic": "earth-interior"
+    },
+    {
+      "text": "The Earth's magnetic field is generated chiefly in the",
+      "options": [
+        "crust",
+        "mantle",
+        "liquid outer core",
+        "solid inner core"
+      ],
+      "correctIndex": 2,
+      "explanation": "Convection currents of molten iron in the outer core act as a dynamo that produces the magnetic field.",
+      "difficulty": "HARD",
+      "topic": "earth-interior"
+    },
+    {
+      "text": "The point on the Earth's surface directly above the focus of an earthquake is the",
+      "options": [
+        "epicentre",
+        "hypocentre",
+        "fault plane",
+        "seismic gap"
+      ],
+      "correctIndex": 0,
+      "explanation": "Shaking is generally strongest at the epicentre because it is nearest the source of the waves.",
+      "difficulty": "EASY",
+      "topic": "earthquakes"
+    },
+    {
+      "text": "Which seismic waves travel fastest and are recorded first at a seismic station?",
+      "options": [
+        "Love waves",
+        "S waves",
+        "P waves",
+        "Rayleigh waves"
+      ],
+      "correctIndex": 2,
+      "explanation": "P waves are compressional waves and move faster than shear or surface waves, so they arrive first.",
+      "difficulty": "MEDIUM",
+      "topic": "earthquakes"
+    },
+    {
+      "text": "Which seismic waves cannot pass through liquids, providing evidence that the outer core is molten?",
+      "options": [
+        "S waves",
+        "Radio waves",
+        "Sound waves",
+        "P waves"
+      ],
+      "correctIndex": 0,
+      "explanation": "S waves are shear waves, and liquids cannot sustain shear stress, so they are blocked by the outer core.",
+      "difficulty": "HARD",
+      "topic": "earthquakes"
+    },
+    {
+      "text": "Tsunamis are most commonly generated by",
+      "options": [
+        "undersea earthquakes",
+        "strong surface winds",
+        "spring tides",
+        "ocean currents"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sudden vertical displacement of the sea floor during a submarine earthquake sets off long-wavelength waves.",
+      "difficulty": "EASY",
+      "topic": "earthquakes"
+    },
+    {
+      "text": "The theory of continental drift was put forward by",
+      "options": [
+        "Harry Hess",
+        "James Hutton",
+        "Charles Lyell",
+        "Alfred Wegener"
+      ],
+      "correctIndex": 3,
+      "explanation": "Wegener proposed in 1912 that the continents had once been joined and had since drifted apart.",
+      "difficulty": "MEDIUM",
+      "topic": "plate-tectonics"
+    },
+    {
+      "text": "The name given to the single supercontinent that is believed to have existed before the continents drifted apart is",
+      "options": [
+        "Pangaea",
+        "Laurasia",
+        "Gondwana",
+        "Panthalassa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pangaea later split into Laurasia in the north and Gondwana in the south.",
+      "difficulty": "MEDIUM",
+      "topic": "plate-tectonics"
+    },
+    {
+      "text": "The Ring of Fire, a zone of frequent earthquakes and volcanoes, surrounds the",
+      "options": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subduction of oceanic plates around the margins of the Pacific produces this belt of volcanic and seismic activity.",
+      "difficulty": "MEDIUM",
+      "topic": "plate-tectonics"
+    },
+    {
+      "text": "Mid-ocean ridges are formed at",
+      "options": [
+        "convergent plate boundaries",
+        "subduction zones",
+        "transform plate boundaries",
+        "divergent plate boundaries"
+      ],
+      "correctIndex": 3,
+      "explanation": "Where plates move apart, magma rises to fill the gap and creates new oceanic crust along a ridge.",
+      "difficulty": "MEDIUM",
+      "topic": "plate-tectonics"
+    },
+    {
+      "text": "The Himalayas were formed by the collision of the",
+      "options": [
+        "African and Eurasian plates",
+        "Indian and Eurasian plates",
+        "Pacific and North American plates",
+        "Nazca and South American plates"
+      ],
+      "correctIndex": 1,
+      "explanation": "The northward movement of the Indian plate into Eurasia crumpled the intervening sediments into fold mountains.",
+      "difficulty": "MEDIUM",
+      "topic": "plate-tectonics"
+    },
+    {
+      "text": "The San Andreas Fault in California is an example of a",
+      "options": [
+        "divergent boundary",
+        "hotspot",
+        "convergent boundary",
+        "transform boundary"
+      ],
+      "correctIndex": 3,
+      "explanation": "At a transform boundary two plates slide horizontally past each other without creating or destroying crust.",
+      "difficulty": "HARD",
+      "topic": "plate-tectonics"
+    },
+    {
+      "text": "The hypothesis of sea-floor spreading was proposed by",
+      "options": [
+        "Harry Hess",
+        "Alfred Wegener",
+        "Arthur Holmes",
+        "Charles Darwin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Harry Hess suggested in the early 1960s that new ocean floor forms at ridges and spreads outwards.",
+      "difficulty": "HARD",
+      "topic": "plate-tectonics"
+    },
+    {
+      "text": "Which is the largest and deepest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Pacific covers about a third of the Earth's surface and contains the deepest known trenches.",
+      "difficulty": "EASY",
+      "topic": "oceans"
+    },
+    {
+      "text": "The deepest known point of the world's oceans lies in the",
+      "options": [
+        "Puerto Rico Trench",
+        "Java Trench",
+        "Mariana Trench",
+        "Tonga Trench"
+      ],
+      "correctIndex": 2,
+      "explanation": "Challenger Deep in the Mariana Trench of the western Pacific reaches nearly 11,000 metres below sea level.",
+      "difficulty": "MEDIUM",
+      "topic": "oceans"
+    },
+    {
+      "text": "The average salinity of sea water is about",
+      "options": [
+        "1.5 per cent",
+        "2.5 per cent",
+        "3.5 per cent",
+        "5.5 per cent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sea water contains roughly 35 grams of dissolved salts per kilogram, that is 35 parts per thousand.",
+      "difficulty": "MEDIUM",
+      "topic": "oceans"
+    },
+    {
+      "text": "The most abundant salt dissolved in sea water is",
+      "options": [
+        "sodium chloride",
+        "magnesium sulphate",
+        "calcium carbonate",
+        "potassium chloride"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sodium chloride accounts for about 77 per cent of the dissolved solids in sea water.",
+      "difficulty": "EASY",
+      "topic": "oceans"
+    },
+    {
+      "text": "Water covers approximately what fraction of the Earth's surface?",
+      "options": [
+        "51 per cent",
+        "61 per cent",
+        "71 per cent",
+        "81 per cent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Oceans and seas cover close to 71 per cent of the planet's surface area.",
+      "difficulty": "EASY",
+      "topic": "oceans"
+    },
+    {
+      "text": "The Gulf Stream is",
+      "options": [
+        "a cold current of the Pacific Ocean",
+        "a cold current of the Indian Ocean",
+        "a warm current of the North Atlantic Ocean",
+        "a warm current of the Southern Ocean"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Gulf Stream carries warm water north-eastwards across the Atlantic and moderates the climate of north-west Europe.",
+      "difficulty": "MEDIUM",
+      "topic": "oceans"
+    },
+    {
+      "text": "Which gas is the largest single contributor to the human-induced greenhouse effect?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Nitrous oxide",
+        "Chlorofluorocarbons"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carbon dioxide released by burning fossil fuels accounts for the greatest share of the added radiative forcing.",
+      "difficulty": "EASY",
+      "topic": "greenhouse-climate"
+    },
+    {
+      "text": "Greenhouse gases warm the lower atmosphere chiefly by absorbing",
+      "options": [
+        "ultraviolet radiation from the Sun",
+        "visible light from the Sun",
+        "infrared radiation emitted by the Earth",
+        "radio waves"
+      ],
+      "correctIndex": 2,
+      "explanation": "They allow short-wave sunlight to pass through but absorb the long-wave infrared radiation given off by the warmed surface.",
+      "difficulty": "MEDIUM",
+      "topic": "greenhouse-climate"
+    },
+    {
+      "text": "Without the natural greenhouse effect, the average surface temperature of the Earth would be about",
+      "options": [
+        "15 degrees Celsius",
+        "0 degrees Celsius",
+        "10 degrees Celsius",
+        "minus 18 degrees Celsius"
+      ],
+      "correctIndex": 3,
+      "explanation": "Natural greenhouse warming raises the mean surface temperature from roughly minus 18 degrees Celsius to about 15 degrees Celsius.",
+      "difficulty": "HARD",
+      "topic": "greenhouse-climate"
+    },
+    {
+      "text": "Paddy fields, livestock and landfills are major sources of which greenhouse gas?",
+      "options": [
+        "Carbon dioxide",
+        "Sulphur dioxide",
+        "Nitrous oxide",
+        "Methane"
+      ],
+      "correctIndex": 3,
+      "explanation": "Methane is produced by anaerobic decomposition of organic matter in flooded soils, animal guts and waste dumps.",
+      "difficulty": "MEDIUM",
+      "topic": "greenhouse-climate"
+    },
+    {
+      "text": "The chemical formula of ozone is",
+      "options": [
+        "O3",
+        "O2",
+        "O4",
+        "H2O2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ozone is a triatomic allotrope of oxygen.",
+      "difficulty": "EASY",
+      "topic": "ozone"
+    },
+    {
+      "text": "The ozone layer protects life on Earth by absorbing",
+      "options": [
+        "infrared rays",
+        "radio waves",
+        "ultraviolet rays",
+        "microwaves"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stratospheric ozone absorbs most of the harmful ultraviolet-B radiation before it reaches the surface.",
+      "difficulty": "EASY",
+      "topic": "ozone"
+    },
+    {
+      "text": "Depletion of the ozone layer is caused mainly by",
+      "options": [
+        "carbon dioxide",
+        "chlorofluorocarbons",
+        "methane",
+        "sulphur dioxide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chlorine atoms released from CFCs by ultraviolet light catalyse the destruction of ozone molecules.",
+      "difficulty": "EASY",
+      "topic": "ozone"
+    },
+    {
+      "text": "The most severe seasonal thinning of the ozone layer is observed over",
+      "options": [
+        "the Arctic",
+        "the Sahara",
+        "the equator",
+        "Antarctica"
+      ],
+      "correctIndex": 3,
+      "explanation": "Extremely cold polar stratospheric clouds over Antarctica speed up the chlorine reactions that destroy ozone each spring.",
+      "difficulty": "MEDIUM",
+      "topic": "ozone"
+    },
+    {
+      "text": "The Montreal Protocol of 1987 deals with",
+      "options": [
+        "greenhouse gas emissions",
+        "substances that deplete the ozone layer",
+        "trade in endangered species",
+        "conservation of wetlands"
+      ],
+      "correctIndex": 1,
+      "explanation": "It obliged countries to phase out the production and use of CFCs, halons and other ozone-depleting chemicals.",
+      "difficulty": "MEDIUM",
+      "topic": "climate-treaties"
+    },
+    {
+      "text": "The Kyoto Protocol, which set binding limits on greenhouse gas emissions, was adopted in",
+      "options": [
+        "1987",
+        "1992",
+        "1997",
+        "2005"
+      ],
+      "correctIndex": 2,
+      "explanation": "It was agreed at the third Conference of the Parties in Kyoto in December 1997 and came into force in 2005.",
+      "difficulty": "MEDIUM",
+      "topic": "climate-treaties"
+    },
+    {
+      "text": "The Paris Agreement on climate change was adopted in",
+      "options": [
+        "2012",
+        "2015",
+        "2017",
+        "2019"
+      ],
+      "correctIndex": 1,
+      "explanation": "It was concluded at COP21 in Paris in December 2015 and entered into force the following year.",
+      "difficulty": "MEDIUM",
+      "topic": "climate-treaties"
+    },
+    {
+      "text": "The United Nations Framework Convention on Climate Change was opened for signature at the Earth Summit held in",
+      "options": [
+        "Stockholm",
+        "Johannesburg",
+        "Rio de Janeiro",
+        "Nairobi"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1992 Earth Summit in Rio de Janeiro produced the UNFCCC along with the Convention on Biological Diversity.",
+      "difficulty": "MEDIUM",
+      "topic": "climate-treaties"
+    },
+    {
+      "text": "The first United Nations Conference on the Human Environment was held in Stockholm in",
+      "options": [
+        "1972",
+        "1982",
+        "1992",
+        "2002"
+      ],
+      "correctIndex": 0,
+      "explanation": "The 1972 Stockholm Conference led to the creation of the United Nations Environment Programme.",
+      "difficulty": "HARD",
+      "topic": "climate-treaties"
+    },
+    {
+      "text": "The Ramsar Convention is concerned with the conservation of",
+      "options": [
+        "deserts",
+        "wetlands",
+        "coral reefs",
+        "tropical forests"
+      ],
+      "correctIndex": 1,
+      "explanation": "Signed in Ramsar, Iran, in 1971, it provides for the protection of wetlands of international importance.",
+      "difficulty": "MEDIUM",
+      "topic": "climate-treaties"
+    },
+    {
+      "text": "CITES is an international agreement that regulates",
+      "options": [
+        "movement of hazardous waste",
+        "international trade in endangered species",
+        "greenhouse gas emissions",
+        "use of pesticides"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Convention on International Trade in Endangered Species controls cross-border trade in threatened plants and animals.",
+      "difficulty": "MEDIUM",
+      "topic": "climate-treaties"
+    },
+    {
+      "text": "The Basel Convention regulates the",
+      "options": [
+        "transboundary movement of hazardous wastes",
+        "protection of biological diversity",
+        "release of persistent organic pollutants",
+        "phasing out of leaded petrol"
+      ],
+      "correctIndex": 0,
+      "explanation": "It was adopted in 1989 to control the export of hazardous waste, particularly from developed to developing countries.",
+      "difficulty": "HARD",
+      "topic": "climate-treaties"
+    },
+    {
+      "text": "IPCC stands for",
+      "options": [
+        "International Panel for Climate Control",
+        "Intergovernmental Panel on Climate Change",
+        "International Programme on Carbon Cycles",
+        "Intergovernmental Protocol on Clean Cities"
+      ],
+      "correctIndex": 1,
+      "explanation": "The IPCC was established by the World Meteorological Organization and UNEP to assess the science of climate change.",
+      "difficulty": "MEDIUM",
+      "topic": "climate-treaties"
+    },
+    {
+      "text": "World Environment Day is observed every year on",
+      "options": [
+        "22 April",
+        "10 December",
+        "16 September",
+        "5 June"
+      ],
+      "correctIndex": 3,
+      "explanation": "The United Nations designated 5 June, the opening day of the 1972 Stockholm Conference, as World Environment Day.",
+      "difficulty": "EASY",
+      "topic": "environment-general"
+    },
+    {
+      "text": "The International Day for the Preservation of the Ozone Layer is observed on",
+      "options": [
+        "16 September",
+        "22 April",
+        "5 June",
+        "11 December"
+      ],
+      "correctIndex": 0,
+      "explanation": "It marks 16 September 1987, the day the Montreal Protocol was signed.",
+      "difficulty": "HARD",
+      "topic": "environment-general"
+    },
+    {
+      "text": "Acid rain is caused mainly by atmospheric emissions of",
+      "options": [
+        "carbon dioxide and methane",
+        "carbon monoxide",
+        "chlorofluorocarbons",
+        "sulphur dioxide and oxides of nitrogen"
+      ],
+      "correctIndex": 3,
+      "explanation": "These gases dissolve in cloud droplets to form sulphuric and nitric acids that fall with the rain.",
+      "difficulty": "EASY",
+      "topic": "pollution"
+    },
+    {
+      "text": "Rain is generally described as acid rain when its pH falls below about",
+      "options": [
+        "5.6",
+        "6.5",
+        "7.0",
+        "3.0"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unpolluted rain is already slightly acidic at pH 5.6 because of dissolved carbon dioxide, so lower values indicate pollution.",
+      "difficulty": "HARD",
+      "topic": "pollution"
+    },
+    {
+      "text": "Which pollutant from vehicle exhaust combines with haemoglobin and reduces the blood's capacity to carry oxygen?",
+      "options": [
+        "Nitrogen",
+        "Ozone",
+        "Sulphur dioxide",
+        "Carbon monoxide"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carbon monoxide binds to haemoglobin far more strongly than oxygen, forming carboxyhaemoglobin.",
+      "difficulty": "MEDIUM",
+      "topic": "pollution"
+    },
+    {
+      "text": "Photochemical smog is produced by the action of sunlight on",
+      "options": [
+        "oxides of nitrogen and hydrocarbons",
+        "sulphur dioxide and soot",
+        "methane and water vapour",
+        "chlorofluorocarbons"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sunlight drives reactions between nitrogen oxides and unburnt hydrocarbons to form ground-level ozone and other irritants.",
+      "difficulty": "MEDIUM",
+      "topic": "pollution"
+    },
+    {
+      "text": "PM2.5 in air-quality reports refers to particulate matter with a diameter smaller than",
+      "options": [
+        "2.5 micrometres",
+        "2.5 millimetres",
+        "2.5 nanometres",
+        "25 micrometres"
+      ],
+      "correctIndex": 0,
+      "explanation": "These fine particles are small enough to penetrate deep into the lungs and enter the bloodstream.",
+      "difficulty": "MEDIUM",
+      "topic": "pollution"
+    },
+    {
+      "text": "Eutrophication of lakes and rivers is caused by an excess of",
+      "options": [
+        "chlorides",
+        "nitrates and phosphates",
+        "carbonates",
+        "fluorides"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nutrient runoff from fertilizers triggers algal blooms whose decay depletes dissolved oxygen in the water.",
+      "difficulty": "MEDIUM",
+      "topic": "pollution"
+    },
+    {
+      "text": "Biochemical oxygen demand is used as a measure of",
+      "options": [
+        "organic pollution of water",
+        "hardness of water",
+        "air pollution",
+        "soil salinity"
+      ],
+      "correctIndex": 0,
+      "explanation": "BOD records the oxygen consumed by micro-organisms in breaking down organic matter, so a high value indicates heavy pollution.",
+      "difficulty": "MEDIUM",
+      "topic": "pollution"
+    },
+    {
+      "text": "Minamata disease resulted from poisoning by",
+      "options": [
+        "lead",
+        "mercury",
+        "cadmium",
+        "arsenic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Industrial discharge of methylmercury into Minamata Bay in Japan contaminated fish eaten by local people.",
+      "difficulty": "MEDIUM",
+      "topic": "pollution"
+    },
+    {
+      "text": "Itai-itai disease, marked by severe bone pain, was caused by poisoning with",
+      "options": [
+        "mercury",
+        "cadmium",
+        "lead",
+        "fluoride"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cadmium from mine waste entered rice fields in Japan and accumulated in the bones of those who ate the rice.",
+      "difficulty": "HARD",
+      "topic": "pollution"
+    },
+    {
+      "text": "Blue baby syndrome in infants is associated with drinking water containing excess",
+      "options": [
+        "nitrate",
+        "fluoride",
+        "iron",
+        "calcium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nitrate is converted to nitrite in the body and interferes with the oxygen-carrying ability of haemoglobin.",
+      "difficulty": "HARD",
+      "topic": "pollution"
+    },
+    {
+      "text": "Excess fluoride in drinking water causes",
+      "options": [
+        "goitre",
+        "fluorosis",
+        "anaemia",
+        "rickets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fluorosis mottles the teeth and, in severe cases, deforms the bones and joints.",
+      "difficulty": "MEDIUM",
+      "topic": "pollution"
+    },
+    {
+      "text": "The intensity of noise is measured in",
+      "options": [
+        "decibels",
+        "hertz",
+        "lumens",
+        "pascals"
+      ],
+      "correctIndex": 0,
+      "explanation": "The decibel is a logarithmic unit expressing sound level relative to a standard reference intensity.",
+      "difficulty": "EASY",
+      "topic": "pollution"
+    },
+    {
+      "text": "Which of the following is a non-renewable source of energy?",
+      "options": [
+        "Coal",
+        "Wind",
+        "Tidal energy",
+        "Solar energy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Coal is a fossil fuel formed over millions of years and cannot be replaced on a human time scale.",
+      "difficulty": "EASY",
+      "topic": "renewable-energy"
+    },
+    {
+      "text": "A photovoltaic cell converts",
+      "options": [
+        "heat directly into mechanical energy",
+        "sunlight directly into electricity",
+        "wind into electricity",
+        "chemical energy into heat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Semiconductor materials in a solar cell release electrons when struck by photons, producing an electric current.",
+      "difficulty": "MEDIUM",
+      "topic": "renewable-energy"
+    },
+    {
+      "text": "Geothermal energy is obtained from",
+      "options": [
+        "tidal movements",
+        "heat stored within the Earth",
+        "sunlight concentrated by mirrors",
+        "burning of biomass"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hot rocks and underground water heated by the Earth's internal heat are tapped to raise steam for turbines.",
+      "difficulty": "EASY",
+      "topic": "renewable-energy"
+    },
+    {
+      "text": "The main combustible constituent of biogas is",
+      "options": [
+        "methane",
+        "carbon dioxide",
+        "hydrogen",
+        "ethane"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biogas from anaerobic digestion is roughly 50 to 70 per cent methane, the rest being mainly carbon dioxide.",
+      "difficulty": "MEDIUM",
+      "topic": "renewable-energy"
+    },
+    {
+      "text": "A wind turbine generates electricity from the",
+      "options": [
+        "potential energy of the atmosphere",
+        "kinetic energy of moving air",
+        "heat energy of the air",
+        "pressure energy of the atmosphere"
+      ],
+      "correctIndex": 1,
+      "explanation": "Moving air turns the blades, and the rotating shaft drives a generator that produces electricity.",
+      "difficulty": "EASY",
+      "topic": "renewable-energy"
+    },
+    {
+      "text": "Volcanic activity is most closely associated with which type of plate boundary in addition to divergent boundaries?",
+      "options": [
+        "Transform boundaries",
+        "Convergent boundaries",
+        "Passive continental margins",
+        "Stable cratons"
+      ],
+      "correctIndex": 1,
+      "explanation": "At convergent boundaries an oceanic plate is subducted, melts at depth and feeds volcanoes above the subduction zone.",
+      "difficulty": "HARD",
+      "topic": "plate-tectonics"
+    },
+    {
+      "text": "The rigid outer shell of the Earth, made up of the crust and the uppermost mantle, is called the",
+      "options": [
+        "asthenosphere",
+        "lithosphere",
+        "mesosphere",
+        "barysphere"
+      ],
+      "correctIndex": 1,
+      "explanation": "The lithosphere is broken into the tectonic plates that move over the weaker asthenosphere below.",
+      "difficulty": "HARD",
+      "topic": "earth-interior"
+    }
+  ]
+}

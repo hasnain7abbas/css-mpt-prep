@@ -4,19 +4,19 @@ import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/utils";
 
 const buttonVariants = cva(
-  "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-xl text-sm font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:size-4 [&_svg]:shrink-0",
+  "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-sm text-sm font-semibold tracking-tight transition-[background-color,color,border-color,transform] duration-200 ease-[var(--ease-out-expo)] active:translate-y-px focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-surface disabled:pointer-events-none disabled:opacity-50 [&_svg]:size-4 [&_svg]:shrink-0",
   {
     variants: {
       variant: {
         primary:
-          "bg-primary text-white shadow-sm hover:bg-primary-dark active:bg-primary-dark",
+          "bg-primary text-surface hover:bg-primary-dark",
         secondary:
-          "bg-surface-dark text-white shadow-sm hover:bg-surface-dark/90",
+          "bg-ink text-surface hover:bg-ink/90",
         outline:
-          "border border-ink/15 bg-surface text-ink shadow-sm hover:bg-surface-muted",
-        ghost: "text-ink hover:bg-surface-muted",
-        danger: "bg-danger text-white shadow-sm hover:bg-danger/90",
-        link: "text-primary-dark underline-offset-4 hover:underline",
+          "border border-ink/25 bg-transparent text-ink hover:bg-ink/5",
+        ghost: "text-ink-muted hover:bg-ink/5 hover:text-ink",
+        danger: "bg-accent text-surface hover:bg-accent/90",
+        link: "text-ink underline decoration-accent decoration-2 underline-offset-4 hover:decoration-ink",
       },
       size: {
         sm: "h-9 px-3.5 text-sm",

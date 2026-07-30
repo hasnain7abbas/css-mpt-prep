@@ -17,16 +17,16 @@ function subscribe(callback: () => void) {
 
 /**
  * Light/dark toggle. The initial theme is applied before hydration by the
- * inline script in the root layout (dark by default). We read the current
+ * inline script in the root layout (paper/light by default). We read the current
  * state straight off <html> via useSyncExternalStore — the server snapshot is
- * `true` (dark) to match the SSR default — and flipping the class + persisting
+ * `false` (light) to match the SSR default — and flipping the class + persisting
  * to localStorage drives the re-render.
  */
 export function ThemeToggle({ className }: { className?: string }) {
   const isDark = React.useSyncExternalStore(
     subscribe,
     () => document.documentElement.classList.contains("dark"),
-    () => true,
+    () => false,
   );
 
   function toggle() {

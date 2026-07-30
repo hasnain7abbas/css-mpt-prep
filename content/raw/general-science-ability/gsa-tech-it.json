@@ -1,0 +1,1306 @@
+{
+  "subject": "general-science-ability",
+  "unit": "gsa-tech-it",
+  "questions": [
+    {
+      "text": "Which part of a computer is called the brain of the computer?",
+      "options": [
+        "Hard disk",
+        "Power supply unit",
+        "Monitor",
+        "Central Processing Unit"
+      ],
+      "correctIndex": 3,
+      "explanation": "The CPU carries out the instructions of a program by performing arithmetic, logic and control operations, so it directs all other components.",
+      "difficulty": "EASY",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "In a CPU, ALU stands for",
+      "options": [
+        "Automatic Logic Unit",
+        "Advanced Language Unit",
+        "Arithmetic Logic Unit",
+        "Applied Loading Unit"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Arithmetic Logic Unit performs all arithmetic calculations and logical comparisons inside the processor.",
+      "difficulty": "EASY",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "Which of the following is an example of system software?",
+      "options": [
+        "Operating system",
+        "MS Excel",
+        "Adobe Photoshop",
+        "Google Chrome"
+      ],
+      "correctIndex": 0,
+      "explanation": "An operating system manages hardware and provides a platform for application programs, which is the defining role of system software.",
+      "difficulty": "EASY",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "BIOS in a computer stands for",
+      "options": [
+        "Binary Input Output Sequence",
+        "Basic Internal Operating Store",
+        "Basic Input Output System",
+        "Bootable Integrated Operating Software"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Basic Input Output System is firmware that initialises hardware during start-up and hands control to the operating system.",
+      "difficulty": "MEDIUM",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "In computing, GUI stands for",
+      "options": [
+        "General Utility Interface",
+        "Graphical User Interface",
+        "Guided Universal Input",
+        "Graphic Unit Integration"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Graphical User Interface lets users interact with a computer through icons, windows and menus instead of typed commands.",
+      "difficulty": "EASY",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "Who is known as the father of the computer?",
+      "options": [
+        "Alan Turing",
+        "Blaise Pascal",
+        "John von Neumann",
+        "Charles Babbage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Charles Babbage designed the Difference Engine and the Analytical Engine, the first mechanical general-purpose computer concept.",
+      "difficulty": "EASY",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "The first generation of computers used which component for switching?",
+      "options": [
+        "Vacuum tubes",
+        "Transistors",
+        "Integrated circuits",
+        "Microprocessors"
+      ],
+      "correctIndex": 0,
+      "explanation": "First-generation machines such as ENIAC and UNIVAC relied on vacuum tubes, which were bulky and generated great heat.",
+      "difficulty": "MEDIUM",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "A compiler differs from an interpreter in that a compiler",
+      "options": [
+        "translates the source program line by line at run time",
+        "converts machine code back into source code",
+        "executes the program without any translation",
+        "translates the entire source program before execution"
+      ],
+      "correctIndex": 3,
+      "explanation": "A compiler translates the whole source program into object code in one pass, whereas an interpreter translates and executes one statement at a time.",
+      "difficulty": "MEDIUM",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "An assembler is a program that converts",
+      "options": [
+        "high-level language into machine code",
+        "assembly language into machine code",
+        "machine code into assembly language",
+        "source code into flowcharts"
+      ],
+      "correctIndex": 1,
+      "explanation": "An assembler translates mnemonic assembly-language instructions into the binary machine code of a particular processor.",
+      "difficulty": "MEDIUM",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "The main printed circuit board of a computer to which all other components connect is the",
+      "options": [
+        "Motherboard",
+        "Expansion card",
+        "Power supply",
+        "Hard disk controller"
+      ],
+      "correctIndex": 0,
+      "explanation": "The motherboard carries the processor socket, memory slots, buses and connectors that link every other component.",
+      "difficulty": "EASY",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "One byte is equal to how many bits?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correctIndex": 1,
+      "explanation": "A byte is a group of eight binary digits and is the standard unit used to represent one character of data.",
+      "difficulty": "EASY",
+      "topic": "memory-units"
+    },
+    {
+      "text": "One kilobyte is conventionally equal to",
+      "options": [
+        "100 bytes",
+        "512 bytes",
+        "1024 bytes",
+        "2048 bytes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Computer memory is measured in powers of two, so one kilobyte equals 2 to the power 10, that is 1024 bytes.",
+      "difficulty": "EASY",
+      "topic": "memory-units"
+    },
+    {
+      "text": "A group of four bits is called a",
+      "options": [
+        "Nibble",
+        "Word",
+        "Byte",
+        "Block"
+      ],
+      "correctIndex": 0,
+      "explanation": "Half a byte, that is four bits, is termed a nibble and corresponds to exactly one hexadecimal digit.",
+      "difficulty": "HARD",
+      "topic": "memory-units"
+    },
+    {
+      "text": "One terabyte is equal to",
+      "options": [
+        "1024 megabytes",
+        "1024 gigabytes",
+        "1000 kilobytes",
+        "1024 petabytes"
+      ],
+      "correctIndex": 1,
+      "explanation": "The sequence of binary storage units rises by a factor of 1024, so 1 TB equals 1024 GB.",
+      "difficulty": "MEDIUM",
+      "topic": "memory-units"
+    },
+    {
+      "text": "RAM is described as volatile memory because it",
+      "options": [
+        "can only be read and never written",
+        "loses its contents when power is switched off",
+        "stores data permanently on magnetic platters",
+        "is located outside the computer case"
+      ],
+      "correctIndex": 1,
+      "explanation": "Random Access Memory needs a constant power supply to retain data, so its contents vanish when the machine is switched off.",
+      "difficulty": "MEDIUM",
+      "topic": "memory-units"
+    },
+    {
+      "text": "Which of the following memories has the fastest access time?",
+      "options": [
+        "Cache memory",
+        "Magnetic tape",
+        "Hard disk",
+        "Optical disk"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cache memory sits closest to the processor and is built from high-speed static RAM, so it is accessed far faster than any secondary storage.",
+      "difficulty": "MEDIUM",
+      "topic": "memory-units"
+    },
+    {
+      "text": "The storage capacity of a standard single-layer DVD is approximately",
+      "options": [
+        "700 MB",
+        "1.44 MB",
+        "4.7 GB",
+        "25 GB"
+      ],
+      "correctIndex": 2,
+      "explanation": "A single-sided, single-layer DVD holds about 4.7 gigabytes, roughly seven times the capacity of a CD.",
+      "difficulty": "HARD",
+      "topic": "memory-units"
+    },
+    {
+      "text": "Which of the following is an input device?",
+      "options": [
+        "Plotter",
+        "Monitor",
+        "Speaker",
+        "Scanner"
+      ],
+      "correctIndex": 3,
+      "explanation": "A scanner converts printed images and text into digital data and feeds it into the computer, which makes it an input device.",
+      "difficulty": "EASY",
+      "topic": "input-output"
+    },
+    {
+      "text": "OMR technology is chiefly used to read",
+      "options": [
+        "magnetic ink on bank cheques",
+        "marks made in bubbles on answer sheets",
+        "handwritten cursive letters",
+        "radio frequency tags"
+      ],
+      "correctIndex": 1,
+      "explanation": "Optical Mark Recognition detects the presence of pencil marks in fixed positions, which is why it is used to grade multiple-choice answer sheets.",
+      "difficulty": "HARD",
+      "topic": "input-output"
+    },
+    {
+      "text": "OCR in computing stands for",
+      "options": [
+        "Optical Character Recognition",
+        "Operational Code Reader",
+        "Order Control Register",
+        "Optical Colour Rendering"
+      ],
+      "correctIndex": 0,
+      "explanation": "Optical Character Recognition converts scanned images of printed or typed text into machine-editable characters.",
+      "difficulty": "MEDIUM",
+      "topic": "input-output"
+    },
+    {
+      "text": "Which of the following is an impact printer?",
+      "options": [
+        "Laser printer",
+        "Inkjet printer",
+        "Thermal printer",
+        "Dot matrix printer"
+      ],
+      "correctIndex": 3,
+      "explanation": "A dot matrix printer forms characters by striking pins against an inked ribbon and the paper, so it works by physical impact.",
+      "difficulty": "MEDIUM",
+      "topic": "input-output"
+    },
+    {
+      "text": "Which device functions as both an input and an output device?",
+      "options": [
+        "Keyboard",
+        "Laser printer",
+        "Barcode reader",
+        "Touch screen"
+      ],
+      "correctIndex": 3,
+      "explanation": "A touch screen displays information like a monitor and simultaneously accepts user input through touch, serving both roles.",
+      "difficulty": "MEDIUM",
+      "topic": "input-output"
+    },
+    {
+      "text": "The smallest addressable element of an image on a computer display is called a",
+      "options": [
+        "Bit",
+        "Pixel",
+        "Vector",
+        "Frame"
+      ],
+      "correctIndex": 1,
+      "explanation": "A pixel, short for picture element, is the smallest dot of the display grid whose colour and brightness can be controlled.",
+      "difficulty": "MEDIUM",
+      "topic": "input-output"
+    },
+    {
+      "text": "Printer resolution is normally measured in",
+      "options": [
+        "Hertz",
+        "Bits per second",
+        "Dots per inch",
+        "Characters per line"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dots per inch expresses how many separate ink or toner dots a printer can place along one inch, which determines print sharpness.",
+      "difficulty": "MEDIUM",
+      "topic": "input-output"
+    },
+    {
+      "text": "The World Wide Web was invented by",
+      "options": [
+        "Bill Gates",
+        "Vint Cerf",
+        "Tim Berners-Lee",
+        "Steve Jobs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tim Berners-Lee proposed and built the World Wide Web at CERN in 1989, creating HTML, HTTP and the first browser.",
+      "difficulty": "EASY",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "HTTP stands for",
+      "options": [
+        "Hypertext Transfer Protocol",
+        "High Transmission Text Program",
+        "Hyperlink Text Transport Process",
+        "Host Transfer Transmission Protocol"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hypertext Transfer Protocol is the application-layer protocol used by web browsers and servers to exchange web pages.",
+      "difficulty": "EASY",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "HTML is best described as",
+      "options": [
+        "a database query language",
+        "a compression format for images",
+        "an operating system for web servers",
+        "a markup language for creating web pages"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hypertext Markup Language uses tags to define the structure and content of web pages displayed by browsers.",
+      "difficulty": "MEDIUM",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "In the context of the internet, URL stands for",
+      "options": [
+        "Universal Reference Link",
+        "Unified Resource Language",
+        "Uniform Resource Locator",
+        "User Registered Location"
+      ],
+      "correctIndex": 2,
+      "explanation": "A Uniform Resource Locator is the complete address that identifies where a resource is located on the web.",
+      "difficulty": "EASY",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "FTP is a protocol used primarily for",
+      "options": [
+        "transferring files between computers over a network",
+        "encrypting stored passwords",
+        "assigning IP addresses automatically",
+        "compressing video streams"
+      ],
+      "correctIndex": 0,
+      "explanation": "File Transfer Protocol defines how files are uploaded to and downloaded from a remote server over a TCP/IP network.",
+      "difficulty": "MEDIUM",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "SMTP is the standard protocol used for",
+      "options": [
+        "browsing web pages",
+        "sending electronic mail",
+        "resolving domain names",
+        "streaming live video"
+      ],
+      "correctIndex": 1,
+      "explanation": "Simple Mail Transfer Protocol governs the sending and relaying of email messages between mail servers.",
+      "difficulty": "MEDIUM",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "LAN stands for",
+      "options": [
+        "Large Access Network",
+        "Linked Area Node",
+        "Logical Address Number",
+        "Local Area Network"
+      ],
+      "correctIndex": 3,
+      "explanation": "A Local Area Network connects computers within a limited area such as one office building or campus.",
+      "difficulty": "EASY",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "The Domain Name System (DNS) performs the function of",
+      "options": [
+        "encrypting web traffic",
+        "blocking unwanted email",
+        "storing website content permanently",
+        "translating domain names into IP addresses"
+      ],
+      "correctIndex": 3,
+      "explanation": "DNS acts as the directory of the internet, converting human-readable names such as fpsc.gov.pk into numeric IP addresses.",
+      "difficulty": "MEDIUM",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "An IPv4 address consists of how many bits?",
+      "options": [
+        "16",
+        "32",
+        "64",
+        "128"
+      ],
+      "correctIndex": 1,
+      "explanation": "IPv4 uses a 32-bit address written as four decimal octets separated by dots, allowing about 4.3 billion addresses.",
+      "difficulty": "MEDIUM",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "An IPv6 address is how many bits long?",
+      "options": [
+        "48",
+        "64",
+        "128",
+        "256"
+      ],
+      "correctIndex": 2,
+      "explanation": "IPv6 expanded the address space to 128 bits, written as eight groups of hexadecimal digits, to overcome IPv4 exhaustion.",
+      "difficulty": "HARD",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "The network device used to connect two or more different networks and forward packets between them is a",
+      "options": [
+        "Repeater",
+        "Router",
+        "Hub",
+        "Modem"
+      ],
+      "correctIndex": 1,
+      "explanation": "A router examines the destination IP address of each packet and chooses the best path to forward it to another network.",
+      "difficulty": "MEDIUM",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "The word modem is derived from",
+      "options": [
+        "modular demultiplexer",
+        "monitor and demonstrator",
+        "mode of emission",
+        "modulator-demodulator"
+      ],
+      "correctIndex": 3,
+      "explanation": "A modem modulates digital data onto an analogue carrier for transmission and demodulates the incoming signal back into digital form.",
+      "difficulty": "MEDIUM",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "The OSI reference model consists of how many layers?",
+      "options": [
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Open Systems Interconnection model has seven layers, from the physical layer up to the application layer.",
+      "difficulty": "HARD",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "Wi-Fi wireless networking is defined by which IEEE standard family?",
+      "options": [
+        "IEEE 802.3",
+        "IEEE 802.11",
+        "IEEE 802.15",
+        "IEEE 802.16"
+      ],
+      "correctIndex": 1,
+      "explanation": "The IEEE 802.11 family of standards specifies wireless local area networking, marketed under the name Wi-Fi.",
+      "difficulty": "HARD",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "Which network is regarded as the forerunner of the modern internet?",
+      "options": [
+        "ARPANET",
+        "ETHERNET",
+        "USENET",
+        "NSFNET"
+      ],
+      "correctIndex": 0,
+      "explanation": "ARPANET, funded by the US Department of Defense in 1969, was the first packet-switching network and evolved into the internet.",
+      "difficulty": "MEDIUM",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "In a star topology, all the nodes of the network are connected to",
+      "options": [
+        "each other directly",
+        "a single closed loop",
+        "a common central device",
+        "a single shared backbone cable"
+      ],
+      "correctIndex": 2,
+      "explanation": "Star topology links every node by its own cable to a central hub or switch, through which all communication passes.",
+      "difficulty": "HARD",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "The default port number used by HTTPS is",
+      "options": [
+        "21",
+        "80",
+        "443",
+        "8080"
+      ],
+      "correctIndex": 2,
+      "explanation": "Secure web traffic over TLS is carried on port 443, while unencrypted HTTP uses port 80.",
+      "difficulty": "HARD",
+      "topic": "internet-networking"
+    },
+    {
+      "text": "Which file extension belongs to an MS Excel workbook created in Excel 2007 or later?",
+      "options": [
+        ".xlsx",
+        ".docx",
+        ".pptx",
+        ".accdb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Excel 2007 introduced the Open XML workbook format, saved with the .xlsx extension.",
+      "difficulty": "EASY",
+      "topic": "file-extensions"
+    },
+    {
+      "text": "A file with the extension .pptx is opened by which program?",
+      "options": [
+        "MS Word",
+        "MS Access",
+        "MS PowerPoint",
+        "MS Publisher"
+      ],
+      "correctIndex": 2,
+      "explanation": "The .pptx extension identifies a PowerPoint presentation stored in the Open XML format.",
+      "difficulty": "EASY",
+      "topic": "file-extensions"
+    },
+    {
+      "text": "In Windows, a file with the extension .exe is a",
+      "options": [
+        "compressed archive",
+        "plain text document",
+        "system log file",
+        "executable program file"
+      ],
+      "correctIndex": 3,
+      "explanation": "An .exe file contains machine instructions that Windows can load and run directly as a program.",
+      "difficulty": "MEDIUM",
+      "topic": "file-extensions"
+    },
+    {
+      "text": "PDF stands for",
+      "options": [
+        "Portable Document Format",
+        "Public Data File",
+        "Printed Document Form",
+        "Personal Design File"
+      ],
+      "correctIndex": 0,
+      "explanation": "Portable Document Format, developed by Adobe, preserves a document's layout and fonts across different devices and platforms.",
+      "difficulty": "EASY",
+      "topic": "file-extensions"
+    },
+    {
+      "text": "Which extension indicates a file containing plain unformatted text?",
+      "options": [
+        ".bin",
+        ".dll",
+        ".rtf",
+        ".txt"
+      ],
+      "correctIndex": 3,
+      "explanation": "A .txt file stores only characters with no formatting information, and can be opened by any text editor.",
+      "difficulty": "MEDIUM",
+      "topic": "file-extensions"
+    },
+    {
+      "text": "The default file extension of a document created in MS Word 2007 and later versions is",
+      "options": [
+        ".doc",
+        ".docx",
+        ".wpd",
+        ".txt"
+      ],
+      "correctIndex": 1,
+      "explanation": "From Word 2007 onward the default save format is Office Open XML, which uses the .docx extension.",
+      "difficulty": "MEDIUM",
+      "topic": "ms-office"
+    },
+    {
+      "text": "In MS Excel, every formula entered in a cell must begin with",
+      "options": [
+        "an equal sign",
+        "a hash sign",
+        "an asterisk",
+        "a semicolon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Excel recognises an entry as a formula only when it starts with the = sign, otherwise it treats it as text.",
+      "difficulty": "EASY",
+      "topic": "ms-office"
+    },
+    {
+      "text": "In MS Excel, a file that contains one or more worksheets is called a",
+      "options": [
+        "Database",
+        "Macro",
+        "Template",
+        "Workbook"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Excel document as a whole is a workbook, and each page of rows and columns inside it is a worksheet.",
+      "difficulty": "MEDIUM",
+      "topic": "ms-office"
+    },
+    {
+      "text": "In MS Word, the keyboard shortcut Ctrl + Z performs which action?",
+      "options": [
+        "Save",
+        "Undo",
+        "Cut",
+        "Zoom"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ctrl + Z reverses the most recent action, and repeated presses step further back through the edit history.",
+      "difficulty": "EASY",
+      "topic": "ms-office"
+    },
+    {
+      "text": "In MS PowerPoint, pressing the F5 key",
+      "options": [
+        "saves the presentation",
+        "inserts a new slide",
+        "starts the slide show from the first slide",
+        "opens the print dialogue"
+      ],
+      "correctIndex": 2,
+      "explanation": "F5 launches the presentation in full-screen slide show mode beginning with the first slide.",
+      "difficulty": "MEDIUM",
+      "topic": "ms-office"
+    },
+    {
+      "text": "Which MS Office application is a database management program?",
+      "options": [
+        "MS Access",
+        "MS Excel",
+        "MS Outlook",
+        "MS OneNote"
+      ],
+      "correctIndex": 0,
+      "explanation": "MS Access stores data in related tables and provides queries, forms and reports, making it the Office database program.",
+      "difficulty": "MEDIUM",
+      "topic": "ms-office"
+    },
+    {
+      "text": "Which MS Excel function adds all the numbers in a specified range of cells?",
+      "options": [
+        "COUNT",
+        "AVERAGE",
+        "TOTAL",
+        "SUM"
+      ],
+      "correctIndex": 3,
+      "explanation": "The SUM function returns the arithmetic total of the values in the range supplied as its argument.",
+      "difficulty": "EASY",
+      "topic": "ms-office"
+    },
+    {
+      "text": "In an MS Excel worksheet, columns are identified by",
+      "options": [
+        "letters",
+        "numbers",
+        "Roman numerals",
+        "symbols"
+      ],
+      "correctIndex": 0,
+      "explanation": "Excel labels columns with letters A, B, C onwards and rows with numbers, so a cell reference such as B4 combines both.",
+      "difficulty": "MEDIUM",
+      "topic": "ms-office"
+    },
+    {
+      "text": "The MS Word feature used to produce many personalised letters from a single template and a list of recipients is called",
+      "options": [
+        "Track Changes",
+        "Format Painter",
+        "Hyperlink",
+        "Mail Merge"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mail Merge combines a main document with a data source so that each copy of the letter carries a different name and address.",
+      "difficulty": "MEDIUM",
+      "topic": "ms-office"
+    },
+    {
+      "text": "A self-replicating malicious program that spreads across a network without attaching itself to another program is called a",
+      "options": [
+        "Worm",
+        "Macro virus",
+        "Rootkit",
+        "Adware"
+      ],
+      "correctIndex": 0,
+      "explanation": "A worm is standalone malware that copies itself from computer to computer over a network, unlike a virus which needs a host file.",
+      "difficulty": "MEDIUM",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "A Trojan horse is malware that",
+      "options": [
+        "encrypts all network traffic automatically",
+        "disguises itself as a useful program to gain entry",
+        "physically damages the hard disk platters",
+        "duplicates itself endlessly in memory only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A Trojan appears to be legitimate software and tricks the user into installing it, after which it performs hidden harmful actions.",
+      "difficulty": "MEDIUM",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "Sending fraudulent emails that appear to come from a bank in order to steal a user's password is called",
+      "options": [
+        "Spoofing of MAC addresses",
+        "Buffering",
+        "Defragmentation",
+        "Phishing"
+      ],
+      "correctIndex": 3,
+      "explanation": "Phishing uses deceptive messages that imitate a trusted organisation to persuade victims to reveal login or financial details.",
+      "difficulty": "EASY",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "A firewall in a computer network is used to",
+      "options": [
+        "increase the clock speed of the processor",
+        "recover files deleted by mistake",
+        "control incoming and outgoing network traffic",
+        "compress large files before transfer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A firewall filters traffic against a set of security rules, allowing authorised packets and blocking unauthorised ones.",
+      "difficulty": "EASY",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "Encryption is the process of converting",
+      "options": [
+        "ciphertext into machine code",
+        "analogue signals into digital signals",
+        "plaintext into an unreadable coded form",
+        "source code into an executable file"
+      ],
+      "correctIndex": 2,
+      "explanation": "Encryption applies an algorithm and a key to turn readable data into ciphertext that only an authorised holder of the key can decode.",
+      "difficulty": "MEDIUM",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "Malicious software that locks or encrypts a victim's files and demands payment to restore access is known as",
+      "options": [
+        "Spyware",
+        "Ransomware",
+        "Freeware",
+        "Shareware"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ransomware holds data hostage by encrypting it and displays a demand for payment in exchange for the decryption key.",
+      "difficulty": "MEDIUM",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "Unsolicited bulk email sent to a large number of recipients is called",
+      "options": [
+        "Spam",
+        "Cache",
+        "Cookie",
+        "Applet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spam is unwanted email sent indiscriminately in bulk, usually for advertising or as a vehicle for scams.",
+      "difficulty": "MEDIUM",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "A denial of service attack aims to",
+      "options": [
+        "steal encryption keys from a database",
+        "alter the domain registration of a website",
+        "install a hidden keylogger on every client",
+        "make a server or service unavailable to legitimate users"
+      ],
+      "correctIndex": 3,
+      "explanation": "A DoS attack floods a system with excessive requests or traffic so that genuine users can no longer be served.",
+      "difficulty": "MEDIUM",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "Two-factor authentication improves security because it requires",
+      "options": [
+        "two different antivirus programs to be installed",
+        "the password to be changed twice a year",
+        "two separate internet connections",
+        "two independent forms of evidence to verify identity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Two-factor authentication combines something the user knows with something the user has or is, so a stolen password alone is not enough.",
+      "difficulty": "MEDIUM",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "A small text file that a website stores on a visitor's computer to remember information about the visit is called a",
+      "options": [
+        "Cookie",
+        "Plug-in",
+        "Servlet",
+        "Bookmark"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cookies are small data files written by a website to the browser so that preferences and session details persist between visits.",
+      "difficulty": "MEDIUM",
+      "topic": "cybersecurity"
+    },
+    {
+      "text": "RADAR stands for",
+      "options": [
+        "Rapid Detection and Ranging",
+        "Radio Detection and Ranging",
+        "Radiation Direction and Recording",
+        "Range Detection and Reflection"
+      ],
+      "correctIndex": 1,
+      "explanation": "RADAR is an acronym for Radio Detection and Ranging, describing its use of radio waves to locate objects and measure distance.",
+      "difficulty": "EASY",
+      "topic": "applied-science"
+    },
+    {
+      "text": "SONAR is used mainly to detect objects under water because it employs",
+      "options": [
+        "sound waves",
+        "X-rays",
+        "microwaves",
+        "visible light"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sound waves travel efficiently through water while radio waves are strongly absorbed, so SONAR uses acoustic pulses and their echoes.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "LASER stands for",
+      "options": [
+        "Light Absorption by Sequential Emission of Rays",
+        "Linear Amplification of Standard Electromagnetic Radiation",
+        "Light Amplification by Stimulated Emission of Radiation",
+        "Luminous Alignment of Spectral Energy Rays"
+      ],
+      "correctIndex": 2,
+      "explanation": "The acronym describes the physical process by which the device produces an intense beam, namely stimulated emission of radiation.",
+      "difficulty": "EASY",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Laser light differs from ordinary light chiefly because it is",
+      "options": [
+        "faster than ordinary light",
+        "always invisible to the eye",
+        "unable to be reflected",
+        "coherent and monochromatic"
+      ],
+      "correctIndex": 3,
+      "explanation": "The waves in a laser beam are in phase and of a single wavelength, which is why the beam stays narrow over long distances.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The operation of a laser depends on which phenomenon?",
+      "options": [
+        "Spontaneous emission",
+        "Photoelectric effect",
+        "Stimulated emission",
+        "Thermionic emission"
+      ],
+      "correctIndex": 2,
+      "explanation": "Stimulated emission, predicted by Einstein, causes an excited atom to emit a photon identical in phase and direction to the incident photon.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Holography, the technique of producing three-dimensional images, requires a source of",
+      "options": [
+        "laser light",
+        "ultraviolet lamps",
+        "X-rays",
+        "sunlight"
+      ],
+      "correctIndex": 0,
+      "explanation": "Holograms are recorded by the interference of two beams, which demands the highly coherent light that only a laser provides.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Optical fibres transmit light signals over long distances on the principle of",
+      "options": [
+        "diffraction",
+        "total internal reflection",
+        "polarisation",
+        "photoelectric emission"
+      ],
+      "correctIndex": 1,
+      "explanation": "Light striking the core-cladding boundary beyond the critical angle is reflected entirely back into the core and so travels along the fibre.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "In an optical fibre, the refractive index of the core compared with that of the cladding is",
+      "options": [
+        "lower",
+        "equal",
+        "higher",
+        "zero"
+      ],
+      "correctIndex": 2,
+      "explanation": "The core must be optically denser than the cladding for total internal reflection to occur and confine the light inside the core.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The medical instrument used to view internal organs, which relies on optical fibres, is the",
+      "options": [
+        "Stethoscope",
+        "Audiometer",
+        "Spirometer",
+        "Endoscope"
+      ],
+      "correctIndex": 3,
+      "explanation": "An endoscope uses bundles of optical fibres to carry light into a body cavity and return the image to the observer.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The first artificial satellite launched into space was",
+      "options": [
+        "Explorer 1",
+        "Vostok 1",
+        "Sputnik 1",
+        "Luna 2"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Soviet Union launched Sputnik 1 on 4 October 1957, beginning the space age.",
+      "difficulty": "EASY",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The orbital period of a geostationary satellite is approximately",
+      "options": [
+        "90 minutes",
+        "12 hours",
+        "24 hours",
+        "28 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "A geostationary satellite completes one orbit in the same time the Earth takes to rotate once, so it appears fixed above one point.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "A geostationary satellite orbits at a height of about",
+      "options": [
+        "3,600 km",
+        "36,000 km",
+        "360,000 km",
+        "1,000 km"
+      ],
+      "correctIndex": 1,
+      "explanation": "Only at roughly 35,800 km above the equator does the orbital period match the Earth's rotation, keeping the satellite stationary in the sky.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The first satellite launched by Pakistan was",
+      "options": [
+        "Paksat-1",
+        "Badr-1",
+        "Rohini-1",
+        "Shaheen-1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Badr-1, an experimental communications satellite built by SUPARCO, was placed in orbit in July 1990.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "SUPARCO is the national organisation of Pakistan responsible for",
+      "options": [
+        "nuclear power generation",
+        "meteorological forecasting",
+        "standards and quality control",
+        "space and upper atmosphere research"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Space and Upper Atmosphere Research Commission, established in 1961, runs Pakistan's space and satellite programme.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "GPS stands for",
+      "options": [
+        "General Positioning Service",
+        "Guided Path System",
+        "Global Positioning System",
+        "Geographic Plotting Satellite"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Global Positioning System is a satellite constellation that lets a receiver compute its exact location from timing signals.",
+      "difficulty": "EASY",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Nuclear power stations generate electricity from which nuclear process?",
+      "options": [
+        "Fission",
+        "Fusion",
+        "Radioactive decay of carbon",
+        "Ionisation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reactors split heavy nuclei such as uranium-235 in a controlled chain reaction, and the heat released raises steam to drive turbines.",
+      "difficulty": "EASY",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The energy radiated by the Sun is produced by",
+      "options": [
+        "chemical combustion of hydrogen",
+        "nuclear fusion of hydrogen into helium",
+        "nuclear fission of uranium",
+        "gravitational contraction alone"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the solar core hydrogen nuclei fuse to form helium, and the small loss of mass appears as enormous quantities of energy.",
+      "difficulty": "EASY",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Which isotope is the usual fuel for a chain reaction in nuclear reactors?",
+      "options": [
+        "Uranium-238",
+        "Uranium-235",
+        "Carbon-14",
+        "Radium-226"
+      ],
+      "correctIndex": 1,
+      "explanation": "Uranium-235 is the naturally occurring isotope that undergoes fission readily with slow neutrons, sustaining a chain reaction.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The function of a moderator in a nuclear reactor is to",
+      "options": [
+        "absorb excess neutrons and stop the reaction",
+        "shield workers from gamma radiation",
+        "remove heat from the reactor core",
+        "slow down fast neutrons"
+      ],
+      "correctIndex": 3,
+      "explanation": "Materials such as graphite and heavy water reduce neutron speed so that the neutrons are more likely to cause further fission.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Control rods in a nuclear reactor are made of materials such as cadmium and boron because these",
+      "options": [
+        "reflect neutrons back into the core",
+        "conduct heat exceptionally well",
+        "absorb neutrons strongly",
+        "become radioactive quickly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cadmium and boron capture free neutrons, so inserting the rods reduces the number available for fission and slows the reaction.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Heavy water used in some nuclear reactors is chemically",
+      "options": [
+        "hydrogen peroxide",
+        "deuterium oxide",
+        "water with dissolved heavy metals",
+        "tritium hydroxide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heavy water is D2O, in which ordinary hydrogen is replaced by its heavier isotope deuterium, making it an efficient moderator.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The first nuclear power plant of Pakistan was established at",
+      "options": [
+        "Chashma",
+        "Kahuta",
+        "Karachi",
+        "Multan"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Karachi Nuclear Power Plant, KANUPP, began operating in 1972 and was Pakistan's first commercial nuclear power station.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Pakistan carried out its first nuclear tests in May 1998 at",
+      "options": [
+        "Chagai in Balochistan",
+        "Kahuta in Punjab",
+        "Thar in Sindh",
+        "Kalabagh in Punjab"
+      ],
+      "correctIndex": 0,
+      "explanation": "The tests were conducted in the Ras Koh hills of the Chagai district of Balochistan on 28 May 1998.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The double helix structure of DNA was proposed in 1953 by",
+      "options": [
+        "Gregor Mendel and Thomas Morgan",
+        "Alexander Fleming and Howard Florey",
+        "Louis Pasteur and Robert Koch",
+        "James Watson and Francis Crick"
+      ],
+      "correctIndex": 3,
+      "explanation": "Watson and Crick, using X-ray diffraction data, described DNA as two complementary strands wound into a double helix.",
+      "difficulty": "EASY",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Dolly, the first mammal cloned from an adult body cell, was a",
+      "options": [
+        "Sheep",
+        "Goat",
+        "Cow",
+        "Monkey"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dolly the sheep was produced at the Roslin Institute in 1996 by transferring the nucleus of an adult udder cell into an egg cell.",
+      "difficulty": "EASY",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The polymerase chain reaction (PCR) is a technique used to",
+      "options": [
+        "amplify small quantities of DNA",
+        "separate proteins by weight",
+        "sterilise surgical instruments",
+        "measure blood glucose levels"
+      ],
+      "correctIndex": 0,
+      "explanation": "PCR uses repeated heating and cooling cycles with a DNA polymerase to make millions of copies of a chosen DNA segment.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "In genetic engineering, restriction enzymes are described as molecular scissors because they",
+      "options": [
+        "join two DNA fragments together",
+        "cut DNA at specific base sequences",
+        "copy RNA into protein",
+        "dissolve the cell membrane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each restriction endonuclease recognises a particular short sequence and cuts the DNA there, allowing genes to be isolated.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Human insulin for the treatment of diabetes is now produced commercially by",
+      "options": [
+        "extraction from human blood plasma",
+        "chemical synthesis from amino acids in bulk",
+        "genetically engineered bacteria",
+        "purification of plant sap"
+      ],
+      "correctIndex": 2,
+      "explanation": "The human insulin gene is inserted into bacteria such as E. coli, which then manufacture the hormone by recombinant DNA technology.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Tissue culture is a biotechnological technique in which",
+      "options": [
+        "whole plants are grown from small pieces of tissue in a nutrient medium",
+        "animal organs are preserved by freezing",
+        "soil bacteria are counted under a microscope",
+        "seeds are treated with radiation before sowing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Explants are grown aseptically on a nutrient medium containing hormones, producing many genetically identical plants from one parent.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The Human Genome Project was undertaken to",
+      "options": [
+        "clone human beings",
+        "determine the complete sequence of human DNA",
+        "eliminate all inherited diseases by surgery",
+        "map the human nervous system in three dimensions"
+      ],
+      "correctIndex": 1,
+      "explanation": "The project, declared complete in 2003, identified the sequence of the roughly three billion base pairs in human DNA.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Crops carrying a gene transferred from another species are commonly known as",
+      "options": [
+        "hybrid crops",
+        "organic crops",
+        "transgenic crops",
+        "perennial crops"
+      ],
+      "correctIndex": 2,
+      "explanation": "Transgenic or genetically modified crops such as Bt cotton contain a gene introduced from an unrelated organism by recombinant DNA methods.",
+      "difficulty": "HARD",
+      "topic": "applied-science"
+    },
+    {
+      "text": "Which storage device stores data using no moving mechanical parts?",
+      "options": [
+        "Solid state drive",
+        "Floppy disk",
+        "Magnetic tape",
+        "Optical disc drive"
+      ],
+      "correctIndex": 0,
+      "explanation": "A solid state drive records data in flash memory chips, so it has no spinning platters or read-write heads.",
+      "difficulty": "MEDIUM",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "The process of starting a computer and loading the operating system into memory is called",
+      "options": [
+        "Formatting",
+        "Buffering",
+        "Debugging",
+        "Booting"
+      ],
+      "correctIndex": 3,
+      "explanation": "Booting is the start-up sequence in which firmware tests the hardware and then loads the operating system from storage into RAM.",
+      "difficulty": "EASY",
+      "topic": "computer-basics"
+    },
+    {
+      "text": "Remote sensing satellites are used chiefly to",
+      "options": [
+        "relay telephone calls between continents",
+        "collect information about the Earth's surface from orbit",
+        "provide power to ground stations",
+        "measure cosmic rays beyond the solar system"
+      ],
+      "correctIndex": 1,
+      "explanation": "Remote sensing satellites carry cameras and sensors that record land use, crops, forests and other surface features from orbit.",
+      "difficulty": "MEDIUM",
+      "topic": "applied-science"
+    },
+    {
+      "text": "The device that supplies power to a computer for a short time during a mains failure is a",
+      "options": [
+        "Voltage stabiliser",
+        "Surge protector",
+        "Uninterruptible power supply",
+        "Step-down transformer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A UPS holds a battery that takes over instantly when mains power fails, giving time to save work and shut down safely.",
+      "difficulty": "MEDIUM",
+      "topic": "computer-basics"
+    }
+  ]
+}

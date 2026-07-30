@@ -1,4 +1,4 @@
-// Assembles generated MCQs per subject from the curated factual datasets.
+// Assembles generated MCQs per MPT subject from the curated factual datasets.
 // All questions are original phrasings over public facts, with auto-selected
 // plausible distractors. Returns GenMCQ[] (order is assigned later at chunking).
 
@@ -24,10 +24,14 @@ import {
   SERIES,
   CURATED_IQ,
 } from "./data/iq-math";
-import { CURATED_FIA_ACT } from "./data/fia-act";
 
 function curatedToGen(items: Curated[]): GenMCQ[] {
   return items.map((c) => ({ ...c, order: 0 }));
+}
+
+/** Stamp a topic on every question in a batch (used for weak-area drills). */
+function tag(items: GenMCQ[], topic: string): GenMCQ[] {
+  return items.map((q) => ({ ...q, topic: q.topic ?? topic }));
 }
 
 export function generateGK(): GenMCQ[] {
@@ -67,7 +71,33 @@ export function generateGK(): GenMCQ[] {
     }),
   );
 
-  // Element ↔ symbol, both directions.
+  // Who wrote <book>?
+  out.push(
+    ...fromPairs(BOOKS, {
+      seedTag: "book",
+      prompt: (b) => `Who is the author of "${b}"?`,
+      explain: (b, a) => `"${b}" was written by ${a}.`,
+      difficulty: "MEDIUM",
+    }),
+  );
+
+  // Who invented <thing>?
+  out.push(
+    ...fromPairs(INVENTIONS, {
+      seedTag: "inv",
+      prompt: (t) => `Who is credited with inventing/discovering ${t}?`,
+      explain: (t, p) => `${p} is credited with ${t}.`,
+      difficulty: "MEDIUM",
+    }),
+  );
+
+  out.push(...curatedToGen(CURATED_GK));
+  return dedupeByText(out);
+}
+
+/** Chemistry element facts — part of General Science & Ability, not GK. */
+export function generateElementFacts(): GenMCQ[] {
+  const out: GenMCQ[] = [];
   const symbols = ELEMENTS.map(([, s]) => s);
   const names = ELEMENTS.map(([n]) => n);
   for (const [name, symbol] of ELEMENTS) {
@@ -90,28 +120,6 @@ export function generateGK(): GenMCQ[] {
     });
     if (q2) out.push(q2);
   }
-
-  // Who wrote <book>?
-  out.push(
-    ...fromPairs(BOOKS, {
-      seedTag: "book",
-      prompt: (b) => `Who is the author of "${b}"?`,
-      explain: (b, a) => `"${b}" was written by ${a}.`,
-      difficulty: "MEDIUM",
-    }),
-  );
-
-  // Who invented <thing>?
-  out.push(
-    ...fromPairs(INVENTIONS, {
-      seedTag: "inv",
-      prompt: (t) => `Who is credited with inventing/discovering ${t}?`,
-      explain: (t, p) => `${p} is credited with ${t}.`,
-      difficulty: "MEDIUM",
-    }),
-  );
-
-  out.push(...curatedToGen(CURATED_GK));
   return dedupeByText(out);
 }
 
@@ -484,18 +492,24 @@ export function generateIQMath(): GenMCQ[] {
   return dedupeByText(out);
 }
 
-export function generateFIAAct(): GenMCQ[] {
-  return dedupeByText(curatedToGen(CURATED_FIA_ACT));
-}
-
+/**
+ * Deterministically generated questions, keyed by MPT subject slug.
+ *
+ * The FIA-era subjects fold into the MPT paper: IQ/Maths, computer literacy and
+ * element facts all sit inside General Science & Ability; Pakistan Studies
+ * becomes Pakistan Affairs. Urdu and Current Affairs have no generator — those
+ * banks are written and verified as content (see content/verified/).
+ */
 export function generatedBySlug(): Record<string, GenMCQ[]> {
   return {
-    "english": generateEnglish(),
-    "general-knowledge": generateGK(),
-    "pakistan-studies": generatePakStudies(),
-    "computer": generateComputer(),
-    "islamic-studies": generateIslamic(),
-    "iq-math": generateIQMath(),
-    "fia-act": generateFIAAct(),
+    "english": tag(generateEnglish(), "vocabulary"),
+    "general-knowledge": tag(generateGK(), "world-facts"),
+    "pakistan-affairs": tag(generatePakStudies(), "pakistan-facts"),
+    "islamic-studies": tag(generateIslamic(), "islamiat"),
+    "general-science-ability": [
+      ...tag(generateIQMath(), "quantitative"),
+      ...tag(generateComputer(), "technology"),
+      ...tag(generateElementFacts(), "chemistry"),
+    ],
   };
 }

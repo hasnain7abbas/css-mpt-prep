@@ -1,43 +1,42 @@
 import { cn } from "@/lib/utils";
 
-/** The emerald shield + checkmark mark, rendered inline so it scales crisply. */
+/**
+ * The mark is an answer-sheet fragment: four OMR bubbles inside a stamped
+ * rule, with option B filled in ink. It is the same object the quiz engine
+ * draws, at logo size.
+ */
 export function LogoMark({ className }: { className?: string }) {
   return (
     <svg
-      viewBox="0 0 120 140"
+      viewBox="0 0 48 48"
       role="img"
-      aria-label="FIA Job Prep logo"
-      className={cn("h-9 w-auto", className)}
+      aria-label="CSS MPT Prep"
+      className={cn("h-8 w-8", className)}
     >
-      <defs>
-        <linearGradient id="fiaShield" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#10b981" />
-          <stop offset="100%" stopColor="#047857" />
-        </linearGradient>
-        <linearGradient id="fiaInner" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#34d399" stopOpacity="0.25" />
-          <stop offset="100%" stopColor="#10b981" stopOpacity="0" />
-        </linearGradient>
-      </defs>
-      <path
-        d="M60 6 L108 22 L108 66 C108 96 88 122 60 134 C32 122 12 96 12 66 L12 22 Z"
-        fill="url(#fiaShield)"
-        stroke="#065f46"
-        strokeWidth="2"
+      <rect
+        x="1.5"
+        y="1.5"
+        width="45"
+        height="45"
+        rx="3"
+        className="fill-surface stroke-ink"
+        strokeWidth="3"
       />
+      {/* A — empty */}
+      <circle cx="16" cy="16" r="5.5" className="fill-none stroke-ink" strokeWidth="2" />
+      {/* B — inked */}
+      <circle cx="32" cy="16" r="6.5" className="fill-primary" />
       <path
-        d="M60 14 L100 27 L100 64 C100 90 84 112 60 123 C36 112 20 90 20 64 L20 27 Z"
-        fill="url(#fiaInner)"
-      />
-      <path
-        d="M36 70 L54 88 L86 52"
+        d="M28.8 16.2 L31.2 18.6 L35.4 13.8"
+        className="stroke-surface"
+        strokeWidth="2.2"
         fill="none"
-        stroke="#ffffff"
-        strokeWidth="9"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
-      <circle cx="60" cy="22" r="3" fill="#ffffff" opacity="0.85" />
+      {/* C, D — empty */}
+      <circle cx="16" cy="32" r="5.5" className="fill-none stroke-ink" strokeWidth="2" />
+      <circle cx="32" cy="32" r="5.5" className="fill-none stroke-ink" strokeWidth="2" />
     </svg>
   );
 }
@@ -55,8 +54,10 @@ export function Logo({
     <span className={cn("inline-flex items-center gap-2.5", className)}>
       <LogoMark className={markClassName} />
       {showWordmark && (
-        <span className="font-display text-lg font-extrabold leading-none tracking-tight text-ink">
-          FIA <span className="text-primary-dark">Job Prep</span>
+        <span className="font-display text-lg font-bold leading-none tracking-tight text-ink">
+          CSS MPT<span className="ml-1 font-sans text-xs font-semibold uppercase tracking-[0.18em] text-ink-muted">
+            Prep
+          </span>
         </span>
       )}
     </span>

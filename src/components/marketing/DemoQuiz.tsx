@@ -4,6 +4,8 @@ import { useState } from "react";
 import { ArrowRight, Check, ChevronRight, MessageCircle, RotateCcw, X } from "lucide-react";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
+import { LETTERS, OptionRow, isUrdu } from "@/components/app/OptionRow";
+import { EXAM, cutoffFor } from "@/lib/mpt";
 import { cn } from "@/lib/utils";
 import { buildRegistrationLink } from "@/lib/whatsapp";
 
@@ -16,13 +18,9 @@ export type DemoQuestion = {
   subjectTitle: string;
 };
 
-const LETTERS = ["A", "B", "C", "D"];
-
 export function DemoQuiz({ questions }: { questions: DemoQuestion[] }) {
   const [current, setCurrent] = useState(0);
-  const [answers, setAnswers] = useState<(number | null)[]>(
-    () => questions.map(() => null),
-  );
+  const [answers, setAnswers] = useState<(number | null)[]>(() => questions.map(() => null));
   const [done, setDone] = useState(false);
 
   const q = questions[current];
@@ -44,60 +42,86 @@ export function DemoQuiz({ questions }: { questions: DemoQuestion[] }) {
   }
 
   if (done) {
-    const pctScore = Math.round((score / questions.length) * 100);
+    const cutoff = cutoffFor(questions.length);
+    const cleared = score >= cutoff;
     return (
-      <div className="space-y-5">
-        <div className="rounded-2xl bg-gradient-to-br from-primary to-primary-dark p-8 text-center text-white shadow-lg">
-          <p className="text-sm text-white/80">Demo complete</p>
-          <p className="mt-2 font-mono text-5xl font-extrabold tabular-nums">
-            {score}
-            <span className="text-2xl text-white/70">/{questions.length}</span>
-          </p>
-          <p className="mt-1 font-semibold">{pctScore}% accuracy</p>
-          <p className="mx-auto mt-3 max-w-sm text-sm text-emerald-50">
-            Want timed mocks, 250+ MCQs, and progress tracking? Register to unlock the full platform.
-          </p>
-          <div className="mt-5 flex flex-col justify-center gap-2 sm:flex-row">
-            <a
-              href={buildRegistrationLink()}
-              target="_blank"
-              rel="noopener noreferrer"
-              className={cn(buttonVariants(), "bg-white text-primary-dark hover:bg-emerald-50")}
+      <div className="space-y-8">
+        <div className="border-2 border-ink">
+          <div className="flex items-center justify-between border-b border-border px-5 py-3">
+            <p className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
+              Demo complete
+            </p>
+            <p
+              className={cn(
+                "font-mono text-[11px] font-medium uppercase tracking-[0.14em]",
+                cleared ? "text-primary" : "text-accent",
+              )}
             >
-              <MessageCircle /> Register on WhatsApp
-            </a>
-            <Button variant="secondary" onClick={restart} className="bg-white/15 hover:bg-white/25">
-              <RotateCcw /> Try again
-            </Button>
+              {cleared ? "Above the line" : "Below the line"}
+            </p>
+          </div>
+          <div className="px-6 py-7">
+            <p className="font-mono text-6xl font-medium leading-none text-ink tabular-nums">
+              {score}
+              <span className="text-2xl text-ink-soft">/{questions.length}</span>
+            </p>
+            <p className="mt-3 text-sm text-ink-muted">
+              At the MPT&apos;s {EXAM.passPercent}% bar, {cutoff} of {questions.length} would
+              clear this sample. The real paper is {EXAM.totalQuestions} questions in{" "}
+              {EXAM.durationMin} minutes.
+            </p>
+            <div className="mt-6 flex flex-wrap gap-2">
+              <a
+                href={buildRegistrationLink()}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={cn(buttonVariants())}
+              >
+                <MessageCircle /> Get full access
+              </a>
+              <Button variant="outline" onClick={restart}>
+                <RotateCcw /> Try again
+              </Button>
+            </div>
           </div>
         </div>
 
         {/* Review */}
-        <div className="space-y-3">
+        <div className="divide-y divide-border border-y border-border">
           {questions.map((qq, idx) => {
             const sel = answers[idx];
             const correct = sel === qq.correctIndex;
+            const urduQ = isUrdu(qq.text);
             return (
-              <div key={qq.id} className="rounded-2xl border border-ink/8 bg-surface p-5 shadow-sm">
-                <div className="flex items-start gap-3">
-                  <span
-                    className={cn(
-                      "flex size-7 shrink-0 items-center justify-center rounded-lg text-xs font-bold",
-                      correct ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300" : "bg-rose-100 text-rose-700 dark:bg-rose-500/20 dark:text-rose-300",
-                    )}
+              <div key={qq.id} className="flex items-start gap-3 py-5">
+                <span
+                  className={cn(
+                    "mt-0.5 flex size-6 shrink-0 items-center justify-center rounded-full border-2",
+                    correct
+                      ? "border-primary bg-primary text-surface"
+                      : "border-accent bg-accent text-surface",
+                  )}
+                >
+                  {correct ? (
+                    <Check className="size-3.5" strokeWidth={3} />
+                  ) : (
+                    <X className="size-3.5" strokeWidth={3} />
+                  )}
+                </span>
+                <div className="min-w-0">
+                  <p className="font-mono text-[11px] text-ink-soft">
+                    Q{idx + 1} · {qq.subjectTitle}
+                  </p>
+                  <p
+                    className={cn("mt-1 text-ink", urduQ && "urdu")}
+                    {...(urduQ ? { lang: "ur", dir: "rtl" } : {})}
                   >
-                    {correct ? <Check className="size-4" /> : <X className="size-4" />}
-                  </span>
-                  <div>
-                    <p className="text-sm font-medium text-ink">
-                      <span className="text-ink-soft">Q{idx + 1}. </span>
-                      {qq.text}
-                    </p>
-                    <p className="mt-1 text-sm text-emerald-700 dark:text-emerald-300">
-                      Correct: {LETTERS[qq.correctIndex]}. {qq.options[qq.correctIndex]}
-                    </p>
-                    <p className="mt-1 text-sm text-ink-muted">{qq.explanation}</p>
-                  </div>
+                    {qq.text}
+                  </p>
+                  <p className="mt-1.5 text-sm font-semibold text-primary">
+                    {LETTERS[qq.correctIndex]}. {qq.options[qq.correctIndex]}
+                  </p>
+                  <p className="mt-1 text-sm text-ink-muted">{qq.explanation}</p>
                 </div>
               </div>
             );
@@ -108,57 +132,49 @@ export function DemoQuiz({ questions }: { questions: DemoQuestion[] }) {
   }
 
   return (
-    <div className="rounded-2xl border border-ink/8 bg-surface p-6 shadow-sm sm:p-8">
-      <div className="flex items-center justify-between text-sm">
-        <span className="inline-flex items-center rounded-full bg-primary-light px-2.5 py-0.5 text-xs font-semibold text-primary-dark">
+    <div className="border border-ink/20 bg-surface">
+      <div className="flex items-center justify-between border-b border-border px-5 py-3">
+        <span className="font-mono text-[11px] font-medium uppercase tracking-[0.14em] text-ink-soft">
           {q.subjectTitle}
         </span>
-        <span className="font-mono text-ink-soft">
+        <span className="font-mono text-[11px] text-ink-soft tabular-nums">
           {current + 1} / {questions.length}
         </span>
       </div>
-      <Progress value={((current + 1) / questions.length) * 100} className="mt-3" />
+      <Progress value={((current + 1) / questions.length) * 100} className="h-1 rounded-none" />
 
-      <p className="mt-5 text-lg leading-relaxed text-ink">{q.text}</p>
+      <div className="px-5 py-5">
+        <p
+          className={cn("text-[17px] leading-relaxed text-ink", isUrdu(q.text) && "urdu")}
+          {...(isUrdu(q.text) ? { lang: "ur", dir: "rtl" } : {})}
+        >
+          {q.text}
+        </p>
 
-      <div className="mt-5 grid gap-2.5 sm:grid-cols-2">
-        {q.options.map((opt, i) => {
-          const chosen = answers[current] === i;
-          return (
-            <button
+        <div className="mt-4 border-t border-border">
+          {q.options.map((opt, i) => (
+            <OptionRow
               key={i}
-              onClick={() => choose(i)}
-              className={cn(
-                "flex min-h-[48px] items-center gap-3 rounded-xl border px-4 py-3 text-left text-sm font-medium transition-colors",
-                chosen
-                  ? "border-primary bg-primary-light/60 text-ink"
-                  : "border-ink/12 bg-surface hover:border-primary/40 hover:bg-surface-muted",
-              )}
-            >
-              <span
-                className={cn(
-                  "flex size-6 shrink-0 items-center justify-center rounded-md text-xs font-bold",
-                  chosen ? "bg-primary text-white" : "bg-surface-muted text-ink-muted",
-                )}
-              >
-                {LETTERS[i]}
-              </span>
-              {opt}
-            </button>
-          );
-        })}
-      </div>
+              letter={LETTERS[i]}
+              text={opt}
+              state={answers[current] === i ? "chosen" : "idle"}
+              urdu={isUrdu(opt)}
+              onSelect={() => choose(i)}
+            />
+          ))}
+        </div>
 
-      <div className="mt-6 flex justify-end">
-        {isLast ? (
-          <Button onClick={() => setDone(true)} disabled={answers[current] === null}>
-            See my score <ArrowRight />
-          </Button>
-        ) : (
-          <Button onClick={() => setCurrent((c) => c + 1)} disabled={answers[current] === null}>
-            Next <ChevronRight />
-          </Button>
-        )}
+        <div className="mt-6 flex justify-end">
+          {isLast ? (
+            <Button onClick={() => setDone(true)} disabled={answers[current] === null}>
+              See my score <ArrowRight />
+            </Button>
+          ) : (
+            <Button onClick={() => setCurrent((c) => c + 1)} disabled={answers[current] === null}>
+              Next <ChevronRight />
+            </Button>
+          )}
+        </div>
       </div>
     </div>
   );

@@ -1,0 +1,1436 @@
+{
+  "subject": "general-science-ability",
+  "unit": "gsa-chemistry",
+  "questions": [
+    {
+      "text": "The chemical symbol of sodium is",
+      "options": [
+        "Na",
+        "Sd",
+        "So",
+        "Ni"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sodium takes its symbol Na from its Latin name natrium; Ni is the symbol for nickel.",
+      "difficulty": "EASY",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The chemical symbol of potassium is",
+      "options": [
+        "P",
+        "Pt",
+        "Po",
+        "K"
+      ],
+      "correctIndex": 3,
+      "explanation": "Potassium is denoted K after its Latin name kalium; P stands for phosphorus and Pt for platinum.",
+      "difficulty": "EASY",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The chemical symbol Fe stands for",
+      "options": [
+        "Iron",
+        "Fluorine",
+        "Francium",
+        "Fermium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fe comes from ferrum, the Latin name of iron; fluorine is F and francium is Fr.",
+      "difficulty": "EASY",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The chemical symbol of gold is",
+      "options": [
+        "Go",
+        "Au",
+        "Gd",
+        "Ag"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gold is written Au from the Latin aurum; Ag is silver and Gd is gadolinium.",
+      "difficulty": "EASY",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The chemical symbol Pb belongs to",
+      "options": [
+        "Palladium",
+        "Phosphorus",
+        "Platinum",
+        "Lead"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pb is taken from plumbum, the Latin name of lead, which also gives us the word plumbing.",
+      "difficulty": "MEDIUM",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The chemical symbol of tin is",
+      "options": [
+        "Sn",
+        "Ti",
+        "Tn",
+        "Te"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tin is Sn from the Latin stannum; Ti is titanium and Te is tellurium.",
+      "difficulty": "HARD",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The chemical symbol Hg is used for",
+      "options": [
+        "Mercury",
+        "Manganese",
+        "Magnesium",
+        "Hafnium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mercury is Hg from hydrargyrum, meaning liquid silver.",
+      "difficulty": "MEDIUM",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The most abundant element in the Earth's crust is",
+      "options": [
+        "Silicon",
+        "Oxygen",
+        "Aluminium",
+        "Iron"
+      ],
+      "correctIndex": 1,
+      "explanation": "Oxygen makes up roughly 46 per cent of the crust by mass, mainly locked up in silicate and oxide minerals.",
+      "difficulty": "MEDIUM",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The most abundant element in the universe is",
+      "options": [
+        "Helium",
+        "Carbon",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hydrogen accounts for about three quarters of the ordinary matter of the universe by mass.",
+      "difficulty": "MEDIUM",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The most abundant metal in the Earth's crust is",
+      "options": [
+        "Aluminium",
+        "Iron",
+        "Calcium",
+        "Sodium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aluminium is the commonest metal of the crust at about 8 per cent by mass, ahead of iron.",
+      "difficulty": "MEDIUM",
+      "topic": "elements-and-symbols"
+    },
+    {
+      "text": "The modern periodic law arranges elements in order of increasing",
+      "options": [
+        "Atomic mass",
+        "Density",
+        "Valency",
+        "Atomic number"
+      ],
+      "correctIndex": 3,
+      "explanation": "Properties of elements are periodic functions of atomic number, which resolved the anomalies of the mass-based table.",
+      "difficulty": "MEDIUM",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "The scientist who established that the properties of elements depend on atomic number was",
+      "options": [
+        "Mendeleev",
+        "Newlands",
+        "Moseley",
+        "Dobereiner"
+      ],
+      "correctIndex": 2,
+      "explanation": "Henry Moseley's X-ray studies showed atomic number, not atomic mass, is the fundamental ordering property.",
+      "difficulty": "HARD",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "Elements of Group 1 of the periodic table are known as",
+      "options": [
+        "Alkaline earth metals",
+        "Alkali metals",
+        "Halogens",
+        "Noble gases"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lithium, sodium, potassium and their congeners form strongly alkaline hydroxides and are called alkali metals.",
+      "difficulty": "EASY",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "Fluorine, chlorine, bromine and iodine together form the group called",
+      "options": [
+        "Chalcogens",
+        "Alkali metals",
+        "Noble gases",
+        "Halogens"
+      ],
+      "correctIndex": 3,
+      "explanation": "Group 17 elements are the halogens, a name meaning salt-formers.",
+      "difficulty": "MEDIUM",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "Helium, neon, argon and krypton belong to the group called",
+      "options": [
+        "Halogens",
+        "Noble gases",
+        "Transition metals",
+        "Alkaline earth metals"
+      ],
+      "correctIndex": 1,
+      "explanation": "These Group 18 elements have complete outer electron shells and are chemically very unreactive.",
+      "difficulty": "EASY",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "The number of periods in the modern periodic table is",
+      "options": [
+        "five",
+        "six",
+        "seven",
+        "eight"
+      ],
+      "correctIndex": 2,
+      "explanation": "The table has seven horizontal rows, each period corresponding to the filling of a principal energy level.",
+      "difficulty": "MEDIUM",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "The number of groups in the long form of the periodic table is",
+      "options": [
+        "eight",
+        "sixteen",
+        "eighteen",
+        "twenty"
+      ],
+      "correctIndex": 2,
+      "explanation": "The long form has eighteen vertical columns numbered 1 to 18.",
+      "difficulty": "MEDIUM",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "The atomic number of an element is equal to the number of",
+      "options": [
+        "Protons in its nucleus",
+        "Neutrons in its nucleus",
+        "Neutrons and protons together",
+        "Neutrons and electrons together"
+      ],
+      "correctIndex": 0,
+      "explanation": "Atomic number is defined as the count of protons; the sum of protons and neutrons is the mass number.",
+      "difficulty": "EASY",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "Isotopes of the same element differ from one another in the number of",
+      "options": [
+        "Protons",
+        "Electrons",
+        "Neutrons",
+        "Nuclei"
+      ],
+      "correctIndex": 2,
+      "explanation": "Isotopes share the same proton number but carry different numbers of neutrons, so their mass numbers differ.",
+      "difficulty": "MEDIUM",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "The most electronegative element is",
+      "options": [
+        "Fluorine",
+        "Chlorine",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fluorine has the highest electronegativity of all elements, about 4.0 on the Pauling scale.",
+      "difficulty": "MEDIUM",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "The lanthanide and actinide series of elements belong to the",
+      "options": [
+        "s-block",
+        "f-block",
+        "d-block",
+        "p-block"
+      ],
+      "correctIndex": 1,
+      "explanation": "In these two inner transition series the differentiating electron enters an f orbital, so they form the f-block.",
+      "difficulty": "HARD",
+      "topic": "periodic-table"
+    },
+    {
+      "text": "The only metal that is liquid at ordinary room temperature is",
+      "options": [
+        "Lead",
+        "Bromine",
+        "Sodium",
+        "Mercury"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mercury melts at about minus 39 degrees Celsius and so is liquid at room temperature; bromine is a non-metal.",
+      "difficulty": "EASY",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "The only non-metal that is liquid at ordinary room temperature is",
+      "options": [
+        "Iodine",
+        "Chlorine",
+        "Bromine",
+        "Phosphorus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bromine is a dense reddish-brown liquid; iodine is solid and chlorine is a gas at room temperature.",
+      "difficulty": "MEDIUM",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "The gas used to fill airships and weather balloons because it is light and non-inflammable is",
+      "options": [
+        "Helium",
+        "Argon",
+        "Neon",
+        "Krypton"
+      ],
+      "correctIndex": 0,
+      "explanation": "Helium has very low density but, unlike hydrogen, does not burn, so it is preferred for lifting balloons.",
+      "difficulty": "EASY",
+      "topic": "common-gases"
+    },
+    {
+      "text": "Ordinary incandescent electric bulbs are usually filled with",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Helium",
+        "Argon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Argon is inert and cheap, so it protects the hot tungsten filament from burning away.",
+      "difficulty": "MEDIUM",
+      "topic": "common-gases"
+    },
+    {
+      "text": "The gas that gives a bright red-orange glow in advertisement discharge tubes is",
+      "options": [
+        "Xenon",
+        "Argon",
+        "Neon",
+        "Radon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Neon emits the familiar red-orange light in discharge tubes, which is why such signs are called neon signs.",
+      "difficulty": "MEDIUM",
+      "topic": "common-gases"
+    },
+    {
+      "text": "The approximate percentage of nitrogen in dry air by volume is",
+      "options": [
+        "21",
+        "39",
+        "78",
+        "94"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dry air is about 78 per cent nitrogen and 21 per cent oxygen by volume.",
+      "difficulty": "EASY",
+      "topic": "common-gases"
+    },
+    {
+      "text": "The pH of pure water at 25 degrees Celsius is",
+      "options": [
+        "zero",
+        "seven",
+        "ten",
+        "fourteen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pure water is neutral because the concentrations of hydrogen and hydroxide ions are equal, giving pH 7.",
+      "difficulty": "EASY",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "Blue litmus paper dipped in an acidic solution turns",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Colourless"
+      ],
+      "correctIndex": 1,
+      "explanation": "Acids turn blue litmus red, while bases turn red litmus blue.",
+      "difficulty": "EASY",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "The acid present in human gastric juice is",
+      "options": [
+        "Sulphuric acid",
+        "Nitric acid",
+        "Hydrochloric acid",
+        "Acetic acid"
+      ],
+      "correctIndex": 2,
+      "explanation": "Parietal cells of the stomach secrete hydrochloric acid, which activates pepsin and kills swallowed microbes.",
+      "difficulty": "EASY",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "The acid that gives vinegar its sour taste is",
+      "options": [
+        "Citric acid",
+        "Formic acid",
+        "Lactic acid",
+        "Acetic acid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vinegar is a dilute aqueous solution of acetic acid, usually about 5 to 8 per cent.",
+      "difficulty": "EASY",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "The acid found in lemons and other citrus fruits is",
+      "options": [
+        "Citric acid",
+        "Tartaric acid",
+        "Oxalic acid",
+        "Butyric acid"
+      ],
+      "correctIndex": 0,
+      "explanation": "Citric acid is the dominant organic acid of citrus fruits and gives them their sharp taste.",
+      "difficulty": "EASY",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "Souring of milk into curd is caused by the formation of",
+      "options": [
+        "Butyric acid",
+        "Lactic acid",
+        "Formic acid",
+        "Acetic acid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bacteria ferment lactose into lactic acid, which lowers the pH and curdles the milk protein.",
+      "difficulty": "MEDIUM",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "The irritation caused by an ant sting is due to",
+      "options": [
+        "Oxalic acid",
+        "Acetic acid",
+        "Citric acid",
+        "Formic acid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ants inject formic acid, which takes its name from formica, the Latin word for ant.",
+      "difficulty": "MEDIUM",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "The acid used as electrolyte in a lead storage battery is",
+      "options": [
+        "Sulphuric acid",
+        "Hydrochloric acid",
+        "Nitric acid",
+        "Phosphoric acid"
+      ],
+      "correctIndex": 0,
+      "explanation": "A lead-acid accumulator uses dilute sulphuric acid between lead and lead dioxide plates.",
+      "difficulty": "MEDIUM",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "Aqua regia, which dissolves gold, is a mixture of concentrated hydrochloric acid and concentrated nitric acid in the ratio",
+      "options": [
+        "1:3",
+        "3:1",
+        "1:1",
+        "2:1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Aqua regia is three parts concentrated hydrochloric acid to one part concentrated nitric acid by volume.",
+      "difficulty": "HARD",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "Caustic soda is the common name of",
+      "options": [
+        "Sodium carbonate",
+        "Sodium bicarbonate",
+        "Sodium hydroxide",
+        "Sodium chloride"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sodium hydroxide is called caustic soda because it corrodes skin and other organic matter.",
+      "difficulty": "MEDIUM",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "Milk of magnesia, taken as an antacid, is a suspension of",
+      "options": [
+        "Magnesium carbonate",
+        "Magnesium sulphate",
+        "Magnesium chloride",
+        "Magnesium hydroxide"
+      ],
+      "correctIndex": 3,
+      "explanation": "Magnesium hydroxide is a mild base that neutralises excess hydrochloric acid in the stomach.",
+      "difficulty": "MEDIUM",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "The chemical formula of common table salt is",
+      "options": [
+        "NaOH",
+        "KCl",
+        "NaCl",
+        "Na2CO3"
+      ],
+      "correctIndex": 2,
+      "explanation": "Table salt is sodium chloride, an ionic compound of sodium and chlorine.",
+      "difficulty": "EASY",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "Baking soda is chemically known as",
+      "options": [
+        "Sodium bicarbonate",
+        "Sodium carbonate",
+        "Calcium carbonate",
+        "Sodium nitrate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Baking soda is sodium bicarbonate, NaHCO3, which releases carbon dioxide on heating and makes dough rise.",
+      "difficulty": "EASY",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "Washing soda is chemically",
+      "options": [
+        "Sodium bicarbonate",
+        "Sodium carbonate decahydrate",
+        "Sodium hydroxide",
+        "Sodium sulphate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Washing soda is Na2CO3.10H2O, the hydrated form of sodium carbonate used to soften water for laundry.",
+      "difficulty": "MEDIUM",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "The acid used for etching designs on glass is",
+      "options": [
+        "Hydrochloric acid",
+        "Nitric acid",
+        "Sulphuric acid",
+        "Hydrofluoric acid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hydrofluoric acid attacks silica in glass, forming silicon tetrafluoride, so it is used for etching.",
+      "difficulty": "HARD",
+      "topic": "acids-bases-salts"
+    },
+    {
+      "text": "The chemical formula of limestone is",
+      "options": [
+        "CaO",
+        "Ca(OH)2",
+        "CaCO3",
+        "CaSO4"
+      ],
+      "correctIndex": 2,
+      "explanation": "Limestone, marble and chalk are all forms of calcium carbonate, CaCO3.",
+      "difficulty": "EASY",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "Quicklime, obtained by strongly heating limestone, is",
+      "options": [
+        "Calcium hydroxide",
+        "Calcium oxide",
+        "Calcium chloride",
+        "Calcium sulphate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Heating calcium carbonate drives off carbon dioxide and leaves calcium oxide, CaO, called quicklime.",
+      "difficulty": "MEDIUM",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "Slaked lime has the formula",
+      "options": [
+        "Ca(OH)2",
+        "CaCO3",
+        "CaO",
+        "CaCl2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Adding water to quicklime gives calcium hydroxide, Ca(OH)2, known as slaked lime.",
+      "difficulty": "MEDIUM",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "Plaster of Paris is obtained by the controlled heating of",
+      "options": [
+        "Gypsum",
+        "Limestone",
+        "Bauxite",
+        "Dolomite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gypsum, calcium sulphate dihydrate, loses most of its water at about 120 degrees Celsius to give plaster of Paris.",
+      "difficulty": "MEDIUM",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "Blue vitriol is the common name of",
+      "options": [
+        "Ferrous sulphate",
+        "Copper sulphate",
+        "Zinc sulphate",
+        "Sodium sulphate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hydrated copper sulphate, CuSO4.5H2O, forms blue crystals and is called blue vitriol.",
+      "difficulty": "HARD",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "Laughing gas, used as a mild anaesthetic, is",
+      "options": [
+        "Nitric oxide",
+        "Dinitrogen pentoxide",
+        "Nitrogen dioxide",
+        "Nitrous oxide"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nitrous oxide, N2O, produces a euphoric effect on inhalation, hence the name laughing gas.",
+      "difficulty": "MEDIUM",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "Dry ice is the solid form of",
+      "options": [
+        "Water",
+        "Ammonia",
+        "Carbon dioxide",
+        "Sulphur dioxide"
+      ],
+      "correctIndex": 2,
+      "explanation": "Solid carbon dioxide sublimes directly to gas without wetting anything, so it is called dry ice.",
+      "difficulty": "EASY",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "The chemical formula of ammonia is",
+      "options": [
+        "NH4",
+        "N2H4",
+        "NH3",
+        "NH2"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ammonia is NH3, a pungent gas in which nitrogen is bonded to three hydrogen atoms.",
+      "difficulty": "EASY",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "The chemical formula of methane is",
+      "options": [
+        "C2H6",
+        "C2H2",
+        "C2H4",
+        "CH4"
+      ],
+      "correctIndex": 3,
+      "explanation": "Methane, the first member of the alkane series, has one carbon bonded to four hydrogen atoms.",
+      "difficulty": "EASY",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "Ozone is an allotrope of oxygen having the formula",
+      "options": [
+        "O3",
+        "O2",
+        "O4",
+        "O2-"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ozone consists of three oxygen atoms per molecule and forms the protective layer in the stratosphere.",
+      "difficulty": "MEDIUM",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "Rust formed on iron is chemically",
+      "options": [
+        "Ferrous oxide",
+        "Hydrated ferric oxide",
+        "Iron carbonate",
+        "Iron sulphide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rust is hydrated iron(III) oxide, Fe2O3.xH2O, produced when iron reacts with oxygen in the presence of moisture.",
+      "difficulty": "MEDIUM",
+      "topic": "common-compounds"
+    },
+    {
+      "text": "Among metals, the best conductor of electricity is",
+      "options": [
+        "Silver",
+        "Copper",
+        "Gold",
+        "Aluminium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Silver has the highest electrical conductivity of all metals, though copper is used in wiring because it is cheaper.",
+      "difficulty": "MEDIUM",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "The most malleable and ductile metal is",
+      "options": [
+        "Silver",
+        "Platinum",
+        "Copper",
+        "Gold"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gold can be beaten into extremely thin leaf and drawn into very fine wire, exceeding all other metals.",
+      "difficulty": "MEDIUM",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "The metal with the lowest density is",
+      "options": [
+        "Sodium",
+        "Lithium",
+        "Aluminium",
+        "Magnesium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lithium has a density of about 0.53 grams per cubic centimetre, the lowest of any metal.",
+      "difficulty": "HARD",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "The hardest naturally occurring substance is",
+      "options": [
+        "Quartz",
+        "Corundum",
+        "Diamond",
+        "Graphite"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diamond, a form of carbon with a rigid three-dimensional network of covalent bonds, tops the Mohs scale at 10.",
+      "difficulty": "EASY",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "Sodium metal is stored under",
+      "options": [
+        "Water",
+        "Alcohol",
+        "Dilute acid",
+        "Kerosene"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sodium reacts violently with water and moist air, so it is kept under kerosene, with which it does not react.",
+      "difficulty": "MEDIUM",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "Rusting of iron takes place only in the presence of",
+      "options": [
+        "Carbon dioxide and oxygen",
+        "Nitrogen and water",
+        "Oxygen and water",
+        "Water alone"
+      ],
+      "correctIndex": 2,
+      "explanation": "Both air and moisture are needed; iron does not rust in dry air or in air-free water.",
+      "difficulty": "MEDIUM",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "Galvanisation protects iron by coating it with a layer of",
+      "options": [
+        "Tin",
+        "Zinc",
+        "Chromium",
+        "Nickel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Zinc is more reactive than iron and corrodes in its place, giving sacrificial protection.",
+      "difficulty": "MEDIUM",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "The non-metal that conducts electricity and is used to make electrodes is",
+      "options": [
+        "Graphite",
+        "Sulphur",
+        "Phosphorus",
+        "Iodine"
+      ],
+      "correctIndex": 0,
+      "explanation": "In graphite each carbon uses only three of its four valence electrons for bonding, leaving delocalised electrons that carry current.",
+      "difficulty": "MEDIUM",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "The chief ore from which aluminium is extracted is",
+      "options": [
+        "Haematite",
+        "Galena",
+        "Cinnabar",
+        "Bauxite"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bauxite, a hydrated aluminium oxide, is purified to alumina and then electrolysed to obtain aluminium.",
+      "difficulty": "MEDIUM",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "Haematite is an important ore of",
+      "options": [
+        "Iron",
+        "Copper",
+        "Zinc",
+        "Lead"
+      ],
+      "correctIndex": 0,
+      "explanation": "Haematite is ferric oxide, Fe2O3, and is the principal ore smelted in blast furnaces to make iron.",
+      "difficulty": "MEDIUM",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "Cinnabar is an ore of",
+      "options": [
+        "Lead",
+        "Mercury",
+        "Silver",
+        "Tin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cinnabar is mercuric sulphide, HgS, the main natural source of mercury.",
+      "difficulty": "HARD",
+      "topic": "metals-and-non-metals"
+    },
+    {
+      "text": "Brass is an alloy of",
+      "options": [
+        "Copper and tin",
+        "Copper and nickel",
+        "Copper and zinc",
+        "Zinc and tin"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brass is made mainly of copper with zinc added, which makes it harder and more workable than pure copper.",
+      "difficulty": "EASY",
+      "topic": "alloys"
+    },
+    {
+      "text": "Bronze is an alloy of",
+      "options": [
+        "Copper and zinc",
+        "Tin and zinc",
+        "Copper and lead",
+        "Copper and tin"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bronze is copper alloyed with tin, historically the first alloy widely used for tools and weapons.",
+      "difficulty": "EASY",
+      "topic": "alloys"
+    },
+    {
+      "text": "Steel is an alloy of iron with",
+      "options": [
+        "Carbon",
+        "Nickel",
+        "Copper",
+        "Zinc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ordinary steel is iron containing a small controlled percentage of carbon, which greatly increases its strength.",
+      "difficulty": "EASY",
+      "topic": "alloys"
+    },
+    {
+      "text": "The element added to steel to make it stainless is",
+      "options": [
+        "Nickel",
+        "Tungsten",
+        "Chromium",
+        "Manganese"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chromium forms a thin adherent oxide film on the surface that stops further corrosion.",
+      "difficulty": "MEDIUM",
+      "topic": "alloys"
+    },
+    {
+      "text": "Ordinary soft solder used in electrical work is an alloy of",
+      "options": [
+        "Tin and zinc",
+        "Tin and lead",
+        "Lead and copper",
+        "Zinc and lead"
+      ],
+      "correctIndex": 1,
+      "explanation": "Solder is mainly tin and lead, a combination chosen for its low melting point.",
+      "difficulty": "HARD",
+      "topic": "alloys"
+    },
+    {
+      "text": "German silver is an alloy of",
+      "options": [
+        "Silver, copper and zinc",
+        "Silver and nickel",
+        "Copper, zinc and nickel",
+        "Copper and silver"
+      ],
+      "correctIndex": 2,
+      "explanation": "Despite its name German silver contains no silver at all; it is copper, zinc and nickel.",
+      "difficulty": "HARD",
+      "topic": "alloys"
+    },
+    {
+      "text": "The chief constituent of the alloy duralumin is",
+      "options": [
+        "Aluminium",
+        "Copper",
+        "Magnesium",
+        "Zinc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Duralumin is largely aluminium with small amounts of copper, magnesium and manganese, and is used in aircraft.",
+      "difficulty": "HARD",
+      "topic": "alloys"
+    },
+    {
+      "text": "An amalgam is an alloy in which one component is always",
+      "options": [
+        "Lead",
+        "Zinc",
+        "Tin",
+        "Mercury"
+      ],
+      "correctIndex": 3,
+      "explanation": "By definition an amalgam is an alloy of mercury with another metal, as in dental fillings.",
+      "difficulty": "MEDIUM",
+      "topic": "alloys"
+    },
+    {
+      "text": "The chief constituent of compressed natural gas is",
+      "options": [
+        "Ethane",
+        "Methane",
+        "Butane",
+        "Propane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Natural gas and the CNG made from it are about 90 per cent methane.",
+      "difficulty": "EASY",
+      "topic": "fuels"
+    },
+    {
+      "text": "Liquefied petroleum gas used in domestic cylinders is mainly a mixture of",
+      "options": [
+        "Methane and ethane",
+        "Ethene and propene",
+        "Butane and propane",
+        "Methane and hydrogen"
+      ],
+      "correctIndex": 2,
+      "explanation": "LPG consists chiefly of butane and propane, which liquefy easily under moderate pressure.",
+      "difficulty": "MEDIUM",
+      "topic": "fuels"
+    },
+    {
+      "text": "Crude petroleum is separated into petrol, kerosene and diesel by",
+      "options": [
+        "Sublimation",
+        "Filtration",
+        "Crystallisation",
+        "Fractional distillation"
+      ],
+      "correctIndex": 3,
+      "explanation": "The fractions have different boiling ranges and are drawn off at different heights of a fractionating column.",
+      "difficulty": "EASY",
+      "topic": "fuels"
+    },
+    {
+      "text": "The octane number of a fuel is a measure of its",
+      "options": [
+        "Ignition quality in a diesel engine",
+        "Resistance to knocking in a petrol engine",
+        "Sulphur content",
+        "Density"
+      ],
+      "correctIndex": 1,
+      "explanation": "A higher octane number means the petrol resists premature ignition, or knocking, in the engine cylinder.",
+      "difficulty": "MEDIUM",
+      "topic": "fuels"
+    },
+    {
+      "text": "Water gas is a mixture of",
+      "options": [
+        "Carbon monoxide and hydrogen",
+        "Carbon monoxide and nitrogen",
+        "Carbon dioxide and hydrogen",
+        "Methane and hydrogen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Passing steam over red-hot coke gives carbon monoxide and hydrogen, together called water gas.",
+      "difficulty": "HARD",
+      "topic": "fuels"
+    },
+    {
+      "text": "The main combustible constituent of biogas is",
+      "options": [
+        "Methane",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Hydrogen sulphide"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anaerobic digestion of organic waste yields a gas that is mostly methane, with carbon dioxide as the main diluent.",
+      "difficulty": "MEDIUM",
+      "topic": "fuels"
+    },
+    {
+      "text": "The fuel with the highest calorific value per kilogram is",
+      "options": [
+        "Petrol",
+        "Methane",
+        "Hydrogen",
+        "Coal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hydrogen releases roughly 150 kilojoules per gram on burning, far more than any hydrocarbon fuel.",
+      "difficulty": "MEDIUM",
+      "topic": "fuels"
+    },
+    {
+      "text": "Incomplete combustion of carbon-containing fuels produces the poisonous gas",
+      "options": [
+        "Carbon dioxide",
+        "Carbon monoxide",
+        "Sulphur dioxide",
+        "Nitrogen dioxide"
+      ],
+      "correctIndex": 1,
+      "explanation": "With insufficient oxygen, carbon burns to carbon monoxide, which binds haemoglobin and blocks oxygen transport.",
+      "difficulty": "EASY",
+      "topic": "fuels"
+    },
+    {
+      "text": "The variety of coal with the highest carbon content is",
+      "options": [
+        "Peat",
+        "Lignite",
+        "Bituminous",
+        "Anthracite"
+      ],
+      "correctIndex": 3,
+      "explanation": "Anthracite is the most mature coal, containing over 90 per cent carbon, and burns with almost no smoke.",
+      "difficulty": "MEDIUM",
+      "topic": "fuels"
+    },
+    {
+      "text": "The monomer from which polythene is made is",
+      "options": [
+        "Styrene",
+        "Propene",
+        "Vinyl chloride",
+        "Ethene"
+      ],
+      "correctIndex": 3,
+      "explanation": "Polythene is formed by addition polymerisation of ethene molecules under heat and pressure.",
+      "difficulty": "MEDIUM",
+      "topic": "plastics-and-polymers"
+    },
+    {
+      "text": "The plastic abbreviated PVC is",
+      "options": [
+        "Polyvinyl carbonate",
+        "Phenyl vinyl chloride",
+        "Polyvinyl chloride",
+        "Polyvinylidene carbonate"
+      ],
+      "correctIndex": 2,
+      "explanation": "PVC stands for polyvinyl chloride, made from vinyl chloride and used for pipes, cables and sheets.",
+      "difficulty": "EASY",
+      "topic": "plastics-and-polymers"
+    },
+    {
+      "text": "Bakelite, used for electrical switches, is an example of a",
+      "options": [
+        "Thermoplastic",
+        "Elastomer",
+        "Natural polymer",
+        "Thermosetting plastic"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bakelite sets permanently on moulding into a cross-linked network and cannot be softened again by heating.",
+      "difficulty": "MEDIUM",
+      "topic": "plastics-and-polymers"
+    },
+    {
+      "text": "The chemical name of Teflon, used for non-stick coatings, is",
+      "options": [
+        "Polytetrafluoroethylene",
+        "Polyvinyl chloride",
+        "Polystyrene",
+        "Polyurethane"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teflon is polytetrafluoroethylene, whose strong carbon-fluorine bonds make it inert and slippery.",
+      "difficulty": "MEDIUM",
+      "topic": "plastics-and-polymers"
+    },
+    {
+      "text": "Nylon belongs to the class of polymers called",
+      "options": [
+        "Polyesters",
+        "Polyamides",
+        "Polyolefins",
+        "Polyethers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nylon chains are joined by amide linkages, the same type of bond found in proteins.",
+      "difficulty": "HARD",
+      "topic": "plastics-and-polymers"
+    },
+    {
+      "text": "Vulcanisation of rubber is carried out by heating it with",
+      "options": [
+        "Sulphur",
+        "Carbon",
+        "Phosphorus",
+        "Chlorine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sulphur forms cross-links between rubber chains, making the rubber harder, stronger and less sticky.",
+      "difficulty": "MEDIUM",
+      "topic": "plastics-and-polymers"
+    },
+    {
+      "text": "The chemical formula of urea is",
+      "options": [
+        "NH4NO3",
+        "NH4Cl",
+        "(NH4)2SO4",
+        "CO(NH2)2"
+      ],
+      "correctIndex": 3,
+      "explanation": "Urea, CO(NH2)2, is made industrially from ammonia and carbon dioxide and is the world's commonest nitrogen fertiliser.",
+      "difficulty": "MEDIUM",
+      "topic": "fertilisers"
+    },
+    {
+      "text": "The approximate nitrogen content of urea fertiliser is",
+      "options": [
+        "26 per cent",
+        "36 per cent",
+        "46 per cent",
+        "56 per cent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Urea contains about 46 per cent nitrogen by mass, the highest of any solid nitrogen fertiliser.",
+      "difficulty": "HARD",
+      "topic": "fertilisers"
+    },
+    {
+      "text": "In fertiliser grading, the letters NPK stand for",
+      "options": [
+        "Nitrogen, palladium and potassium",
+        "Nickel, phosphorus and potassium",
+        "Nitrogen, phosphorus and potassium",
+        "Nitrogen, phosphorus and krypton"
+      ],
+      "correctIndex": 2,
+      "explanation": "N, P and K are the three major plant nutrients supplied by mixed fertilisers.",
+      "difficulty": "EASY",
+      "topic": "fertilisers"
+    },
+    {
+      "text": "The fertiliser DAP supplies plants with",
+      "options": [
+        "Nitrogen and potassium",
+        "Nitrogen and phosphorus",
+        "Phosphorus and potassium",
+        "Potassium and sulphur"
+      ],
+      "correctIndex": 1,
+      "explanation": "DAP is diammonium phosphate, so it provides both nitrogen and phosphorus.",
+      "difficulty": "MEDIUM",
+      "topic": "fertilisers"
+    },
+    {
+      "text": "Ammonia is manufactured on an industrial scale by the",
+      "options": [
+        "Haber process",
+        "Contact process",
+        "Solvay process",
+        "Ostwald process"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Haber process combines nitrogen and hydrogen at high pressure over an iron catalyst to give ammonia.",
+      "difficulty": "MEDIUM",
+      "topic": "industrial-chemistry"
+    },
+    {
+      "text": "The catalyst used in the Haber process is",
+      "options": [
+        "Platinum",
+        "Nickel",
+        "Vanadium pentoxide",
+        "Iron"
+      ],
+      "correctIndex": 3,
+      "explanation": "Finely divided iron, with promoters, catalyses the combination of nitrogen and hydrogen into ammonia.",
+      "difficulty": "HARD",
+      "topic": "industrial-chemistry"
+    },
+    {
+      "text": "Muriate of potash used as a fertiliser is chemically",
+      "options": [
+        "Potassium nitrate",
+        "Potassium sulphate",
+        "Potassium chloride",
+        "Potassium carbonate"
+      ],
+      "correctIndex": 2,
+      "explanation": "Muriate of potash is potassium chloride, KCl, the cheapest and most widely used potassium fertiliser.",
+      "difficulty": "HARD",
+      "topic": "fertilisers"
+    },
+    {
+      "text": "Sulphuric acid is manufactured industrially by the",
+      "options": [
+        "Haber process",
+        "Contact process",
+        "Solvay process",
+        "Ostwald process"
+      ],
+      "correctIndex": 1,
+      "explanation": "In the contact process sulphur dioxide is oxidised to sulphur trioxide over a catalyst and then absorbed to give sulphuric acid.",
+      "difficulty": "MEDIUM",
+      "topic": "industrial-chemistry"
+    },
+    {
+      "text": "Sodium carbonate is manufactured industrially by the",
+      "options": [
+        "Ostwald process",
+        "Contact process",
+        "Haber process",
+        "Solvay process"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Solvay or ammonia-soda process makes sodium carbonate from brine, limestone and ammonia.",
+      "difficulty": "HARD",
+      "topic": "industrial-chemistry"
+    },
+    {
+      "text": "Nitric acid is manufactured industrially by the",
+      "options": [
+        "Ostwald process",
+        "Solvay process",
+        "Contact process",
+        "Bessemer process"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Ostwald process oxidises ammonia over a platinum catalyst to nitrogen oxides, which are absorbed in water to give nitric acid.",
+      "difficulty": "HARD",
+      "topic": "industrial-chemistry"
+    },
+    {
+      "text": "Electrolysis of concentrated brine yields caustic soda, hydrogen and",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Chlorine",
+        "Ammonia"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the chlor-alkali process chloride ions are oxidised at the anode to chlorine gas.",
+      "difficulty": "HARD",
+      "topic": "industrial-chemistry"
+    },
+    {
+      "text": "The principal raw material used in the manufacture of ordinary glass is",
+      "options": [
+        "Limestone",
+        "Silica sand",
+        "Clay",
+        "Gypsum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Glass is made by fusing silica sand with soda ash and limestone, silica being the main ingredient.",
+      "difficulty": "MEDIUM",
+      "topic": "industrial-chemistry"
+    },
+    {
+      "text": "Chlorofluorocarbons released from refrigerators and aerosols are harmful because they destroy",
+      "options": [
+        "Atmospheric oxygen",
+        "Soil nitrogen",
+        "Ground water",
+        "The ozone layer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chlorine atoms released from CFCs by ultraviolet light break ozone molecules apart in the stratosphere.",
+      "difficulty": "EASY",
+      "topic": "industrial-chemistry"
+    },
+    {
+      "text": "Bleaching powder is prepared by passing chlorine over",
+      "options": [
+        "Quicklime",
+        "Dry slaked lime",
+        "Limestone",
+        "Gypsum"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chlorine passed over dry calcium hydroxide gives bleaching powder, used for disinfecting and bleaching.",
+      "difficulty": "HARD",
+      "topic": "industrial-chemistry"
+    },
+    {
+      "text": "Hardness of water is caused mainly by the dissolved salts of",
+      "options": [
+        "Calcium and magnesium",
+        "Sodium and potassium",
+        "Iron and copper",
+        "Lead and zinc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Calcium and magnesium ions react with soap to form an insoluble scum, which is what makes water hard.",
+      "difficulty": "MEDIUM",
+      "topic": "water-chemistry"
+    },
+    {
+      "text": "Temporary hardness of water is due to the presence of",
+      "options": [
+        "Chlorides of calcium and magnesium",
+        "Sulphates of calcium and magnesium",
+        "Bicarbonates of calcium and magnesium",
+        "Nitrates of calcium and magnesium"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dissolved calcium and magnesium bicarbonates decompose on heating, which is why this hardness is called temporary.",
+      "difficulty": "HARD",
+      "topic": "water-chemistry"
+    },
+    {
+      "text": "Temporary hardness of water can be removed simply by",
+      "options": [
+        "Adding common salt",
+        "Filtration",
+        "Boiling",
+        "Cooling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Boiling decomposes the bicarbonates into insoluble carbonates that settle out as scale.",
+      "difficulty": "MEDIUM",
+      "topic": "water-chemistry"
+    },
+    {
+      "text": "Municipal drinking water is commonly disinfected by adding",
+      "options": [
+        "Ammonia",
+        "Chlorine",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chlorine kills bacteria and leaves a residual that protects the water in the distribution network.",
+      "difficulty": "EASY",
+      "topic": "water-chemistry"
+    },
+    {
+      "text": "Water has its maximum density at",
+      "options": [
+        "0 degrees Celsius",
+        "4 degrees Celsius",
+        "25 degrees Celsius",
+        "100 degrees Celsius"
+      ],
+      "correctIndex": 1,
+      "explanation": "Water is densest at 4 degrees Celsius, which is why ice floats and ponds freeze from the top down.",
+      "difficulty": "MEDIUM",
+      "topic": "water-chemistry"
+    },
+    {
+      "text": "Heavy water, used as a moderator in nuclear reactors, is",
+      "options": [
+        "Hydrogen peroxide",
+        "Water under high pressure",
+        "Highly mineralised water",
+        "Deuterium oxide"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heavy water is D2O, in which ordinary hydrogen is replaced by its heavier isotope deuterium.",
+      "difficulty": "HARD",
+      "topic": "water-chemistry"
+    },
+    {
+      "text": "Electrolysis of acidified water gives hydrogen and oxygen in a volume ratio of",
+      "options": [
+        "2:1",
+        "1:2",
+        "1:1",
+        "3:1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since water is H2O, twice as much hydrogen as oxygen is liberated by volume.",
+      "difficulty": "MEDIUM",
+      "topic": "water-chemistry"
+    },
+    {
+      "text": "Hard water is unsuitable for washing because it",
+      "options": [
+        "Does not readily form lather with soap",
+        "Boils at a lower temperature",
+        "Cannot dissolve detergents",
+        "Freezes very quickly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Calcium and magnesium ions precipitate soap as an insoluble scum instead of producing lather.",
+      "difficulty": "EASY",
+      "topic": "water-chemistry"
+    },
+    {
+      "text": "A controlled amount of fluoride is added to drinking water or toothpaste to prevent",
+      "options": [
+        "Goitre",
+        "Anaemia",
+        "Dental caries",
+        "Rickets"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fluoride strengthens tooth enamel against acid attack and so reduces tooth decay.",
+      "difficulty": "MEDIUM",
+      "topic": "water-chemistry"
+    }
+  ]
+}

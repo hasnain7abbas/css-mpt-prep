@@ -1,0 +1,1436 @@
+{
+  "subject": "general-science-ability",
+  "unit": "gsa-logical-reasoning",
+  "questions": [
+    {
+      "text": "All poets are dreamers. All dreamers are optimists. Which conclusion necessarily follows?",
+      "options": [
+        "All poets are optimists",
+        "All optimists are poets",
+        "Some dreamers are not poets",
+        "No optimist is a dreamer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Two universal affirmative premises linked by the middle term 'dreamers' yield the universal conclusion that every poet is an optimist.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "No reptiles are mammals. All cobras are reptiles. Which conclusion necessarily follows?",
+      "options": [
+        "No cobra is a mammal",
+        "Some cobras are mammals",
+        "All reptiles are cobras",
+        "Some mammals are cobras"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cobras fall entirely within the class of reptiles, and that class is wholly excluded from mammals, so no cobra can be a mammal.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Some students are athletes. All athletes are disciplined. Which conclusion necessarily follows?",
+      "options": [
+        "Some students are disciplined",
+        "All students are disciplined",
+        "No student is disciplined",
+        "All disciplined persons are athletes"
+      ],
+      "correctIndex": 0,
+      "explanation": "The students who are athletes must share every property of athletes, so at least some students are disciplined; nothing is proved about the rest.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "All squares are rectangles. Some rectangles are red. Which conclusion necessarily follows?",
+      "options": [
+        "All rectangles are squares",
+        "No square is red",
+        "Some red things are rectangles",
+        "Some squares are red"
+      ],
+      "correctIndex": 2,
+      "explanation": "A particular affirmative statement can be converted, so 'some rectangles are red' gives 'some red things are rectangles'; the premises never link squares to colour.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "All doctors are graduates. No graduate is illiterate. Which conclusion necessarily follows?",
+      "options": [
+        "Some doctors are illiterate",
+        "All graduates are doctors",
+        "Some illiterate persons are graduates",
+        "No doctor is illiterate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Doctors are contained in the class of graduates, and that class is entirely excluded from the illiterate, so no doctor is illiterate.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "From the statement 'Some books are novels', which conclusion necessarily follows?",
+      "options": [
+        "All books are novels",
+        "No book is a novel",
+        "Some novels are books",
+        "All novels are books"
+      ],
+      "correctIndex": 2,
+      "explanation": "A particular affirmative proposition converts simply: if some books are novels then some novels are books.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "From the statement 'No politician is honest', which conclusion necessarily follows?",
+      "options": [
+        "Some politicians are honest",
+        "Some honest persons are politicians",
+        "No honest person is a politician",
+        "All honest persons are politicians"
+      ],
+      "correctIndex": 2,
+      "explanation": "A universal negative proposition converts simply, so exclusion between the two classes holds in both directions.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Given 'All mangoes are fruits', which statement does NOT follow?",
+      "options": [
+        "All fruits are mangoes",
+        "Every mango is a fruit",
+        "Whatever is not a fruit is not a mango",
+        "No mango is a non-fruit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reversing a universal affirmative is invalid; the other three are restatements or the contrapositive of the original.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "All A are B. All B are C. All C are D. Which conclusion necessarily follows?",
+      "options": [
+        "No A is D",
+        "All A are D",
+        "All D are A",
+        "Some C are not A"
+      ],
+      "correctIndex": 1,
+      "explanation": "Class inclusion is transitive, so A is contained in B, B in C and C in D, placing every A inside D.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "No red object is cheap. Some pens are red. Which conclusion necessarily follows?",
+      "options": [
+        "All pens are cheap",
+        "No pen is red",
+        "All cheap things are pens",
+        "Some pens are not cheap"
+      ],
+      "correctIndex": 3,
+      "explanation": "The pens that are red belong to a class wholly excluded from cheap things, so at least those pens are not cheap.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "All metals conduct electricity. Copper is a metal. Which conclusion necessarily follows?",
+      "options": [
+        "Only copper conducts electricity",
+        "All conductors are metals",
+        "Copper conducts electricity",
+        "Copper does not conduct electricity"
+      ],
+      "correctIndex": 2,
+      "explanation": "An individual belonging to a class inherits every property asserted of the whole class.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Only members may enter the club. Bilal entered the club. Which conclusion necessarily follows?",
+      "options": [
+        "Some members were refused entry",
+        "Bilal is a member",
+        "Bilal is not a member",
+        "All members entered the club"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Only members may enter' makes membership a necessary condition of entry, so anyone who entered must be a member.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Everyone who passes the test receives a certificate. Ahmed did not receive a certificate. Which conclusion necessarily follows?",
+      "options": [
+        "Ahmed passed the test",
+        "Ahmed did not sit the test",
+        "Ahmed received another award",
+        "Ahmed did not pass the test"
+      ],
+      "correctIndex": 3,
+      "explanation": "This is modus tollens: denying the consequent of a conditional lets us deny its antecedent.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "In a categorical syllogism, the term that appears in both premises but not in the conclusion is called the",
+      "options": [
+        "middle term",
+        "major term",
+        "minor term",
+        "distributed term"
+      ],
+      "correctIndex": 0,
+      "explanation": "The middle term links the two premises and is dropped from the conclusion; the major and minor terms are the predicate and subject of the conclusion.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The argument 'All dogs are animals; all cats are animals; therefore all dogs are cats' commits the fallacy of",
+      "options": [
+        "denying the antecedent",
+        "equivocation",
+        "appeal to authority",
+        "undistributed middle"
+      ],
+      "correctIndex": 3,
+      "explanation": "The middle term 'animals' is not distributed in either premise, so the two classes are never actually connected.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "An argument is valid when",
+      "options": [
+        "it convinces most listeners",
+        "the conclusion must be true if the premises are true",
+        "its conclusion happens to be true",
+        "its premises happen to be true"
+      ],
+      "correctIndex": 1,
+      "explanation": "Validity is about the form of the inference: true premises cannot lead to a false conclusion in a valid argument.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "A sound argument is one that",
+      "options": [
+        "is accepted by most experts",
+        "is valid and has all true premises",
+        "has a true conclusion but false premises",
+        "is long and detailed"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soundness adds factual truth of the premises to formal validity.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "All soldiers are brave. Some brave persons are poets. Which conclusion necessarily follows?",
+      "options": [
+        "All poets are brave",
+        "Some poets are brave",
+        "Some soldiers are poets",
+        "No soldier is a poet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Only the second premise can be converted; nothing connects soldiers with poets because the middle term is undistributed.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "No teacher is lazy. All lazy persons are unpunctual. Which conclusion necessarily follows?",
+      "options": [
+        "All unpunctual persons are lazy",
+        "Some teachers are unpunctual",
+        "No lazy person is a teacher",
+        "No teacher is unpunctual"
+      ],
+      "correctIndex": 2,
+      "explanation": "The first premise converts simply; the premises do not exclude teachers from the wider class of unpunctual persons.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "All P are Q. No Q are R. Which conclusion necessarily follows?",
+      "options": [
+        "Some P are R",
+        "All R are P",
+        "Some R are Q",
+        "No P is R"
+      ],
+      "correctIndex": 3,
+      "explanation": "Everything in P lies inside Q, and Q is wholly excluded from R, so P and R cannot overlap.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Some officers are engineers. All engineers are graduates. Which conclusion necessarily follows?",
+      "options": [
+        "No officer is a graduate",
+        "All graduates are officers",
+        "Some officers are graduates",
+        "All officers are graduates"
+      ],
+      "correctIndex": 2,
+      "explanation": "The officers who are engineers must also be graduates, which establishes a particular, not a universal, conclusion.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The proverb 'All that glitters is not gold' is logically intended to mean",
+      "options": [
+        "Everything that glitters is gold",
+        "All gold glitters",
+        "Some things that glitter are not gold",
+        "Nothing that glitters is gold"
+      ],
+      "correctIndex": 2,
+      "explanation": "The intended sense is the denial of a universal claim, which is a particular negative: not everything glittering is gold.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Which statement is logically equivalent to 'If it rains, the match is cancelled'?",
+      "options": [
+        "If it does not rain, the match is not cancelled",
+        "The match is cancelled only if it rains",
+        "If the match is not cancelled, it did not rain",
+        "If the match is cancelled, it rained"
+      ],
+      "correctIndex": 2,
+      "explanation": "A conditional is equivalent only to its contrapositive, formed by negating and interchanging antecedent and consequent.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The contrapositive of 'If a number is divisible by 4, then it is even' is",
+      "options": [
+        "If a number is even, then it is divisible by 4",
+        "If a number is not divisible by 4, then it is not even",
+        "If a number is odd, then it is divisible by 4",
+        "If a number is not even, then it is not divisible by 4"
+      ],
+      "correctIndex": 3,
+      "explanation": "The contrapositive negates both parts and reverses their order, and it always has the same truth value as the original.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The converse of 'If x is a bird, then x has feathers' is",
+      "options": [
+        "If x has feathers, then x is a bird",
+        "If x is not a bird, then x has no feathers",
+        "If x has no feathers, then x is not a bird",
+        "x is a bird and x has feathers"
+      ],
+      "correctIndex": 0,
+      "explanation": "The converse simply interchanges antecedent and consequent, and it does not follow from the original statement.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "If a metal is heated it expands. This metal did not expand. Which conclusion necessarily follows?",
+      "options": [
+        "The metal was not heated",
+        "The metal was heated",
+        "The metal expanded very slightly",
+        "The metal is not really a metal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Denying the consequent of a true conditional validly denies its antecedent (modus tollens).",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'If a student cheats he is disqualified. Aslam was disqualified, therefore Aslam cheated.' This reasoning commits the fallacy of",
+      "options": [
+        "hasty generalisation",
+        "affirming the consequent",
+        "denying the antecedent",
+        "undistributed middle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Disqualification may have other causes; inferring the antecedent from the consequent is invalid.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'If it snows the road is closed. It did not snow, therefore the road is not closed.' This reasoning commits the fallacy of",
+      "options": [
+        "affirming the consequent",
+        "circular reasoning",
+        "false analogy",
+        "denying the antecedent"
+      ],
+      "correctIndex": 3,
+      "explanation": "The conditional says nothing about what happens when it does not snow, so the road may still be closed for another reason.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Either the fuse is blown or the bulb is dead. The fuse is not blown. Which conclusion necessarily follows?",
+      "options": [
+        "Both are faulty",
+        "Neither is faulty",
+        "The bulb is dead",
+        "The bulb is in working order"
+      ],
+      "correctIndex": 2,
+      "explanation": "In a disjunctive syllogism, denying one alternative of a true disjunction establishes the other.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "If P then Q, and if Q then R. Which conclusion necessarily follows?",
+      "options": [
+        "If not P then not R",
+        "P and R are unconnected",
+        "If P then R",
+        "If R then P"
+      ],
+      "correctIndex": 2,
+      "explanation": "Conditionals chain together in a hypothetical syllogism, giving the transitive conditional from P to R.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Only if you submit the form will you be registered.' This statement means that submitting the form is",
+      "options": [
+        "a consequence of registration",
+        "necessary for registration",
+        "sufficient for registration",
+        "irrelevant to registration"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Only if' introduces a necessary condition; it does not promise that submission alone guarantees registration.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Passing the written test is a necessary but not sufficient condition for appointment. It follows that",
+      "options": [
+        "nobody who fails the test is appointed",
+        "everyone who passes the test is appointed",
+        "only those who fail the test are appointed",
+        "the test has no bearing on appointment"
+      ],
+      "correctIndex": 0,
+      "explanation": "A necessary condition must be met by every appointee, but meeting it does not by itself secure appointment.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The correct denial of the statement 'All students passed' is",
+      "options": [
+        "No student passed",
+        "All students failed",
+        "Most students failed",
+        "At least one student did not pass"
+      ],
+      "correctIndex": 3,
+      "explanation": "The contradictory of a universal affirmative is a particular negative, requiring only one exception.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The correct denial of the statement 'Some birds can swim' is",
+      "options": [
+        "Most birds cannot swim",
+        "No bird can swim",
+        "All birds can swim",
+        "Some birds cannot swim"
+      ],
+      "correctIndex": 1,
+      "explanation": "The contradictory of a particular affirmative is the universal negative covering every member of the class.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The expression 'if and only if' states",
+      "options": [
+        "a probable connection",
+        "both a necessary and a sufficient condition",
+        "a sufficient condition only",
+        "a necessary condition only"
+      ],
+      "correctIndex": 1,
+      "explanation": "A biconditional asserts that each side implies the other, so the condition is both necessary and sufficient.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'No pass, no entry' is logically equivalent to",
+      "options": [
+        "A pass may be shown after entry",
+        "Entry is open to everyone",
+        "If a person enters, that person has a pass",
+        "If a person has a pass, that person enters"
+      ],
+      "correctIndex": 2,
+      "explanation": "'If no pass then no entry' is a conditional whose contrapositive is 'if entry then a pass'.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "A conditional statement and its contrapositive are",
+      "options": [
+        "equivalent only when both are false",
+        "always logically equivalent",
+        "never logically equivalent",
+        "equivalent only in mathematics"
+      ],
+      "correctIndex": 1,
+      "explanation": "Negating and interchanging the two parts preserves truth value in every case.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Either the report is wrong or the machine is faulty. The machine is not faulty. Which conclusion necessarily follows?",
+      "options": [
+        "The report is correct",
+        "The machine must still be replaced",
+        "Both the report and the machine are in order",
+        "The report is wrong"
+      ],
+      "correctIndex": 3,
+      "explanation": "Eliminating one disjunct of a true disjunction leaves the other one standing.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "A is taller than B. C is shorter than B. Who is the tallest of the three?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "B and C are of equal height"
+      ],
+      "correctIndex": 0,
+      "explanation": "A stands above B and B stands above C, so A occupies the top of the order.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "P is heavier than Q, Q is heavier than R, and R is heavier than S. Who is the lightest?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "correctIndex": 3,
+      "explanation": "The chain of comparisons runs P, Q, R, S from heaviest to lightest.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "X is older than Y and Y is older than Z. Which statement must be true?",
+      "options": [
+        "Y is older than X",
+        "X is older than Z",
+        "Z is the oldest",
+        "X is the youngest"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 'older than' relation is transitive, so the order runs X, Y, Z from oldest to youngest.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "In a race Ali finished ahead of Bilal, Bilal finished ahead of Danish, and Danish finished ahead of Ehsan. Who finished last?",
+      "options": [
+        "Ali",
+        "Bilal",
+        "Danish",
+        "Ehsan"
+      ],
+      "correctIndex": 3,
+      "explanation": "The stated order is Ali, Bilal, Danish, Ehsan, so Ehsan is at the end of it.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Amina scored more than Bushra, and Chanda scored less than Bushra. Which statement must be true?",
+      "options": [
+        "Amina scored more than Chanda",
+        "Chanda scored more than Amina",
+        "Bushra scored the highest of the three",
+        "Amina and Chanda scored equally"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amina is above Bushra and Bushra is above Chanda, so Amina must be above Chanda.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "All members of the committee are lawyers. Sana is not a lawyer. Which conclusion necessarily follows?",
+      "options": [
+        "All lawyers are committee members",
+        "Sana is not a member of the committee",
+        "Sana is a member of the committee",
+        "Some lawyers are not committee members"
+      ],
+      "correctIndex": 1,
+      "explanation": "Anyone outside the class of lawyers must lie outside the committee, which is contained in that class.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Every book on the shelf is in Urdu. This dictionary is in English. Which conclusion necessarily follows?",
+      "options": [
+        "The shelf contains no dictionary",
+        "This dictionary is not on the shelf",
+        "This dictionary is on the shelf",
+        "Some Urdu books are dictionaries"
+      ],
+      "correctIndex": 1,
+      "explanation": "An item lacking the property common to everything on the shelf cannot be on the shelf.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "No student in the class is above 20 years of age. Kamran is 22 years old. Which conclusion necessarily follows?",
+      "options": [
+        "Kamran is in the class",
+        "Kamran is not a student anywhere",
+        "Some students in the class are 22",
+        "Kamran is not in the class"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kamran fails the age condition satisfied by every member of the class, so he cannot be a member.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "All the pens in the box are blue. This pen is red. Which conclusion necessarily follows?",
+      "options": [
+        "The box is empty",
+        "This pen did not come from the box",
+        "This pen came from the box",
+        "The box contains some red pens"
+      ],
+      "correctIndex": 1,
+      "explanation": "Since every pen in the box is blue, a red pen must have some other source.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Aslam is sitting between Bashir and Chand, and Bashir is to Aslam's left. Which statement must be true?",
+      "options": [
+        "Bashir is to Chand's right",
+        "Aslam is at one end of the row",
+        "Chand is to Aslam's right",
+        "Chand is to Aslam's left"
+      ],
+      "correctIndex": 2,
+      "explanation": "Aslam has one neighbour on each side; with Bashir on the left, Chand must be on the right.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Five persons stand in a row. Q is exactly in the middle and P stands immediately to Q's left. How many persons stand to the left of P?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correctIndex": 1,
+      "explanation": "Q occupies the third place and P the second, so exactly one person stands to P's left.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Whenever it rains the road becomes wet. The road is dry today. Which conclusion necessarily follows?",
+      "options": [
+        "Rain does not affect the road",
+        "It has not rained today",
+        "It has rained today",
+        "The road is never wet"
+      ],
+      "correctIndex": 1,
+      "explanation": "If rain always produced a wet road, a dry road rules out rain (modus tollens).",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "All A are B. No B is C. Some C are D. Which conclusion must be true?",
+      "options": [
+        "All D are C",
+        "No D is B",
+        "No A is C",
+        "Some A are D"
+      ],
+      "correctIndex": 2,
+      "explanation": "A lies wholly inside B and B is wholly outside C, so A and C cannot overlap; nothing follows about D.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "A man says, 'All my sons are engineers.' Rashid is his son. Which conclusion necessarily follows?",
+      "options": [
+        "All engineers are his sons",
+        "He has only one son",
+        "Rashid is an engineer",
+        "Rashid is not an engineer"
+      ],
+      "correctIndex": 2,
+      "explanation": "A property asserted of every member of a group applies to any named member of it.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Do not accept his economic plan; he failed in his own business years ago.' This argument commits the fallacy of",
+      "options": [
+        "ad hominem",
+        "straw man",
+        "false dilemma",
+        "appeal to pity"
+      ],
+      "correctIndex": 0,
+      "explanation": "The reasoning attacks the person's record instead of examining the merits of the plan itself.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'My opponent wants to reduce the defence budget, so clearly he wants the country left defenceless.' This is the fallacy of",
+      "options": [
+        "red herring",
+        "begging the question",
+        "hasty generalisation",
+        "straw man"
+      ],
+      "correctIndex": 3,
+      "explanation": "The opponent's position is exaggerated into an absurd version that is easier to attack.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Nobody has ever proved that ghosts do not exist, so ghosts must exist.' This is the fallacy of",
+      "options": [
+        "appeal to ignorance",
+        "appeal to authority",
+        "slippery slope",
+        "equivocation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Absence of disproof is treated as proof, which the argumentum ad ignorantiam wrongly allows.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Millions of people buy this brand, so it must be the best.' This is the fallacy of",
+      "options": [
+        "composition",
+        "appeal to popularity",
+        "appeal to force",
+        "false analogy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Widespread acceptance is not evidence of quality; the argumentum ad populum substitutes numbers for reasons.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Please raise my grade, sir; my family will be heartbroken if I fail.' This is the fallacy of",
+      "options": [
+        "appeal to authority",
+        "ad hominem",
+        "straw man",
+        "appeal to pity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sympathy is offered in place of any evidence that the grade was wrongly awarded.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Approve my proposal, or remember that your contract comes up for renewal next month.' This is the fallacy of",
+      "options": [
+        "false cause",
+        "division",
+        "appeal to force",
+        "appeal to ignorance"
+      ],
+      "correctIndex": 2,
+      "explanation": "A veiled threat, not evidence, is used to secure agreement (argumentum ad baculum).",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Either we abolish every subsidy or the economy will collapse.' This is the fallacy of",
+      "options": [
+        "slippery slope",
+        "circular reasoning",
+        "hasty generalisation",
+        "false dilemma"
+      ],
+      "correctIndex": 3,
+      "explanation": "Only two extreme options are presented although many intermediate possibilities exist.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'If students are allowed to retake one paper, they will soon demand to retake every paper and the examination system will collapse.' This is the fallacy of",
+      "options": [
+        "straw man",
+        "false analogy",
+        "tu quoque",
+        "slippery slope"
+      ],
+      "correctIndex": 3,
+      "explanation": "A chain of increasingly serious consequences is asserted without any evidence that the first step leads to the last.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'This law is just because it is right, and it is right because it is just.' This is the fallacy of",
+      "options": [
+        "circular reasoning",
+        "equivocation",
+        "red herring",
+        "composition"
+      ],
+      "correctIndex": 0,
+      "explanation": "The conclusion is used as its own support, so the argument moves in a closed circle.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'I wore my lucky shirt and the team won, so the shirt brought the victory.' This is the fallacy of",
+      "options": [
+        "post hoc ergo propter hoc",
+        "hasty generalisation",
+        "appeal to popularity",
+        "division"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mere sequence in time is mistaken for a causal connection.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'I met two rude people from that city, so everyone there is rude.' This is the fallacy of",
+      "options": [
+        "false dilemma",
+        "ad hominem",
+        "slippery slope",
+        "hasty generalisation"
+      ],
+      "correctIndex": 3,
+      "explanation": "A sweeping conclusion is drawn from a sample far too small to support it.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Every player in the side is outstanding, so the side as a whole must be outstanding.' This is the fallacy of",
+      "options": [
+        "division",
+        "equivocation",
+        "red herring",
+        "composition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Properties of the individual parts are transferred without warrant to the whole.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'That is a very wealthy company, so every one of its employees must be wealthy.' This is the fallacy of",
+      "options": [
+        "composition",
+        "false analogy",
+        "appeal to pity",
+        "division"
+      ],
+      "correctIndex": 3,
+      "explanation": "A property of the whole is wrongly assigned to each of its parts.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'A feather is light; what is light cannot be dark; therefore a feather cannot be dark.' This is the fallacy of",
+      "options": [
+        "false cause",
+        "equivocation",
+        "amphiboly",
+        "composition"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'light' shifts from meaning low in weight to meaning pale in colour within the same argument.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Asked about rising inflation, a speaker replies with a long description of the beauty of the northern areas. This is the fallacy of",
+      "options": [
+        "red herring",
+        "straw man",
+        "ad hominem",
+        "begging the question"
+      ],
+      "correctIndex": 0,
+      "explanation": "An irrelevant subject is introduced to draw attention away from the question asked.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'You advise me to give up smoking, but you smoke yourself, so your advice is worthless.' This is the fallacy of",
+      "options": [
+        "false dilemma",
+        "hasty generalisation",
+        "tu quoque",
+        "appeal to force"
+      ],
+      "correctIndex": 2,
+      "explanation": "The adviser's own conduct is irrelevant to whether the advice is correct; this is the 'you too' form of ad hominem.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'A famous cricketer says this syrup cures diabetes, so it must cure diabetes.' This is the fallacy of",
+      "options": [
+        "composition",
+        "slippery slope",
+        "appeal to irrelevant authority",
+        "appeal to pity"
+      ],
+      "correctIndex": 2,
+      "explanation": "The person cited is respected in a field unrelated to medicine, so his endorsement is not evidence.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Running a country is exactly like running a household, so a government should never borrow money.' This is the fallacy of",
+      "options": [
+        "equivocation",
+        "tu quoque",
+        "appeal to ignorance",
+        "false analogy"
+      ],
+      "correctIndex": 3,
+      "explanation": "The two cases differ in essential respects, so the comparison cannot carry the conclusion.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'This practice must be wrong because it began during the colonial period.' This is the fallacy of",
+      "options": [
+        "appeal to popularity",
+        "genetic fallacy",
+        "hasty generalisation",
+        "false dilemma"
+      ],
+      "correctIndex": 1,
+      "explanation": "The argument judges an idea by its origin rather than by its present merits.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The fallacy of assuming that what is true of a whole must be true of each of its parts is called",
+      "options": [
+        "division",
+        "composition",
+        "accident",
+        "equivocation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Division moves from whole to parts; composition moves in the opposite direction, from parts to whole.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The fallacy of using the same word in two different senses within one argument is called",
+      "options": [
+        "red herring",
+        "equivocation",
+        "amphiboly",
+        "division"
+      ],
+      "correctIndex": 1,
+      "explanation": "Equivocation trades on an ambiguity of a single term; amphiboly arises from ambiguous grammar instead.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The fallacy in which the conclusion is already assumed in the premises is known as",
+      "options": [
+        "false cause",
+        "straw man",
+        "begging the question",
+        "appeal to ignorance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Petitio principii offers as support the very claim that is supposed to be proved.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The Latin phrase 'post hoc ergo propter hoc' means",
+      "options": [
+        "against the man",
+        "from the crowd",
+        "after this, therefore because of this",
+        "before this, therefore after this"
+      ],
+      "correctIndex": 2,
+      "explanation": "It names the error of treating a later event as caused by an earlier one merely because it followed.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Argumentum ad hominem' literally means an argument directed",
+      "options": [
+        "to ignorance",
+        "to the crowd",
+        "to the man",
+        "to the point"
+      ],
+      "correctIndex": 2,
+      "explanation": "The attack is aimed at the person advancing the claim rather than at the claim itself.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Argumentum ad populum' is an appeal to",
+      "options": [
+        "expert opinion",
+        "the beliefs or feelings of the crowd",
+        "pity",
+        "force"
+      ],
+      "correctIndex": 1,
+      "explanation": "It urges acceptance of a claim because many people already accept it.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Argumentum ad baculum' is an appeal to",
+      "options": [
+        "pity",
+        "ignorance",
+        "tradition",
+        "force or threat"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Baculum' means a stick, so the phrase names the appeal to coercion rather than to evidence.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'Take our tablet and your headache will disappear within ten minutes.' Which assumption is implicit in this statement?",
+      "options": [
+        "People want quick relief from headache",
+        "Every tablet acts within ten minutes",
+        "Headache cannot be relieved in any other way",
+        "Our tablet is the cheapest available"
+      ],
+      "correctIndex": 0,
+      "explanation": "The appeal only works if speed of relief is something the reader values; the other statements go far beyond what is taken for granted.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'Boil the water before drinking it.' Which assumption is implicit in this statement?",
+      "options": [
+        "Boiling improves the taste of water",
+        "All diseases are spread through water",
+        "Unboiled water may be unsafe to drink",
+        "Water is in short supply"
+      ],
+      "correctIndex": 2,
+      "explanation": "The advice makes sense only if the water as supplied carries some risk that boiling removes.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'The examination centre has been shifted to the college because more candidates applied this year.' Which assumption is implicit in this statement?",
+      "options": [
+        "The old centre has been demolished",
+        "Candidates prefer colleges to other buildings",
+        "Examinations must always be held in colleges",
+        "The college can seat more candidates than the old centre"
+      ],
+      "correctIndex": 3,
+      "explanation": "The stated reason works only if the new venue solves the problem of extra candidates, that is, it has greater capacity.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'Submit the form before 5 p.m.; forms received later will not be accepted.' Which assumption is implicit in this statement?",
+      "options": [
+        "Applicants are able to submit the form before 5 p.m.",
+        "No applicant will submit the form at all",
+        "The office remains closed during the day",
+        "Late forms contain more errors"
+      ],
+      "correctIndex": 0,
+      "explanation": "Setting a deadline presupposes that those addressed are in a position to meet it.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'In case of fire use the stairs; do not use the lift.' Which assumption is implicit in this statement?",
+      "options": [
+        "Stairs are always wider than lifts",
+        "Fires break out only in tall buildings",
+        "Lifts are more expensive to run",
+        "The lift may become unsafe during a fire"
+      ],
+      "correctIndex": 3,
+      "explanation": "The instruction rests on the belief that the lift carries a risk in a fire that the stairs do not.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'Write your roll number on the answer sheet.' Which assumption is implicit in this statement?",
+      "options": [
+        "Every candidate has been given a roll number",
+        "Answer sheets are already numbered",
+        "Roll numbers are confidential",
+        "Candidates often forget their names"
+      ],
+      "correctIndex": 0,
+      "explanation": "The instruction can be obeyed only if each candidate actually possesses a roll number.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'The company has announced a bonus for workers in order to raise production.' Which assumption is implicit in this statement?",
+      "options": [
+        "Bonuses are required by law",
+        "Workers respond to financial incentives",
+        "Workers are naturally lazy",
+        "Production cannot be raised by any other means"
+      ],
+      "correctIndex": 1,
+      "explanation": "The measure presupposes a link between extra pay and extra output; the other options are not needed for the plan to make sense.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'Read the instructions on the packet before using this medicine.' Which assumption is implicit in this statement?",
+      "options": [
+        "The packet carries printed instructions",
+        "The medicine is dangerous in every dose",
+        "All users are trained in medicine",
+        "The instructions are printed in Urdu"
+      ],
+      "correctIndex": 0,
+      "explanation": "The direction assumes the existence of instructions on the packet; nothing else is required for it to be sensible.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'Because of the fuel shortage the government has advised offices to work four days a week.' Which assumption is implicit in this statement?",
+      "options": [
+        "Offices are otherwise inefficient",
+        "The shortage will last for ever",
+        "Employees dislike working",
+        "Working fewer days will reduce fuel consumption"
+      ],
+      "correctIndex": 3,
+      "explanation": "The advice is a means to an end and presupposes that the shorter week actually saves fuel.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'Buy a helmet and ride safely.' Which assumption is implicit in this statement?",
+      "options": [
+        "Wearing a helmet makes riding safer",
+        "Helmets are inexpensive",
+        "Riding without a helmet is impossible",
+        "Every rider owns a motorcycle"
+      ],
+      "correctIndex": 0,
+      "explanation": "The advertisement links the purchase to safety, which presupposes that the helmet contributes to it.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "In the analysis of an argument, an assumption is",
+      "options": [
+        "the final claim being defended",
+        "evidence that is openly stated",
+        "a definition of the terms used",
+        "something taken for granted but not stated"
+      ],
+      "correctIndex": 3,
+      "explanation": "An assumption is an unstated premise that the argument needs in order to work.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: 'Notice: all employees must attend the training session on Monday.' Which assumption is implicit in this statement?",
+      "options": [
+        "Training sessions are seldom useful",
+        "Employees will be available on Monday",
+        "Employees know nothing about their work",
+        "Monday is otherwise a holiday"
+      ],
+      "correctIndex": 1,
+      "explanation": "A compulsory session presupposes that those required to attend can in fact be present that day.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Event A: the price of petrol was raised on Monday. Event B: taxi fares were increased on Tuesday. Which relation is most reasonable?",
+      "options": [
+        "A is the cause and B is the effect",
+        "B is the cause and A is the effect",
+        "The two events are entirely unconnected",
+        "Both are effects of a fall in demand"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fuel is a direct input cost for taxis, and the increase in fares followed the rise in price.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Ice-cream sales and cases of heat stroke both rise sharply in June. The best explanation is that",
+      "options": [
+        "eating ice-cream causes heat stroke",
+        "heat stroke causes people to buy ice-cream",
+        "the two figures are recorded wrongly",
+        "both are effects of the hot weather"
+      ],
+      "correctIndex": 3,
+      "explanation": "A third factor, high temperature, produces both trends, so the correlation between them is not causal.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "The reasoning 'cities with more police also record more crime, therefore police cause crime' overlooks the principle that",
+      "options": [
+        "large cities have larger budgets",
+        "correlation does not by itself establish causation",
+        "police officers receive training",
+        "crime is punishable by law"
+      ],
+      "correctIndex": 1,
+      "explanation": "Two things may vary together because one drives the other in the reverse direction or because a third factor drives both.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "A survey shows that students who sleep longer obtain higher marks. Which finding would most weaken the claim that extra sleep causes higher marks?",
+      "options": [
+        "The survey covered several districts",
+        "Sleep is necessary for good health",
+        "The marks were recorded accurately",
+        "Well-organised students both sleep longer and study more effectively"
+      ],
+      "correctIndex": 3,
+      "explanation": "It supplies a common third factor that could produce both the longer sleep and the better marks.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "In a controlled experiment the purpose of the control group is",
+      "options": [
+        "to reduce the cost of the experiment",
+        "to confirm what the researcher expects",
+        "to provide a comparison in which the suspected cause is absent",
+        "to increase the total number of participants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Only by comparing with a group not exposed to the factor can a change be attributed to that factor.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Event A: heavy rain fell throughout the night. Event B: the low-lying road was under water in the morning. Which relation is most reasonable?",
+      "options": [
+        "B is the cause and A is the effect",
+        "Both are effects of an unrelated cause",
+        "There is no connection between them",
+        "A is the cause and B is the effect"
+      ],
+      "correctIndex": 3,
+      "explanation": "The rain preceded the flooding and is sufficient to explain water collecting on low ground.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Which of the following is a necessary condition for ordinary combustion?",
+      "options": [
+        "Presence of wind",
+        "Presence of an observer",
+        "Presence of oxygen",
+        "Presence of paper"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ordinary burning cannot occur without an oxidising agent, whereas the particular fuel or the weather may vary.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "'Since the new mayor took office, road accidents have fallen.' Before crediting the mayor, one must first rule out",
+      "options": [
+        "the geographical size of the city",
+        "the cost of building the roads",
+        "other changes such as new traffic rules or fewer vehicles on the road",
+        "the mayor's personal popularity"
+      ],
+      "correctIndex": 2,
+      "explanation": "A causal claim survives only when alternative explanations for the same change have been eliminated.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Question: should smoking be prohibited in enclosed public places? Which is the strongest argument?",
+      "options": [
+        "No, because some people enjoy it",
+        "Yes, because the smoke inhaled by others damages their health",
+        "No, because smokers also pay taxes",
+        "Yes, because smoking looks unattractive"
+      ],
+      "correctIndex": 1,
+      "explanation": "An argument is strong when it is relevant and rests on a substantial consequence, here harm to non-smokers.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Question: should public transport fares be subsidised? Which of the following arguments is weak?",
+      "options": [
+        "No, because the transport minister is personally unpopular",
+        "Yes, because low fares help low-income commuters",
+        "No, because subsidies enlarge the fiscal deficit",
+        "Yes, because cheaper transport reduces the use of private cars"
+      ],
+      "correctIndex": 0,
+      "explanation": "An argument that turns on a person rather than on the policy is irrelevant and therefore weak.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "A strong argument is one that is",
+      "options": [
+        "held by a large number of people",
+        "stated by a well-known person",
+        "relevant to the issue and supported by evidence",
+        "long and emotionally expressed"
+      ],
+      "correctIndex": 2,
+      "explanation": "Strength depends on relevance and evidential support, not on length, popularity or the speaker's fame.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Which of the following, if true, most strengthens the argument that wearing seat belts should be compulsory?",
+      "options": [
+        "Seat belts are made of strong woven fabric",
+        "Most new cars are fitted with seat belts",
+        "Several other countries have such a law",
+        "Seat belts sharply reduce deaths in road accidents"
+      ],
+      "correctIndex": 3,
+      "explanation": "Direct evidence that the measure saves lives supports the case, while the other statements are merely incidental.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Which of the following, if true, most weakens the claim that a town's new filtration plant has made its water safe?",
+      "options": [
+        "The plant was inaugurated by a senior official",
+        "A few residents continue to buy bottled water",
+        "Tests taken after installation still show bacteria above the permitted limit",
+        "The plant cost more than was estimated"
+      ],
+      "correctIndex": 2,
+      "explanation": "Test results bearing directly on water quality contradict the claim; cost, ceremony and habit do not.",
+      "difficulty": "HARD",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "An argument that offers only emotional appeal and no supporting evidence is best described as",
+      "options": [
+        "deductive",
+        "weak",
+        "valid",
+        "sound"
+      ],
+      "correctIndex": 1,
+      "explanation": "Without relevant evidence an argument fails to support its conclusion, however moving it may be.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "In evaluating arguments, 'relevance' means that the argument",
+      "options": [
+        "is short and easy to read",
+        "bears directly on the question under discussion",
+        "is expressed in formal language",
+        "is accepted by a majority"
+      ],
+      "correctIndex": 1,
+      "explanation": "A relevant argument addresses the actual issue; irrelevant material cannot support the conclusion however true it is.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: cracks have appeared in a bridge carrying heavy traffic on a national highway. Which course of action is most appropriate?",
+      "options": [
+        "Wait until the cracks widen further",
+        "Ban all vehicles throughout the province",
+        "Close the bridge to traffic and have it inspected at once",
+        "Raise the toll charged on the bridge"
+      ],
+      "correctIndex": 2,
+      "explanation": "The immediate danger to life requires the traffic to be stopped and the structure examined; the other steps are irrelevant or excessive.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: an outbreak of dengue fever has been reported in a city. Which course of action is most appropriate?",
+      "options": [
+        "Close all schools in the country permanently",
+        "Prohibit the sale of mosquito nets",
+        "Shift the population of the city elsewhere",
+        "Remove stagnant water and spray the affected localities"
+      ],
+      "correctIndex": 3,
+      "explanation": "Dengue spreads through mosquitoes that breed in standing water, so removing breeding sites attacks the cause.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: an unusually large number of candidates failed a departmental examination this year. Which course of action is most appropriate?",
+      "options": [
+        "Dismiss the examiners without inquiry",
+        "Examine the reasons for the poor result and arrange remedial training",
+        "Abolish the departmental examination",
+        "Declare all the candidates successful"
+      ],
+      "correctIndex": 1,
+      "explanation": "Finding the cause before acting is the reasonable step; the other options either avoid the problem or punish without evidence.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: a public office receives repeated complaints about long queues at its counters. Which course of action is most appropriate?",
+      "options": [
+        "Reduce the working hours of the office",
+        "Stop registering complaints",
+        "Close half of the existing counters",
+        "Introduce an appointment and token system and open more counters at peak hours"
+      ],
+      "correctIndex": 3,
+      "explanation": "Managing the flow of visitors addresses the cause of the queues, while the other measures would worsen the situation.",
+      "difficulty": "EASY",
+      "topic": "logical-reasoning"
+    },
+    {
+      "text": "Statement: a school reports that many pupils arrive without breakfast and lose attention in class. Which course of action is most appropriate?",
+      "options": [
+        "Shorten the academic year",
+        "Raise the monthly fee",
+        "Start a school meal scheme and inform parents of the problem",
+        "Expel the pupils who lose attention"
+      ],
+      "correctIndex": 2,
+      "explanation": "Providing food and involving parents removes the stated cause of inattention; the other steps punish the pupils instead.",
+      "difficulty": "MEDIUM",
+      "topic": "logical-reasoning"
+    }
+  ]
+}
