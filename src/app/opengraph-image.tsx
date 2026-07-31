@@ -5,8 +5,10 @@ export const alt = "CSS MPT Prep — clear the FPSC screening test";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-// Kept Satori-safe: ASCII only (no emoji → no dynamic font fetch) and every
-// container with multiple children sets display:flex.
+// Kept Satori-safe: ASCII only (no emoji → no dynamic font fetch), every
+// container with multiple children sets display:flex, and interpolated text is
+// built with template literals — `a {b} c` compiles to several child nodes,
+// which Satori rejects on a plain <div>.
 export default function OgImage() {
   return new ImageResponse(
     (
@@ -25,7 +27,7 @@ export default function OgImage() {
       >
         <div style={{ display: "flex", flexDirection: "column" }}>
           <div style={{ fontSize: 26, letterSpacing: 4, fontFamily: "monospace", color: "#4d5560" }}>
-            FPSC / MCQ-BASED PRELIMINARY TEST / {EXAM.cycle.toUpperCase()}
+            {`FPSC / MCQ-BASED PRELIMINARY TEST / ${EXAM.cycle.toUpperCase()}`}
           </div>
           <div style={{ height: 6, background: "#12161c", marginTop: 20, width: "100%" }} />
         </div>
@@ -38,7 +40,7 @@ export default function OgImage() {
 
         <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "space-between" }}>
           <div style={{ fontSize: 30, fontFamily: "monospace", color: "#14563c" }}>
-            {formatExamDate(EXAM.testDate)} / pass mark {EXAM.passMarks} of {EXAM.totalQuestions}
+            {`${formatExamDate(EXAM.testDate)} / pass mark ${EXAM.passMarks} of ${EXAM.totalQuestions}`}
           </div>
           <div style={{ fontSize: 30, fontWeight: 700 }}>CSS MPT Prep</div>
         </div>
