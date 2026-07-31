@@ -40,7 +40,7 @@ export function CreateUserForm() {
 
   if (state.ok && state.created) {
     const { name, email, tempPassword } = state.created;
-    const message = `Assalam-o-Alaikum ${name}! Your FIA Job Prep account is ready.\n\nLogin: ${typeof window !== "undefined" ? window.location.origin : ""}/login\nEmail: ${email}\nTemporary password: ${tempPassword}\n\nYou'll be asked to set a new password on first login.`;
+    const message = `Assalam-o-Alaikum ${name}! Your CSS MPT Prep account is ready.\n\nLogin: ${typeof window !== "undefined" ? window.location.origin : ""}/login\nEmail: ${email}\nTemporary password: ${tempPassword}\n\nYou'll be asked to set a new password on first login.`;
     return (
       <div className="space-y-4">
         <div className="rounded-xl border border-emerald-200 bg-emerald-50 p-4 dark:border-emerald-500/30 dark:bg-emerald-500/10">

@@ -1,7 +1,8 @@
 # MPT pivot — where things stand
 
-Working notes for picking this up again. Branch: `mpt-pivot`. **Not deployed** —
-`main` is untouched, so the live Vercel site still serves the old FIA app.
+Working notes for picking this up again. **Merged into `main` and deployed** on
+31 July 2026 — the live site now serves the MPT app. The repo and Vercel project
+were renamed from `fia-job-prep` to `css-mpt-prep` at the same time.
 
 ## What the app is now
 

@@ -8,7 +8,7 @@ import { RegisterForm } from "./RegisterForm";
 export const metadata: Metadata = {
   title: "Register on WhatsApp",
   description:
-    "Registration for FIA Job Prep is manual to keep quality high. Message us on WhatsApp and we activate your account within a few hours.",
+    "Registration for CSS MPT Prep is manual to keep quality high. Message us on WhatsApp and we activate your account within a few hours.",
 };
 
 export default async function RegisterPage() {

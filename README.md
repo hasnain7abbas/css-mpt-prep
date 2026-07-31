@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./public/logo.svg" alt="FIA Job Prep" width="96" />
+<img src="./public/logo.svg" alt="CSS MPT Prep" width="96" />
 
-# FIA Job Prep
+# CSS MPT Prep
 
-### Prepare Smart, Get Selected.
+### Clear the screening test.
 
-A mobile-first MCQ practice platform for candidates preparing for **FIA (Federal Investigation Agency)** jobs in Pakistan — timed mocks, past-paper questions, instant explanations, and real progress tracking.
+A mobile-first MCQ practice platform for the **FPSC MCQ-Based Preliminary Test (MPT)** — the screening stage candidates must clear before sitting the CSS written examination. Timed mocks on the real 200-question format, instant explanations, and per-subject progress tracking.
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16-000?logo=next.js&logoColor=white">
@@ -19,12 +19,12 @@ A mobile-first MCQ practice platform for candidates preparing for **FIA (Federal
 </p>
 
 <p>
-  <a href="https://github.com/hasnain7abbas/fia-job-prep/actions/workflows/ci.yml">
-    <img alt="CI" src="https://github.com/hasnain7abbas/fia-job-prep/actions/workflows/ci.yml/badge.svg">
+  <a href="https://github.com/hasnain7abbas/css-mpt-prep/actions/workflows/ci.yml">
+    <img alt="CI" src="https://github.com/hasnain7abbas/css-mpt-prep/actions/workflows/ci.yml/badge.svg">
   </a>
 </p>
 
-<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhasnain7abbas%2Ffia-job-prep&env=AUTH_SECRET,DATABASE_URL,NEXT_PUBLIC_OWNER_WHATSAPP&envDescription=Auth%20secret%2C%20a%20Postgres%20connection%20string%2C%20and%20the%20owner%20WhatsApp%20number">
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhasnain7abbas%2Fcss-mpt-prep&env=AUTH_SECRET,DATABASE_URL,NEXT_PUBLIC_OWNER_WHATSAPP&envDescription=Auth%20secret%2C%20a%20Postgres%20connection%20string%2C%20and%20the%20owner%20WhatsApp%20number">
   <img alt="Deploy with Vercel" src="https://vercel.com/button">
 </a>
 
@@ -34,9 +34,11 @@ A mobile-first MCQ practice platform for candidates preparing for **FIA (Federal
 
 ## Overview
 
-FIA Job Prep is a complete, exam-style practice app. Registration is **manual and WhatsApp-gated** — candidates can't self-register; the owner creates accounts and shares credentials over WhatsApp. Students then take **timed, auto-graded MCQ tests** with instant per-question explanations and watch their accuracy, streak, and weak areas improve over time.
+CSS MPT Prep is a complete, exam-style practice app. Registration is **manual and WhatsApp-gated** — candidates can't self-register; the owner creates accounts and shares credentials over WhatsApp. Students then take **timed, auto-graded MCQ tests** with instant per-question explanations and watch their accuracy, streak, and weak areas improve over time.
 
-The question bank ships with **~3,000 MCQs across 120 tests** in seven subjects (English, General Knowledge, Pakistan Studies, Computer, Islamic Studies, IQ & Mathematics — arithmetic, number series, and analytical/logical reasoning — and the FIA Act & Laws — the FIA Act 1974, powers/wings, PECA 2016, and related special laws).
+The bank ships with **2,343 verified MCQs** across the six examinable MPT subjects — General Science & Ability, English, Pakistan Affairs, Current Affairs, Islamic Studies, and Urdu. Every question was put through a blind re-answer pass; the 17 that failed are quarantined in `content/flagged/` rather than shipped.
+
+Mocks follow the real paper: **200 MCQs / 200 minutes, pass mark 66 (33%), no negative marking.** FPSC's official subject weighting lives in `src/lib/mpt.ts` as the single source of truth.
 
 ## Highlights
 
@@ -52,12 +54,12 @@ The question bank ships with **~3,000 MCQs across 120 tests** in seven subjects 
 ## Quick start
 
 ```bash
-git clone https://github.com/hasnain7abbas/fia-job-prep.git
-cd fia-job-prep
+git clone https://github.com/hasnain7abbas/css-mpt-prep.git
+cd css-mpt-prep
 npm install
 cp .env.example .env        # set DATABASE_URL to your Postgres URL (Neon/Supabase)
 npm run db:push             # creates the tables in your database
-npm run db:seed             # ~3,000 MCQs + admin & demo accounts
+npm run db:seed             # 2,343 verified MCQs + admin & demo accounts
 npm run dev                 # http://localhost:3000
 ```
 
@@ -65,8 +67,8 @@ npm run dev                 # http://localhost:3000
 
 | Role  | Email                  | Password         | Notes                                   |
 | ----- | ---------------------- | ---------------- | --------------------------------------- |
-| Admin | `admin@fiajobprep.com` | `Admin@FIA2024!` | Create users at `/admin/users/new`      |
-| Demo  | `demo@fiajobprep.com`  | `Demo@1234`      | Forced to set a new password on login   |
+| Admin | `admin@cssmptprep.com` | `Admin@MPT2026!` | Create users at `/admin/users/new`      |
+| Demo  | `demo@cssmptprep.com`  | `Demo@1234`      | Forced to set a new password on login   |
 
 > **Change these before going live.** Update the seeded admin password and generate a fresh `AUTH_SECRET`.
 
@@ -107,7 +109,10 @@ src/
   lib/ (auth · db · queries · stats · attempt-actions · whatsapp · subjects)
 prisma/
   schema.prisma · seed.ts
-  lib/mcq.ts · generators.ts · data/*.ts   # MCQ generator + factual datasets
+  lib/mcq.ts · generators.ts
+  data/verified/*.json · data/handwritten.ts   # verified bank + hand-written items
+content/
+  raw/ · answers/ · verified/ · flagged/   # generation + verification pipeline
 ```
 
 ## Scripts

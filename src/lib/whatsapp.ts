@@ -10,7 +10,7 @@ export const OWNER_WHATSAPP_DISPLAY = "+92 341 5298183";
 
 export function buildRegistrationLink(opts?: { name?: string; email?: string }) {
   const lines = [
-    "Assalam-o-Alaikum! I'd like to register for FIA Job Prep.",
+    "Assalam-o-Alaikum! I'd like to register for CSS MPT Prep.",
     opts?.name ? `Name: ${opts.name}` : "Name: ",
     opts?.email ? `Email: ${opts.email}` : "Email: ",
     "City: ",
@@ -24,7 +24,7 @@ export function buildRegistrationLink(opts?: { name?: string; email?: string }) 
 /** Used by the "Forgot password?" link. */
 export function buildPasswordResetLink(email?: string) {
   const lines = [
-    "Assalam-o-Alaikum! I need to reset my FIA Job Prep password.",
+    "Assalam-o-Alaikum! I need to reset my CSS MPT Prep password.",
     email ? `Account email: ${email}` : "Account email: ",
   ];
   return `https://wa.me/${OWNER_WHATSAPP}?text=${encodeURIComponent(
