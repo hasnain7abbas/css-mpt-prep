@@ -7384,6 +7384,1501 @@
   "topic": "earth-interior"
  },
  {
+  "text": "What is the SI unit of electric current?",
+  "options": [
+   "Ampere",
+   "Volt",
+   "Ohm",
+   "Watt"
+  ],
+  "correctIndex": 0,
+  "explanation": "Electric current is measured in amperes (A), named after André-Marie Ampère.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which SI base unit is the only one that includes a prefix in its name?",
+  "options": [
+   "Metre",
+   "Kilogram",
+   "Second",
+   "Mole"
+  ],
+  "correctIndex": 1,
+  "explanation": "The kilogram is the SI base unit of mass and is unusual in that it already carries the prefix 'kilo-'.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which SI unit is used to measure the amount of substance?",
+  "options": [
+   "Litre",
+   "Gram",
+   "Mole",
+   "Newton"
+  ],
+  "correctIndex": 2,
+  "explanation": "The mole is the SI base unit for amount of substance, defined in terms of the number of elementary entities.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Electric charge is measured in which SI unit?",
+  "options": [
+   "Farad",
+   "Henry",
+   "Tesla",
+   "Coulomb"
+  ],
+  "correctIndex": 3,
+  "explanation": "The coulomb is the SI unit of electric charge, equal to the charge transported by one ampere of current in one second.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which unit is used to measure energy and work in the SI system?",
+  "options": [
+   "Joule",
+   "Newton",
+   "Pascal",
+   "Watt"
+  ],
+  "correctIndex": 0,
+  "explanation": "The joule is the SI unit of energy and work, equal to the work done when a force of one newton moves an object one metre.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which SI unit is used to measure power?",
+  "options": [
+   "Joule",
+   "Watt",
+   "Ampere",
+   "Ohm"
+  ],
+  "correctIndex": 1,
+  "explanation": "Power, the rate of doing work, is measured in watts, where one watt equals one joule per second.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which SI unit is used to measure pressure?",
+  "options": [
+   "Newton",
+   "Joule",
+   "Pascal",
+   "Bar"
+  ],
+  "correctIndex": 2,
+  "explanation": "Pressure is measured in pascals, defined as one newton of force applied over an area of one square metre.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Electrical capacitance is measured in which unit?",
+  "options": [
+   "Henry",
+   "Tesla",
+   "Weber",
+   "Farad"
+  ],
+  "correctIndex": 3,
+  "explanation": "Capacitance, the ability of a component to store electric charge, is measured in farads.",
+  "difficulty": "HARD",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which unit is used to measure magnetic flux density?",
+  "options": [
+   "Tesla",
+   "Weber",
+   "Farad",
+   "Henry"
+  ],
+  "correctIndex": 0,
+  "explanation": "Magnetic flux density is measured in tesla, named after the physicist and inventor Nikola Tesla.",
+  "difficulty": "HARD",
+  "topic": "measurement"
+ },
+ {
+  "text": "The activity of a radioactive substance is measured in which SI unit?",
+  "options": [
+   "Gray",
+   "Becquerel",
+   "Sievert",
+   "Curie"
+  ],
+  "correctIndex": 1,
+  "explanation": "The becquerel measures radioactive activity as the number of nuclear decays occurring per second.",
+  "difficulty": "HARD",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which SI unit measures the absorbed dose of ionising radiation?",
+  "options": [
+   "Becquerel",
+   "Sievert",
+   "Gray",
+   "Roentgen"
+  ],
+  "correctIndex": 2,
+  "explanation": "The gray measures the amount of radiation energy absorbed per kilogram of matter.",
+  "difficulty": "HARD",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which unit is used to measure luminous flux, the total quantity of visible light emitted by a source?",
+  "options": [
+   "Lux",
+   "Candela",
+   "Watt",
+   "Lumen"
+  ],
+  "correctIndex": 3,
+  "explanation": "Luminous flux, the total light output of a source, is measured in lumens.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which unit measures illuminance, the amount of light falling on a surface?",
+  "options": [
+   "Lux",
+   "Lumen",
+   "Candela",
+   "Watt"
+  ],
+  "correctIndex": 0,
+  "explanation": "Illuminance, or light intensity per unit area on a surface, is measured in lux.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "The mass of gemstones such as diamonds is commonly measured in which unit?",
+  "options": [
+   "Ounce",
+   "Carat",
+   "Grain",
+   "Gram"
+  ],
+  "correctIndex": 1,
+  "explanation": "Carat is the standard unit used to express the mass of diamonds and other gemstones, equal to 200 milligrams.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which unit of land area is equal to 10,000 square metres?",
+  "options": [
+   "Acre",
+   "Yard",
+   "Hectare",
+   "Furlong"
+  ],
+  "correctIndex": 2,
+  "explanation": "A hectare equals 10,000 square metres and is a standard metric unit for measuring land area.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to detect and record seismic waves produced by earthquakes?",
+  "options": [
+   "Barometer",
+   "Anemometer",
+   "Hygrometer",
+   "Seismograph"
+  ],
+  "correctIndex": 3,
+  "explanation": "A seismograph records the vibrations of the ground caused by seismic waves during an earthquake.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument measures the distance travelled by a vehicle?",
+  "options": [
+   "Odometer",
+   "Speedometer",
+   "Tachometer",
+   "Altimeter"
+  ],
+  "correctIndex": 0,
+  "explanation": "An odometer records the total distance a vehicle has travelled, while a speedometer shows its current speed.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to measure blood pressure?",
+  "options": [
+   "Stethoscope",
+   "Sphygmomanometer",
+   "Thermometer",
+   "Otoscope"
+  ],
+  "correctIndex": 1,
+  "explanation": "A sphygmomanometer, usually with an inflatable cuff, is used to measure arterial blood pressure.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to measure the sensitivity of a person's hearing?",
+  "options": [
+   "Stethoscope",
+   "Sphygmomanometer",
+   "Audiometer",
+   "Barometer"
+  ],
+  "correctIndex": 2,
+  "explanation": "An audiometer tests hearing acuity by measuring the faintest sounds a person can detect at different frequencies.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to analyse the spectrum of light emitted or absorbed by a substance?",
+  "options": [
+   "Telescope",
+   "Microscope",
+   "Periscope",
+   "Spectrometer"
+  ],
+  "correctIndex": 3,
+  "explanation": "A spectrometer splits light into its component wavelengths, allowing analysis of a substance's composition.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is traditionally used by navigators to measure the angle between a celestial body and the horizon?",
+  "options": [
+   "Sextant",
+   "Compass",
+   "Chronometer",
+   "Theodolite"
+  ],
+  "correctIndex": 0,
+  "explanation": "A sextant measures the angular distance between two visible objects, such as a star and the horizon, for navigation.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "A voltmeter is connected in which manner to measure the potential difference across a component?",
+  "options": [
+   "In series with the component",
+   "In parallel with the component",
+   "In series with the battery only",
+   "It is not connected to the circuit"
+  ],
+  "correctIndex": 1,
+  "explanation": "A voltmeter is connected in parallel across a component so it measures the potential difference without significantly altering the circuit current.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to measure the pressure of a gas?",
+  "options": [
+   "Anemometer",
+   "Hygrometer",
+   "Manometer",
+   "Odometer"
+  ],
+  "correctIndex": 2,
+  "explanation": "A manometer measures gas pressure, typically by comparing it to the height of a liquid column.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument measures the rotational speed of an engine or shaft?",
+  "options": [
+   "Odometer",
+   "Speedometer",
+   "Altimeter",
+   "Tachometer"
+  ],
+  "correctIndex": 3,
+  "explanation": "A tachometer measures rotational speed, typically expressed in revolutions per minute.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to test the purity of milk?",
+  "options": [
+   "Lactometer",
+   "Hydrometer",
+   "Barometer",
+   "Manometer"
+  ],
+  "correctIndex": 0,
+  "explanation": "A lactometer measures the density of milk to check whether it has been diluted with water.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to measure very high temperatures, such as inside a furnace?",
+  "options": [
+   "Thermometer",
+   "Pyrometer",
+   "Barometer",
+   "Manometer"
+  ],
+  "correctIndex": 1,
+  "explanation": "A pyrometer measures very high temperatures beyond the range of ordinary thermometers, often without direct contact.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which precise timekeeping instrument was historically essential for determining a ship's longitude at sea?",
+  "options": [
+   "Sextant",
+   "Compass",
+   "Chronometer",
+   "Astrolabe"
+  ],
+  "correctIndex": 2,
+  "explanation": "A marine chronometer kept accurate time at sea, allowing navigators to calculate longitude by comparing local time to a reference time.",
+  "difficulty": "HARD",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to measure altitude above sea level?",
+  "options": [
+   "Odometer",
+   "Speedometer",
+   "Tachometer",
+   "Altimeter"
+  ],
+  "correctIndex": 3,
+  "explanation": "An altimeter measures altitude, commonly by detecting changes in atmospheric pressure with height.",
+  "difficulty": "EASY",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to measure the quantity of heat released or absorbed in a process?",
+  "options": [
+   "Calorimeter",
+   "Barometer",
+   "Manometer",
+   "Pyrometer"
+  ],
+  "correctIndex": 0,
+  "explanation": "A calorimeter measures heat changes, such as the heat released during a chemical reaction or combustion.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Which instrument is used to detect and measure small electric currents?",
+  "options": [
+   "Ammeter",
+   "Galvanometer",
+   "Voltmeter",
+   "Ohmmeter"
+  ],
+  "correctIndex": 1,
+  "explanation": "A galvanometer detects and measures very small electric currents by the deflection of a needle in a magnetic field.",
+  "difficulty": "MEDIUM",
+  "topic": "measurement"
+ },
+ {
+  "text": "Isaac Newton is best known for formulating which of the following?",
+  "options": [
+   "The theory of evolution",
+   "The periodic table",
+   "The laws of motion and universal gravitation",
+   "The theory of relativity"
+  ],
+  "correctIndex": 2,
+  "explanation": "Isaac Newton formulated the three laws of motion and the law of universal gravitation, laying the foundation of classical mechanics.",
+  "difficulty": "EASY",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Albert Einstein is most famous for developing which theory?",
+  "options": [
+   "The theory of evolution",
+   "Quantum mechanics",
+   "The germ theory of disease",
+   "The theory of relativity"
+  ],
+  "correctIndex": 3,
+  "explanation": "Albert Einstein developed the theory of relativity, which transformed the understanding of space, time, and gravity.",
+  "difficulty": "EASY",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Charles Darwin is best known for proposing which scientific theory?",
+  "options": [
+   "The theory of evolution by natural selection",
+   "The theory of relativity",
+   "The germ theory of disease",
+   "The law of conservation of mass"
+  ],
+  "correctIndex": 0,
+  "explanation": "Charles Darwin proposed the theory of evolution by natural selection, presented in his book 'On the Origin of Species'.",
+  "difficulty": "EASY",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Louis Pasteur is credited with developing the process of pasteurization and advancing which scientific concept?",
+  "options": [
+   "The atomic theory",
+   "The germ theory of disease",
+   "The theory of relativity",
+   "The periodic law"
+  ],
+  "correctIndex": 1,
+  "explanation": "Louis Pasteur showed that microorganisms cause disease and fermentation, establishing the germ theory of disease and developing pasteurization.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Marie Curie is best known for her discovery of which elements, and for becoming the first person to win two Nobel Prizes?",
+  "options": [
+   "Uranium and thorium",
+   "Oxygen and hydrogen",
+   "Radium and polonium",
+   "Neon and argon"
+  ],
+  "correctIndex": 2,
+  "explanation": "Marie Curie discovered the radioactive elements radium and polonium and became the first person to win Nobel Prizes in two different sciences.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Thomas Edison is best known for developing a practical, long-lasting version of which invention?",
+  "options": [
+   "The telephone",
+   "The radio",
+   "The steam engine",
+   "The incandescent electric light bulb"
+  ],
+  "correctIndex": 3,
+  "explanation": "Thomas Edison developed a commercially practical incandescent electric light bulb, along with many other inventions.",
+  "difficulty": "EASY",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Alexander Graham Bell is credited with inventing which device?",
+  "options": [
+   "The telephone",
+   "The telegraph",
+   "The radio",
+   "The phonograph"
+  ],
+  "correctIndex": 0,
+  "explanation": "Alexander Graham Bell is credited with inventing the telephone and was awarded the first US patent for it in 1876.",
+  "difficulty": "EASY",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Guglielmo Marconi is best known for pioneering which technology?",
+  "options": [
+   "The telephone",
+   "Long-distance radio (wireless) transmission",
+   "The electric light bulb",
+   "Television broadcasting"
+  ],
+  "correctIndex": 1,
+  "explanation": "Guglielmo Marconi pioneered long-distance radio transmission, including the first transatlantic wireless signal in 1901.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "The Wright brothers are credited with achieving which milestone in 1903?",
+  "options": [
+   "The first submarine voyage",
+   "The first automobile",
+   "The first successful powered aeroplane flight",
+   "The first satellite launch"
+  ],
+  "correctIndex": 2,
+  "explanation": "Orville and Wilbur Wright achieved the first successful sustained, controlled flight of a powered aeroplane in 1903.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Michael Faraday is best known for his discovery of which phenomenon?",
+  "options": [
+   "Radioactivity",
+   "The electron",
+   "X-rays",
+   "Electromagnetic induction"
+  ],
+  "correctIndex": 3,
+  "explanation": "Michael Faraday discovered electromagnetic induction, the principle behind electric generators and transformers.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "James Watt is best known for significantly improving which invention?",
+  "options": [
+   "The steam engine",
+   "The telegraph",
+   "The steam locomotive",
+   "The internal combustion engine"
+  ],
+  "correctIndex": 0,
+  "explanation": "James Watt made major improvements to the steam engine, greatly increasing its efficiency and enabling the Industrial Revolution.",
+  "difficulty": "EASY",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Alfred Nobel, who endowed the Nobel Prizes, made his fortune primarily as the inventor of which product?",
+  "options": [
+   "The steam turbine",
+   "Dynamite",
+   "The machine gun",
+   "The internal combustion engine"
+  ],
+  "correctIndex": 1,
+  "explanation": "Alfred Nobel invented dynamite and used his fortune from explosives manufacturing to establish the Nobel Prizes.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Dmitri Mendeleev is best known for devising which scientific tool?",
+  "options": [
+   "The double helix model of DNA",
+   "The atomic theory",
+   "The periodic table of elements",
+   "The law of conservation of mass"
+  ],
+  "correctIndex": 2,
+  "explanation": "Dmitri Mendeleev devised the periodic table, arranging elements by atomic weight and recurring chemical properties.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Antoine Lavoisier, often called the father of modern chemistry, is best known for establishing which law?",
+  "options": [
+   "The law of definite proportions",
+   "Boyle's law",
+   "Avogadro's law",
+   "The law of conservation of mass"
+  ],
+  "correctIndex": 3,
+  "explanation": "Antoine Lavoisier established the law of conservation of mass, showing that matter is neither created nor destroyed in a chemical reaction.",
+  "difficulty": "HARD",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Johannes Kepler is best known for formulating which set of scientific laws?",
+  "options": [
+   "The laws of planetary motion",
+   "The laws of thermodynamics",
+   "The laws of motion",
+   "The gas laws"
+  ],
+  "correctIndex": 0,
+  "explanation": "Johannes Kepler formulated three laws describing the motion of planets around the Sun in elliptical orbits.",
+  "difficulty": "HARD",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Benjamin Franklin is famous for a kite experiment that helped demonstrate the nature of which phenomenon?",
+  "options": [
+   "Magnetism",
+   "Lightning and electricity",
+   "Sound waves",
+   "Gravity"
+  ],
+  "correctIndex": 1,
+  "explanation": "Benjamin Franklin's kite experiment helped demonstrate that lightning is an electrical phenomenon.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "James Clerk Maxwell is best known for unifying electricity, magnetism, and light into which theory?",
+  "options": [
+   "The theory of relativity",
+   "Quantum theory",
+   "The electromagnetic theory of light",
+   "The kinetic theory of gases"
+  ],
+  "correctIndex": 2,
+  "explanation": "James Clerk Maxwell formulated equations showing that light is an electromagnetic wave, unifying electricity, magnetism, and optics.",
+  "difficulty": "HARD",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Niels Bohr is best known for proposing an early model of which structure?",
+  "options": [
+   "The DNA molecule",
+   "The solar system",
+   "The periodic table",
+   "The atom, with electrons in fixed energy orbits"
+  ],
+  "correctIndex": 3,
+  "explanation": "Niels Bohr proposed an atomic model in which electrons occupy fixed energy levels or orbits around the nucleus.",
+  "difficulty": "HARD",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "J.J. Thomson is credited with the discovery of which subatomic particle?",
+  "options": [
+   "The electron",
+   "The proton",
+   "The neutron",
+   "The neutrino"
+  ],
+  "correctIndex": 0,
+  "explanation": "J.J. Thomson discovered the electron in 1897 through his experiments with cathode rays.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Alessandro Volta is best known for inventing which device?",
+  "options": [
+   "The electric motor",
+   "The first electric battery (voltaic pile)",
+   "The transformer",
+   "The generator"
+  ],
+  "correctIndex": 1,
+  "explanation": "Alessandro Volta invented the voltaic pile, the first true electric battery, in 1800.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "James Prescott Joule is best known for establishing the relationship between which two quantities?",
+  "options": [
+   "Force and acceleration",
+   "Voltage and current",
+   "Heat and mechanical work",
+   "Pressure and volume"
+  ],
+  "correctIndex": 2,
+  "explanation": "James Prescott Joule demonstrated that heat and mechanical work are equivalent forms of energy, a finding honoured in the unit named after him.",
+  "difficulty": "HARD",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Robert Boyle is best known for a gas law describing the relationship between which two quantities at constant temperature?",
+  "options": [
+   "Volume and temperature",
+   "Pressure and temperature",
+   "Volume and moles",
+   "Pressure and volume"
+  ],
+  "correctIndex": 3,
+  "explanation": "Boyle's law states that the pressure of a gas is inversely proportional to its volume at constant temperature.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Galileo Galilei is best known for improving the telescope and providing observational support for which model of the solar system?",
+  "options": [
+   "The heliocentric (Sun-centred) model",
+   "The geocentric (Earth-centred) model",
+   "The steady-state model",
+   "The big bang model"
+  ],
+  "correctIndex": 0,
+  "explanation": "Galileo's telescopic observations, such as the moons of Jupiter, provided strong evidence supporting the heliocentric model of the solar system.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Nicolaus Copernicus is best known for proposing which model of the solar system?",
+  "options": [
+   "The geocentric model, with Earth at the centre",
+   "The heliocentric model, with the Sun at the centre",
+   "The steady-state model of the universe",
+   "The expanding universe model"
+  ],
+  "correctIndex": 1,
+  "explanation": "Nicolaus Copernicus proposed the heliocentric model, placing the Sun rather than the Earth at the centre of the solar system.",
+  "difficulty": "EASY",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Archimedes is best known for a principle explaining which phenomenon?",
+  "options": [
+   "Why objects fall at the same rate in a vacuum",
+   "How electric current flows through a conductor",
+   "Why a floating or submerged object experiences an upward buoyant force",
+   "Why light bends when passing through a lens"
+  ],
+  "correctIndex": 2,
+  "explanation": "Archimedes' principle states that a body submerged in a fluid experiences an upward buoyant force equal to the weight of fluid it displaces.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "John Dalton is best known for proposing which foundational scientific theory?",
+  "options": [
+   "The theory of evolution",
+   "The germ theory of disease",
+   "The kinetic theory of gases",
+   "The modern atomic theory"
+  ],
+  "correctIndex": 3,
+  "explanation": "John Dalton proposed that matter is composed of indivisible atoms, laying the foundation of modern atomic theory.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Samuel Morse is best known for developing which system of communication?",
+  "options": [
+   "Morse code and the electric telegraph",
+   "The telephone network",
+   "Radio broadcasting",
+   "The postal system"
+  ],
+  "correctIndex": 0,
+  "explanation": "Samuel Morse developed Morse code and helped create the electric telegraph, revolutionizing long-distance communication.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Edwin Hubble is best known for providing evidence that the universe is doing what?",
+  "options": [
+   "Remaining static in size",
+   "Expanding",
+   "Contracting",
+   "Rotating around a fixed centre"
+  ],
+  "correctIndex": 1,
+  "explanation": "Edwin Hubble's observations of galaxies showed that the universe is expanding, a cornerstone of modern cosmology.",
+  "difficulty": "HARD",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Max Planck is regarded as the founder of which branch of physics?",
+  "options": [
+   "Classical mechanics",
+   "Thermodynamics",
+   "Quantum theory",
+   "Relativity"
+  ],
+  "correctIndex": 2,
+  "explanation": "Max Planck introduced the concept of energy quanta, laying the foundation for quantum theory.",
+  "difficulty": "HARD",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "Stephen Hawking is best known for his theoretical contributions to the study of which astronomical objects?",
+  "options": [
+   "Comets",
+   "Asteroids",
+   "Exoplanets",
+   "Black holes"
+  ],
+  "correctIndex": 3,
+  "explanation": "Stephen Hawking made major theoretical contributions to the understanding of black holes, including the concept of Hawking radiation.",
+  "difficulty": "MEDIUM",
+  "topic": "scientists-discoveries"
+ },
+ {
+  "text": "A refrigerator keeps food cool mainly because of which process?",
+  "options": [
+   "A refrigerant evaporates inside the cooling coils, absorbing heat from the food compartment",
+   "Cold air is pumped in from outside the building",
+   "A chemical reaction inside the compartment absorbs heat directly from food",
+   "Sunlight is blocked from entering the compartment"
+  ],
+  "correctIndex": 0,
+  "explanation": "Inside a refrigerator, a refrigerant evaporates in the coils and absorbs heat from the compartment, then releases that heat outside when it condenses.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A microwave oven heats food mainly by which mechanism?",
+  "options": [
+   "Directly burning the surface of the food",
+   "Microwaves causing water molecules in the food to vibrate rapidly, generating heat",
+   "Infrared rays heating the plate beneath the food",
+   "Radio waves melting fat molecules"
+  ],
+  "correctIndex": 1,
+  "explanation": "Microwaves cause polar water molecules within food to rotate rapidly, and this molecular motion generates heat throughout the food.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Why is thunder usually heard a few seconds after lightning is seen during a storm?",
+  "options": [
+   "Thunder is produced after the lightning strike ends",
+   "Light and sound are produced at different times",
+   "Light travels much faster than sound, so it reaches an observer first",
+   "Sound waves are blocked temporarily by rain"
+  ],
+  "correctIndex": 2,
+  "explanation": "Light and thunder are produced at essentially the same instant, but light travels far faster than sound, so the flash is seen before the sound is heard.",
+  "difficulty": "EASY",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Soap is able to remove grease and dirt from surfaces mainly because its molecules do what?",
+  "options": [
+   "Dissolve grease chemically into water",
+   "Neutralize the acidity of dirt",
+   "React with water to release oxygen",
+   "Have one end that attracts water and one end that attracts grease, allowing grease to be lifted away in water"
+  ],
+  "correctIndex": 3,
+  "explanation": "Soap molecules have a water-attracting head and a grease-attracting tail, allowing them to surround grease particles so they can be rinsed away with water.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A rainbow appears in the sky mainly due to which optical process acting on sunlight passing through raindrops?",
+  "options": [
+   "Dispersion and internal reflection of sunlight within water droplets",
+   "Absorption of sunlight by water vapour",
+   "Polarization of sunlight by clouds",
+   "Diffraction of sunlight around raindrops"
+  ],
+  "correctIndex": 0,
+  "explanation": "Sunlight entering a raindrop is refracted, internally reflected, and dispersed into its component colours, producing a rainbow.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A GPS receiver determines its location mainly by doing what?",
+  "options": [
+   "Measuring the strength of a single satellite's signal",
+   "Calculating its position from timed signals received from multiple satellites",
+   "Detecting the Earth's magnetic field",
+   "Triangulating with nearby mobile phone towers only"
+  ],
+  "correctIndex": 1,
+  "explanation": "A GPS receiver calculates its position by measuring the time delay of signals from several satellites and triangulating its location.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Why does ice float on liquid water?",
+  "options": [
+   "Ice is warmer than the surrounding water",
+   "Ice has a larger surface area than water",
+   "Ice is less dense than liquid water",
+   "Ice contains trapped air bubbles that make it lighter"
+  ],
+  "correctIndex": 2,
+  "explanation": "Water expands slightly as it freezes, so ice is less dense than liquid water and therefore floats.",
+  "difficulty": "EASY",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A battery produces electricity mainly through which process?",
+  "options": [
+   "Mechanical rotation of a coil in a magnetic field",
+   "Heating a filament until it glows",
+   "Splitting water molecules using sunlight",
+   "Chemical reactions inside it that generate a flow of electrons"
+  ],
+  "correctIndex": 3,
+  "explanation": "Inside a battery, chemical reactions between its electrodes and electrolyte release electrons, producing an electric current.",
+  "difficulty": "EASY",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A metal spoon feels colder to the touch than a wooden spoon at the same room temperature mainly because metal does what?",
+  "options": [
+   "Conducts heat away from the hand faster than wood does",
+   "Is actually colder than wood in a room",
+   "Reflects more light than wood",
+   "Absorbs moisture from the skin"
+  ],
+  "correctIndex": 0,
+  "explanation": "Metal is a much better conductor of heat than wood, so it draws heat away from the hand more quickly, making it feel colder even though both are at the same temperature.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A vacuum (thermos) flask keeps liquids hot or cold for longer mainly because of what design feature?",
+  "options": [
+   "A thick plastic outer casing",
+   "A vacuum between double walls that greatly reduces heat transfer by conduction and convection",
+   "A layer of ice built into the lid",
+   "A battery-powered heating element"
+  ],
+  "correctIndex": 1,
+  "explanation": "The vacuum between the flask's double walls prevents heat transfer by conduction and convection, keeping the contents at a stable temperature for longer.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A parachute slows a skydiver's descent mainly by increasing which force?",
+  "options": [
+   "Gravitational force",
+   "Magnetic force",
+   "Air resistance (drag)",
+   "Buoyant force"
+  ],
+  "correctIndex": 2,
+  "explanation": "A parachute's large surface area greatly increases air resistance, slowing the descent of the person attached to it.",
+  "difficulty": "EASY",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A magnetic compass needle points roughly toward the north mainly because of what?",
+  "options": [
+   "Gravity pulling it toward the North Pole",
+   "The rotation of the Earth",
+   "Air currents in the atmosphere",
+   "It aligns itself with the Earth's magnetic field"
+  ],
+  "correctIndex": 3,
+  "explanation": "A compass needle is a small magnet that aligns itself with the Earth's magnetic field, pointing roughly toward magnetic north.",
+  "difficulty": "EASY",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A lightning conductor protects a tall building mainly by doing what?",
+  "options": [
+   "Providing a low-resistance path that safely conducts a lightning strike's current to the ground",
+   "Absorbing the lightning's energy and converting it to heat",
+   "Repelling lightning away from the building using a magnetic field",
+   "Preventing clouds from forming near the building"
+  ],
+  "correctIndex": 0,
+  "explanation": "A lightning conductor offers a low-resistance metal path that channels the current of a lightning strike safely into the ground, protecting the structure.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Milk is homogenized mainly to achieve what result?",
+  "options": [
+   "To kill harmful bacteria in the milk",
+   "To break up fat globules so the cream does not separate and rise to the top",
+   "To add extra vitamins to the milk",
+   "To thicken the milk for cheese-making"
+  ],
+  "correctIndex": 1,
+  "explanation": "Homogenization breaks milk fat into tiny globules that stay evenly dispersed, preventing the cream from separating out.",
+  "difficulty": "HARD",
+  "topic": "applied-science"
+ },
+ {
+  "text": "An echo is produced when sound does what?",
+  "options": [
+   "Passes through a vacuum",
+   "Is absorbed completely by a soft surface",
+   "Reflects off a hard, sufficiently distant surface back to the listener",
+   "Travels through a solid material"
+  ],
+  "correctIndex": 2,
+  "explanation": "An echo occurs when sound waves reflect off a hard surface that is far enough away for the reflected sound to be heard as a distinct repetition.",
+  "difficulty": "EASY",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A straw placed in a glass of water appears bent at the water's surface mainly due to which phenomenon?",
+  "options": [
+   "Reflection of light off the glass",
+   "Diffraction of light around the straw",
+   "Scattering of light by water molecules",
+   "Refraction of light as it passes from water into air"
+  ],
+  "correctIndex": 3,
+  "explanation": "Light bends, or refracts, as it passes from water into air, making the submerged part of the straw appear displaced from the part above the surface.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Many fire extinguishers put out fires mainly by doing what?",
+  "options": [
+   "Cutting off the fire's supply of oxygen and/or cooling the burning material",
+   "Adding extra fuel to burn out the fire quickly",
+   "Increasing the temperature of the fire rapidly",
+   "Generating a strong magnetic field around the fire"
+  ],
+  "correctIndex": 0,
+  "explanation": "Fire extinguishers typically work by displacing oxygen, cooling the burning material, or both, which interrupts the combustion process.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A hot air balloon rises mainly because of what?",
+  "options": [
+   "The balloon material becomes lighter when heated",
+   "Hot air inside the balloon is less dense than the cooler air outside",
+   "Heated air contains more oxygen",
+   "The burner pushes the balloon directly upward"
+  ],
+  "correctIndex": 1,
+  "explanation": "Heating the air inside the balloon makes it less dense than the surrounding cooler air, creating an upward buoyant force.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A sharp knife cuts more easily than a blunt one mainly because of what?",
+  "options": [
+   "A sharp blade is always heavier than a blunt one",
+   "A sharp edge is chemically more reactive with the material being cut",
+   "A sharp edge concentrates the applied force over a much smaller area, producing greater pressure",
+   "A sharp blade moves faster through the air"
+  ],
+  "correctIndex": 2,
+  "explanation": "Because pressure equals force divided by area, a sharp, thin edge concentrates the same applied force onto a much smaller area, producing far greater pressure and cutting more easily.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "It becomes harder to breathe comfortably at high altitudes mainly because of what?",
+  "options": [
+   "The air becomes chemically different at high altitude",
+   "Cold temperatures thicken the air",
+   "There is less carbon dioxide available at high altitude",
+   "Atmospheric pressure is lower, so less oxygen is available with each breath"
+  ],
+  "correctIndex": 3,
+  "explanation": "As altitude increases, atmospheric pressure falls, reducing the partial pressure of oxygen and making it harder for the body to absorb enough oxygen.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A helium-filled balloon floats upward in air mainly because of what?",
+  "options": [
+   "Helium is less dense than the surrounding air",
+   "Helium reacts with air to produce lift",
+   "The balloon material is naturally buoyant",
+   "Helium is warmer than the surrounding air"
+  ],
+  "correctIndex": 0,
+  "explanation": "Helium is much less dense than air, so a helium-filled balloon experiences an upward buoyant force and rises.",
+  "difficulty": "EASY",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Fog typically forms near the ground mainly because of what process?",
+  "options": [
+   "Smoke particles accumulating close to the ground",
+   "Water vapour in the air condensing into tiny droplets as the air cools near the surface",
+   "Strong winds mixing dry and wet air",
+   "Ground-level ozone reacting with sunlight"
+  ],
+  "correctIndex": 1,
+  "explanation": "Fog forms when air near the ground cools enough for water vapour to condense into small suspended droplets.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Cutting an onion often makes the eyes water mainly because of what?",
+  "options": [
+   "The onion's strong smell alone triggers tears",
+   "Onion juice splashes directly into the eyes",
+   "A volatile sulphur compound released from the cut onion irritates the eyes",
+   "Onions release carbon dioxide gas that stings the eyes"
+  ],
+  "correctIndex": 2,
+  "explanation": "Cutting an onion releases a volatile sulphur-containing compound that reaches the eyes and irritates them, triggering tears.",
+  "difficulty": "HARD",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Bread dough rises during baking mainly because of what process?",
+  "options": [
+   "Water in the dough boiling and expanding",
+   "Gluten proteins shrinking and pushing the dough upward",
+   "The oven's heat directly expanding air pockets in the flour",
+   "Yeast fermenting sugars in the dough and releasing carbon dioxide gas"
+  ],
+  "correctIndex": 3,
+  "explanation": "Yeast in the dough ferments sugars and releases carbon dioxide gas, which forms bubbles that make the dough rise.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A camera forms an image mainly by doing what?",
+  "options": [
+   "A lens focuses incoming light onto a light-sensitive surface, such as a sensor or film",
+   "A mirror reflects the entire scene directly onto paper",
+   "Sound waves are converted into a picture",
+   "A chemical spray reproduces the scene instantly"
+  ],
+  "correctIndex": 0,
+  "explanation": "A camera lens focuses light from a scene onto a light-sensitive sensor or film, which records the image.",
+  "difficulty": "EASY",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A simple pinhole camera produces an inverted image on its screen mainly because of what?",
+  "options": [
+   "The pinhole reverses the colours of light",
+   "Light travels in straight lines, so rays from the top of an object cross to the bottom of the image and vice versa",
+   "Light bends sharply when passing through a small hole",
+   "The camera lens flips the image electronically"
+  ],
+  "correctIndex": 1,
+  "explanation": "Because light travels in straight lines, rays from the top of an object pass through the pinhole and strike the bottom of the screen, and vice versa, producing an inverted image.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Antifreeze is added to a car's radiator mainly to achieve what effect?",
+  "options": [
+   "To increase the boiling point of the fuel",
+   "To clean rust out of the engine",
+   "To lower the freezing point of the coolant so it does not freeze in cold weather",
+   "To reduce the weight of the coolant"
+  ],
+  "correctIndex": 2,
+  "explanation": "Antifreeze lowers the freezing point of the water in a car's cooling system, preventing it from freezing and damaging the engine in cold weather.",
+  "difficulty": "MEDIUM",
+  "topic": "applied-science"
+ },
+ {
+  "text": "Bubbles form rapidly when a bottle of a fizzy (carbonated) drink is opened mainly because of what?",
+  "options": [
+   "The drink begins to ferment as soon as air enters",
+   "Opening the bottle warms the liquid instantly",
+   "Sugar in the drink reacts chemically with air",
+   "Releasing the pressure allows dissolved carbon dioxide gas to come out of solution"
+  ],
+  "correctIndex": 3,
+  "explanation": "Carbonated drinks are bottled under pressure with dissolved carbon dioxide; opening the bottle releases this pressure, letting the gas escape as bubbles.",
+  "difficulty": "EASY",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A basic loudspeaker converts an electrical audio signal into sound mainly by doing what?",
+  "options": [
+   "Passing a varying electric current through a coil in a magnetic field, causing a diaphragm to vibrate and produce sound waves",
+   "Heating a wire until it produces audible vibrations",
+   "Using a laser to directly generate sound waves",
+   "Storing the signal and playing it back as compressed air"
+  ],
+  "correctIndex": 0,
+  "explanation": "In a loudspeaker, a varying current in a coil placed in a magnetic field creates a changing force that vibrates a diaphragm, producing sound waves.",
+  "difficulty": "HARD",
+  "topic": "applied-science"
+ },
+ {
+  "text": "A spinning top remains upright and resists toppling over mainly because of what effect?",
+  "options": [
+   "Its low centre of gravity alone keeps it balanced",
+   "Its angular momentum resists changes to the orientation of its spin axis (the gyroscopic effect)",
+   "Air pressure beneath the top pushes it upward",
+   "Static electricity holds it in place"
+  ],
+  "correctIndex": 1,
+  "explanation": "A rapidly spinning top has significant angular momentum, and this gyroscopic effect resists forces that would otherwise tip it over.",
+  "difficulty": "HARD",
+  "topic": "applied-science"
+ },
+ {
+  "text": "An ecosystem is best defined as what?",
+  "options": [
+   "A single species living in isolation",
+   "A geographic region defined only by its climate",
+   "A community of living organisms interacting with each other and with their physical (non-living) environment",
+   "A collection of unrelated organisms sharing no interactions"
+  ],
+  "correctIndex": 2,
+  "explanation": "An ecosystem consists of a community of organisms interacting with one another and with the non-living components of their environment, such as soil, water, and climate.",
+  "difficulty": "EASY",
+  "topic": "environment"
+ },
+ {
+  "text": "In a food chain, which organisms are classified as producers?",
+  "options": [
+   "Animals that eat only other animals",
+   "Organisms that break down dead matter",
+   "Animals that eat both plants and animals",
+   "Green plants and other organisms that manufacture their own food through photosynthesis"
+  ],
+  "correctIndex": 3,
+  "explanation": "Producers, mainly green plants and algae, make their own food through photosynthesis and form the base of most food chains.",
+  "difficulty": "EASY",
+  "topic": "environment"
+ },
+ {
+  "text": "Which organisms are classified as primary consumers in a food chain?",
+  "options": [
+   "Herbivores that feed directly on producers",
+   "Carnivores that feed on other carnivores",
+   "Decomposers that break down dead organisms",
+   "Producers that make their own food"
+  ],
+  "correctIndex": 0,
+  "explanation": "Primary consumers, typically herbivores, feed directly on producers such as plants.",
+  "difficulty": "EASY",
+  "topic": "environment"
+ },
+ {
+  "text": "What role do decomposers play in an ecosystem?",
+  "options": [
+   "They convert sunlight directly into food",
+   "They break down dead organisms and organic waste, recycling nutrients back into the environment",
+   "They occupy the top of every food chain",
+   "They convert carbon dioxide into oxygen exclusively"
+  ],
+  "correctIndex": 1,
+  "explanation": "Decomposers, such as fungi and bacteria, break down dead organic matter and return nutrients to the soil for reuse by producers.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "In a typical ecological pyramid of energy, why does the amount of usable energy decrease at each successive trophic level?",
+  "options": [
+   "Producers absorb all the available energy at the base",
+   "Higher trophic levels contain more individual organisms",
+   "A large portion of energy is lost as heat at each level through life processes such as respiration",
+   "Energy is destroyed as it passes between organisms"
+  ],
+  "correctIndex": 2,
+  "explanation": "At each trophic level, a substantial portion of energy is lost as heat through respiration and other life processes, so less energy remains available to the next level.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "How does a food web differ from a single food chain?",
+  "options": [
+   "A food web includes only producers and no consumers",
+   "A food web applies only to aquatic ecosystems",
+   "A food web has no decomposers, unlike a food chain",
+   "A food web is an interconnected network formed by multiple overlapping food chains"
+  ],
+  "correctIndex": 3,
+  "explanation": "A food web represents the many interconnected food chains within an ecosystem, showing that most organisms have multiple feeding relationships.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "A biome is best described as what?",
+  "options": [
+   "A large naturally occurring community of plants and animals adapted to a particular climate and region",
+   "A single protected national park",
+   "A man-made agricultural region",
+   "A small pond ecosystem"
+  ],
+  "correctIndex": 0,
+  "explanation": "A biome is a large-scale ecological community, such as a desert, grassland, or tropical rainforest, characterised by its climate and the organisms adapted to it.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "In ecology, a relationship in which both interacting species benefit is called what?",
+  "options": [
+   "Parasitism",
+   "Mutualism",
+   "Predation",
+   "Competition"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mutualism is a symbiotic relationship in which both species involved gain a benefit, such as bees pollinating flowers while feeding on nectar.",
+  "difficulty": "EASY",
+  "topic": "environment"
+ },
+ {
+  "text": "In ecology, a relationship in which one organism benefits while harming the other is called what?",
+  "options": [
+   "Mutualism",
+   "Commensalism",
+   "Parasitism",
+   "Competition"
+  ],
+  "correctIndex": 2,
+  "explanation": "Parasitism is a relationship in which one organism, the parasite, benefits at the expense of the host, which is harmed.",
+  "difficulty": "EASY",
+  "topic": "environment"
+ },
+ {
+  "text": "In ecology, a relationship in which one species benefits while the other is neither helped nor harmed is called what?",
+  "options": [
+   "Mutualism",
+   "Parasitism",
+   "Predation",
+   "Commensalism"
+  ],
+  "correctIndex": 3,
+  "explanation": "Commensalism is a relationship in which one organism benefits while the other experiences no significant effect.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "A keystone species is best described as what?",
+  "options": [
+   "A species whose influence on its ecosystem is disproportionately large relative to its population size",
+   "The most numerous species in an ecosystem",
+   "A species that has gone extinct in the wild",
+   "A species found only in captivity"
+  ],
+  "correctIndex": 0,
+  "explanation": "A keystone species has an ecological impact far greater than its abundance would suggest, and its removal can dramatically alter the ecosystem.",
+  "difficulty": "HARD",
+  "topic": "environment"
+ },
+ {
+  "text": "Large-scale deforestation typically has which direct effect on soil in the cleared area?",
+  "options": [
+   "It increases soil fertility permanently",
+   "It accelerates soil erosion, since tree roots no longer hold the soil in place",
+   "It has no significant effect on soil",
+   "It automatically converts the soil into fertile farmland"
+  ],
+  "correctIndex": 1,
+  "explanation": "Without tree roots to bind the soil and canopy to reduce the impact of rain, deforested land becomes far more vulnerable to soil erosion.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "Desertification refers to what process?",
+  "options": [
+   "The natural formation of deserts through plate tectonics over millions of years",
+   "The seasonal drying of rivers in arid regions",
+   "The process by which fertile land becomes degraded and desert-like, often due to deforestation, overgrazing, or drought",
+   "The expansion of ice sheets into desert regions"
+  ],
+  "correctIndex": 2,
+  "explanation": "Desertification is the degradation of once-fertile land into desert-like conditions, commonly driven by human activities such as deforestation and overgrazing combined with climatic factors.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "How does afforestation differ from reforestation?",
+  "options": [
+   "Afforestation only involves planting fruit trees",
+   "Reforestation always uses non-native species",
+   "Afforestation is illegal in most countries",
+   "Afforestation is planting trees in an area that had no recent forest cover, while reforestation is replanting trees where a forest previously existed"
+  ],
+  "correctIndex": 3,
+  "explanation": "Afforestation establishes forest on land that was not previously forested, whereas reforestation restores trees to land that had forest cover before it was cleared.",
+  "difficulty": "HARD",
+  "topic": "environment"
+ },
+ {
+  "text": "Farming techniques such as terracing and contour ploughing on sloped land are mainly used to achieve what?",
+  "options": [
+   "Reduce soil erosion by slowing the runoff of rainwater",
+   "Increase the speed of water drainage off the land",
+   "Reduce the amount of sunlight reaching the crops",
+   "Increase the salinity of the soil"
+  ],
+  "correctIndex": 0,
+  "explanation": "Terracing and contour ploughing follow the natural slope of the land to slow rainwater runoff, reducing soil erosion on hillsides and slopes.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "The IUCN Red List is best described as what?",
+  "options": [
+   "A binding international treaty banning trade in endangered species",
+   "A global inventory that assesses and classifies the conservation status of species",
+   "A list of protected forests in a single country",
+   "An annual ranking of countries by carbon emissions"
+  ],
+  "correctIndex": 1,
+  "explanation": "The IUCN Red List, maintained by the International Union for Conservation of Nature, evaluates and classifies species according to their risk of extinction.",
+  "difficulty": "HARD",
+  "topic": "environment"
+ },
+ {
+  "text": "A species is described as endemic to a region when it is what?",
+  "options": [
+   "Extinct everywhere in the wild",
+   "Found in every continent",
+   "Naturally found only in that specific geographic region and nowhere else",
+   "Introduced to that region by humans"
+  ],
+  "correctIndex": 2,
+  "explanation": "An endemic species is one that occurs naturally only in a particular geographic area and is not found anywhere else in the wild.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "Biodegradable waste is best described as waste that does what?",
+  "options": [
+   "Cannot be broken down by any natural process",
+   "Is always hazardous to human health",
+   "Must be incinerated rather than disposed of in soil",
+   "Can be broken down naturally by microorganisms into simpler substances"
+  ],
+  "correctIndex": 3,
+  "explanation": "Biodegradable waste, such as food scraps and paper, can be decomposed by bacteria, fungi, and other microorganisms into simpler natural substances.",
+  "difficulty": "EASY",
+  "topic": "environment"
+ },
+ {
+  "text": "In waste management, the principle of 'reduce, reuse, recycle' is primarily intended to achieve what?",
+  "options": [
+   "Minimise the amount of waste generated and sent to landfills",
+   "Increase the volume of packaging used in products",
+   "Encourage single-use products for convenience",
+   "Eliminate the need for waste collection services"
+  ],
+  "correctIndex": 0,
+  "explanation": "The 'reduce, reuse, recycle' principle guides efforts to minimise waste generation and its environmental impact by cutting consumption, reusing items, and recycling materials.",
+  "difficulty": "EASY",
+  "topic": "environment"
+ },
+ {
+  "text": "Rainwater harvesting refers to what practice?",
+  "options": [
+   "Desalinating seawater for drinking",
+   "Collecting and storing rainwater for later use, helping to conserve water resources",
+   "Diverting river water for hydroelectric power only",
+   "Removing pollutants from wastewater before release"
+  ],
+  "correctIndex": 1,
+  "explanation": "Rainwater harvesting involves collecting and storing rainwater, often from rooftops, for uses such as irrigation or household needs, helping conserve other water sources.",
+  "difficulty": "EASY",
+  "topic": "environment"
+ },
+ {
+  "text": "Overfishing poses a threat to marine ecosystems mainly because it does what?",
+  "options": [
+   "Increases the population of predator fish uncontrollably",
+   "Improves the genetic diversity of fish stocks",
+   "Removes fish faster than their populations can naturally replenish, depleting stocks",
+   "Has no lasting effect on marine food webs"
+  ],
+  "correctIndex": 2,
+  "explanation": "Overfishing depletes fish populations by harvesting them faster than they can reproduce and replenish, disrupting marine food webs.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "Mangrove forests along coastlines primarily provide which ecological benefit?",
+  "options": [
+   "They increase the salinity of nearby freshwater rivers",
+   "They reduce rainfall in coastal regions",
+   "They exclusively support desert wildlife",
+   "They protect coastlines from erosion and storm surges while serving as a nursery habitat for marine species"
+  ],
+  "correctIndex": 3,
+  "explanation": "Mangrove forests stabilise coastal sediment, buffer against storm surges and erosion, and provide sheltered breeding grounds for many marine species.",
+  "difficulty": "HARD",
+  "topic": "environment"
+ },
+ {
+  "text": "Which animal is recognised as the national animal of Pakistan?",
+  "options": [
+   "Markhor",
+   "Snow leopard",
+   "Chukar partridge",
+   "Indus river dolphin"
+  ],
+  "correctIndex": 0,
+  "explanation": "The markhor, a wild goat species with distinctive spiral horns found in Pakistan's northern mountains, is the country's national animal.",
+  "difficulty": "EASY",
+  "topic": "environment"
+ },
+ {
+  "text": "Which tree is recognised as the national tree of Pakistan?",
+  "options": [
+   "Banyan",
+   "Deodar",
+   "Neem",
+   "Sheesham"
+  ],
+  "correctIndex": 1,
+  "explanation": "The deodar cedar, common in the forests of northern Pakistan, is recognised as the country's national tree.",
+  "difficulty": "MEDIUM",
+  "topic": "environment"
+ },
+ {
+  "text": "An invasive species is best described as what?",
+  "options": [
+   "A native species that has become extinct",
+   "A species protected under international conservation law",
+   "A non-native species introduced to an ecosystem that causes ecological or economic harm",
+   "A species that only lives in captivity"
+  ],
+  "correctIndex": 2,
+  "explanation": "An invasive species is a non-native organism introduced to a new environment where it spreads aggressively and causes ecological or economic damage.",
+  "difficulty": "HARD",
+  "topic": "environment"
+ },
+ {
   "text": "All poets are dreamers. All dreamers are optimists. Which conclusion necessarily follows?",
   "options": [
    "All poets are optimists",

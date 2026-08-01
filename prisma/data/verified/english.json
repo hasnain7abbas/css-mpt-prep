@@ -4524,6 +4524,1449 @@
   "topic": "sentence-correction"
  },
  {
+  "text": "He is capable ____ solving this complex problem.",
+  "options": [
+   "of",
+   "for",
+   "with",
+   "about"
+  ],
+  "correctIndex": 0,
+  "explanation": "The adjective \"capable\" is idiomatically followed by the preposition \"of\".",
+  "difficulty": "EASY",
+  "topic": "prepositions"
+ },
+ {
+  "text": "She was absorbed ____ reading her novel.",
+  "options": [
+   "with",
+   "in",
+   "at",
+   "on"
+  ],
+  "correctIndex": 1,
+  "explanation": "\"Absorbed in\" means deeply engaged in an activity.",
+  "difficulty": "EASY",
+  "topic": "prepositions"
+ },
+ {
+  "text": "The teacher was angry ____ the noisy students.",
+  "options": [
+   "on",
+   "at",
+   "with",
+   "for"
+  ],
+  "correctIndex": 2,
+  "explanation": "One is \"angry with\" a person, but \"angry at\" a thing or situation.",
+  "difficulty": "MEDIUM",
+  "topic": "prepositions"
+ },
+ {
+  "text": "He is anxious ____ his son's health.",
+  "options": [
+   "for",
+   "with",
+   "at",
+   "about"
+  ],
+  "correctIndex": 3,
+  "explanation": "\"Anxious about\" expresses worry concerning something; \"anxious for\" means eager for something.",
+  "difficulty": "MEDIUM",
+  "topic": "prepositions"
+ },
+ {
+  "text": "The results were contrary ____ our expectations.",
+  "options": [
+   "to",
+   "with",
+   "from",
+   "against"
+  ],
+  "correctIndex": 0,
+  "explanation": "\"Contrary to\" is the fixed idiomatic preposition used with this adjective.",
+  "difficulty": "MEDIUM",
+  "topic": "prepositions"
+ },
+ {
+  "text": "This book consists ____ ten chapters.",
+  "options": [
+   "in",
+   "of",
+   "with",
+   "from"
+  ],
+  "correctIndex": 1,
+  "explanation": "\"Consist of\" means to be made up of.",
+  "difficulty": "EASY",
+  "topic": "prepositions"
+ },
+ {
+  "text": "He succeeded ____ passing the entrance examination.",
+  "options": [
+   "at",
+   "for",
+   "in",
+   "with"
+  ],
+  "correctIndex": 2,
+  "explanation": "\"Succeed in\" doing something is the standard idiom.",
+  "difficulty": "MEDIUM",
+  "topic": "prepositions"
+ },
+ {
+  "text": "The candidate is eligible ____ the post of assistant director.",
+  "options": [
+   "at",
+   "with",
+   "on",
+   "for"
+  ],
+  "correctIndex": 3,
+  "explanation": "\"Eligible for\" a post or position is the correct collocation.",
+  "difficulty": "EASY",
+  "topic": "prepositions"
+ },
+ {
+  "text": "The children were engaged ____ a lively debate.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "with"
+  ],
+  "correctIndex": 0,
+  "explanation": "\"Engaged in\" is used for taking part in an activity.",
+  "difficulty": "MEDIUM",
+  "topic": "prepositions"
+ },
+ {
+  "text": "The old man leaned ____ the wall to rest.",
+  "options": [
+   "over",
+   "against",
+   "at",
+   "with"
+  ],
+  "correctIndex": 1,
+  "explanation": "\"Lean against\" means to rest one's weight on a surface.",
+  "difficulty": "MEDIUM",
+  "topic": "prepositions"
+ },
+ {
+  "text": "He was involved ____ a financial scandal.",
+  "options": [
+   "with",
+   "for",
+   "in",
+   "on"
+  ],
+  "correctIndex": 2,
+  "explanation": "\"Involved in\" describes participation in an event or activity.",
+  "difficulty": "EASY",
+  "topic": "prepositions"
+ },
+ {
+  "text": "The soldiers fought bravely ____ the invading army.",
+  "options": [
+   "with",
+   "at",
+   "for",
+   "against"
+  ],
+  "correctIndex": 3,
+  "explanation": "\"Fight against\" an enemy denotes opposition.",
+  "difficulty": "MEDIUM",
+  "topic": "prepositions"
+ },
+ {
+  "text": "He is closely related ____ the finance minister.",
+  "options": [
+   "to",
+   "with",
+   "in",
+   "on"
+  ],
+  "correctIndex": 0,
+  "explanation": "\"Related to\" indicates a family or kinship connection.",
+  "difficulty": "MEDIUM",
+  "topic": "prepositions"
+ },
+ {
+  "text": "This company deals ____ imported machinery.",
+  "options": [
+   "with",
+   "in",
+   "on",
+   "for"
+  ],
+  "correctIndex": 1,
+  "explanation": "\"Deal in\" refers to trading a particular type of goods.",
+  "difficulty": "HARD",
+  "topic": "prepositions"
+ },
+ {
+  "text": "The professor is well versed ____ ancient history.",
+  "options": [
+   "with",
+   "at",
+   "in",
+   "on"
+  ],
+  "correctIndex": 2,
+  "explanation": "\"Versed in\" means knowledgeable or skilled in a subject.",
+  "difficulty": "HARD",
+  "topic": "prepositions"
+ },
+ {
+  "text": "She ____ her work by 6 pm tomorrow.",
+  "options": [
+   "will finish",
+   "finishes",
+   "is finishing",
+   "will have finished"
+  ],
+  "correctIndex": 3,
+  "explanation": "The future perfect tense expresses an action that will be completed before a specified future time.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "They ____ football when it suddenly started raining.",
+  "options": [
+   "were playing",
+   "played",
+   "have played",
+   "play"
+  ],
+  "correctIndex": 0,
+  "explanation": "The past continuous describes an action in progress when another action interrupted it.",
+  "difficulty": "EASY",
+  "topic": "tenses"
+ },
+ {
+  "text": "I ____ Multan before last year; this was my first visit.",
+  "options": [
+   "never visited",
+   "had never visited",
+   "have never visited",
+   "was never visiting"
+  ],
+  "correctIndex": 1,
+  "explanation": "The past perfect is used for an action completed before another stated point in the past.",
+  "difficulty": "EASY",
+  "topic": "tenses"
+ },
+ {
+  "text": "He ____ in this bank for ten years now.",
+  "options": [
+   "works",
+   "worked",
+   "has been working",
+   "was working"
+  ],
+  "correctIndex": 2,
+  "explanation": "The present perfect continuous shows an action that began in the past and continues now, with emphasis on duration.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "By next year, she ____ her degree.",
+  "options": [
+   "completes",
+   "will complete",
+   "completed",
+   "will have completed"
+  ],
+  "correctIndex": 3,
+  "explanation": "The future perfect tense is used for an action that will be finished before a stated future point.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "The sun ____ in the east.",
+  "options": [
+   "rises",
+   "is rising",
+   "rose",
+   "has risen"
+  ],
+  "correctIndex": 0,
+  "explanation": "A universal or permanent truth is expressed in the simple present tense.",
+  "difficulty": "EASY",
+  "topic": "tenses"
+ },
+ {
+  "text": "While I ____ dinner, the doorbell rang.",
+  "options": [
+   "cooked",
+   "was cooking",
+   "have cooked",
+   "cook"
+  ],
+  "correctIndex": 1,
+  "explanation": "The past continuous describes an ongoing action interrupted by a shorter past action.",
+  "difficulty": "EASY",
+  "topic": "tenses"
+ },
+ {
+  "text": "She ____ her assignment yet; she needs another hour.",
+  "options": [
+   "did not finish",
+   "does not finish",
+   "has not finished",
+   "was not finishing"
+  ],
+  "correctIndex": 2,
+  "explanation": "\"Yet\" with an unfinished action calls for the present perfect negative.",
+  "difficulty": "EASY",
+  "topic": "tenses"
+ },
+ {
+  "text": "If I ____ you, I would apologise to her immediately.",
+  "options": [
+   "am",
+   "was",
+   "have been",
+   "were"
+  ],
+  "correctIndex": 3,
+  "explanation": "The subjunctive \"were\" is used for hypothetical situations in a second conditional, regardless of the subject.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "He ____ before we arrived at the station; the train had already gone.",
+  "options": [
+   "had left",
+   "left",
+   "has left",
+   "was leaving"
+  ],
+  "correctIndex": 0,
+  "explanation": "The past perfect shows an action completed before another past action, here our arrival.",
+  "difficulty": "EASY",
+  "topic": "tenses"
+ },
+ {
+  "text": "The labourers ____ overtime for a week when the strike was suddenly called off.",
+  "options": [
+   "worked",
+   "had been working",
+   "were working",
+   "have worked"
+  ],
+  "correctIndex": 1,
+  "explanation": "The past perfect continuous emphasises the duration of an action that had been ongoing before another past event.",
+  "difficulty": "HARD",
+  "topic": "tenses"
+ },
+ {
+  "text": "I ____ this report since nine o'clock this morning.",
+  "options": [
+   "write",
+   "wrote",
+   "have been writing",
+   "was writing"
+  ],
+  "correctIndex": 2,
+  "explanation": "The present perfect continuous is used for an action that started in the past and is still continuing, with duration stated.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "The flight ____ at nine o'clock tomorrow morning, according to the schedule.",
+  "options": [
+   "is taking off",
+   "took off",
+   "will be taken off",
+   "takes off"
+  ],
+  "correctIndex": 3,
+  "explanation": "The simple present tense is used for a fixed, scheduled future event such as a timetable.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "Unless you ____ now, you will miss the last train.",
+  "options": [
+   "will leave",
+   "leave",
+   "left",
+   "are leaving"
+  ],
+  "correctIndex": 1,
+  "explanation": "In conditional clauses beginning with \"unless\", the simple present is used to refer to future time.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "The doctor suggested that she ____ more rest.",
+  "options": [
+   "takes",
+   "took",
+   "take",
+   "will take"
+  ],
+  "correctIndex": 2,
+  "explanation": "The base form \"take\" is used in the subjunctive mood after verbs of suggestion such as \"suggest\".",
+  "difficulty": "HARD",
+  "topic": "tenses"
+ },
+ {
+  "text": "I would rather you ____ him about the plan just yet.",
+  "options": [
+   "don't tell",
+   "not tell",
+   "won't tell",
+   "didn't tell"
+  ],
+  "correctIndex": 3,
+  "explanation": "\"Would rather\" followed by a different subject takes a past-tense (subjunctive) verb, even though the meaning is present or future.",
+  "difficulty": "HARD",
+  "topic": "tenses"
+ },
+ {
+  "text": "No sooner ____ he arrived than it began to rain heavily.",
+  "options": [
+   "had",
+   "did",
+   "has",
+   "was"
+  ],
+  "correctIndex": 0,
+  "explanation": "\"No sooner... than\" requires the past perfect tense in the first clause.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "Scarcely ____ the film begun when the electricity failed.",
+  "options": [
+   "did",
+   "had",
+   "has",
+   "was"
+  ],
+  "correctIndex": 1,
+  "explanation": "\"Scarcely... when\" also requires the past perfect tense.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "By the time the police arrived, the thieves ____ the building.",
+  "options": [
+   "already left",
+   "have already left",
+   "had already left",
+   "were already leaving"
+  ],
+  "correctIndex": 2,
+  "explanation": "The past perfect tense shows an action completed before another past action, here the police arriving.",
+  "difficulty": "MEDIUM",
+  "topic": "tenses"
+ },
+ {
+  "text": "Choose the correct passive voice: 'She writes a letter every day.'",
+  "options": [
+   "A letter was written by her every day.",
+   "A letter is being written by her every day.",
+   "A letter has been written by her every day.",
+   "A letter is written by her every day."
+  ],
+  "correctIndex": 3,
+  "explanation": "The simple present passive is formed with is/am/are plus the past participle.",
+  "difficulty": "EASY",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'The police arrested the thief.'",
+  "options": [
+   "The thief was arrested by the police.",
+   "The thief is arrested by the police.",
+   "The thief has been arrested by the police.",
+   "The thief had been arrested by the police."
+  ],
+  "correctIndex": 0,
+  "explanation": "A simple past active sentence becomes simple past passive: was/were plus the past participle.",
+  "difficulty": "EASY",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'They will complete the project next month.'",
+  "options": [
+   "The project completes next month.",
+   "The project will be completed by them next month.",
+   "The project is completed by them next month.",
+   "The project would be completed by them next month."
+  ],
+  "correctIndex": 1,
+  "explanation": "Simple future active becomes \"will be + past participle\" in the passive.",
+  "difficulty": "EASY",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'She is cooking dinner.'",
+  "options": [
+   "Dinner is cooked by her.",
+   "Dinner was being cooked by her.",
+   "Dinner is being cooked by her.",
+   "Dinner has been cooked by her."
+  ],
+  "correctIndex": 2,
+  "explanation": "The present continuous passive is formed with is/am/are + being + past participle.",
+  "difficulty": "EASY",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'He has finished his work.'",
+  "options": [
+   "His work is finished by him.",
+   "His work was finished by him.",
+   "His work had been finished by him.",
+   "His work has been finished by him."
+  ],
+  "correctIndex": 3,
+  "explanation": "The present perfect passive is formed with has/have been + past participle.",
+  "difficulty": "EASY",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'The teacher was teaching the students.'",
+  "options": [
+   "The students were being taught by the teacher.",
+   "The students are being taught by the teacher.",
+   "The students had been taught by the teacher.",
+   "The students were taught by the teacher."
+  ],
+  "correctIndex": 0,
+  "explanation": "The past continuous passive is formed with was/were + being + past participle.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'They had completed the task before I arrived.'",
+  "options": [
+   "The task was completed by them before I arrived.",
+   "The task had been completed by them before I arrived.",
+   "The task has been completed by them before I arrived.",
+   "The task is completed by them before I arrived."
+  ],
+  "correctIndex": 1,
+  "explanation": "The past perfect passive is formed with had been + past participle.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'You must obey the rules.'",
+  "options": [
+   "The rules must obey you.",
+   "The rules are obeyed by you.",
+   "The rules must be obeyed by you.",
+   "The rules should be obeyed by you."
+  ],
+  "correctIndex": 2,
+  "explanation": "With modal verbs, the passive is formed as modal + be + past participle, keeping the original modal.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'Open the door.'",
+  "options": [
+   "The door is opened.",
+   "The door was opened.",
+   "You should open the door.",
+   "Let the door be opened."
+  ],
+  "correctIndex": 3,
+  "explanation": "Imperative sentences are made passive using \"Let + object + be + past participle.\"",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'Who wrote this novel?'",
+  "options": [
+   "By whom was this novel written?",
+   "By whom this novel was written?",
+   "Who was this novel written?",
+   "By whom is this novel written?"
+  ],
+  "correctIndex": 0,
+  "explanation": "In passive questions with \"wh-\" words, the auxiliary comes before the subject: \"By whom was this novel written?\"",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'She teaches us English.'",
+  "options": [
+   "English is taught to us by her.",
+   "We are taught English by her.",
+   "We are taught by English her.",
+   "English is taught us by her."
+  ],
+  "correctIndex": 1,
+  "explanation": "With verbs that take two objects, the indirect object usually becomes the subject of the passive: \"We are taught English by her.\"",
+  "difficulty": "HARD",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'People speak English all over the world.'",
+  "options": [
+   "English is spoken by people all over the world.",
+   "English was spoken all over the world.",
+   "English is spoken all over the world.",
+   "English has been spoken all over the world."
+  ],
+  "correctIndex": 2,
+  "explanation": "When the agent is a vague or general word such as \"people\", it is dropped in the passive.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'The manager will have signed the contract by Friday.'",
+  "options": [
+   "The contract will be signed by the manager by Friday.",
+   "The contract is signed by the manager by Friday.",
+   "The contract had been signed by the manager by Friday.",
+   "The contract will have been signed by the manager by Friday."
+  ],
+  "correctIndex": 3,
+  "explanation": "The future perfect passive is formed with will have been + past participle.",
+  "difficulty": "HARD",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'Someone has stolen my bicycle.'",
+  "options": [
+   "My bicycle has been stolen.",
+   "My bicycle was stolen by someone.",
+   "My bicycle is stolen by someone.",
+   "My bicycle had been stolen by someone."
+  ],
+  "correctIndex": 0,
+  "explanation": "When the doer is unknown, as with \"someone\", the agent phrase is usually omitted in the passive.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'They are building a new bridge.'",
+  "options": [
+   "A new bridge is built by them.",
+   "A new bridge is being built by them.",
+   "A new bridge was being built by them.",
+   "A new bridge has been built by them."
+  ],
+  "correctIndex": 1,
+  "explanation": "The present continuous passive is formed with is/am/are + being + past participle.",
+  "difficulty": "EASY",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'I saw him crossing the road.'",
+  "options": [
+   "He was seen crossing by me the road.",
+   "He is seen crossing the road by me.",
+   "He was seen crossing the road by me.",
+   "He had been seen crossing the road by me."
+  ],
+  "correctIndex": 2,
+  "explanation": "The passive of \"saw + object + present participle\" retains the participle: \"He was seen crossing the road by me.\"",
+  "difficulty": "HARD",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'Please close the window.'",
+  "options": [
+   "The window is closed.",
+   "The window should be closed.",
+   "Close the window, please.",
+   "You are requested to close the window."
+  ],
+  "correctIndex": 3,
+  "explanation": "A polite imperative is usually rendered in the passive as \"You are requested to...\"",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'They elected him president.'",
+  "options": [
+   "He was elected president by them.",
+   "He is elected president by them.",
+   "President was elected by them.",
+   "He was elected as president by they."
+  ],
+  "correctIndex": 0,
+  "explanation": "The object complement \"president\" is retained after the verb in the passive.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'We should finish this work today.'",
+  "options": [
+   "This work is finished by us today.",
+   "This work should be finished by us today.",
+   "This work should finish by us today.",
+   "This work will be finished by us today."
+  ],
+  "correctIndex": 1,
+  "explanation": "Modal passive: should + be + past participle, keeping the original modal verb.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'The chairman will inaugurate the new building.'",
+  "options": [
+   "The new building is inaugurated by the chairman.",
+   "The new building was inaugurated by the chairman.",
+   "The new building will be inaugurated by the chairman.",
+   "The new building will inaugurate by the chairman."
+  ],
+  "correctIndex": 2,
+  "explanation": "Simple future passive is formed with will be + past participle.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'She had written the letter before he came.'",
+  "options": [
+   "The letter was written by her before he came.",
+   "The letter has been written by her before he came.",
+   "The letter is written by her before he came.",
+   "The letter had been written by her before he came."
+  ],
+  "correctIndex": 3,
+  "explanation": "The past perfect passive is formed with had been + past participle.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'He is repairing the car.'",
+  "options": [
+   "The car is repaired by him.",
+   "The car is being repaired by him.",
+   "The car was being repaired by him.",
+   "The car has been repaired by him."
+  ],
+  "correctIndex": 1,
+  "explanation": "The present continuous passive is formed with is/am/are + being + past participle.",
+  "difficulty": "EASY",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'The workers were digging the trench.'",
+  "options": [
+   "The trench is dug by the workers.",
+   "The trench was dug by the workers.",
+   "The trench was being dug by the workers.",
+   "The trench has been dug by the workers."
+  ],
+  "correctIndex": 2,
+  "explanation": "The past continuous passive is formed with was/were + being + past participle.",
+  "difficulty": "MEDIUM",
+  "topic": "voice"
+ },
+ {
+  "text": "Choose the correct passive voice: 'The judge will have delivered the verdict by noon.'",
+  "options": [
+   "The verdict will be delivered by the judge by noon.",
+   "The verdict is delivered by the judge by noon.",
+   "The verdict had been delivered by the judge by noon.",
+   "The verdict will have been delivered by the judge by noon."
+  ],
+  "correctIndex": 3,
+  "explanation": "The future perfect passive is formed with will have been + past participle.",
+  "difficulty": "HARD",
+  "topic": "voice"
+ },
+ {
+  "text": "Convert to indirect speech: He said, 'I am going to school.'",
+  "options": [
+   "He said that he was going to school.",
+   "He said that he is going to school.",
+   "He told that he was going to school.",
+   "He said that he had gone to school."
+  ],
+  "correctIndex": 0,
+  "explanation": "A present tense in direct speech shifts to the past tense in indirect speech when the reporting verb is in the past.",
+  "difficulty": "EASY",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said, 'I have finished my homework.'",
+  "options": [
+   "She said that she finished her homework.",
+   "She said that she had finished her homework.",
+   "She said that she has finished her homework.",
+   "She told that she had finished her homework."
+  ],
+  "correctIndex": 1,
+  "explanation": "The present perfect in direct speech becomes the past perfect in indirect speech.",
+  "difficulty": "EASY",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: He said to me, 'I will help you.'",
+  "options": [
+   "He told me that he would help me.",
+   "He said to me that he will help me.",
+   "He told me that he will help me.",
+   "He said that he would help you."
+  ],
+  "correctIndex": 0,
+  "explanation": "\"Said to\" becomes \"told\" before a personal object, and \"will\" shifts to \"would\" in past reporting.",
+  "difficulty": "EASY",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: The teacher said to the students, 'Work hard.'",
+  "options": [
+   "The teacher said the students to work hard.",
+   "The teacher told the students that work hard.",
+   "The teacher ordered the students working hard.",
+   "The teacher told the students to work hard."
+  ],
+  "correctIndex": 3,
+  "explanation": "Imperative sentences in indirect speech use an infinitive: \"told + object + to + verb.\"",
+  "difficulty": "EASY",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said, 'Please help me.'",
+  "options": [
+   "She requested me to help her.",
+   "She said to help her.",
+   "She requested that help her.",
+   "She told me please help her."
+  ],
+  "correctIndex": 0,
+  "explanation": "A polite request introduced by \"please\" is reported using \"requested.\"",
+  "difficulty": "EASY",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: He said, 'Do not make noise.'",
+  "options": [
+   "He said to not make noise.",
+   "He told them not to make noise.",
+   "He told them to not making noise.",
+   "He said that do not make noise."
+  ],
+  "correctIndex": 1,
+  "explanation": "Negative imperatives are reported using \"told + object + not + to + verb.\"",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said, 'What is your name?'",
+  "options": [
+   "She asked what was my name.",
+   "She asked what my name is.",
+   "She asked what my name was.",
+   "She asked that what my name was."
+  ],
+  "correctIndex": 2,
+  "explanation": "In reported questions, subject-verb order is restored, the tense shifts back, and no \"that\" or question mark is used.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: He said, 'Where do you live?'",
+  "options": [
+   "He asked where did I live.",
+   "He asked where I live.",
+   "He asked that where I lived.",
+   "He asked where I lived."
+  ],
+  "correctIndex": 3,
+  "explanation": "The auxiliary \"do\" disappears and the question word introduces a statement-order clause with the tense shifted back.",
+  "difficulty": "EASY",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said, 'Did you complete the work?'",
+  "options": [
+   "She asked whether I had completed the work.",
+   "She asked did I complete the work.",
+   "She asked that I had completed the work.",
+   "She asked whether I completed the work."
+  ],
+  "correctIndex": 0,
+  "explanation": "Yes/no questions are reported using \"if/whether\", with the tense shifted back to the past perfect.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: He said, 'How beautiful the sunset is!'",
+  "options": [
+   "He said how beautiful the sunset was.",
+   "He exclaimed that the sunset was very beautiful.",
+   "He exclaimed how beautiful is the sunset.",
+   "He exclaimed that how beautiful the sunset was."
+  ],
+  "correctIndex": 1,
+  "explanation": "Exclamatory sentences are reported using \"exclaimed that\", converting the exclamation into a statement of degree.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said, 'Alas! I have failed.'",
+  "options": [
+   "She said alas that she had failed.",
+   "She exclaimed alas that she had failed.",
+   "She exclaimed with sorrow that she had failed.",
+   "She exclaimed that she has failed."
+  ],
+  "correctIndex": 2,
+  "explanation": "An interjection such as \"Alas!\" is replaced with a phrase naming the emotion, such as \"with sorrow.\"",
+  "difficulty": "HARD",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: The boy said, 'I saw the accident yesterday.'",
+  "options": [
+   "The boy said that he had seen the accident the previous day.",
+   "The boy said that he saw the accident yesterday.",
+   "The boy said that he had seen the accident yesterday.",
+   "The boy said that he has seen the accident the previous day."
+  ],
+  "correctIndex": 0,
+  "explanation": "\"Yesterday\" changes to \"the previous day\" and the simple past shifts to the past perfect when the reporting verb is in the past.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said, 'I am writing a letter now.'",
+  "options": [
+   "She said that she is writing a letter now.",
+   "She said that she was writing a letter then.",
+   "She said that she was writing a letter now.",
+   "She said that she had been writing a letter then."
+  ],
+  "correctIndex": 1,
+  "explanation": "\"Now\" changes to \"then\" and the present continuous shifts to the past continuous in indirect speech.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: He said, 'I shall come here tomorrow.'",
+  "options": [
+   "He said that he would come here tomorrow.",
+   "He said that he would come there the next day.",
+   "He said that he would go there the next day.",
+   "He said that he will go there the next day."
+  ],
+  "correctIndex": 2,
+  "explanation": "\"Come\" changes to \"go\", \"here\" to \"there\", and \"tomorrow\" to \"the next day\" when the place and time of reporting differ from those of speaking.",
+  "difficulty": "HARD",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said to me, 'I can help you with this.'",
+  "options": [
+   "She told me that she can help me with that.",
+   "She told me that she could help me with this.",
+   "She told me that I could help her with that.",
+   "She told me that she could help me with that."
+  ],
+  "correctIndex": 3,
+  "explanation": "\"Can\" shifts to \"could\", and \"this\" shifts to \"that\" in indirect speech.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: He said, 'I must finish this work today.'",
+  "options": [
+   "He said that he had to finish that work that day.",
+   "He said that he must finish this work today.",
+   "He said that he had to finish this work today.",
+   "He said that he must finished that work that day."
+  ],
+  "correctIndex": 0,
+  "explanation": "\"Must\" expressing obligation is generally reported as \"had to\", with \"this\" and \"today\" also shifting.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: The teacher said, 'The earth revolves around the sun.'",
+  "options": [
+   "The teacher said that the earth revolved around the sun.",
+   "The teacher said that the earth revolves around the sun.",
+   "The teacher told that the earth revolves around the sun.",
+   "The teacher said the earth revolves around the sun."
+  ],
+  "correctIndex": 1,
+  "explanation": "A universal truth keeps its original tense even when the reporting verb is in the past.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: He said, 'I was ill yesterday.'",
+  "options": [
+   "He said that he was ill the previous day.",
+   "He said that he is ill the previous day.",
+   "He said that he had been ill the previous day.",
+   "He said that he had been ill yesterday."
+  ],
+  "correctIndex": 2,
+  "explanation": "A simple past tense in direct speech shifts to the past perfect in indirect speech, and \"yesterday\" changes to \"the previous day.\"",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said, 'May you live long!'",
+  "options": [
+   "She said that I may live long.",
+   "She wished that I live long.",
+   "She hoped I will live long.",
+   "She prayed that I might live long."
+  ],
+  "correctIndex": 3,
+  "explanation": "Blessings introduced by \"May\" are reported using \"prayed/wished that + subject + might.\"",
+  "difficulty": "HARD",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said, 'I have never been to London.'",
+  "options": [
+   "She said that she had never been to London.",
+   "She said that she has never been to London.",
+   "She said that she never was to London.",
+   "She said that she never been to London."
+  ],
+  "correctIndex": 0,
+  "explanation": "The present perfect shifts to the past perfect in indirect speech.",
+  "difficulty": "EASY",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: The captain said to the soldiers, 'March forward.'",
+  "options": [
+   "The captain said to the soldiers to march forward.",
+   "The captain ordered the soldiers to march forward.",
+   "The captain told the soldiers that march forward.",
+   "The captain ordered the soldiers marching forward."
+  ],
+  "correctIndex": 1,
+  "explanation": "A command from a person in authority is reported using \"ordered + object + to + verb.\"",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: He said, 'Shall I open the window?'",
+  "options": [
+   "He asked if he shall open the window.",
+   "He asked that he should open the window.",
+   "He asked if he should open the window.",
+   "He asked whether he shall open the window."
+  ],
+  "correctIndex": 2,
+  "explanation": "\"Shall I\", offering to do something, is reported using \"should\" in indirect speech.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: She said, 'Let me think about it.'",
+  "options": [
+   "She said that let her think about it.",
+   "She suggested that she think about it.",
+   "She told me to think about it.",
+   "She said that she would think about it."
+  ],
+  "correctIndex": 3,
+  "explanation": "\"Let me\", expressing a self-directed intention, is reported as \"would\" plus the base verb.",
+  "difficulty": "HARD",
+  "topic": "narration"
+ },
+ {
+  "text": "Convert to indirect speech: He said, 'I bought this car last week.'",
+  "options": [
+   "He said that he had bought that car the previous week.",
+   "He said that he bought that car last week.",
+   "He said that he had bought this car last week.",
+   "He said that he has bought that car the previous week."
+  ],
+  "correctIndex": 0,
+  "explanation": "The simple past shifts to the past perfect, and \"this/last week\" shift to \"that/the previous week\" in indirect speech.",
+  "difficulty": "MEDIUM",
+  "topic": "narration"
+ },
+ {
+  "text": "Which sentence correctly punctuates the non-restrictive clause?",
+  "options": [
+   "My brother who lives in Karachi is a doctor.",
+   "My brother, who lives in Karachi, is a doctor.",
+   "My brother, who lives in Karachi is a doctor.",
+   "My brother who lives in Karachi, is a doctor."
+  ],
+  "correctIndex": 1,
+  "explanation": "A non-restrictive relative clause giving extra, non-essential information is set off by commas on both sides.",
+  "difficulty": "MEDIUM",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence uses the apostrophe correctly?",
+  "options": [
+   "The boys books were left on the table.",
+   "The boy's book's were left on the table.",
+   "The boys' books were left on the table.",
+   "The boys's books were left on the table."
+  ],
+  "correctIndex": 2,
+  "explanation": "For a plural noun already ending in \"s\", the possessive is formed by adding only an apostrophe after the \"s.\"",
+  "difficulty": "MEDIUM",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which of the following words is a proper noun that must always be capitalised?",
+  "options": [
+   "summer",
+   "college",
+   "Everest",
+   "river"
+  ],
+  "correctIndex": 2,
+  "explanation": "Proper nouns such as \"Everest\" (a specific named mountain) are always capitalised; common nouns like \"summer\", \"college\", and \"river\" are not.",
+  "difficulty": "EASY",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence uses the semicolon correctly?",
+  "options": [
+   "I wanted to go for a walk; it started raining.",
+   "I wanted to go for a walk; but it started raining.",
+   "I wanted to go for a walk, it started raining.",
+   "I wanted to go for a walk: it started raining."
+  ],
+  "correctIndex": 0,
+  "explanation": "A semicolon joins two closely related independent clauses without a coordinating conjunction such as \"but.\"",
+  "difficulty": "MEDIUM",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence uses the colon correctly?",
+  "options": [
+   "She bought: apples, oranges, and bananas.",
+   "She bought the following fruits: apples, oranges, and bananas.",
+   "She bought the following fruits, apples, oranges, and bananas.",
+   "She bought the following fruits; apples, oranges, and bananas."
+  ],
+  "correctIndex": 1,
+  "explanation": "A colon is used after a complete independent clause to introduce a list.",
+  "difficulty": "EASY",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence is punctuated correctly?",
+  "options": [
+   "\"Where are you going,\" she asked?",
+   "\"Where are you going?\" she asked.",
+   "\"Where are you going\"? she asked.",
+   "\"Where are you going,\" she asked."
+  ],
+  "correctIndex": 1,
+  "explanation": "The question mark belongs inside the closing quotation mark when it punctuates the quoted question itself.",
+  "difficulty": "MEDIUM",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence correctly reports an indirect question?",
+  "options": [
+   "He asked what time it was?",
+   "He asked, what time it was.",
+   "He asked what time was it.",
+   "He asked what time it was."
+  ],
+  "correctIndex": 3,
+  "explanation": "An indirect question is a statement in form and ends with a full stop, not a question mark, and follows normal word order.",
+  "difficulty": "MEDIUM",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which of these should be capitalised whenever it appears in a sentence?",
+  "options": [
+   "college",
+   "subject",
+   "Urdu",
+   "notebook"
+  ],
+  "correctIndex": 2,
+  "explanation": "\"Urdu\" is the name of a language, a proper noun, and is always capitalised; \"college\", \"subject\", and \"notebook\" are common nouns.",
+  "difficulty": "EASY",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence uses the hyphen correctly?",
+  "options": [
+   "He gave a well known lecture on economics.",
+   "He gave a well-known lecture on economics.",
+   "He gave a well-known-lecture on economics.",
+   "He gave a well, known lecture on economics."
+  ],
+  "correctIndex": 1,
+  "explanation": "A compound adjective placed before a noun, such as \"well-known\", is hyphenated.",
+  "difficulty": "MEDIUM",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence correctly punctuates the list of items?",
+  "options": [
+   "I bought pens pencils, and notebooks for school.",
+   "I bought pens, pencils and, notebooks for school.",
+   "I bought pens, pencils, and notebooks for school.",
+   "I bought pens, pencils notebooks, for school."
+  ],
+  "correctIndex": 2,
+  "explanation": "Items in a series are separated by commas, with a comma before the final conjunction.",
+  "difficulty": "EASY",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence correctly uses a comma after an introductory phrase?",
+  "options": [
+   "After finishing his homework he went to play.",
+   "After finishing his homework, went to play he.",
+   "After finishing, his homework he went to play.",
+   "After finishing his homework, he went to play."
+  ],
+  "correctIndex": 3,
+  "explanation": "A comma follows an introductory phrase or clause before the main clause begins.",
+  "difficulty": "MEDIUM",
+  "topic": "punctuation"
+ },
+ {
+  "text": "In the title \"The Old Man and the Sea,\" why does the second \"the\" stay lowercase?",
+  "options": [
+   "Because articles are never capitalised in titles",
+   "Because it is a minor word and not the first word of the title",
+   "Because titles only capitalise nouns",
+   "Because \"Sea\" is a common noun"
+  ],
+  "correctIndex": 1,
+  "explanation": "In title case, minor words such as articles, short prepositions, and conjunctions stay lowercase unless they open or close the title; the leading \"The\" is capitalised but the second \"the\" before \"Sea\" is not.",
+  "difficulty": "HARD",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence correctly punctuates a direct address?",
+  "options": [
+   "Ali please pass the salt.",
+   "Ali please, pass the salt.",
+   "Ali, please pass the salt.",
+   "Ali; please pass the salt."
+  ],
+  "correctIndex": 2,
+  "explanation": "A noun of direct address is set off from the rest of the sentence by a comma.",
+  "difficulty": "EASY",
+  "topic": "punctuation"
+ },
+ {
+  "text": "Which sentence correctly distinguishes 'its' from 'it's'?",
+  "options": [
+   "Its important to submit the form before it's deadline.",
+   "Its important to submit the form before its' deadline.",
+   "It's important to submit the form before it's deadline.",
+   "It's important to submit the form before its deadline."
+  ],
+  "correctIndex": 3,
+  "explanation": "\"It's\" is the contraction of \"it is\", while \"its\" is the possessive form; the sentence needs \"It's important\" and \"its deadline.\"",
+  "difficulty": "HARD",
+  "topic": "punctuation"
+ },
+ {
+  "text": "One word for 'a person who studies and is skilled in the science of birds':",
+  "options": [
+   "Ornithologist",
+   "Zoologist",
+   "Botanist",
+   "Entomologist"
+  ],
+  "correctIndex": 0,
+  "explanation": "An ornithologist specialises in the scientific study of birds.",
+  "difficulty": "EASY",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'a person who can speak two languages':",
+  "options": [
+   "Linguist",
+   "Bilingual",
+   "Polyglot",
+   "Translator"
+  ],
+  "correctIndex": 1,
+  "explanation": "\"Bilingual\" specifically means able to speak two languages, whereas \"polyglot\" means able to speak many languages.",
+  "difficulty": "EASY",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'a place where birds are kept':",
+  "options": [
+   "Zoo",
+   "Sanctuary",
+   "Aviary",
+   "Nest"
+  ],
+  "correctIndex": 2,
+  "explanation": "An aviary is a large enclosure built for keeping birds.",
+  "difficulty": "EASY",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'one who loves and works for the welfare of mankind':",
+  "options": [
+   "Humanist",
+   "Altruist",
+   "Philosopher",
+   "Philanthropist"
+  ],
+  "correctIndex": 3,
+  "explanation": "A philanthropist devotes wealth or effort to promoting human welfare.",
+  "difficulty": "MEDIUM",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'a person who hates mankind':",
+  "options": [
+   "Misanthrope",
+   "Pessimist",
+   "Cynic",
+   "Sceptic"
+  ],
+  "correctIndex": 0,
+  "explanation": "A misanthrope is someone who dislikes or distrusts humankind in general.",
+  "difficulty": "HARD",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'a person who walks in his sleep':",
+  "options": [
+   "Insomniac",
+   "Somnambulist",
+   "Lunatic",
+   "Dreamer"
+  ],
+  "correctIndex": 1,
+  "explanation": "A somnambulist is a person who walks about while asleep.",
+  "difficulty": "HARD",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'a person who is one hundred years old or more':",
+  "options": [
+   "Veteran",
+   "Elder",
+   "Centenarian",
+   "Senior"
+  ],
+  "correctIndex": 2,
+  "explanation": "A centenarian is a person who has reached the age of one hundred.",
+  "difficulty": "EASY",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'a list of books referred to in a piece of writing':",
+  "options": [
+   "Catalogue",
+   "Biography",
+   "Index",
+   "Bibliography"
+  ],
+  "correctIndex": 3,
+  "explanation": "A bibliography is a list of sources or books used or cited in a work.",
+  "difficulty": "MEDIUM",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'the scientific study of insects':",
+  "options": [
+   "Entomology",
+   "Etymology",
+   "Ornithology",
+   "Zoology"
+  ],
+  "correctIndex": 0,
+  "explanation": "Entomology is the branch of zoology dealing with insects; it should not be confused with \"etymology\", the study of word origins.",
+  "difficulty": "HARD",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'a word, phrase, or sentence that reads the same backward as forward':",
+  "options": [
+   "Anagram",
+   "Palindrome",
+   "Acronym",
+   "Synonym"
+  ],
+  "correctIndex": 1,
+  "explanation": "A palindrome, such as \"madam\", reads identically in both directions.",
+  "difficulty": "MEDIUM",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'a person who knows everything':",
+  "options": [
+   "Omnipotent",
+   "Omnipresent",
+   "Omniscient",
+   "Genius"
+  ],
+  "correctIndex": 2,
+  "explanation": "\"Omniscient\" means having complete or infinite knowledge.",
+  "difficulty": "MEDIUM",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'government by a small, privileged group of people':",
+  "options": [
+   "Democracy",
+   "Bureaucracy",
+   "Autocracy",
+   "Oligarchy"
+  ],
+  "correctIndex": 3,
+  "explanation": "An oligarchy is rule by a small group of people, often for their own interests.",
+  "difficulty": "HARD",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'a person who compiles or writes a dictionary':",
+  "options": [
+   "Lexicographer",
+   "Linguist",
+   "Editor",
+   "Cartographer"
+  ],
+  "correctIndex": 0,
+  "explanation": "A lexicographer is a person who compiles dictionaries.",
+  "difficulty": "HARD",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'an abnormal fear of enclosed or confined spaces':",
+  "options": [
+   "Acrophobia",
+   "Claustrophobia",
+   "Agoraphobia",
+   "Xenophobia"
+  ],
+  "correctIndex": 1,
+  "explanation": "Claustrophobia is an intense fear of confined spaces.",
+  "difficulty": "MEDIUM",
+  "topic": "one-word-substitution"
+ },
+ {
+  "text": "One word for 'the life history of a person written by himself':",
+  "options": [
+   "Biography",
+   "Memoir",
+   "Autobiography",
+   "Diary"
+  ],
+  "correctIndex": 2,
+  "explanation": "An autobiography is a self-written account of one's own life.",
+  "difficulty": "EASY",
+  "topic": "one-word-substitution"
+ },
+ {
   "text": "Choose the word nearest in meaning to 'obfuscate'.",
   "options": [
    "Clarify",

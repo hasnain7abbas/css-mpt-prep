@@ -1468,5 +1468,2105 @@
   "difficulty": "EASY",
   "topic": "quran-hadith",
   "source": "islamic-quran-hadith"
+ },
+ {
+  "text": "In which year, traditionally known as the Year of the Elephant, was Prophet Muhammad (PBUH) born?",
+  "options": [
+   "570 CE",
+   "560 CE",
+   "578 CE",
+   "610 CE"
+  ],
+  "correctIndex": 0,
+  "explanation": "Prophet Muhammad (PBUH) was born in Mecca in 570 CE, the year an Abyssinian army with elephants attempted to attack the Kaaba.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "What was the name of Prophet Muhammad's (PBUH) father?",
+  "options": [
+   "Abdul Muttalib",
+   "Abdullah",
+   "Abu Talib",
+   "Abbas"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Prophet's father, Abdullah ibn Abdul Muttalib, died before his birth.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "What was the name of Prophet Muhammad's (PBUH) mother?",
+  "options": [
+   "Khadija",
+   "Halima",
+   "Aminah",
+   "Fatima"
+  ],
+  "correctIndex": 2,
+  "explanation": "Aminah bint Wahb was the Prophet's mother; she died when he was about six years old.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who was the foster mother who nursed Prophet Muhammad (PBUH) in his infancy?",
+  "options": [
+   "Umm Ayman",
+   "Barakah",
+   "Aminah",
+   "Halima Sa'diyya"
+  ],
+  "correctIndex": 3,
+  "explanation": "Halima Sa'diyya of the Banu Sa'd tribe nursed and raised the infant Prophet in the desert, following Meccan custom.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "After the death of his mother, who took charge of raising the young Prophet Muhammad (PBUH)?",
+  "options": [
+   "Abdul Muttalib",
+   "Abu Talib",
+   "Abbas",
+   "Hamza"
+  ],
+  "correctIndex": 0,
+  "explanation": "His grandfather Abdul Muttalib cared for him after Aminah's death, until his own death two years later.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "After his grandfather's death, which uncle became the guardian of Prophet Muhammad (PBUH)?",
+  "options": [
+   "Hamza",
+   "Abu Talib",
+   "Abbas",
+   "Zubayr"
+  ],
+  "correctIndex": 1,
+  "explanation": "Abu Talib, the Prophet's paternal uncle, raised and protected him, including during the early years of his prophethood.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Before his prophethood, Prophet Muhammad (PBUH) was widely known among the Meccans by which title for his honesty?",
+  "options": [
+   "As-Siddiq",
+   "Al-Farooq",
+   "Al-Amin",
+   "Al-Mustafa"
+  ],
+  "correctIndex": 2,
+  "explanation": "He was called Al-Amin, meaning 'the Trustworthy', because of his reputation for honesty even before receiving revelation.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who was the first wife of Prophet Muhammad (PBUH)?",
+  "options": [
+   "Aisha bint Abi Bakr",
+   "Hafsa bint Umar",
+   "Umm Salama",
+   "Khadija bint Khuwaylid"
+  ],
+  "correctIndex": 3,
+  "explanation": "Khadija bint Khuwaylid, a wealthy Meccan merchant, married the Prophet and remained his only wife until her death.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "At what age did Prophet Muhammad (PBUH) receive his first revelation?",
+  "options": [
+   "40",
+   "35",
+   "45",
+   "25"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Prophet was 40 years old when he received the first revelation in the Cave of Hira.",
+  "difficulty": "HARD",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who was the first woman to accept Islam?",
+  "options": [
+   "Aisha bint Abi Bakr",
+   "Khadija bint Khuwaylid",
+   "Fatima bint Muhammad",
+   "Sumayyah bint Khayyat"
+  ],
+  "correctIndex": 1,
+  "explanation": "Khadija, the Prophet's wife, was the first person of any gender to believe in his message.",
+  "difficulty": "HARD",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who was the first child to accept Islam?",
+  "options": [
+   "Zaid bin Haritha",
+   "Abu Bakr",
+   "Ali ibn Abi Talib",
+   "Uthman ibn Affan"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ali ibn Abi Talib, the Prophet's young cousin living in his household, is traditionally regarded as the first child to accept Islam.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who was the first freed slave to accept Islam?",
+  "options": [
+   "Bilal ibn Rabah",
+   "Ammar bin Yasir",
+   "Salman al-Farsi",
+   "Zaid bin Haritha"
+  ],
+  "correctIndex": 3,
+  "explanation": "Zaid bin Haritha, adopted into the Prophet's household, was the first among the freed slaves to embrace Islam.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who was the first free adult man to accept Islam?",
+  "options": [
+   "Abu Bakr",
+   "Umar ibn al-Khattab",
+   "Uthman ibn Affan",
+   "Ali ibn Abi Talib"
+  ],
+  "correctIndex": 0,
+  "explanation": "Abu Bakr, a close friend of the Prophet, is regarded as the first free adult male to accept Islam.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "During the early Meccan period, on which hill did Prophet Muhammad (PBUH) first publicly call the Quraysh to Islam?",
+  "options": [
+   "Mount Uhud",
+   "Mount Safa",
+   "Mount Hira",
+   "Mount Arafat"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Prophet gathered the Quraysh at Mount Safa to deliver his first open, public call to Islam.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Persecuted Muslims in Mecca were advised by Prophet Muhammad (PBUH) to migrate for refuge to which kingdom?",
+  "options": [
+   "Yemen",
+   "Syria",
+   "Abyssinia",
+   "Persia"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Prophet sent a group of early Muslims to Abyssinia (Christian Ethiopia), known for its just ruler, to escape Meccan persecution.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who was the ruler of Abyssinia who gave refuge to the early Muslim migrants?",
+  "options": [
+   "Heraclius",
+   "Khosrow",
+   "Muqawqis",
+   "Negus (An-Najashi)"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Negus, known in Arabic sources as An-Najashi, protected the Muslim migrants and refused to hand them over to the Quraysh.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Which year of Prophet Muhammad's (PBUH) life is known as 'Aam-ul-Huzn' (the Year of Sorrow), marked by the deaths of Khadija and Abu Talib?",
+  "options": [
+   "Tenth year of prophethood",
+   "Fifth year of prophethood",
+   "Second year of prophethood",
+   "Thirteenth year of prophethood"
+  ],
+  "correctIndex": 0,
+  "explanation": "The tenth year of prophethood brought the deaths of both Khadija and Abu Talib in close succession, hence the name 'Year of Sorrow'.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The night journey of Prophet Muhammad (PBUH) from Masjid al-Haram to Masjid al-Aqsa is known as",
+  "options": [
+   "Al-Miraj",
+   "Al-Isra",
+   "Al-Hijrah",
+   "Al-Fath"
+  ],
+  "correctIndex": 1,
+  "explanation": "Al-Isra refers to the miraculous night journey from Mecca to Jerusalem, which preceded the ascension (Miraj).",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "During the Miraj (ascension), how many daily prayers were made obligatory upon Muslims?",
+  "options": [
+   "3",
+   "7",
+   "5",
+   "50"
+  ],
+  "correctIndex": 2,
+  "explanation": "Although fifty prayers were initially prescribed, the number was eventually reduced to five obligatory daily prayers.",
+  "difficulty": "HARD",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The first pledge of Aqabah was taken between Prophet Muhammad (PBUH) and a group of people from which city?",
+  "options": [
+   "Ta'if",
+   "Damascus",
+   "Najran",
+   "Yathrib (Medina)"
+  ],
+  "correctIndex": 3,
+  "explanation": "Pilgrims from Yathrib met the Prophet at Aqabah near Mina and pledged to accept Islam, paving the way for the later Hijrah.",
+  "difficulty": "HARD",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In which Gregorian year did the Hijrah (migration) of Prophet Muhammad (PBUH) from Mecca to Medina take place?",
+  "options": [
+   "622 CE",
+   "610 CE",
+   "630 CE",
+   "632 CE"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Hijrah took place in 622 CE and later became the starting point of the Islamic lunar calendar.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who accompanied Prophet Muhammad (PBUH) during the migration (Hijrah) to Medina?",
+  "options": [
+   "Umar ibn al-Khattab",
+   "Abu Bakr",
+   "Ali ibn Abi Talib",
+   "Uthman ibn Affan"
+  ],
+  "correctIndex": 1,
+  "explanation": "Abu Bakr accompanied the Prophet on the journey to Medina, sharing the risks of the migration with him.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In which cave did Prophet Muhammad (PBUH) and Abu Bakr take shelter during the Hijrah?",
+  "options": [
+   "Cave Hira",
+   "Cave Uhud",
+   "Cave Thawr",
+   "Cave Arafat"
+  ],
+  "correctIndex": 2,
+  "explanation": "They hid for three days in the Cave of Thawr, south of Mecca, before continuing on to Medina.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Which was the first mosque built by Prophet Muhammad (PBUH), on the outskirts of Medina during the Hijrah?",
+  "options": [
+   "Masjid-e-Nabvi",
+   "Masjid al-Aqsa",
+   "Masjid al-Haram",
+   "Masjid Quba"
+  ],
+  "correctIndex": 3,
+  "explanation": "Masjid Quba was built just outside Medina and is regarded as the first mosque established in Islam.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In Medina, Prophet Muhammad (PBUH) paired each migrant (Muhajir) with a local Ansari as brothers; this bond is known as",
+  "options": [
+   "Mawakhat",
+   "Bay'ah",
+   "Hijrah",
+   "Shura"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Mawakhat (bond of brotherhood) linked Muhajireen and Ansar as brothers, helping the migrants settle in Medina.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In which year after Hijrah did the Battle of Badr take place?",
+  "options": [
+   "1 AH",
+   "2 AH",
+   "3 AH",
+   "5 AH"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Battle of Badr, the first major battle between the Muslims and the Meccan Quraysh, was fought in 2 AH.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "At the Battle of Badr, the Muslim army was heavily outnumbered by the Meccan Quraysh; the Muslims numbered approximately",
+  "options": [
+   "700",
+   "1000",
+   "313",
+   "150"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Muslim force at Badr numbered around 313 men against a much larger Quraysh army.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In which year after Hijrah did the Battle of Uhud take place?",
+  "options": [
+   "2 AH",
+   "5 AH",
+   "6 AH",
+   "3 AH"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Battle of Uhud was fought in 3 AH, a year after the Muslim victory at Badr.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Muslim setback at the Battle of Uhud is chiefly attributed to which action?",
+  "options": [
+   "Archers leaving their assigned position on the hill",
+   "The Muslims being outnumbered ten to one",
+   "The Prophet's absence from the battlefield",
+   "A shortage of weapons among the Muslims"
+  ],
+  "correctIndex": 0,
+  "explanation": "A group of archers left their post to gather spoils, exposing the Muslim rear and allowing the Quraysh cavalry to turn the battle.",
+  "difficulty": "HARD",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who suggested digging a trench around Medina to defend against the confederate forces in 5 AH?",
+  "options": [
+   "Khalid bin Waleed",
+   "Salman al-Farsi",
+   "Abu Ubaidah ibn al-Jarrah",
+   "Zaid bin Haritha"
+  ],
+  "correctIndex": 1,
+  "explanation": "Salman al-Farsi, familiar with Persian military tactics, proposed digging a trench to defend Medina.",
+  "difficulty": "HARD",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Battle of the Trench is also known as",
+  "options": [
+   "Battle of Hunayn",
+   "Battle of Tabuk",
+   "Battle of Khandaq (Al-Ahzab)",
+   "Battle of Khaybar"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Battle of the Trench is also called Khandaq or Al-Ahzab, referring to the confederate tribes that besieged Medina.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In which year after Hijrah was the Treaty of Hudaybiyyah signed between the Muslims and the Quraysh?",
+  "options": [
+   "2 AH",
+   "8 AH",
+   "10 AH",
+   "6 AH"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Treaty of Hudaybiyyah was signed in 6 AH, establishing a ten-year truce between the Muslims and the Quraysh.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In which year after Hijrah did the peaceful conquest of Mecca take place?",
+  "options": [
+   "8 AH",
+   "6 AH",
+   "9 AH",
+   "10 AH"
+  ],
+  "correctIndex": 0,
+  "explanation": "Mecca was conquered largely without bloodshed in 8 AH after the Quraysh violated the Treaty of Hudaybiyyah.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "At the conquest of Mecca, Prophet Muhammad (PBUH) ordered the removal of how many idols from around the Kaaba, according to tradition?",
+  "options": [
+   "100",
+   "360",
+   "270",
+   "400"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tradition holds that 360 idols surrounding the Kaaba were destroyed on the Prophet's orders after the conquest of Mecca.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Shortly after the conquest of Mecca, Muslim forces fought a confederation of Bedouin tribes at",
+  "options": [
+   "Battle of Tabuk",
+   "Battle of Khaybar",
+   "Battle of Hunayn",
+   "Battle of Mu'tah"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Battle of Hunayn, fought soon after the conquest of Mecca, was against the Hawazin and Thaqif tribal confederation.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The last military expedition personally led by Prophet Muhammad (PBUH), directed toward the Byzantine frontier, was the",
+  "options": [
+   "Battle of Hunayn",
+   "Battle of Khaybar",
+   "Battle of Mu'tah",
+   "Expedition of Tabuk"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Expedition of Tabuk, undertaken in response to rumours of a Byzantine advance, was the Prophet's final personally-led campaign.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In which year after Hijrah did Prophet Muhammad (PBUH) perform his only and Farewell Pilgrimage (Hajjatul Wida)?",
+  "options": [
+   "10 AH",
+   "8 AH",
+   "9 AH",
+   "11 AH"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Prophet performed his only Hajj, known as the Farewell Pilgrimage, in 10 AH.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Prophet Muhammad (PBUH) delivered his Farewell Sermon at",
+  "options": [
+   "Mount Safa",
+   "Mount Arafat",
+   "Mina",
+   "Mount Uhud"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Farewell Sermon was delivered on Mount Arafat during the Farewell Pilgrimage, setting out key principles of Islamic conduct.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In which year after Hijrah did Prophet Muhammad (PBUH) pass away?",
+  "options": [
+   "8 AH",
+   "9 AH",
+   "11 AH",
+   "10 AH"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Prophet passed away in Medina in 11 AH, shortly after completing the Farewell Pilgrimage.",
+  "difficulty": "HARD",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Prophet Muhammad (PBUH) is buried in Medina, in the chamber that had belonged to which of his wives?",
+  "options": [
+   "Khadija bint Khuwaylid",
+   "Hafsa bint Umar",
+   "Umm Salama",
+   "Aisha bint Abi Bakr"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Prophet was buried in the room of his wife Aisha, adjoining Masjid-e-Nabvi in Medina.",
+  "difficulty": "HARD",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who was appointed by Prophet Muhammad (PBUH) as the first muezzin to call the adhan?",
+  "options": [
+   "Bilal ibn Rabah",
+   "Abdullah ibn Umm Maktum",
+   "Zaid bin Thabit",
+   "Ammar bin Yasir"
+  ],
+  "correctIndex": 0,
+  "explanation": "Bilal ibn Rabah, a freed Abyssinian slave known for his beautiful voice, was chosen as the first muezzin in Islam.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Which uncle of Prophet Muhammad (PBUH), titled 'Lion of Allah', was martyred at the Battle of Uhud?",
+  "options": [
+   "Abbas ibn Abdul Muttalib",
+   "Hamza ibn Abdul Muttalib",
+   "Abu Talib",
+   "Abu Lahab"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hamza ibn Abdul Muttalib, called Asadullah (Lion of Allah), was killed at Uhud and is remembered as a chief martyr of Islam.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In which year after Hijrah was the direction of prayer (Qibla) changed from Jerusalem to the Kaaba?",
+  "options": [
+   "1 AH",
+   "3 AH",
+   "2 AH",
+   "5 AH"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Qibla was changed from Jerusalem to the Kaaba in Mecca in 2 AH, while the Prophet was praying in Medina.",
+  "difficulty": "EASY",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Which companion, later known as 'Saifullah' (the Sword of Allah), commanded the Muslim army after the death of its three commanders at the Battle of Mu'tah?",
+  "options": [
+   "Amr ibn al-As",
+   "Abu Ubaidah ibn al-Jarrah",
+   "Zaid bin Haritha",
+   "Khalid bin Waleed"
+  ],
+  "correctIndex": 3,
+  "explanation": "Khalid bin Waleed took command at Mu'tah after the deaths of Zaid bin Haritha, Ja'far ibn Abi Talib, and Abdullah ibn Rawaha, and skilfully led the army's withdrawal.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Prophet Muhammad's (PBUH) mosque in Medina, built after the Hijrah, is known as",
+  "options": [
+   "Masjid-e-Nabvi",
+   "Masjid Quba",
+   "Masjid al-Aqsa",
+   "Masjid al-Qiblatayn"
+  ],
+  "correctIndex": 0,
+  "explanation": "Masjid-e-Nabvi, built by the Prophet in Medina, became the central mosque of the early Muslim community.",
+  "difficulty": "MEDIUM",
+  "topic": "seerah",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The declaration 'La ilaha illallah Muhammadur Rasulullah' is known as",
+  "options": [
+   "Salah",
+   "Shahada",
+   "Takbir",
+   "Tashahhud"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Shahada is the testimony of faith affirming the oneness of God and the prophethood of Muhammad (PBUH), the first pillar of Islam.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "According to Islamic law, Salah becomes obligatory on a Muslim upon reaching",
+  "options": [
+   "Seven years of age",
+   "Marriage",
+   "Puberty, with sound reason",
+   "Twenty years of age"
+  ],
+  "correctIndex": 2,
+  "explanation": "Salah becomes obligatory once a Muslim of sound mind reaches puberty, though children are encouraged to practice it earlier.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "How many obligatory (fard) prayers must a Muslim offer each day?",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "5"
+  ],
+  "correctIndex": 3,
+  "explanation": "Muslims are obligated to perform five daily prayers: Fajr, Zuhr, Asr, Maghrib, and Isha.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Which of the five daily prayers consists of only two obligatory rakats?",
+  "options": [
+   "Fajr",
+   "Zuhr",
+   "Asr",
+   "Isha"
+  ],
+  "correctIndex": 0,
+  "explanation": "Fajr, the dawn prayer, consists of two obligatory rakats, fewer than the other daily prayers.",
+  "difficulty": "HARD",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Muslims face which direction while performing Salah?",
+  "options": [
+   "Jerusalem",
+   "The Kaaba in Mecca",
+   "Medina",
+   "Due east"
+  ],
+  "correctIndex": 1,
+  "explanation": "Muslims face the Kaaba in Mecca, the Qibla, during Salah, a direction fixed since the second year after Hijrah.",
+  "difficulty": "HARD",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The ritual ablution performed before Salah is called",
+  "options": [
+   "Ghusl",
+   "Tayammum",
+   "Wudu",
+   "Istinja"
+  ],
+  "correctIndex": 2,
+  "explanation": "Wudu is the ritual washing of the face, arms, head, and feet performed before Salah.",
+  "difficulty": "EASY",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "When water is unavailable or unsafe to use, a Muslim may perform ritual purification using clean earth or sand; this is called",
+  "options": [
+   "Wudu",
+   "Ghusl",
+   "Istinja",
+   "Tayammum"
+  ],
+  "correctIndex": 3,
+  "explanation": "Tayammum is a dry ablution using clean earth, permitted when water is unavailable, insufficient, or harmful to use.",
+  "difficulty": "EASY",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Zakat is obligatory on a Muslim's wealth once it equals or exceeds a minimum threshold known as",
+  "options": [
+   "Nisab",
+   "Ushr",
+   "Khums",
+   "Fidya"
+  ],
+  "correctIndex": 0,
+  "explanation": "Nisab is the minimum amount of wealth a Muslim must own before Zakat becomes obligatory.",
+  "difficulty": "EASY",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The standard rate of Zakat payable on qualifying savings and cash held for a full lunar year is",
+  "options": [
+   "5%",
+   "2.5%",
+   "10%",
+   "1%"
+  ],
+  "correctIndex": 1,
+  "explanation": "Zakat on savings and cash is generally calculated at 2.5% of the qualifying wealth.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Zakat becomes obligatory on savings after they remain in a Muslim's possession, above the nisab, for",
+  "options": [
+   "One month",
+   "Six months",
+   "One full lunar year",
+   "One solar year"
+  ],
+  "correctIndex": 2,
+  "explanation": "Zakat is due once qualifying wealth above the nisab has been held for one complete lunar (Hijri) year.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Fasting (Sawm) is obligatory on Muslims during which month of the Islamic calendar?",
+  "options": [
+   "Shawwal",
+   "Muharram",
+   "Dhul Hijjah",
+   "Ramadan"
+  ],
+  "correctIndex": 3,
+  "explanation": "Sawm, obligatory fasting from dawn to sunset, is observed throughout the month of Ramadan.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The pre-dawn meal eaten before beginning the daily fast in Ramadan is called",
+  "options": [
+   "Suhoor",
+   "Iftar",
+   "Sadaqah",
+   "Aqiqah"
+  ],
+  "correctIndex": 0,
+  "explanation": "Suhoor is the meal taken before dawn, prior to starting the day's fast.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The meal with which a fasting Muslim breaks the fast at sunset is called",
+  "options": [
+   "Suhoor",
+   "Iftar",
+   "Sadaqah",
+   "Nafl"
+  ],
+  "correctIndex": 1,
+  "explanation": "Iftar is the meal eaten at sunset to end the day's fast during Ramadan.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Performing Hajj is obligatory once in a lifetime on every adult Muslim who meets the condition of",
+  "options": [
+   "Prior marriage",
+   "Completing Umrah first",
+   "Istita'ah (physical and financial ability)",
+   "Residing in Mecca"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hajj is obligatory only on those who possess Istita'ah, meaning the physical health and financial means to undertake the journey.",
+  "difficulty": "HARD",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The sacred state of consecration a pilgrim enters before performing Hajj or Umrah, marked by wearing simple unstitched garments, is called",
+  "options": [
+   "Tawaf",
+   "Sa'i",
+   "Wuquf",
+   "Ihram"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ihram is the state of ritual consecration a pilgrim enters, symbolised for men by wearing two plain unstitched sheets.",
+  "difficulty": "HARD",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Hajj is performed during which Islamic month?",
+  "options": [
+   "Dhul Hijjah",
+   "Dhul Qa'dah",
+   "Muharram",
+   "Rajab"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hajj takes place during the first ten days of Dhul Hijjah, the final month of the Islamic calendar.",
+  "difficulty": "EASY",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The ritual of circling the Kaaba seven times during Hajj or Umrah is called",
+  "options": [
+   "Sa'i",
+   "Tawaf",
+   "Ramy",
+   "Wuquf"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tawaf is the ritual circumambulation of the Kaaba, performed seven times in a counter-clockwise direction.",
+  "difficulty": "EASY",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The ritual of walking briskly seven times between the hills of Safa and Marwah during Hajj or Umrah is called",
+  "options": [
+   "Tawaf",
+   "Ramy al-Jamarat",
+   "Sa'i",
+   "Wuquf"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sa'i commemorates Hajar's search for water and involves walking between Safa and Marwah seven times.",
+  "difficulty": "EASY",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The symbolic stoning of pillars during Hajj, commemorating the rejection of Satan's temptation, is called",
+  "options": [
+   "Sa'i",
+   "Tawaf",
+   "Wuquf",
+   "Ramy al-Jamarat"
+  ],
+  "correctIndex": 3,
+  "explanation": "Ramy al-Jamarat involves throwing pebbles at three pillars in Mina, symbolising the rejection of Satan.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Unlike Hajj, which can only be performed at a fixed time of year, the minor pilgrimage that may be performed at any time is called",
+  "options": [
+   "Umrah",
+   "Wuquf",
+   "Ihram",
+   "Tawaf"
+  ],
+  "correctIndex": 0,
+  "explanation": "Umrah is a shorter, non-obligatory pilgrimage to Mecca that may be performed at any point during the year.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Which of the following correctly lists the Five Pillars of Islam?",
+  "options": [
+   "Shahada, Salah, Zakat, Jihad, Hajj",
+   "Shahada, Salah, Zakat, Sawm, Hajj",
+   "Shahada, Salah, Sawm, Hajj, Wudu",
+   "Salah, Zakat, Sawm, Hajj, Qurbani"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Five Pillars are Shahada, Salah, Zakat, Sawm, and Hajj, the core obligatory acts of Islamic practice.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Which four schools of Fiqh (jurisprudence) are recognized within Sunni Islam?",
+  "options": [
+   "Hanafi, Maliki, Ja'fari, Hanbali",
+   "Hanafi, Zahiri, Shafi'i, Hanbali",
+   "Hanafi, Maliki, Shafi'i, Hanbali",
+   "Maliki, Shafi'i, Hanbali, Ibadi"
+  ],
+  "correctIndex": 2,
+  "explanation": "The four major Sunni schools of jurisprudence are Hanafi, Maliki, Shafi'i, and Hanbali.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Hanafi school of Fiqh was founded by",
+  "options": [
+   "Imam Malik ibn Anas",
+   "Imam al-Shafi'i",
+   "Imam Ahmad ibn Hanbal",
+   "Imam Abu Hanifa"
+  ],
+  "correctIndex": 3,
+  "explanation": "Imam Abu Hanifa founded the Hanafi school, which is the most widely followed school of Fiqh in South Asia.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Maliki school of Fiqh takes its name from",
+  "options": [
+   "Imam Malik ibn Anas",
+   "Imam Abu Hanifa",
+   "Imam al-Shafi'i",
+   "Imam Ahmad ibn Hanbal"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Maliki school is named after Imam Malik ibn Anas of Medina, author of the Muwatta.",
+  "difficulty": "HARD",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Shafi'i school of Fiqh was founded by",
+  "options": [
+   "Imam Malik ibn Anas",
+   "Imam Muhammad ibn Idris al-Shafi'i",
+   "Imam Abu Hanifa",
+   "Imam Ahmad ibn Hanbal"
+  ],
+  "correctIndex": 1,
+  "explanation": "Imam Muhammad ibn Idris al-Shafi'i founded the Shafi'i school, known for systematising the principles of Islamic jurisprudence.",
+  "difficulty": "HARD",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Hanbali school of Fiqh takes its name from",
+  "options": [
+   "Imam Abu Hanifa",
+   "Imam Malik ibn Anas",
+   "Imam Ahmad ibn Hanbal",
+   "Imam al-Shafi'i"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Hanbali school is named after Imam Ahmad ibn Hanbal, also known for his hadith compilation, the Musnad.",
+  "difficulty": "EASY",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Which school of Fiqh is predominantly followed by Muslims in Pakistan?",
+  "options": [
+   "Maliki",
+   "Shafi'i",
+   "Hanbali",
+   "Hanafi"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Hanafi school is the predominant school of Fiqh followed by the majority of Muslims in Pakistan.",
+  "difficulty": "EASY",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "In Islamic jurisprudence, an act that is obligatory and whose omission is sinful is termed",
+  "options": [
+   "Fard",
+   "Sunnah",
+   "Mustahabb",
+   "Mubah"
+  ],
+  "correctIndex": 0,
+  "explanation": "Fard denotes an act that is obligatory in Islamic law, such as the five daily prayers.",
+  "difficulty": "EASY",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "An act that the Prophet (PBUH) regularly practised but which is not strictly obligatory is termed",
+  "options": [
+   "Fard",
+   "Sunnah",
+   "Haram",
+   "Makruh"
+  ],
+  "correctIndex": 1,
+  "explanation": "Sunnah refers to practices regularly followed by the Prophet (PBUH), recommended though not strictly obligatory.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "According to the Hanafi school, the Witr prayer is generally regarded as",
+  "options": [
+   "Fard",
+   "Nafl only",
+   "Wajib",
+   "Haram"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Hanafi school considers Witr, offered after Isha, to be Wajib (necessary), distinguishing it from the other schools' views.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The congregational Friday prayer, obligatory on adult male Muslims, is called",
+  "options": [
+   "Salat-ul-Eid",
+   "Salat-ul-Witr",
+   "Salat-ul-Tarawih",
+   "Salat-ul-Jumu'ah"
+  ],
+  "correctIndex": 3,
+  "explanation": "Salat-ul-Jumu'ah is the obligatory congregational prayer performed by adult male Muslims on Fridays.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Friday congregational prayer replaces which of the five daily obligatory prayers?",
+  "options": [
+   "Zuhr",
+   "Asr",
+   "Fajr",
+   "Maghrib"
+  ],
+  "correctIndex": 0,
+  "explanation": "Jumu'ah prayer is performed in place of the Zuhr prayer on Fridays.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The charity that must be given by every Muslim before the Eid-ul-Fitr prayer is called",
+  "options": [
+   "Zakat-ul-Mal",
+   "Sadaqah-tul-Fitr",
+   "Qurbani",
+   "Khums"
+  ],
+  "correctIndex": 1,
+  "explanation": "Sadaqah-tul-Fitr, also called Fitrana, must be given before the Eid-ul-Fitr prayer to ensure the needy can also celebrate.",
+  "difficulty": "MEDIUM",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The animal sacrifice performed by Muslims during Eid-ul-Adha, commemorating Prophet Ibrahim's willingness to sacrifice his son, is called",
+  "options": [
+   "Aqiqah",
+   "Fidya",
+   "Qurbani",
+   "Kaffarah"
+  ],
+  "correctIndex": 2,
+  "explanation": "Qurbani is the ritual animal sacrifice performed during Eid-ul-Adha in remembrance of Prophet Ibrahim's obedience.",
+  "difficulty": "HARD",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The practice of retreating into a mosque for devotion, especially observed during the last ten days of Ramadan, is called",
+  "options": [
+   "Tahajjud",
+   "Tarawih",
+   "Sa'i",
+   "I'tikaf"
+  ],
+  "correctIndex": 3,
+  "explanation": "I'tikaf is a period of spiritual seclusion in the mosque, commonly observed during the last ten days of Ramadan.",
+  "difficulty": "HARD",
+  "topic": "fiqh",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who became the first Caliph of Islam after the death of Prophet Muhammad (PBUH)?",
+  "options": [
+   "Abu Bakr",
+   "Umar ibn al-Khattab",
+   "Uthman ibn Affan",
+   "Ali ibn Abi Talib"
+  ],
+  "correctIndex": 0,
+  "explanation": "Abu Bakr was chosen as the first Caliph following the Prophet's death in 11 AH.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Abu Bakr is generally known by the title",
+  "options": [
+   "Al-Farooq",
+   "As-Siddiq",
+   "Dhun-Nurayn",
+   "Asadullah"
+  ],
+  "correctIndex": 1,
+  "explanation": "Abu Bakr was given the title As-Siddiq (the Truthful) for his immediate belief in the Prophet's night journey and message.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The wars fought by Caliph Abu Bakr against tribes that renounced Islam or refused to pay Zakat after the Prophet's death are known as",
+  "options": [
+   "The Fitna Wars",
+   "The Conquest Wars",
+   "The Ridda (Apostasy) Wars",
+   "The Crusades"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Ridda Wars were fought by Abu Bakr to suppress tribal rebellion and apostasy that broke out after the Prophet's death.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "During the Ridda Wars, Muslim forces under Khalid bin Waleed defeated the false prophet Musaylimah at the",
+  "options": [
+   "Battle of Qadisiyyah",
+   "Battle of Yarmouk",
+   "Battle of Nahavand",
+   "Battle of Yamama"
+  ],
+  "correctIndex": 3,
+  "explanation": "Khalid bin Waleed defeated Musaylimah's forces at the Battle of Yamama, ending one of the major Ridda rebellions.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The compilation of the Quran into a single written volume was first undertaken during the caliphate of",
+  "options": [
+   "Abu Bakr",
+   "Umar ibn al-Khattab",
+   "Uthman ibn Affan",
+   "Ali ibn Abi Talib"
+  ],
+  "correctIndex": 0,
+  "explanation": "After many Quran reciters died in the Ridda Wars, Abu Bakr ordered the first compilation of the Quran into one volume.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Who was entrusted with compiling the written Quran into a single volume during Abu Bakr's caliphate?",
+  "options": [
+   "Ubayy ibn Ka'b",
+   "Zaid ibn Thabit",
+   "Ibn Mas'ud",
+   "Abu Musa al-Ash'ari"
+  ],
+  "correctIndex": 1,
+  "explanation": "Zaid ibn Thabit, a scribe of revelation, was tasked with collecting the Quran into a single written text.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Abu Bakr's caliphate lasted approximately",
+  "options": [
+   "10 years",
+   "12 years",
+   "2 years",
+   "5 years"
+  ],
+  "correctIndex": 2,
+  "explanation": "Abu Bakr ruled as Caliph for about two years, from 632 to 634 CE.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Before becoming Caliph, Abu Bakr was the father-in-law of Prophet Muhammad (PBUH) through his daughter",
+  "options": [
+   "Hafsa bint Umar",
+   "Fatima bint Muhammad",
+   "Ruqayyah bint Muhammad",
+   "Aisha bint Abi Bakr"
+  ],
+  "correctIndex": 3,
+  "explanation": "Abu Bakr's daughter Aisha married the Prophet, making Abu Bakr his father-in-law.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Abu Bakr nominated which companion as his successor before his death?",
+  "options": [
+   "Umar ibn al-Khattab",
+   "Uthman ibn Affan",
+   "Ali ibn Abi Talib",
+   "Khalid bin Waleed"
+  ],
+  "correctIndex": 0,
+  "explanation": "Before his death, Abu Bakr nominated Umar ibn al-Khattab as the next Caliph.",
+  "difficulty": "HARD",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Caliph Abu Bakr is buried in Medina beside",
+  "options": [
+   "The martyrs of Uhud",
+   "Prophet Muhammad (PBUH), in Aisha's chamber",
+   "The general Jannat al-Baqi cemetery",
+   "Mecca, near the Kaaba"
+  ],
+  "correctIndex": 1,
+  "explanation": "Abu Bakr is buried next to Prophet Muhammad (PBUH) in the chamber that had belonged to Aisha.",
+  "difficulty": "HARD",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The second Rightly-Guided Caliph, Umar ibn al-Khattab, is commonly known by the title",
+  "options": [
+   "As-Siddiq",
+   "Dhun-Nurayn",
+   "Al-Farooq",
+   "Saifullah"
+  ],
+  "correctIndex": 2,
+  "explanation": "Umar ibn al-Khattab was given the title Al-Farooq, meaning one who distinguishes truth from falsehood.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Caliph Umar ibn al-Khattab was assassinated by",
+  "options": [
+   "A Kharijite named Ibn Muljam",
+   "Rebels from Egypt",
+   "A Byzantine spy",
+   "Abu Lu'lu'ah Firoz, a Persian slave"
+  ],
+  "correctIndex": 3,
+  "explanation": "Umar was fatally stabbed by Abu Lu'lu'ah Firoz, a Persian slave, while leading the Fajr prayer.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Islamic (Hijri) lunar calendar, taking the migration to Medina as its starting point, was formally adopted during the caliphate of",
+  "options": [
+   "Umar ibn al-Khattab",
+   "Abu Bakr",
+   "Uthman ibn Affan",
+   "Ali ibn Abi Talib"
+  ],
+  "correctIndex": 0,
+  "explanation": "Umar ibn al-Khattab formally established the Hijri calendar, dating years from the Prophet's migration to Medina.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The decisive battle in which Muslim forces defeated the Sassanid Persian army, opening the way to Iraq, was the Battle of",
+  "options": [
+   "Yarmouk",
+   "Qadisiyyah",
+   "Yamama",
+   "Hunayn"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Battle of Qadisiyyah broke Sassanid resistance in Iraq and opened the way for the Muslim conquest of Persia.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The battle that broke the main Byzantine resistance in Syria, fought in 636 CE, was the Battle of",
+  "options": [
+   "Qadisiyyah",
+   "Nahavand",
+   "Yarmouk",
+   "Badr"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Battle of Yarmouk, fought in 636 CE, decisively broke Byzantine power in Syria.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The battle sometimes called the 'Victory of Victories', which broke organized Sassanid resistance in Persia, was the Battle of",
+  "options": [
+   "Qadisiyyah",
+   "Yarmouk",
+   "Mu'tah",
+   "Nahavand"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Battle of Nahavand, fought under Umar's caliphate, is often called the 'Victory of Victories' for ending organized Persian resistance.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "When Caliph Umar entered Jerusalem in 637 CE, he granted its Christian inhabitants a covenant guaranteeing their safety and property; this is known as",
+  "options": [
+   "The Covenant (Pact) of Umar",
+   "The Treaty of Hudaybiyyah",
+   "The Constitution of Medina",
+   "The Pact of Najran"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Covenant of Umar guaranteed the safety, property, and freedom of worship of Jerusalem's Christian population.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Umar ibn al-Khattab was the first Caliph to adopt the title",
+  "options": [
+   "Khalifat-ur-Rasul",
+   "Amir-ul-Momineen",
+   "Zill-e-Ilahi",
+   "Sultan-ul-Islam"
+  ],
+  "correctIndex": 1,
+  "explanation": "Umar was the first to be addressed as Amir-ul-Momineen, meaning Commander of the Faithful.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Caliph Umar's administrative reforms included establishing a public treasury known as",
+  "options": [
+   "Diwan-e-Ilm",
+   "Majlis-e-Shura",
+   "Bait-ul-Mal",
+   "Bait-ul-Hikmah"
+  ],
+  "correctIndex": 2,
+  "explanation": "Umar formally organized the Bait-ul-Mal, a public treasury used to administer state revenues and distribute stipends.",
+  "difficulty": "HARD",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Umar ibn al-Khattab's caliphate lasted approximately",
+  "options": [
+   "2 years",
+   "12 years",
+   "5 years",
+   "10 years"
+  ],
+  "correctIndex": 3,
+  "explanation": "Umar ruled as Caliph for about ten years, from 634 to 644 CE, during which the Islamic state expanded rapidly.",
+  "difficulty": "HARD",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Before his death, Caliph Umar appointed a council to choose his successor from among its members; this council is known as",
+  "options": [
+   "The Shura",
+   "The Majlis-e-Ilm",
+   "The Diwan",
+   "The Ridda council"
+  ],
+  "correctIndex": 0,
+  "explanation": "Umar appointed a six-member Shura council to select the next Caliph from among themselves after his death.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The third Rightly-Guided Caliph, Uthman ibn Affan, is known by the title 'Dhun-Nurayn' (Possessor of Two Lights) because he married",
+  "options": [
+   "Two of the Prophet's granddaughters",
+   "Two of the Prophet's daughters, successively",
+   "Two Persian princesses",
+   "Two of Abu Bakr's daughters"
+  ],
+  "correctIndex": 1,
+  "explanation": "Uthman married the Prophet's daughters Ruqayyah and, after her death, Umm Kulthum, earning him the title Dhun-Nurayn.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Caliph Uthman ibn Affan is chiefly remembered for",
+  "options": [
+   "Compiling the first written copy of the Quran",
+   "Founding the Hijri calendar",
+   "Standardizing the text of the Quran into a single authoritative copy",
+   "Completing the conquest of Persia"
+  ],
+  "correctIndex": 2,
+  "explanation": "Uthman is best remembered for standardizing the Quran's text and distributing authoritative copies to major cities.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The standardized copies of the Quran prepared under Caliph Uthman are known as",
+  "options": [
+   "The Hafsa manuscripts",
+   "The Kufic scrolls",
+   "The Zaid manuscripts",
+   "The Uthmanic codices (Mushaf)"
+  ],
+  "correctIndex": 3,
+  "explanation": "The standardized copies produced under Uthman are known as the Uthmanic codices, or Mushaf.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "During his caliphate, Uthman ibn Affan carried out a significant expansion of",
+  "options": [
+   "Masjid-e-Nabvi in Medina",
+   "The Kaaba in Mecca",
+   "Masjid al-Aqsa in Jerusalem",
+   "Masjid Quba"
+  ],
+  "correctIndex": 0,
+  "explanation": "Uthman expanded and rebuilt Masjid-e-Nabvi in Medina to accommodate the growing Muslim community.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Uthman ibn Affan's caliphate lasted approximately",
+  "options": [
+   "10 years",
+   "12 years",
+   "5 years",
+   "2 years"
+  ],
+  "correctIndex": 1,
+  "explanation": "Uthman ruled as Caliph for about twelve years, from 644 to 656 CE.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Caliph Uthman ibn Affan was assassinated by",
+  "options": [
+   "A Kharijite in Kufa",
+   "A Persian slave",
+   "Rebels who besieged his house in Medina",
+   "A Byzantine agent"
+  ],
+  "correctIndex": 2,
+  "explanation": "Uthman was killed by rebels who besieged his house in Medina and forced their way in while he was reading the Quran.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Caliph Uthman ibn Affan is credited with establishing the first organized",
+  "options": [
+   "Standing cavalry",
+   "Postal system",
+   "Census bureau",
+   "Muslim naval fleet"
+  ],
+  "correctIndex": 3,
+  "explanation": "Uthman authorized the building of the first organized Muslim naval fleet, used in campaigns such as the conquest of Cyprus.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The fourth Rightly-Guided Caliph, Ali ibn Abi Talib, was married to Prophet Muhammad's (PBUH) daughter",
+  "options": [
+   "Fatima",
+   "Ruqayyah",
+   "Umm Kulthum",
+   "Zainab"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ali ibn Abi Talib was married to Fatima, the Prophet's youngest daughter.",
+  "difficulty": "HARD",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Caliph Ali ibn Abi Talib moved the seat of the caliphate from Medina to",
+  "options": [
+   "Damascus",
+   "Kufa",
+   "Baghdad",
+   "Basra"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ali relocated the capital of the caliphate to Kufa in present-day Iraq.",
+  "difficulty": "HARD",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The battle fought between Caliph Ali and a force led by Aisha, Talha, and Zubayr is known as the",
+  "options": [
+   "Battle of Siffin",
+   "Battle of Nahrawan",
+   "Battle of the Camel (Jamal)",
+   "Battle of Karbala"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Battle of the Camel, named for the camel Aisha rode during the fighting, was fought between Ali's forces and those of Aisha, Talha, and Zubayr.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The battle fought between the forces of Caliph Ali and Muawiyah ibn Abi Sufyan in 657 CE is known as the",
+  "options": [
+   "Battle of the Camel",
+   "Battle of Nahrawan",
+   "Battle of Badr",
+   "Battle of Siffin"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Battle of Siffin was fought between Ali's forces and those of Muawiyah, ending inconclusively with an arbitration agreement.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The group that broke away from Ali's camp after rejecting the arbitration following the Battle of Siffin became known as the",
+  "options": [
+   "Kharijites",
+   "Ansar",
+   "Muhajireen",
+   "Ridda tribes"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Kharijites rejected the outcome of the arbitration after Siffin and turned against both Ali and Muawiyah.",
+  "difficulty": "EASY",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Caliph Ali ibn Abi Talib was assassinated by",
+  "options": [
+   "A Persian slave",
+   "A Kharijite, Abdur Rahman ibn Muljam",
+   "Byzantine agents",
+   "Meccan nobles"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ali was fatally wounded by the Kharijite Abdur Rahman ibn Muljam while praying in the mosque at Kufa.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Ali ibn Abi Talib's caliphate lasted approximately",
+  "options": [
+   "2 years",
+   "10 years",
+   "5 years",
+   "12 years"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ali ruled as Caliph for about five years, from 656 to 661 CE, a period marked by internal conflict.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The four Caliphs who ruled after Prophet Muhammad (PBUH), regarded as having followed his example most closely, are collectively called",
+  "options": [
+   "The Sahaba",
+   "The Umayyads",
+   "The Ashra Mubashra",
+   "Khulafa-e-Rashideen"
+  ],
+  "correctIndex": 3,
+  "explanation": "Abu Bakr, Umar, Uthman, and Ali are together known as the Khulafa-e-Rashideen, the Rightly-Guided Caliphs.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The correct chronological order of the four Rightly-Guided Caliphs is",
+  "options": [
+   "Abu Bakr, Umar, Uthman, Ali",
+   "Abu Bakr, Uthman, Umar, Ali",
+   "Umar, Abu Bakr, Uthman, Ali",
+   "Abu Bakr, Umar, Ali, Uthman"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Rightly-Guided Caliphs ruled in the order Abu Bakr, Umar, Uthman, and then Ali.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The era of the Rightly-Guided Caliphs came to an end and was succeeded by which dynasty, established by Muawiyah ibn Abi Sufyan?",
+  "options": [
+   "The Abbasid dynasty",
+   "The Umayyad dynasty",
+   "The Fatimid dynasty",
+   "The Ottoman dynasty"
+  ],
+  "correctIndex": 1,
+  "explanation": "After Ali's death, Muawiyah ibn Abi Sufyan established the Umayyad dynasty, ending the Rashidun era.",
+  "difficulty": "MEDIUM",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Taken together, the reigns of the four Rightly-Guided Caliphs spanned a total of approximately",
+  "options": [
+   "20 years",
+   "40 years",
+   "29 years",
+   "50 years"
+  ],
+  "correctIndex": 2,
+  "explanation": "From Abu Bakr's accession in 632 CE to Ali's death in 661 CE, the Rashidun era lasted about 29 years.",
+  "difficulty": "HARD",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Under which Caliph was the conquest of the Sassanid Persian Empire substantially completed?",
+  "options": [
+   "Abu Bakr",
+   "Uthman ibn Affan",
+   "Ali ibn Abi Talib",
+   "Umar ibn al-Khattab"
+  ],
+  "correctIndex": 3,
+  "explanation": "The decisive victories at Qadisiyyah and Nahavand under Umar's caliphate broke organized Sassanid resistance in Persia.",
+  "difficulty": "HARD",
+  "topic": "islamic-history",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The branch of philosophy concerned with moral principles that govern a person's behaviour is called",
+  "options": [
+   "Ethics",
+   "Aesthetics",
+   "Epistemology",
+   "Metaphysics"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ethics is the study of moral principles that determine right and wrong conduct.",
+  "difficulty": "EASY",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Regularly paying one's taxes and obeying the law of the land are examples of",
+  "options": [
+   "Personal ambition",
+   "Civic responsibility",
+   "Religious obligation only",
+   "Political privilege"
+  ],
+  "correctIndex": 1,
+  "explanation": "Paying taxes and obeying the law are basic civic responsibilities expected of every citizen.",
+  "difficulty": "EASY",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "An awareness of one's duties toward the community and public property, such as keeping public spaces clean, is generally described as",
+  "options": [
+   "Nationalism",
+   "Patriotism only",
+   "Civic sense",
+   "Diplomacy"
+  ],
+  "correctIndex": 2,
+  "explanation": "Civic sense refers to an individual's awareness of and respect for shared community responsibilities and public property.",
+  "difficulty": "EASY",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The principle that no one, including the government, is above the law, and that all are treated equally under it, is known as",
+  "options": [
+   "Rule of majority",
+   "Separation of powers",
+   "Judicial review",
+   "Rule of law"
+  ],
+  "correctIndex": 3,
+  "explanation": "The rule of law holds that all individuals and institutions, including the state, are subject to and equal before the law.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Unlike laws, which are enforced by the state, moral principles concerning right and wrong conduct are primarily enforced through",
+  "options": [
+   "Individual conscience and social pressure",
+   "Courts",
+   "Police",
+   "Parliament"
+  ],
+  "correctIndex": 0,
+  "explanation": "Moral principles are generally upheld through personal conscience and social approval or disapproval, rather than formal legal enforcement.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "A system of government in which political power ultimately rests with the citizens, typically exercised through elected representatives, is called",
+  "options": [
+   "Monarchy",
+   "Democracy",
+   "Theocracy",
+   "Oligarchy"
+  ],
+  "correctIndex": 1,
+  "explanation": "Democracy is a system of government in which power ultimately rests with the citizens, usually exercised through elected representatives.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Basic entitlements guaranteed to every citizen, such as the right to life, equality, and freedom of expression, are known as",
+  "options": [
+   "Civic duties",
+   "Privileges",
+   "Fundamental rights",
+   "Statutory benefits"
+  ],
+  "correctIndex": 2,
+  "explanation": "Fundamental rights are basic entitlements guaranteed to citizens, such as the right to life, equality, and free expression.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Which of the following is generally considered a duty of a responsible citizen, rather than a right?",
+  "options": [
+   "Freedom of speech",
+   "Right to vote",
+   "Right to a fair trial",
+   "Obeying the law and respecting the rights of others"
+  ],
+  "correctIndex": 3,
+  "explanation": "Obeying the law and respecting the rights of others are civic duties expected of citizens, distinct from their guaranteed rights.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Accepting and respecting beliefs, practices, and ways of life that differ from one's own, especially in a diverse society, reflects the value of",
+  "options": [
+   "Tolerance",
+   "Conformity",
+   "Indifference",
+   "Assimilation"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tolerance is the willingness to accept and respect beliefs and practices that differ from one's own.",
+  "difficulty": "HARD",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Speaking and acting truthfully, and keeping one's promises, reflects the moral value of",
+  "options": [
+   "Ambition",
+   "Honesty and integrity",
+   "Diplomacy",
+   "Obedience"
+  ],
+  "correctIndex": 1,
+  "explanation": "Honesty and integrity involve consistently speaking the truth and honouring one's commitments.",
+  "difficulty": "HARD",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The ethical principle of treating others as one would wish to be treated is commonly known as",
+  "options": [
+   "The Social Contract",
+   "The Categorical Imperative",
+   "The Golden Rule",
+   "The Rule of Law"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Golden Rule is the ethical principle of treating others the way one would wish to be treated.",
+  "difficulty": "EASY",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Fair and impartial treatment of individuals, ensuring that everyone receives what they are due, defines the value of",
+  "options": [
+   "Mercy",
+   "Charity",
+   "Loyalty",
+   "Justice"
+  ],
+  "correctIndex": 3,
+  "explanation": "Justice refers to fair and impartial treatment, ensuring individuals receive what is rightfully due to them.",
+  "difficulty": "EASY",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Universal Declaration of Human Rights was adopted by the United Nations General Assembly in",
+  "options": [
+   "1948",
+   "1945",
+   "1950",
+   "1966"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Universal Declaration of Human Rights was adopted by the United Nations General Assembly in 1948.",
+  "difficulty": "EASY",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Universal Declaration of Human Rights was adopted by which international body?",
+  "options": [
+   "The International Court of Justice",
+   "The United Nations General Assembly",
+   "The League of Nations",
+   "The World Health Organization"
+  ],
+  "correctIndex": 1,
+  "explanation": "The United Nations General Assembly adopted the Universal Declaration of Human Rights in 1948.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Practices such as conserving water, reducing waste, and protecting public parks are examples of",
+  "options": [
+   "Economic policy",
+   "Foreign policy",
+   "Environmental civic responsibility",
+   "Religious duty"
+  ],
+  "correctIndex": 2,
+  "explanation": "Conserving resources and protecting shared public spaces are examples of environmental civic responsibility.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The misuse of public office or entrusted power for private gain is defined as",
+  "options": [
+   "Negligence",
+   "Diplomacy",
+   "Bureaucracy",
+   "Corruption"
+  ],
+  "correctIndex": 3,
+  "explanation": "Corruption is the misuse of public office or entrusted authority for personal or private benefit.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Freely offering one's time and effort to help the community without expecting payment is known as",
+  "options": [
+   "Volunteerism",
+   "Employment",
+   "Taxation",
+   "Conscription"
+  ],
+  "correctIndex": 0,
+  "explanation": "Volunteerism is the practice of freely giving one's time and effort to benefit the community without financial reward.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The central religious figure of Christianity, regarded by its followers as the Son of God and the Messiah, is",
+  "options": [
+   "Moses",
+   "Jesus Christ",
+   "Abraham",
+   "John the Baptist"
+  ],
+  "correctIndex": 1,
+  "explanation": "Jesus Christ is the central figure of Christianity, regarded by Christians as the Son of God and the Messiah.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The primary sacred scripture of Christianity is the",
+  "options": [
+   "Torah",
+   "Talmud",
+   "Bible",
+   "Vedas"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Bible, comprising the Old and New Testaments, is the primary sacred scripture of Christianity.",
+  "difficulty": "HARD",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The place of communal worship for Christians is called a",
+  "options": [
+   "Synagogue",
+   "Temple",
+   "Gurdwara",
+   "Church"
+  ],
+  "correctIndex": 3,
+  "explanation": "A church is the place of communal worship for followers of Christianity.",
+  "difficulty": "HARD",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The primary sacred scripture of Judaism is the",
+  "options": [
+   "Torah",
+   "Bible",
+   "Quran",
+   "Vedas"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Torah, comprising the first five books of the Hebrew Bible, is the primary sacred scripture of Judaism.",
+  "difficulty": "EASY",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The place of worship for followers of Judaism is called a",
+  "options": [
+   "Church",
+   "Synagogue",
+   "Temple",
+   "Mosque"
+  ],
+  "correctIndex": 1,
+  "explanation": "A synagogue is the place of communal worship and study for followers of Judaism.",
+  "difficulty": "EASY",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The ancient sacred texts that form the oldest scriptures of Hinduism are known as the",
+  "options": [
+   "Upanishads",
+   "Bhagavad Gita",
+   "Vedas",
+   "Puranas"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Vedas are the oldest sacred scriptures of Hinduism, forming the foundation of later Hindu texts.",
+  "difficulty": "EASY",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The Hindu belief that the soul is repeatedly reborn into new bodies after death is called",
+  "options": [
+   "Resurrection",
+   "Salvation",
+   "Nirvana",
+   "Reincarnation (samsara)"
+  ],
+  "correctIndex": 3,
+  "explanation": "Samsara is the Hindu belief in the cycle of rebirth, in which the soul is repeatedly reborn into new bodies.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The place of worship for followers of Hinduism is commonly called a",
+  "options": [
+   "Temple (Mandir)",
+   "Church",
+   "Synagogue",
+   "Gurdwara"
+  ],
+  "correctIndex": 0,
+  "explanation": "A temple, or mandir, is the common place of worship for followers of Hinduism.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Buddhism was founded by",
+  "options": [
+   "Confucius",
+   "Siddhartha Gautama (the Buddha)",
+   "Guru Nanak",
+   "Zoroaster"
+  ],
+  "correctIndex": 1,
+  "explanation": "Buddhism was founded by Siddhartha Gautama, who came to be known as the Buddha, or 'the Enlightened One'.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Siddhartha Gautama, the founder of Buddhism, is traditionally said to have been born in",
+  "options": [
+   "Mecca",
+   "Jerusalem",
+   "Lumbini, in present-day Nepal",
+   "Varanasi"
+  ],
+  "correctIndex": 2,
+  "explanation": "Siddhartha Gautama is traditionally held to have been born in Lumbini, in present-day Nepal.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "Sikhism was founded in the Punjab region by",
+  "options": [
+   "Guru Gobind Singh",
+   "Kabir",
+   "Ramanuja",
+   "Guru Nanak"
+  ],
+  "correctIndex": 3,
+  "explanation": "Guru Nanak founded Sikhism in the Punjab region in the late fifteenth century.",
+  "difficulty": "MEDIUM",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The primary scripture of Sikhism, revered as the eternal living Guru, is the",
+  "options": [
+   "Guru Granth Sahib",
+   "Vedas",
+   "Torah",
+   "Avesta"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Guru Granth Sahib is the central scripture of Sikhism, revered by Sikhs as their eternal living Guru.",
+  "difficulty": "HARD",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
+ },
+ {
+  "text": "The ancient religion founded by the Persian prophet Zoroaster, whose sacred text is the Avesta, is known as",
+  "options": [
+   "Manichaeism",
+   "Zoroastrianism",
+   "Mithraism",
+   "Confucianism"
+  ],
+  "correctIndex": 1,
+  "explanation": "Zoroastrianism, founded by the Persian prophet Zoroaster, has the Avesta as its sacred scripture.",
+  "difficulty": "HARD",
+  "topic": "civics-ethics",
+  "source": "islamic-seerah-fiqh-civics"
  }
 ]

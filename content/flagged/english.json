@@ -42,5 +42,74 @@
    "difficulty": "HARD",
    "topic": "question-tags"
   }
+ },
+ {
+  "unit": "eng-usage-mechanics",
+  "index": 28,
+  "reason": "verifier disagreement",
+  "claimed": 0,
+  "verifierChoices": [
+   1,
+   1
+  ],
+  "question": {
+   "text": "She always ____ about her heavy workload, which annoys her colleagues.",
+   "options": [
+    "is complaining",
+    "complains",
+    "complained",
+    "has complained"
+   ],
+   "correctIndex": 0,
+   "explanation": "The present continuous with \"always\" expresses a habitual, often irritating, action.",
+   "difficulty": "HARD",
+   "topic": "tenses"
+  }
+ },
+ {
+  "unit": "eng-usage-mechanics",
+  "index": 56,
+  "reason": "verifier disagreement",
+  "claimed": 0,
+  "verifierChoices": [
+   3,
+   0
+  ],
+  "question": {
+   "text": "Choose the correct passive voice: 'Do not waste time.'",
+   "options": [
+    "Let time not be wasted.",
+    "Time should not be wasted.",
+    "Time is not wasted.",
+    "Let not time be wasted."
+   ],
+   "correctIndex": 0,
+   "explanation": "Negative imperatives are made passive using \"Let + object + not + be + past participle.\"",
+   "difficulty": "HARD",
+   "topic": "voice"
+  }
+ },
+ {
+  "unit": "eng-usage-mechanics",
+  "index": 71,
+  "reason": "verifier disagreement",
+  "claimed": 3,
+  "verifierChoices": [
+   3,
+   2
+  ],
+  "question": {
+   "text": "Convert to indirect speech: He said, 'Let us go for a walk.'",
+   "options": [
+    "He said that let us go for a walk.",
+    "He told us to go for a walk.",
+    "He suggested going for a walk.",
+    "He proposed that they should go for a walk."
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Let us\" proposals are reported with \"proposed/suggested that + subject + should + verb.\"",
+   "difficulty": "HARD",
+   "topic": "narration"
+  }
  }
 ]

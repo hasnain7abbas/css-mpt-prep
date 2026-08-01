@@ -1,0 +1,3446 @@
+[
+ {
+  "text": "Where is the headquarters of the United Nations located?",
+  "options": [
+   "Geneva",
+   "New York",
+   "Vienna",
+   "The Hague"
+  ],
+  "correctIndex": 1,
+  "explanation": "The UN's main headquarters is located in New York City, United States.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The UN Charter was signed at a conference held in which city in 1945?",
+  "options": [
+   "Yalta",
+   "Dumbarton Oaks",
+   "San Francisco",
+   "Bretton Woods"
+  ],
+  "correctIndex": 2,
+  "explanation": "The UN Charter was signed on 26 June 1945 at the San Francisco Conference.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "How many permanent members does the UN Security Council have?",
+  "options": [
+   "3",
+   "7",
+   "10",
+   "5"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Security Council has five permanent members: the United States, United Kingdom, France, Russia and China.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "What is the total number of member states on the UN Security Council?",
+  "options": [
+   "15",
+   "10",
+   "12",
+   "20"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Security Council has 15 members in total: 5 permanent members and 10 non-permanent members elected for two-year terms.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The International Court of Justice is seated in which city?",
+  "options": [
+   "Geneva",
+   "The Hague",
+   "Vienna",
+   "New York"
+  ],
+  "correctIndex": 1,
+  "explanation": "The ICJ, the principal judicial organ of the UN, sits at the Peace Palace in The Hague.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "UNESCO, headquartered in Paris, primarily promotes international cooperation in which fields?",
+  "options": [
+   "Trade and finance",
+   "Health and medicine",
+   "Education, science and culture",
+   "Defense and security"
+  ],
+  "correctIndex": 2,
+  "explanation": "UNESCO's mandate covers education, natural and social sciences, culture, and communication.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was UNESCO established?",
+  "options": [
+   "1919",
+   "1957",
+   "1967",
+   "1945"
+  ],
+  "correctIndex": 3,
+  "explanation": "UNESCO's constitution was adopted in London in November 1945, the year of its founding.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The World Health Organization is headquartered in which city?",
+  "options": [
+   "Geneva",
+   "Paris",
+   "Rome",
+   "Vienna"
+  ],
+  "correctIndex": 0,
+  "explanation": "WHO, the UN's public health agency, is headquartered in Geneva, Switzerland.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was the World Health Organization established?",
+  "options": [
+   "1945",
+   "1948",
+   "1950",
+   "1957"
+  ],
+  "correctIndex": 1,
+  "explanation": "WHO's constitution came into force on 7 April 1948, now observed annually as World Health Day.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was UNICEF established to assist children after the Second World War?",
+  "options": [
+   "1945",
+   "1950",
+   "1946",
+   "1961"
+  ],
+  "correctIndex": 2,
+  "explanation": "The UN General Assembly created UNICEF in December 1946 to provide relief to children in war-affected countries.",
+  "difficulty": "HARD",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "Where is UNICEF headquartered?",
+  "options": [
+   "Geneva",
+   "Rome",
+   "Paris",
+   "New York"
+  ],
+  "correctIndex": 3,
+  "explanation": "UNICEF's headquarters is located in New York City.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The UNHCR is the UN agency mandated to protect and assist which group of people?",
+  "options": [
+   "Refugees",
+   "Children",
+   "Workers",
+   "Farmers"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Office of the UN High Commissioner for Refugees works to protect and assist refugees and displaced persons worldwide.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was the Office of the UN High Commissioner for Refugees established?",
+  "options": [
+   "1945",
+   "1950",
+   "1948",
+   "1961"
+  ],
+  "correctIndex": 1,
+  "explanation": "UNHCR was established by the UN General Assembly in December 1950.",
+  "difficulty": "HARD",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "Which UN specialized agency, headquartered in Geneva, was founded in 1919 and is the oldest of its kind?",
+  "options": [
+   "WHO",
+   "UNESCO",
+   "ILO",
+   "FAO"
+  ],
+  "correctIndex": 2,
+  "explanation": "The International Labour Organization was founded in 1919 under the Treaty of Versailles, making it the oldest specialized agency associated with the UN.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The International Atomic Energy Agency, established in 1957, is headquartered in which city?",
+  "options": [
+   "Geneva",
+   "New York",
+   "Rome",
+   "Vienna"
+  ],
+  "correctIndex": 3,
+  "explanation": "The IAEA, the world's centre for nuclear cooperation, is headquartered in Vienna, Austria.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Food and Agriculture Organization is headquartered in which city?",
+  "options": [
+   "Rome",
+   "Geneva",
+   "Paris",
+   "Vienna"
+  ],
+  "correctIndex": 0,
+  "explanation": "The FAO, established in 1945 to lead efforts against hunger, is headquartered in Rome.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "Which international organization, founded in 1874 and headquartered in Bern, is considered the oldest international organization still in existence?",
+  "options": [
+   "International Labour Organization",
+   "Universal Postal Union",
+   "International Telecommunication Union",
+   "World Meteorological Organization"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Universal Postal Union was established by the Treaty of Bern in 1874, predating the ILO and ITU as a formal permanent international body.",
+  "difficulty": "HARD",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "How many official languages does the United Nations have?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "8"
+  ],
+  "correctIndex": 2,
+  "explanation": "The UN has six official languages: Arabic, Chinese, English, French, Russian and Spanish.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In the UN General Assembly, how many votes does each member state hold?",
+  "options": [
+   "Votes based on population",
+   "Votes based on financial contribution",
+   "Votes based on military strength",
+   "One vote regardless of size"
+  ],
+  "correctIndex": 3,
+  "explanation": "Under the principle of sovereign equality, every UN member state has exactly one vote in the General Assembly.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was the South Asian Association for Regional Cooperation (SAARC) established?",
+  "options": [
+   "1985",
+   "1980",
+   "1990",
+   "1995"
+  ],
+  "correctIndex": 0,
+  "explanation": "SAARC was founded on 8 December 1985 in Dhaka.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "Where is the secretariat of SAARC located?",
+  "options": [
+   "New Delhi",
+   "Kathmandu",
+   "Islamabad",
+   "Dhaka"
+  ],
+  "correctIndex": 1,
+  "explanation": "The SAARC Secretariat has been based in Kathmandu, Nepal, since 1987.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "How many member states does SAARC currently have?",
+  "options": [
+   "6",
+   "7",
+   "8",
+   "9"
+  ],
+  "correctIndex": 2,
+  "explanation": "SAARC has eight member states after Afghanistan joined in 2007: Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was the Organisation of Islamic Cooperation (OIC) established?",
+  "options": [
+   "1961",
+   "1973",
+   "1981",
+   "1969"
+  ],
+  "correctIndex": 3,
+  "explanation": "The OIC was founded in 1969 following the Rabat Summit.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "Where is the headquarters of the Organisation of Islamic Cooperation located?",
+  "options": [
+   "Jeddah",
+   "Mecca",
+   "Cairo",
+   "Riyadh"
+  ],
+  "correctIndex": 0,
+  "explanation": "The OIC's headquarters is in Jeddah, Saudi Arabia, pending the liberation of Jerusalem.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Economic Cooperation Organization, headquartered in Tehran, was founded in 1985 by Iran, Pakistan and which other country?",
+  "options": [
+   "Afghanistan",
+   "Turkey",
+   "Iraq",
+   "Azerbaijan"
+  ],
+  "correctIndex": 1,
+  "explanation": "ECO was formed in 1985 by Iran, Pakistan and Turkey, building on the earlier Regional Cooperation for Development.",
+  "difficulty": "HARD",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The secretariat of ASEAN is located in which city?",
+  "options": [
+   "Bangkok",
+   "Manila",
+   "Singapore",
+   "Jakarta"
+  ],
+  "correctIndex": 3,
+  "explanation": "The ASEAN Secretariat is headquartered in Jakarta, Indonesia.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "Where is the headquarters of NATO located?",
+  "options": [
+   "Paris",
+   "Brussels",
+   "Geneva",
+   "London"
+  ],
+  "correctIndex": 1,
+  "explanation": "NATO's headquarters has been located in Brussels, Belgium, since 1967.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The main institutions of the European Union are headquartered in which city?",
+  "options": [
+   "Strasbourg",
+   "Geneva",
+   "Brussels",
+   "Vienna"
+  ],
+  "correctIndex": 2,
+  "explanation": "Brussels hosts the main EU institutions, including the European Commission and the Council of the EU.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The African Union, headquartered in Addis Ababa, was established in 2002 as the successor to which organization?",
+  "options": [
+   "African Development Bank",
+   "Pan-African Congress",
+   "Non-Aligned Movement",
+   "Organisation of African Unity"
+  ],
+  "correctIndex": 3,
+  "explanation": "The African Union replaced the Organisation of African Unity, which had been founded in 1963.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Commonwealth of Nations secretariat is headquartered in which city?",
+  "options": [
+   "London",
+   "Ottawa",
+   "Canberra",
+   "New Delhi"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Commonwealth Secretariat is based at Marlborough House in London.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was the League of Arab States founded?",
+  "options": [
+   "1938",
+   "1945",
+   "1950",
+   "1956"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Arab League was founded in Cairo in March 1945.",
+  "difficulty": "HARD",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The League of Arab States is headquartered in which city?",
+  "options": [
+   "Riyadh",
+   "Baghdad",
+   "Cairo",
+   "Damascus"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Arab League's headquarters is located in Cairo, Egypt.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was the Gulf Cooperation Council established?",
+  "options": [
+   "1971",
+   "1975",
+   "1990",
+   "1981"
+  ],
+  "correctIndex": 3,
+  "explanation": "The GCC was established in 1981 by Saudi Arabia, Kuwait, Bahrain, Qatar, the UAE and Oman.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Shanghai Cooperation Organisation was established in which year?",
+  "options": [
+   "2001",
+   "1996",
+   "2005",
+   "2010"
+  ],
+  "correctIndex": 0,
+  "explanation": "The SCO was founded in Shanghai in 2001 by China, Russia and four Central Asian states.",
+  "difficulty": "HARD",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Organization of American States is headquartered in which city?",
+  "options": [
+   "New York",
+   "Washington D.C.",
+   "Ottawa",
+   "Mexico City"
+  ],
+  "correctIndex": 1,
+  "explanation": "The OAS, founded in 1948, is headquartered in Washington D.C.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was the Organization of the Petroleum Exporting Countries (OPEC) founded?",
+  "options": [
+   "1955",
+   "1965",
+   "1960",
+   "1973"
+  ],
+  "correctIndex": 2,
+  "explanation": "OPEC was founded in Baghdad in September 1960.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "OPEC is headquartered in which city?",
+  "options": [
+   "Baghdad",
+   "Riyadh",
+   "Geneva",
+   "Vienna"
+  ],
+  "correctIndex": 3,
+  "explanation": "OPEC's headquarters moved to Vienna, Austria, in 1965.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The International Monetary Fund is headquartered in which city?",
+  "options": [
+   "Washington D.C.",
+   "New York",
+   "Geneva",
+   "Paris"
+  ],
+  "correctIndex": 0,
+  "explanation": "The IMF is headquartered in Washington D.C., alongside the World Bank.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The IMF was established following which 1944 conference?",
+  "options": [
+   "Yalta Conference",
+   "Bretton Woods Conference",
+   "San Francisco Conference",
+   "Potsdam Conference"
+  ],
+  "correctIndex": 1,
+  "explanation": "The IMF and World Bank were both created at the 1944 Bretton Woods Conference in New Hampshire, USA.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The World Bank is headquartered in which city?",
+  "options": [
+   "New York",
+   "London",
+   "Washington D.C.",
+   "Geneva"
+  ],
+  "correctIndex": 2,
+  "explanation": "The World Bank Group's headquarters is in Washington D.C.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was the World Bank established?",
+  "options": [
+   "1930",
+   "1948",
+   "1956",
+   "1944"
+  ],
+  "correctIndex": 3,
+  "explanation": "The World Bank was established in 1944 at the Bretton Woods Conference, alongside the IMF.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The World Trade Organization is headquartered in which city?",
+  "options": [
+   "Geneva",
+   "Brussels",
+   "Vienna",
+   "Paris"
+  ],
+  "correctIndex": 0,
+  "explanation": "The WTO is headquartered in Geneva, Switzerland.",
+  "difficulty": "EASY",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year did the World Trade Organization come into existence?",
+  "options": [
+   "1947",
+   "1995",
+   "1985",
+   "2001"
+  ],
+  "correctIndex": 1,
+  "explanation": "The WTO was established on 1 January 1995, replacing the earlier GATT framework.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The WTO succeeded which earlier trade agreement, signed in 1947?",
+  "options": [
+   "Bretton Woods Agreement",
+   "Marshall Plan",
+   "General Agreement on Tariffs and Trade",
+   "Havana Charter"
+  ],
+  "correctIndex": 2,
+  "explanation": "The General Agreement on Tariffs and Trade (GATT), signed in 1947, was the predecessor framework that the WTO replaced in 1995.",
+  "difficulty": "HARD",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Asian Development Bank is headquartered in which city?",
+  "options": [
+   "Beijing",
+   "Tokyo",
+   "Singapore",
+   "Manila"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Asian Development Bank is headquartered in Manila, Philippines.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "In which year was the Asian Development Bank established?",
+  "options": [
+   "1966",
+   "1956",
+   "1976",
+   "1986"
+  ],
+  "correctIndex": 0,
+  "explanation": "The ADB was established in 1966 to promote economic development in Asia and the Pacific.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Bank for International Settlements, considered the world's oldest international financial institution, is headquartered in which city?",
+  "options": [
+   "Zurich",
+   "Basel",
+   "Frankfurt",
+   "Geneva"
+  ],
+  "correctIndex": 1,
+  "explanation": "The BIS, founded in 1930, is headquartered in Basel, Switzerland.",
+  "difficulty": "HARD",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Islamic Development Bank is headquartered in which city?",
+  "options": [
+   "Cairo",
+   "Riyadh",
+   "Jeddah",
+   "Dubai"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Islamic Development Bank is headquartered in Jeddah, Saudi Arabia.",
+  "difficulty": "MEDIUM",
+  "topic": "organizations",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Geneva Conventions primarily deal with which subject?",
+  "options": [
+   "International trade disputes",
+   "Diplomatic immunity",
+   "Maritime boundaries",
+   "Humanitarian treatment in armed conflict"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Geneva Conventions form the core of international humanitarian law, setting standards for the treatment of the wounded, prisoners and civilians in war.",
+  "difficulty": "EASY",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The four Geneva Conventions, forming the core of international humanitarian law, were adopted in which year?",
+  "options": [
+   "1949",
+   "1929",
+   "1945",
+   "1961"
+  ],
+  "correctIndex": 0,
+  "explanation": "The four Geneva Conventions were adopted in 1949, updating earlier conventions dating back to 1864.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Treaty on the Non-Proliferation of Nuclear Weapons (NPT) was opened for signature in which year?",
+  "options": [
+   "1963",
+   "1968",
+   "1972",
+   "1980"
+  ],
+  "correctIndex": 1,
+  "explanation": "The NPT was opened for signature in 1968 and entered into force in 1970.",
+  "difficulty": "HARD",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Non-Proliferation Treaty is primarily concerned with preventing the spread of which weapons?",
+  "options": [
+   "Chemical weapons",
+   "Biological weapons",
+   "Nuclear weapons",
+   "Conventional arms"
+  ],
+  "correctIndex": 2,
+  "explanation": "The NPT aims to prevent the spread of nuclear weapons and weapons technology.",
+  "difficulty": "EASY",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Kyoto Protocol, adopted in 1997, primarily commits countries to reduce which type of emissions?",
+  "options": [
+   "Ozone-depleting substances",
+   "Industrial waste",
+   "Vehicular noise",
+   "Greenhouse gas emissions"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Kyoto Protocol set binding targets for industrialized countries to reduce greenhouse gas emissions.",
+  "difficulty": "EASY",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Kyoto Protocol was adopted in which country?",
+  "options": [
+   "Japan",
+   "China",
+   "South Korea",
+   "Germany"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Kyoto Protocol was adopted in Kyoto, Japan, in December 1997.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Paris Agreement, adopted in 2015, is an international treaty primarily addressing which issue?",
+  "options": [
+   "Nuclear disarmament",
+   "Climate change",
+   "Trade tariffs",
+   "Refugee resettlement"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Paris Agreement is a legally binding international treaty on climate change mitigation and adaptation.",
+  "difficulty": "EASY",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Paris Agreement was adopted at which UN climate conference?",
+  "options": [
+   "COP15",
+   "COP18",
+   "COP21",
+   "COP26"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Paris Agreement was adopted at COP21, held in Paris in December 2015.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Vienna Convention on Diplomatic Relations, which codifies rules on diplomatic immunity, was adopted in which year?",
+  "options": [
+   "1955",
+   "1969",
+   "1975",
+   "1961"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Vienna Convention on Diplomatic Relations was adopted in 1961 and remains the basis of modern diplomatic law.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Peace of Westphalia, signed in 1648, is widely regarded as the origin of which modern concept?",
+  "options": [
+   "State sovereignty in international relations",
+   "International trade law",
+   "Human rights law",
+   "Maritime law"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Peace of Westphalia ended the Thirty Years' War and is credited with establishing the principle of state sovereignty that underpins the modern international system.",
+  "difficulty": "HARD",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Treaty of Versailles, signed in 1919, formally ended which war?",
+  "options": [
+   "The Franco-Prussian War",
+   "The First World War",
+   "The Second World War",
+   "The Crimean War"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Treaty of Versailles formally ended the state of war between Germany and the Allied Powers after the First World War.",
+  "difficulty": "EASY",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Universal Declaration of Human Rights was adopted by the UN General Assembly in which year?",
+  "options": [
+   "1945",
+   "1946",
+   "1948",
+   "1966"
+  ],
+  "correctIndex": 2,
+  "explanation": "The UDHR was adopted by the UN General Assembly in Paris on 10 December 1948.",
+  "difficulty": "EASY",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Comprehensive Nuclear-Test-Ban Treaty was opened for signature in which year?",
+  "options": [
+   "1987",
+   "1991",
+   "2000",
+   "1996"
+  ],
+  "correctIndex": 3,
+  "explanation": "The CTBT, which bans all nuclear explosions, was opened for signature in 1996.",
+  "difficulty": "HARD",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Montreal Protocol, adopted in 1987, is an international treaty designed to protect which part of the environment?",
+  "options": [
+   "The ozone layer",
+   "Rainforests",
+   "Coral reefs",
+   "Freshwater rivers"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Montreal Protocol phases out substances responsible for depleting the ozone layer.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "UNCLOS, adopted in 1982, is the principal international treaty governing which domain?",
+  "options": [
+   "Outer space",
+   "The law of the sea",
+   "Air travel",
+   "Cross-border rivers"
+  ],
+  "correctIndex": 1,
+  "explanation": "The UN Convention on the Law of the Sea establishes the legal framework for maritime zones, navigation and resource rights.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Vienna Convention on the Law of Treaties, often called the 'treaty on treaties,' was adopted in which year?",
+  "options": [
+   "1961",
+   "1965",
+   "1969",
+   "1975"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Vienna Convention on the Law of Treaties was adopted in 1969 and governs how treaties between states are made and interpreted.",
+  "difficulty": "HARD",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Simla Agreement of 1972 was signed between Pakistan and which country?",
+  "options": [
+   "Afghanistan",
+   "Iran",
+   "Bangladesh",
+   "India"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Simla Agreement was signed between Pakistan and India in July 1972 following the 1971 war.",
+  "difficulty": "EASY",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Tashkent Declaration of 1966 was signed by India and Pakistan following mediation by which country?",
+  "options": [
+   "Soviet Union",
+   "United States",
+   "United Kingdom",
+   "China"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Tashkent Declaration was mediated by the Soviet Union after the 1965 India-Pakistan war.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Indus Waters Treaty of 1960 between India and Pakistan was brokered with the help of which institution?",
+  "options": [
+   "United Nations",
+   "World Bank",
+   "IMF",
+   "Commonwealth"
+  ],
+  "correctIndex": 1,
+  "explanation": "The World Bank facilitated negotiations and is a signatory guarantor of the Indus Waters Treaty.",
+  "difficulty": "EASY",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Camp David Accords of 1978 led to a peace treaty between Egypt and which country?",
+  "options": [
+   "Syria",
+   "Jordan",
+   "Israel",
+   "Lebanon"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Camp David Accords, brokered by US President Jimmy Carter, led to the 1979 Egypt-Israel peace treaty.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The 1988 Geneva Accords primarily addressed the withdrawal of Soviet troops from which country?",
+  "options": [
+   "Iran",
+   "Iraq",
+   "Syria",
+   "Afghanistan"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Geneva Accords, signed by Afghanistan, Pakistan, the US and the USSR, set the terms for Soviet troop withdrawal from Afghanistan.",
+  "difficulty": "HARD",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Treaty of Lisbon, which reformed the institutional structure of the European Union, was signed in which year?",
+  "options": [
+   "2007",
+   "1993",
+   "2001",
+   "2012"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Treaty of Lisbon was signed in 2007 and entered into force in 2009.",
+  "difficulty": "HARD",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Maastricht Treaty, signed in 1992, formally established which organization?",
+  "options": [
+   "NATO",
+   "The European Union",
+   "The Council of Europe",
+   "The OSCE"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Maastricht Treaty created the European Union, replacing the earlier European Economic Community framework.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Schengen Agreement, signed in 1985, primarily allows for which of the following among participating European states?",
+  "options": [
+   "A common currency",
+   "A joint military command",
+   "Free movement without internal border checks",
+   "Shared taxation policy"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Schengen Agreement abolished internal border checks among signatory states, allowing free movement of people.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Chemical Weapons Convention is overseen by an organization headquartered in which city?",
+  "options": [
+   "Geneva",
+   "Vienna",
+   "New York",
+   "The Hague"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Organisation for the Prohibition of Chemical Weapons, which implements the Chemical Weapons Convention, is headquartered in The Hague.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Biological Weapons Convention, the first multilateral treaty banning an entire category of weapons, opened for signature in which year?",
+  "options": [
+   "1972",
+   "1968",
+   "1980",
+   "1993"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Biological Weapons Convention opened for signature in 1972 and entered into force in 1975.",
+  "difficulty": "HARD",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Rome Statute, adopted in 1998, established which international judicial body?",
+  "options": [
+   "The International Court of Justice",
+   "The International Criminal Court",
+   "The Permanent Court of Arbitration",
+   "The WTO Appellate Body"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Rome Statute established the International Criminal Court, which began operating in 2002.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Kellogg-Briand Pact of 1928 committed signatory states to renounce which of the following?",
+  "options": [
+   "Colonial expansion",
+   "Trade tariffs",
+   "War as an instrument of national policy",
+   "Naval armament"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Kellogg-Briand Pact bound its signatories to renounce war as a means of resolving disputes.",
+  "difficulty": "HARD",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "The Outer Space Treaty of 1967 establishes the basic legal framework governing which domain?",
+  "options": [
+   "International waters",
+   "Polar regions",
+   "Cyberspace",
+   "Outer space"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Outer Space Treaty of 1967 forms the basis of international space law, including the principle that space shall not be subject to national appropriation.",
+  "difficulty": "MEDIUM",
+  "topic": "treaties",
+  "source": "gk-organizations-treaties"
+ },
+ {
+  "text": "What is the capital of Kenya?",
+  "options": [
+   "Nairobi",
+   "Mombasa",
+   "Kampala",
+   "Dar es Salaam"
+  ],
+  "correctIndex": 0,
+  "explanation": "Nairobi has been the capital of Kenya since independence in 1963 and is its largest city.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Nigeria?",
+  "options": [
+   "Lagos",
+   "Abuja",
+   "Kano",
+   "Port Harcourt"
+  ],
+  "correctIndex": 1,
+  "explanation": "Abuja replaced Lagos as Nigeria's capital in 1991; Lagos remains the country's largest commercial city.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Ghana?",
+  "options": [
+   "Kumasi",
+   "Lagos",
+   "Accra",
+   "Abidjan"
+  ],
+  "correctIndex": 2,
+  "explanation": "Accra, on Ghana's Atlantic coast, has served as the national capital since independence in 1957.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Ethiopia?",
+  "options": [
+   "Asmara",
+   "Nairobi",
+   "Khartoum",
+   "Addis Ababa"
+  ],
+  "correctIndex": 3,
+  "explanation": "Addis Ababa is Ethiopia's capital and also hosts the headquarters of the African Union.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Mozambique?",
+  "options": [
+   "Maputo",
+   "Beira",
+   "Nampula",
+   "Harare"
+  ],
+  "correctIndex": 0,
+  "explanation": "Maputo, formerly known as Lourenco Marques, is the capital and largest city of Mozambique.",
+  "difficulty": "HARD",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Senegal?",
+  "options": [
+   "Bamako",
+   "Dakar",
+   "Conakry",
+   "Nouakchott"
+  ],
+  "correctIndex": 1,
+  "explanation": "Dakar, located on the Cap-Vert peninsula, is the capital of Senegal and its main Atlantic port.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Zambia?",
+  "options": [
+   "Harare",
+   "Lilongwe",
+   "Lusaka",
+   "Kitwe"
+  ],
+  "correctIndex": 2,
+  "explanation": "Lusaka has been Zambia's capital since 1935, before independence, and remains its largest city.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Zimbabwe?",
+  "options": [
+   "Bulawayo",
+   "Lusaka",
+   "Gaborone",
+   "Harare"
+  ],
+  "correctIndex": 3,
+  "explanation": "Harare, formerly called Salisbury, is the capital and largest city of Zimbabwe.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Uganda?",
+  "options": [
+   "Kampala",
+   "Entebbe",
+   "Kigali",
+   "Nairobi"
+  ],
+  "correctIndex": 0,
+  "explanation": "Kampala is Uganda's capital, while nearby Entebbe hosts the country's main international airport.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Morocco?",
+  "options": [
+   "Casablanca",
+   "Rabat",
+   "Marrakesh",
+   "Fez"
+  ],
+  "correctIndex": 1,
+  "explanation": "Rabat is Morocco's political capital, whereas Casablanca is its largest city and commercial hub.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Vietnam?",
+  "options": [
+   "Ho Chi Minh City",
+   "Da Nang",
+   "Hanoi",
+   "Hue"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hanoi is the capital of Vietnam, while Ho Chi Minh City is its largest and most populous city.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Thailand?",
+  "options": [
+   "Chiang Mai",
+   "Phuket",
+   "Pattaya",
+   "Bangkok"
+  ],
+  "correctIndex": 3,
+  "explanation": "Bangkok has been the capital of Thailand since 1782 and is the country's political and commercial centre.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Malaysia?",
+  "options": [
+   "Kuala Lumpur",
+   "Putrajaya",
+   "Johor Bahru",
+   "Penang"
+  ],
+  "correctIndex": 0,
+  "explanation": "Kuala Lumpur is the constitutional capital of Malaysia, while Putrajaya serves as the federal administrative centre.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of the Philippines?",
+  "options": [
+   "Quezon City",
+   "Manila",
+   "Cebu City",
+   "Davao City"
+  ],
+  "correctIndex": 1,
+  "explanation": "Manila is the capital of the Philippines and sits within the wider Metro Manila urban area.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Mongolia?",
+  "options": [
+   "Darkhan",
+   "Erdenet",
+   "Ulaanbaatar",
+   "Choibalsan"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ulaanbaatar is Mongolia's capital and by far its largest city, home to nearly half the national population.",
+  "difficulty": "HARD",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the current capital of Kazakhstan?",
+  "options": [
+   "Almaty",
+   "Shymkent",
+   "Karaganda",
+   "Astana"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Kazakh capital was renamed Astana in September 2022, reverting from its earlier name, Nur-Sultan.",
+  "difficulty": "HARD",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Uzbekistan?",
+  "options": [
+   "Tashkent",
+   "Samarkand",
+   "Bukhara",
+   "Andijan"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tashkent is the capital of Uzbekistan, while Samarkand and Bukhara are historic Silk Road cities in the country.",
+  "difficulty": "HARD",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Jordan?",
+  "options": [
+   "Zarqa",
+   "Amman",
+   "Irbid",
+   "Aqaba"
+  ],
+  "correctIndex": 1,
+  "explanation": "Amman is the capital and largest city of the Hashemite Kingdom of Jordan.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Iraq?",
+  "options": [
+   "Basra",
+   "Mosul",
+   "Baghdad",
+   "Erbil"
+  ],
+  "correctIndex": 2,
+  "explanation": "Baghdad, on the Tigris River, is the capital of Iraq and one of the historic centres of the Islamic world.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Nepal?",
+  "options": [
+   "Pokhara",
+   "Lalitpur",
+   "Biratnagar",
+   "Kathmandu"
+  ],
+  "correctIndex": 3,
+  "explanation": "Kathmandu is the capital of Nepal, situated in the Kathmandu Valley in the country's hill region.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Portugal?",
+  "options": [
+   "Lisbon",
+   "Porto",
+   "Braga",
+   "Coimbra"
+  ],
+  "correctIndex": 0,
+  "explanation": "Lisbon, on the Atlantic coast, has been the capital of Portugal since the mid-13th century.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Greece?",
+  "options": [
+   "Thessaloniki",
+   "Athens",
+   "Patras",
+   "Heraklion"
+  ],
+  "correctIndex": 1,
+  "explanation": "Athens is the capital of Greece and one of the oldest continuously inhabited cities in the world.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Austria?",
+  "options": [
+   "Salzburg",
+   "Graz",
+   "Vienna",
+   "Innsbruck"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vienna is Austria's capital and its largest city, long a centre of European music and diplomacy.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Poland?",
+  "options": [
+   "Krakow",
+   "Gdansk",
+   "Lodz",
+   "Warsaw"
+  ],
+  "correctIndex": 3,
+  "explanation": "Warsaw has been the capital of Poland since 1596 and remains the country's largest city today.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Hungary?",
+  "options": [
+   "Budapest",
+   "Debrecen",
+   "Szeged",
+   "Pecs"
+  ],
+  "correctIndex": 0,
+  "explanation": "Budapest, formed by the union of Buda and Pest on the Danube, is the capital of Hungary.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Norway?",
+  "options": [
+   "Bergen",
+   "Oslo",
+   "Trondheim",
+   "Stavanger"
+  ],
+  "correctIndex": 1,
+  "explanation": "Oslo is the capital of Norway and its largest city, located at the head of the Oslofjord.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Finland?",
+  "options": [
+   "Tampere",
+   "Turku",
+   "Helsinki",
+   "Espoo"
+  ],
+  "correctIndex": 2,
+  "explanation": "Helsinki, on the Gulf of Finland, is the capital and largest city of Finland.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Croatia?",
+  "options": [
+   "Split",
+   "Dubrovnik",
+   "Rijeka",
+   "Zagreb"
+  ],
+  "correctIndex": 3,
+  "explanation": "Zagreb, in the country's continental north, is the capital and largest city of Croatia.",
+  "difficulty": "HARD",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Canada?",
+  "options": [
+   "Ottawa",
+   "Toronto",
+   "Vancouver",
+   "Montreal"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ottawa is Canada's capital, chosen by Queen Victoria in 1857; Toronto is the country's largest city.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Brazil?",
+  "options": [
+   "Rio de Janeiro",
+   "Brasilia",
+   "Sao Paulo",
+   "Salvador"
+  ],
+  "correctIndex": 1,
+  "explanation": "Brasilia, a purpose-built city, became Brazil's capital in 1960, replacing Rio de Janeiro.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Argentina?",
+  "options": [
+   "Cordoba",
+   "Rosario",
+   "Buenos Aires",
+   "Mendoza"
+  ],
+  "correctIndex": 2,
+  "explanation": "Buenos Aires, on the Rio de la Plata, is the capital and largest city of Argentina.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Peru?",
+  "options": [
+   "Cusco",
+   "Arequipa",
+   "Trujillo",
+   "Lima"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lima, founded by Spanish conquistadors in 1535, is the capital and largest city of Peru.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Colombia?",
+  "options": [
+   "Bogota",
+   "Medellin",
+   "Cali",
+   "Cartagena"
+  ],
+  "correctIndex": 0,
+  "explanation": "Bogota, high in the Andes, is the capital and largest city of Colombia.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Chile?",
+  "options": [
+   "Valparaiso",
+   "Santiago",
+   "Concepcion",
+   "Antofagasta"
+  ],
+  "correctIndex": 1,
+  "explanation": "Santiago is the capital of Chile, while Valparaiso serves as the seat of the national congress.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Cuba?",
+  "options": [
+   "Santiago de Cuba",
+   "Camaguey",
+   "Havana",
+   "Holguin"
+  ],
+  "correctIndex": 2,
+  "explanation": "Havana is the capital of Cuba and its largest city and principal port.",
+  "difficulty": "EASY",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Australia?",
+  "options": [
+   "Sydney",
+   "Melbourne",
+   "Perth",
+   "Canberra"
+  ],
+  "correctIndex": 3,
+  "explanation": "Canberra was purpose-built as a compromise capital between Sydney and Melbourne and has served as Australia's capital since 1927.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of New Zealand?",
+  "options": [
+   "Wellington",
+   "Auckland",
+   "Christchurch",
+   "Hamilton"
+  ],
+  "correctIndex": 0,
+  "explanation": "Wellington has been New Zealand's capital since 1865, while Auckland is the country's largest city.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Fiji?",
+  "options": [
+   "Nadi",
+   "Suva",
+   "Lautoka",
+   "Labasa"
+  ],
+  "correctIndex": 1,
+  "explanation": "Suva, on the island of Viti Levu, is the capital and largest city of Fiji.",
+  "difficulty": "HARD",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Jamaica?",
+  "options": [
+   "Montego Bay",
+   "Spanish Town",
+   "Kingston",
+   "Ocho Rios"
+  ],
+  "correctIndex": 2,
+  "explanation": "Kingston has been the capital of Jamaica since 1872 and is the largest English-speaking city in the Caribbean.",
+  "difficulty": "MEDIUM",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the capital of Papua New Guinea?",
+  "options": [
+   "Lae",
+   "Mount Hagen",
+   "Wewak",
+   "Port Moresby"
+  ],
+  "correctIndex": 3,
+  "explanation": "Port Moresby, on the southern coast, is the capital and largest city of Papua New Guinea.",
+  "difficulty": "HARD",
+  "topic": "capitals",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Japan?",
+  "options": [
+   "Yen",
+   "Won",
+   "Yuan",
+   "Ringgit"
+  ],
+  "correctIndex": 0,
+  "explanation": "The yen has been Japan's official currency since 1871.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in South Korea?",
+  "options": [
+   "Yen",
+   "Won",
+   "Baht",
+   "Dong"
+  ],
+  "correctIndex": 1,
+  "explanation": "The South Korean won is the official currency of the Republic of Korea.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in China?",
+  "options": [
+   "Won",
+   "Yen",
+   "Renminbi (Yuan)",
+   "Dong"
+  ],
+  "correctIndex": 2,
+  "explanation": "China's official currency is the renminbi, whose basic unit is the yuan.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Thailand?",
+  "options": [
+   "Ringgit",
+   "Dong",
+   "Rupiah",
+   "Baht"
+  ],
+  "correctIndex": 3,
+  "explanation": "The baht has been Thailand's official currency for centuries and remains in use today.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Vietnam?",
+  "options": [
+   "Dong",
+   "Baht",
+   "Kip",
+   "Riel"
+  ],
+  "correctIndex": 0,
+  "explanation": "The dong is the official currency of Vietnam, issued by the State Bank of Vietnam.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Indonesia?",
+  "options": [
+   "Ringgit",
+   "Rupiah",
+   "Baht",
+   "Peso"
+  ],
+  "correctIndex": 1,
+  "explanation": "The rupiah is Indonesia's official currency, issued by Bank Indonesia.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in India?",
+  "options": [
+   "Taka",
+   "Rupiah",
+   "Rupee",
+   "Kyat"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Indian rupee is the official currency of the Republic of India.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Turkey?",
+  "options": [
+   "Dinar",
+   "Dirham",
+   "Riyal",
+   "Lira"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Turkish lira is the official currency of Turkey, issued by the Central Bank of the Republic of Turkey.",
+  "difficulty": "HARD",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Egypt?",
+  "options": [
+   "Pound",
+   "Dinar",
+   "Riyal",
+   "Lira"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Egyptian pound has been the country's official currency since the early 20th century.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Saudi Arabia?",
+  "options": [
+   "Dinar",
+   "Riyal",
+   "Dirham",
+   "Rial"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Saudi riyal is the official currency of the Kingdom of Saudi Arabia.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Israel?",
+  "options": [
+   "Dinar",
+   "Pound",
+   "Shekel",
+   "Lira"
+  ],
+  "correctIndex": 2,
+  "explanation": "The New Israeli Shekel is the official currency of Israel.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Iran?",
+  "options": [
+   "Riyal",
+   "Dinar",
+   "Dirham",
+   "Rial"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Iranian rial is the official currency of Iran, issued by the Central Bank of Iran.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Russia?",
+  "options": [
+   "Ruble",
+   "Hryvnia",
+   "Zloty",
+   "Lev"
+  ],
+  "correctIndex": 0,
+  "explanation": "The ruble has been the currency of Russia for centuries and is issued by the Bank of Russia.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Poland?",
+  "options": [
+   "Koruna",
+   "Zloty",
+   "Forint",
+   "Leu"
+  ],
+  "correctIndex": 1,
+  "explanation": "The zloty is Poland's official currency; Poland has not adopted the euro despite being an EU member.",
+  "difficulty": "HARD",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Sweden?",
+  "options": [
+   "Krone",
+   "Euro",
+   "Krona",
+   "Markka"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Swedish krona is Sweden's official currency; like Poland, Sweden has kept its own currency outside the eurozone.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Switzerland?",
+  "options": [
+   "Euro",
+   "Krone",
+   "Guilder",
+   "Franc"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Swiss franc is the official currency of Switzerland and is also used in Liechtenstein.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in South Africa?",
+  "options": [
+   "Rand",
+   "Naira",
+   "Cedi",
+   "Shilling"
+  ],
+  "correctIndex": 0,
+  "explanation": "The rand has been South Africa's official currency since 1961.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Nigeria?",
+  "options": [
+   "Cedi",
+   "Naira",
+   "Rand",
+   "Shilling"
+  ],
+  "correctIndex": 1,
+  "explanation": "The naira is Nigeria's official currency, introduced in 1973.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Kenya?",
+  "options": [
+   "Naira",
+   "Birr",
+   "Shilling",
+   "Rand"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Kenyan shilling is the official currency of Kenya, issued by the Central Bank of Kenya.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Ghana?",
+  "options": [
+   "Naira",
+   "Franc",
+   "Dalasi",
+   "Cedi"
+  ],
+  "correctIndex": 3,
+  "explanation": "The cedi is Ghana's official currency, first introduced in 1965.",
+  "difficulty": "HARD",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Ethiopia?",
+  "options": [
+   "Birr",
+   "Shilling",
+   "Nakfa",
+   "Dinar"
+  ],
+  "correctIndex": 0,
+  "explanation": "The birr is the official currency of Ethiopia, issued by the National Bank of Ethiopia.",
+  "difficulty": "HARD",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Mexico?",
+  "options": [
+   "Real",
+   "Peso",
+   "Bolivar",
+   "Sol"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Mexican peso is the official currency of Mexico.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Brazil?",
+  "options": [
+   "Peso",
+   "Sol",
+   "Real",
+   "Guarani"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Brazilian real has been the country's official currency since 1994.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Argentina?",
+  "options": [
+   "Real",
+   "Sol",
+   "Bolivar",
+   "Peso"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Argentine peso is the official currency of Argentina.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Canada?",
+  "options": [
+   "Canadian Dollar",
+   "US Dollar",
+   "Pound",
+   "Euro"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Canadian dollar is Canada's official currency, distinct from the US dollar despite the shared name.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency does Ecuador officially use?",
+  "options": [
+   "Sol",
+   "US Dollar",
+   "Sucre",
+   "Peso"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ecuador abandoned its own currency, the sucre, and adopted the US dollar as legal tender in 2000.",
+  "difficulty": "HARD",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the name of Panama's official currency, which is pegged 1:1 to the US dollar?",
+  "options": [
+   "Colon",
+   "Quetzal",
+   "Balboa",
+   "Lempira"
+  ],
+  "correctIndex": 2,
+  "explanation": "The balboa is Panama's official currency; it circulates alongside, and is fixed at par with, the US dollar.",
+  "difficulty": "HARD",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Cote d'Ivoire (Ivory Coast)?",
+  "options": [
+   "Cedi",
+   "Naira",
+   "Dalasi",
+   "CFA Franc"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cote d'Ivoire uses the West African CFA franc, a shared currency used by several former French West African colonies.",
+  "difficulty": "HARD",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Norway?",
+  "options": [
+   "Krone",
+   "Krona",
+   "Euro",
+   "Markka"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Norwegian krone is Norway's official currency; Norway is not a member of the European Union.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which currency is used in Morocco?",
+  "options": [
+   "Dinar",
+   "Dirham",
+   "Riyal",
+   "Franc"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Moroccan dirham is the official currency of Morocco.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the official language of Brazil?",
+  "options": [
+   "Spanish",
+   "Italian",
+   "Portuguese",
+   "French"
+  ],
+  "correctIndex": 2,
+  "explanation": "Portuguese is Brazil's official language, a legacy of Portuguese colonial rule; Brazil is the largest Portuguese-speaking country in the world.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the most widely spoken language in Mexico?",
+  "options": [
+   "Portuguese",
+   "Italian",
+   "French",
+   "Spanish"
+  ],
+  "correctIndex": 3,
+  "explanation": "Spanish is the dominant language of Mexico, spoken by the vast majority of its population, alongside dozens of indigenous languages.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the official language of Egypt?",
+  "options": [
+   "Arabic",
+   "Persian",
+   "Hebrew",
+   "Turkish"
+  ],
+  "correctIndex": 0,
+  "explanation": "Arabic is the official language of Egypt, spoken by the great majority of its population.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the official language of Iran?",
+  "options": [
+   "Arabic",
+   "Persian (Farsi)",
+   "Urdu",
+   "Pashto"
+  ],
+  "correctIndex": 1,
+  "explanation": "Persian, also called Farsi, is the official language of Iran.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the official language of Turkey?",
+  "options": [
+   "Arabic",
+   "Kurdish",
+   "Turkish",
+   "Persian"
+  ],
+  "correctIndex": 2,
+  "explanation": "Turkish is the official language of Turkey and is written in the Latin alphabet since a 1928 reform.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the official language of Indonesia?",
+  "options": [
+   "Malay",
+   "Javanese",
+   "Tagalog",
+   "Indonesian"
+  ],
+  "correctIndex": 3,
+  "explanation": "Indonesian (Bahasa Indonesia), a standardised form of Malay, is Indonesia's official national language.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the official language of Mongolia?",
+  "options": [
+   "Mongolian",
+   "Kazakh",
+   "Russian",
+   "Tibetan"
+  ],
+  "correctIndex": 0,
+  "explanation": "Mongolian is the official language of Mongolia and is written using the Cyrillic script domestically.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the official language of Vietnam?",
+  "options": [
+   "Khmer",
+   "Vietnamese",
+   "Lao",
+   "Thai"
+  ],
+  "correctIndex": 1,
+  "explanation": "Vietnamese is the official language of Vietnam and is written in a Latin-based script.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which language serves as the working language of Ethiopia's federal government?",
+  "options": [
+   "Oromo",
+   "Tigrinya",
+   "Amharic",
+   "Somali"
+  ],
+  "correctIndex": 2,
+  "explanation": "Amharic is the working language of Ethiopia's federal government, though the country recognises many regional languages.",
+  "difficulty": "HARD",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "What is the official language of Israel?",
+  "options": [
+   "Arabic",
+   "Yiddish",
+   "Aramaic",
+   "Hebrew"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hebrew is the official language of Israel under the country's 2018 Basic Law; Arabic holds a special status.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "On which continent is Egypt located?",
+  "options": [
+   "Africa",
+   "Asia",
+   "Europe",
+   "Oceania"
+  ],
+  "correctIndex": 0,
+  "explanation": "Egypt lies mainly in northeastern Africa, though the Sinai Peninsula extends into Asia.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which continent is Peru located on?",
+  "options": [
+   "North America",
+   "South America",
+   "Africa",
+   "Asia"
+  ],
+  "correctIndex": 1,
+  "explanation": "Peru lies on the western coast of South America, bordering the Pacific Ocean.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which continent is Mongolia located on?",
+  "options": [
+   "Europe",
+   "Africa",
+   "Asia",
+   "Oceania"
+  ],
+  "correctIndex": 2,
+  "explanation": "Mongolia is a landlocked country in East Asia, situated between Russia and China.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which continent is Fiji part of?",
+  "options": [
+   "Asia",
+   "Africa",
+   "South America",
+   "Oceania"
+  ],
+  "correctIndex": 3,
+  "explanation": "Fiji is an island nation in the South Pacific and is part of Oceania.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which continent is Iceland part of?",
+  "options": [
+   "Europe",
+   "North America",
+   "Asia",
+   "Africa"
+  ],
+  "correctIndex": 0,
+  "explanation": "Iceland is politically and culturally part of Europe, despite sitting on the Mid-Atlantic Ridge.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which continent is Sri Lanka located on?",
+  "options": [
+   "Africa",
+   "Asia",
+   "Oceania",
+   "Europe"
+  ],
+  "correctIndex": 1,
+  "explanation": "Sri Lanka is an island nation off the southeastern coast of India, part of South Asia.",
+  "difficulty": "EASY",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which continent is Bolivia located on?",
+  "options": [
+   "North America",
+   "Africa",
+   "South America",
+   "Europe"
+  ],
+  "correctIndex": 2,
+  "explanation": "Bolivia is a landlocked country in central South America.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which continent is Madagascar part of?",
+  "options": [
+   "Asia",
+   "Oceania",
+   "South America",
+   "Africa"
+  ],
+  "correctIndex": 3,
+  "explanation": "Madagascar is a large island nation off the southeastern coast of Africa.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which continent is Tunisia located on?",
+  "options": [
+   "Africa",
+   "Europe",
+   "Asia",
+   "South America"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tunisia lies on the northern coast of Africa, along the Mediterranean Sea.",
+  "difficulty": "MEDIUM",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which continent is Costa Rica part of?",
+  "options": [
+   "South America",
+   "North America",
+   "Africa",
+   "Asia"
+  ],
+  "correctIndex": 1,
+  "explanation": "Costa Rica is in Central America, which is geographically part of the North American continent.",
+  "difficulty": "HARD",
+  "topic": "currencies",
+  "source": "gk-world-capitals-currencies"
+ },
+ {
+  "text": "Which is the longest river in the world?",
+  "options": [
+   "Nile",
+   "Amazon",
+   "Yangtze",
+   "Mississippi"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Nile, flowing north through north-eastern Africa, is traditionally regarded as the world's longest river at roughly 6,650 km.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the highest mountain in the world above sea level?",
+  "options": [
+   "K2",
+   "Mount Everest",
+   "Kangchenjunga",
+   "Makalu"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mount Everest, on the Nepal-Tibet border, rises to 8,849 metres, making it the highest peak above sea level.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest hot desert in the world?",
+  "options": [
+   "Gobi Desert",
+   "Kalahari Desert",
+   "Sahara Desert",
+   "Arabian Desert"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Sahara, covering most of North Africa, is the world's largest hot desert at about 9.2 million square kilometres.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest ocean in the world by area?",
+  "options": [
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Arctic Ocean",
+   "Pacific Ocean"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Pacific Ocean covers more area than all the continents combined, making it the largest of the world's oceans.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest lake in the world by surface area?",
+  "options": [
+   "Caspian Sea",
+   "Lake Superior",
+   "Lake Victoria",
+   "Lake Baikal"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Caspian Sea, bordered by five countries, is classified as a lake and is the largest inland body of water on Earth.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest island in the world?",
+  "options": [
+   "Borneo",
+   "Greenland",
+   "Madagascar",
+   "New Guinea"
+  ],
+  "correctIndex": 1,
+  "explanation": "Greenland, an autonomous territory of Denmark, is the world's largest island, as Australia is classified as a continent rather than an island.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest continent by area?",
+  "options": [
+   "Africa",
+   "Europe",
+   "Asia",
+   "North America"
+  ],
+  "correctIndex": 2,
+  "explanation": "Asia covers about 30% of Earth's land area, making it the largest continent by a wide margin.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the smallest continent by landmass?",
+  "options": [
+   "Europe",
+   "Antarctica",
+   "South America",
+   "Australia"
+  ],
+  "correctIndex": 3,
+  "explanation": "Australia is the smallest of the world's continents by total landmass.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest country in the world by total area?",
+  "options": [
+   "Russia",
+   "Canada",
+   "China",
+   "United States"
+  ],
+  "correctIndex": 0,
+  "explanation": "Russia spans roughly 17.1 million square kilometres across Europe and Asia, making it the largest country by area.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the smallest country in the world by area?",
+  "options": [
+   "Monaco",
+   "Vatican City",
+   "San Marino",
+   "Liechtenstein"
+  ],
+  "correctIndex": 1,
+  "explanation": "Vatican City, an independent city-state enclosed within Rome, covers only about 0.44 square kilometres.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest peninsula in the world?",
+  "options": [
+   "Indian Peninsula",
+   "Scandinavian Peninsula",
+   "Arabian Peninsula",
+   "Korean Peninsula"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Arabian Peninsula, bordered by the Red Sea, Arabian Sea, and Persian Gulf, is the world's largest peninsula.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "The Mariana Trench, home to the deepest known point in the world's oceans, lies in which body of water?",
+  "options": [
+   "Puerto Rico Trench",
+   "Java Trench",
+   "Tonga Trench",
+   "Mariana Trench"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Mariana Trench in the western Pacific contains the Challenger Deep, the deepest known point in any ocean.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which waterfall has the world's highest uninterrupted single drop?",
+  "options": [
+   "Angel Falls",
+   "Victoria Falls",
+   "Niagara Falls",
+   "Iguazu Falls"
+  ],
+  "correctIndex": 0,
+  "explanation": "Angel Falls in Venezuela has an uninterrupted drop of 807 metres, the greatest of any waterfall in the world.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the world's largest coral reef system?",
+  "options": [
+   "Red Sea Coral Reef",
+   "Great Barrier Reef",
+   "Belize Barrier Reef",
+   "Coral Triangle"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Great Barrier Reef off Australia's coast stretches over 2,300 km, making it the largest coral reef system on Earth.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the longest mountain range on land?",
+  "options": [
+   "Rocky Mountains",
+   "Himalayas",
+   "Andes",
+   "Alps"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Andes run about 7,000 km along the western edge of South America, making them the longest continental mountain range.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest bay in the world by area?",
+  "options": [
+   "Hudson Bay",
+   "Bay of Biscay",
+   "Chesapeake Bay",
+   "Bay of Bengal"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Bay of Bengal, part of the northeastern Indian Ocean, is the world's largest bay by area.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest gulf in the world by area?",
+  "options": [
+   "Gulf of Mexico",
+   "Persian Gulf",
+   "Gulf of Aden",
+   "Gulf of Guinea"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Gulf of Mexico, bordered by the United States, Mexico, and Cuba, is the largest gulf in the world.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which country contains the world's largest archipelago?",
+  "options": [
+   "Philippines",
+   "Indonesia",
+   "Japan",
+   "Maldives"
+  ],
+  "correctIndex": 1,
+  "explanation": "Indonesia is made up of more than 17,000 islands, making it the largest archipelago in the world.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest tropical rainforest in the world?",
+  "options": [
+   "Congo Rainforest",
+   "Daintree Rainforest",
+   "Amazon Rainforest",
+   "Southeast Asian Rainforest"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Amazon Rainforest, spanning much of the Amazon Basin in South America, is the largest tropical rainforest on Earth.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which city is generally regarded as the highest national capital in the world?",
+  "options": [
+   "Quito",
+   "Kathmandu",
+   "Bogota",
+   "La Paz"
+  ],
+  "correctIndex": 3,
+  "explanation": "La Paz, Bolivia's seat of government, sits at roughly 3,640 metres above sea level, the highest elevation of any national capital.",
+  "difficulty": "HARD",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the world's deepest lake?",
+  "options": [
+   "Lake Baikal",
+   "Lake Tanganyika",
+   "Caspian Sea",
+   "Lake Superior"
+  ],
+  "correctIndex": 0,
+  "explanation": "Lake Baikal in Siberia reaches a depth of about 1,642 metres, making it the deepest lake on Earth.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the smallest of the world's oceans?",
+  "options": [
+   "Southern Ocean",
+   "Arctic Ocean",
+   "Indian Ocean",
+   "Atlantic Ocean"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Arctic Ocean, surrounding the North Pole, is the smallest and shallowest of the world's oceans.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest river delta in the world?",
+  "options": [
+   "Nile Delta",
+   "Mekong Delta",
+   "Ganges-Brahmaputra Delta",
+   "Mississippi Delta"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Ganges-Brahmaputra Delta, spanning Bangladesh and India, is the largest river delta in the world.",
+  "difficulty": "HARD",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which country has the longest coastline in the world?",
+  "options": [
+   "Indonesia",
+   "Australia",
+   "Russia",
+   "Canada"
+  ],
+  "correctIndex": 3,
+  "explanation": "Canada's coastline, including its many islands and inlets, measures over 200,000 km, the longest of any country.",
+  "difficulty": "HARD",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest landlocked country in the world?",
+  "options": [
+   "Kazakhstan",
+   "Mongolia",
+   "Chad",
+   "Bolivia"
+  ],
+  "correctIndex": 0,
+  "explanation": "Kazakhstan, in Central Asia, has no coastline and is the largest landlocked country in the world by area.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the longest man-made wall in the world?",
+  "options": [
+   "Hadrian's Wall",
+   "Great Wall of China",
+   "Berlin Wall",
+   "Western Wall"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Great Wall of China, built and extended over centuries, stretches for thousands of kilometres across northern China.",
+  "difficulty": "EASY",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the world's tallest free-standing mountain, measured from base to peak?",
+  "options": [
+   "Mount Everest",
+   "Mount Kilimanjaro",
+   "Mont Blanc",
+   "Mount McKinley"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mount Kilimanjaro in Tanzania rises about 5,895 metres from its base as an isolated volcanic massif, unlike Everest which sits within a mountain range.",
+  "difficulty": "HARD",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which is the largest freshwater lake in the world by surface area?",
+  "options": [
+   "Lake Baikal",
+   "Lake Victoria",
+   "Lake Michigan",
+   "Lake Superior"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lake Superior, one of North America's Great Lakes, covers about 82,100 square kilometres, the largest freshwater lake by area.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which plateau, often called the 'Roof of the World', is the highest and most extensive plateau on Earth?",
+  "options": [
+   "Tibetan Plateau",
+   "Deccan Plateau",
+   "Colorado Plateau",
+   "Bolivian Plateau"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Tibetan Plateau, bordered by the Himalayas, has an average elevation above 4,500 metres, the highest of any large plateau.",
+  "difficulty": "MEDIUM",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which continent is classified as the world's largest desert by area, owing to its extremely low precipitation?",
+  "options": [
+   "Africa",
+   "Antarctica",
+   "Asia",
+   "Australia"
+  ],
+  "correctIndex": 1,
+  "explanation": "By the climatological definition of a desert as a region of very low precipitation, Antarctica, covering about 14 million square kilometres, is the largest desert in the world.",
+  "difficulty": "HARD",
+  "topic": "superlatives",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who is credited as the first person to reach the North Pole?",
+  "options": [
+   "Roald Amundsen",
+   "Frederick Cook",
+   "Robert Peary",
+   "Ernest Shackleton"
+  ],
+  "correctIndex": 2,
+  "explanation": "American explorer Robert Peary was recognised by the National Geographic Society and the US Congress as the first person to reach the North Pole, in 1909.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first person to reach the South Pole?",
+  "options": [
+   "Robert Scott",
+   "Ernest Shackleton",
+   "Richard Byrd",
+   "Roald Amundsen"
+  ],
+  "correctIndex": 3,
+  "explanation": "Norwegian explorer Roald Amundsen led the first expedition to reach the South Pole, on 14 December 1911.",
+  "difficulty": "EASY",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first person to walk on the Moon?",
+  "options": [
+   "Neil Armstrong",
+   "Buzz Aldrin",
+   "Michael Collins",
+   "Yuri Gagarin"
+  ],
+  "correctIndex": 0,
+  "explanation": "Neil Armstrong stepped onto the lunar surface on 20 July 1969 during the Apollo 11 mission, becoming the first person to walk on the Moon.",
+  "difficulty": "EASY",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first human to travel into space?",
+  "options": [
+   "Alan Shepard",
+   "Yuri Gagarin",
+   "Alexei Leonov",
+   "John Glenn"
+  ],
+  "correctIndex": 1,
+  "explanation": "Soviet cosmonaut Yuri Gagarin became the first human in space when he orbited the Earth aboard Vostok 1 on 12 April 1961.",
+  "difficulty": "EASY",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first woman to travel into space?",
+  "options": [
+   "Sally Ride",
+   "Svetlana Savitskaya",
+   "Valentina Tereshkova",
+   "Mae Jemison"
+  ],
+  "correctIndex": 2,
+  "explanation": "Soviet cosmonaut Valentina Tereshkova became the first woman in space when she flew aboard Vostok 6 in June 1963.",
+  "difficulty": "EASY",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first woman to fly solo across the Atlantic Ocean?",
+  "options": [
+   "Bessie Coleman",
+   "Jacqueline Cochran",
+   "Harriet Quimby",
+   "Amelia Earhart"
+  ],
+  "correctIndex": 3,
+  "explanation": "Amelia Earhart completed a solo nonstop flight across the Atlantic in 1932, the first woman to achieve this.",
+  "difficulty": "EASY",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Whose expedition was the first to circumnavigate the globe, even though he died before it was completed?",
+  "options": [
+   "Ferdinand Magellan",
+   "Vasco da Gama",
+   "Christopher Columbus",
+   "James Cook"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ferdinand Magellan led the expedition that first circumnavigated the globe, but he died in the Philippines in 1521; his crew, under Juan Sebastian Elcano, completed the voyage in 1522.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Along with Tenzing Norgay, who was the first person to reach the summit of Mount Everest?",
+  "options": [
+   "George Mallory",
+   "Edmund Hillary",
+   "Reinhold Messner",
+   "Chris Bonington"
+  ],
+  "correctIndex": 1,
+  "explanation": "Edmund Hillary and Tenzing Norgay became the first climbers to reach the summit of Mount Everest, on 29 May 1953.",
+  "difficulty": "EASY",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first President of the United States?",
+  "options": [
+   "John Adams",
+   "Thomas Jefferson",
+   "George Washington",
+   "Benjamin Franklin"
+  ],
+  "correctIndex": 2,
+  "explanation": "George Washington served as the first President of the United States, taking office in 1789.",
+  "difficulty": "EASY",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first woman in the world to serve as a Prime Minister?",
+  "options": [
+   "Indira Gandhi",
+   "Golda Meir",
+   "Margaret Thatcher",
+   "Sirimavo Bandaranaike"
+  ],
+  "correctIndex": 3,
+  "explanation": "Sirimavo Bandaranaike of Ceylon (now Sri Lanka) became the world's first woman Prime Minister when she took office in 1960.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which country was the first to grant women the right to vote in national elections?",
+  "options": [
+   "New Zealand",
+   "Finland",
+   "Australia",
+   "Norway"
+  ],
+  "correctIndex": 0,
+  "explanation": "New Zealand became the first self-governing country to grant women the right to vote in national elections, in 1893.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first person to walk in space?",
+  "options": [
+   "Ed White",
+   "Alexei Leonov",
+   "Neil Armstrong",
+   "Yuri Gagarin"
+  ],
+  "correctIndex": 1,
+  "explanation": "Soviet cosmonaut Alexei Leonov performed the first spacewalk in March 1965.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which living creature was the first to orbit the Earth?",
+  "options": [
+   "Ham the Chimp",
+   "Belka the dog",
+   "Laika the dog",
+   "Felicette the cat"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Soviet dog Laika became the first living creature to orbit the Earth, aboard Sputnik 2 in 1957.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Along with Don Walsh, who was the first person to reach the Challenger Deep, the ocean's deepest known point?",
+  "options": [
+   "Robert Ballard",
+   "Sylvia Earle",
+   "James Cameron",
+   "Jacques Piccard"
+  ],
+  "correctIndex": 3,
+  "explanation": "Jacques Piccard and Don Walsh reached the bottom of the Challenger Deep in the bathyscaphe Trieste in 1960, the first to do so.",
+  "difficulty": "HARD",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which country launched Sputnik 1, the first artificial satellite to orbit the Earth?",
+  "options": [
+   "Soviet Union",
+   "United States",
+   "United Kingdom",
+   "China"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Soviet Union launched Sputnik 1 in October 1957, the first artificial satellite to orbit the Earth.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which mission first landed astronauts on the Moon?",
+  "options": [
+   "Apollo 8",
+   "Apollo 11",
+   "Apollo 13",
+   "Apollo 17"
+  ],
+  "correctIndex": 1,
+  "explanation": "Apollo 11 carried the first crew to land on the Moon in July 1969.",
+  "difficulty": "EASY",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first European explorer to reach India by an all-sea route?",
+  "options": [
+   "Ferdinand Magellan",
+   "Christopher Columbus",
+   "Vasco da Gama",
+   "Bartolomeu Dias"
+  ],
+  "correctIndex": 2,
+  "explanation": "Portuguese explorer Vasco da Gama reached Calicut, India, by sea in 1498, opening a direct maritime route from Europe.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which country was the first to test a nuclear weapon?",
+  "options": [
+   "Soviet Union",
+   "Germany",
+   "United Kingdom",
+   "United States"
+  ],
+  "correctIndex": 3,
+  "explanation": "The United States conducted the first nuclear weapon test, code-named Trinity, in New Mexico in July 1945.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who completed the first solo, nonstop transatlantic flight?",
+  "options": [
+   "Charles Lindbergh",
+   "Amelia Earhart",
+   "Wiley Post",
+   "Howard Hughes"
+  ],
+  "correctIndex": 0,
+  "explanation": "Charles Lindbergh flew the Spirit of St. Louis nonstop from New York to Paris in 1927, the first solo nonstop transatlantic flight.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Along with Peter Habeler, who was the first person to summit Mount Everest without supplemental oxygen?",
+  "options": [
+   "Edmund Hillary",
+   "Reinhold Messner",
+   "Tenzing Norgay",
+   "Chris Bonington"
+  ],
+  "correctIndex": 1,
+  "explanation": "Reinhold Messner and Peter Habeler reached the summit of Everest without bottled oxygen in 1978, a feat many had believed impossible.",
+  "difficulty": "HARD",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first person to sail single-handed and nonstop around the world?",
+  "options": [
+   "Francis Chichester",
+   "Ellen MacArthur",
+   "Robin Knox-Johnston",
+   "Joshua Slocum"
+  ],
+  "correctIndex": 2,
+  "explanation": "British sailor Robin Knox-Johnston completed the first solo, nonstop circumnavigation by sea in 1969.",
+  "difficulty": "HARD",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which institution is widely recognised as the oldest continually operating degree-granting university in the world?",
+  "options": [
+   "University of Al-Qarawiyyin",
+   "University of Bologna",
+   "University of Oxford",
+   "Al-Azhar University"
+  ],
+  "correctIndex": 0,
+  "explanation": "The University of Al-Qarawiyyin in Fez, Morocco, founded in 859 AD, is recognised by UNESCO and Guinness World Records as the oldest existing degree-granting university.",
+  "difficulty": "HARD",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which city hosted the first modern Olympic Games?",
+  "options": [
+   "Paris",
+   "Athens",
+   "London",
+   "Rome"
+  ],
+  "correctIndex": 1,
+  "explanation": "Athens hosted the first modern Olympic Games in 1896, reviving the ancient Greek tradition.",
+  "difficulty": "MEDIUM",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first woman known to have circumnavigated the globe?",
+  "options": [
+   "Amelia Earhart",
+   "Jeanne Baret",
+   "Sarah Bishop",
+   "Naomi James"
+  ],
+  "correctIndex": 1,
+  "explanation": "Jeanne Baret, a French botanist who disguised herself as a man to join Louis Antoine de Bougainville's expedition, became the first woman to circumnavigate the globe, between 1766 and 1769.",
+  "difficulty": "HARD",
+  "topic": "world-facts",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who is credited with inventing the telephone?",
+  "options": [
+   "Thomas Edison",
+   "Nikola Tesla",
+   "Antonio Meucci",
+   "Alexander Graham Bell"
+  ],
+  "correctIndex": 3,
+  "explanation": "Alexander Graham Bell was granted the first patent for the telephone in 1876 and is credited as its inventor.",
+  "difficulty": "EASY",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who is credited with developing the first practical incandescent light bulb?",
+  "options": [
+   "Thomas Edison",
+   "Joseph Swan",
+   "Nikola Tesla",
+   "Michael Faraday"
+  ],
+  "correctIndex": 0,
+  "explanation": "Thomas Edison developed a commercially practical, long-lasting incandescent light bulb in 1879.",
+  "difficulty": "EASY",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who invented the printing press with movable metal type in Europe?",
+  "options": [
+   "William Caxton",
+   "Johannes Gutenberg",
+   "Aldus Manutius",
+   "Bi Sheng"
+  ],
+  "correctIndex": 1,
+  "explanation": "Johannes Gutenberg introduced the movable-type printing press in Europe around 1440, revolutionising the spread of printed material.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which physicist developed the theory of relativity?",
+  "options": [
+   "Isaac Newton",
+   "Niels Bohr",
+   "Albert Einstein",
+   "Max Planck"
+  ],
+  "correctIndex": 2,
+  "explanation": "Albert Einstein published the special theory of relativity in 1905 and the general theory of relativity in 1915.",
+  "difficulty": "EASY",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which Scottish engineer is credited with developing the television?",
+  "options": [
+   "Philo Farnsworth",
+   "Guglielmo Marconi",
+   "Vladimir Zworykin",
+   "John Logie Baird"
+  ],
+  "correctIndex": 3,
+  "explanation": "John Logie Baird gave the first public demonstration of a working television system in 1926.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who is credited with developing Morse code?",
+  "options": [
+   "Samuel Morse",
+   "Alexander Graham Bell",
+   "Thomas Edison",
+   "Guglielmo Marconi"
+  ],
+  "correctIndex": 0,
+  "explanation": "Samuel Morse, along with Alfred Vail, developed Morse code for use with the electric telegraph in the 1830s.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who invented the World Wide Web?",
+  "options": [
+   "Vint Cerf",
+   "Tim Berners-Lee",
+   "Bill Gates",
+   "Steve Wozniak"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which Swedish chemist and engineer invented dynamite?",
+  "options": [
+   "Alfred Wegener",
+   "Anders Celsius",
+   "Alfred Nobel",
+   "Svante Arrhenius"
+  ],
+  "correctIndex": 2,
+  "explanation": "Alfred Nobel invented dynamite in 1867, which formed the basis of his fortune and later funded the Nobel Prizes.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which Scottish bacteriologist discovered penicillin?",
+  "options": [
+   "Joseph Lister",
+   "Louis Pasteur",
+   "Robert Koch",
+   "Alexander Fleming"
+  ],
+  "correctIndex": 3,
+  "explanation": "Alexander Fleming discovered penicillin in 1928 after noticing it killed bacteria in a contaminated culture dish.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which brothers are credited with the first successful powered, controlled airplane flight?",
+  "options": [
+   "Wright Brothers",
+   "Montgolfier Brothers",
+   "Lumiere Brothers",
+   "Curtiss Brothers"
+  ],
+  "correctIndex": 0,
+  "explanation": "Orville and Wilbur Wright achieved the first sustained, controlled, powered flight in December 1903.",
+  "difficulty": "EASY",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which Italian inventor is credited with pioneering long-distance radio transmission?",
+  "options": [
+   "Nikola Tesla",
+   "Guglielmo Marconi",
+   "Heinrich Hertz",
+   "James Clerk Maxwell"
+  ],
+  "correctIndex": 1,
+  "explanation": "Guglielmo Marconi developed practical long-distance radio transmission and won the Nobel Prize in Physics in 1909 for this work.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which English physician developed the first vaccine, against smallpox?",
+  "options": [
+   "Louis Pasteur",
+   "Robert Koch",
+   "Edward Jenner",
+   "Alexander Fleming"
+  ],
+  "correctIndex": 2,
+  "explanation": "Edward Jenner developed the smallpox vaccine in 1796, laying the foundation for the field of immunology.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Whose improvements to the steam engine made it efficient enough for widespread industrial use?",
+  "options": [
+   "Thomas Newcomen",
+   "George Stephenson",
+   "Richard Trevithick",
+   "James Watt"
+  ],
+  "correctIndex": 3,
+  "explanation": "James Watt's design improvements in the 1770s greatly increased the efficiency of the steam engine, driving the Industrial Revolution.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which Russian chemist created the periodic table of elements?",
+  "options": [
+   "Dmitri Mendeleev",
+   "Antoine Lavoisier",
+   "John Dalton",
+   "Marie Curie"
+  ],
+  "correctIndex": 0,
+  "explanation": "Dmitri Mendeleev published the periodic table of elements in 1869, arranging elements by atomic weight and properties.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which naturalist proposed the theory of evolution by natural selection?",
+  "options": [
+   "Gregor Mendel",
+   "Charles Darwin",
+   "Alfred Russel Wallace",
+   "Jean-Baptiste Lamarck"
+  ],
+  "correctIndex": 1,
+  "explanation": "Charles Darwin proposed the theory of evolution by natural selection in his 1859 book 'On the Origin of Species'.",
+  "difficulty": "EASY",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which scientist formulated the law of universal gravitation?",
+  "options": [
+   "Galileo Galilei",
+   "Johannes Kepler",
+   "Isaac Newton",
+   "Albert Einstein"
+  ],
+  "correctIndex": 2,
+  "explanation": "Isaac Newton formulated the law of universal gravitation, published in his 1687 work 'Principia Mathematica'.",
+  "difficulty": "EASY",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "In which year were the first Nobel Prizes awarded?",
+  "options": [
+   "1895",
+   "1899",
+   "1900",
+   "1901"
+  ],
+  "correctIndex": 3,
+  "explanation": "The first Nobel Prizes, in Physics, Chemistry, Medicine, Literature, and Peace, were awarded in 1901, five years after Alfred Nobel's death.",
+  "difficulty": "HARD",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "The Nobel Prizes were established through the will of which Swedish inventor?",
+  "options": [
+   "Alfred Nobel",
+   "Gustaf de Laval",
+   "John Ericsson",
+   "Sven Wingquist"
+  ],
+  "correctIndex": 0,
+  "explanation": "Alfred Nobel's 1895 will directed that his fortune fund annual prizes recognising achievements in several fields.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Who was the first person to win Nobel Prizes in two different sciences?",
+  "options": [
+   "Linus Pauling",
+   "Marie Curie",
+   "John Bardeen",
+   "Frederick Sanger"
+  ],
+  "correctIndex": 1,
+  "explanation": "Marie Curie won the Nobel Prize in Physics in 1903 and the Nobel Prize in Chemistry in 1911, the first person honoured in two different sciences.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which Nobel Prize category was not part of Alfred Nobel's original 1895 will and was added later?",
+  "options": [
+   "Physics",
+   "Literature",
+   "Economic Sciences",
+   "Peace"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Nobel Memorial Prize in Economic Sciences was established by Sweden's central bank in 1968 and first awarded in 1969, decades after Nobel's original five prizes.",
+  "difficulty": "HARD",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which English engineer is known as the 'Father of Railways' for building the first successful steam locomotives?",
+  "options": [
+   "Isambard Kingdom Brunel",
+   "Richard Trevithick",
+   "James Watt",
+   "George Stephenson"
+  ],
+  "correctIndex": 3,
+  "explanation": "George Stephenson built the pioneering steam locomotives Locomotion and Rocket, earning him the title 'Father of Railways'.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which physicist discovered X-rays and won the first Nobel Prize in Physics?",
+  "options": [
+   "Wilhelm Rontgen",
+   "Marie Curie",
+   "Ernest Rutherford",
+   "J.J. Thomson"
+  ],
+  "correctIndex": 0,
+  "explanation": "Wilhelm Rontgen discovered X-rays in 1895 and was awarded the first Nobel Prize in Physics in 1901 for the discovery.",
+  "difficulty": "HARD",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Along with James Watson, who co-discovered the double-helix structure of DNA?",
+  "options": [
+   "Rosalind Franklin",
+   "Francis Crick",
+   "Maurice Wilkins",
+   "Erwin Chargaff"
+  ],
+  "correctIndex": 1,
+  "explanation": "James Watson and Francis Crick proposed the double-helix structure of DNA in 1953, drawing partly on X-ray data from Rosalind Franklin.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which Dutch spectacle-maker is credited with inventing the first telescope?",
+  "options": [
+   "Galileo Galilei",
+   "Zacharias Janssen",
+   "Hans Lippershey",
+   "Isaac Newton"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hans Lippershey filed the first patent application for a telescope in 1608; Galileo later improved the design and used it for astronomy.",
+  "difficulty": "HARD",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ },
+ {
+  "text": "Which American virologist developed the first successful polio vaccine?",
+  "options": [
+   "Albert Sabin",
+   "John Enders",
+   "Maurice Hilleman",
+   "Jonas Salk"
+  ],
+  "correctIndex": 3,
+  "explanation": "Jonas Salk developed the first successful inactivated polio vaccine, announced in 1955.",
+  "difficulty": "MEDIUM",
+  "topic": "inventions",
+  "source": "gk-world-facts-superlatives"
+ }
+]

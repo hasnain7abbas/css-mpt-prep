@@ -1,8 +1,8 @@
 [
   {
     "subject": "current-affairs",
-    "total": 240,
-    "kept": 237,
+    "total": 370,
+    "kept": 367,
     "flagged": 3,
     "unverified": 0,
     "structural": 0,
@@ -10,17 +10,26 @@
   },
   {
     "subject": "english",
-    "total": 460,
-    "kept": 458,
-    "flagged": 2,
+    "total": 575,
+    "kept": 569,
+    "flagged": 5,
     "unverified": 0,
     "structural": 0,
-    "dupes": 0
+    "dupes": 1
+  },
+  {
+    "subject": "general-knowledge",
+    "total": 250,
+    "kept": 246,
+    "flagged": 1,
+    "unverified": 0,
+    "structural": 0,
+    "dupes": 3
   },
   {
     "subject": "general-science-ability",
-    "total": 1100,
-    "kept": 1091,
+    "total": 1215,
+    "kept": 1206,
     "flagged": 2,
     "unverified": 0,
     "structural": 0,
@@ -28,8 +37,8 @@
   },
   {
     "subject": "islamic-studies",
-    "total": 105,
-    "kept": 105,
+    "total": 255,
+    "kept": 255,
     "flagged": 0,
     "unverified": 0,
     "structural": 0,
@@ -37,8 +46,8 @@
   },
   {
     "subject": "pakistan-affairs",
-    "total": 330,
-    "kept": 327,
+    "total": 445,
+    "kept": 442,
     "flagged": 3,
     "unverified": 0,
     "structural": 0,
@@ -46,8 +55,8 @@
   },
   {
     "subject": "urdu",
-    "total": 125,
-    "kept": 125,
+    "total": 250,
+    "kept": 250,
     "flagged": 0,
     "unverified": 0,
     "structural": 0,

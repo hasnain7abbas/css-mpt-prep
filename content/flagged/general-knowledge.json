@@ -1,0 +1,25 @@
+[
+ {
+  "unit": "gk-world-facts-superlatives",
+  "index": 51,
+  "reason": "verifier disagreement",
+  "claimed": 3,
+  "verifierChoices": [
+   3,
+   2
+  ],
+  "question": {
+   "text": "Who was the first person to reach the Challenger Deep alone?",
+   "options": [
+    "Don Walsh",
+    "Jacques Piccard",
+    "Victor Vescovo",
+    "James Cameron"
+   ],
+   "correctIndex": 3,
+   "explanation": "Filmmaker and explorer James Cameron piloted the Deepsea Challenger to the bottom of the Challenger Deep alone in 2012.",
+   "difficulty": "HARD",
+   "topic": "world-facts"
+  }
+ }
+]

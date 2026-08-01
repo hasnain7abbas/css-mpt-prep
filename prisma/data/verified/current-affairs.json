@@ -3079,5 +3079,1695 @@
   "explanation": "Sikandar Sultan Raja was appointed Chief Election Commissioner on 27 January 2020 and oversaw the 2024 general election.",
   "difficulty": "MEDIUM",
   "topic": "pakistan-current"
+ },
+ {
+  "text": "In which year was the United Nations founded?",
+  "options": [
+   "1945",
+   "1919",
+   "1948",
+   "1950"
+  ],
+  "correctIndex": 0,
+  "explanation": "The United Nations was established on 24 October 1945 after the Second World War, replacing the League of Nations.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The headquarters of the United Nations is located in which city?",
+  "options": [
+   "Geneva",
+   "New York City",
+   "The Hague",
+   "Vienna"
+  ],
+  "correctIndex": 1,
+  "explanation": "The UN headquarters complex is in New York City, on land donated by John D. Rockefeller Jr.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "Which of the following is NOT a permanent member of the UN Security Council?",
+  "options": [
+   "United Kingdom",
+   "Russia",
+   "Germany",
+   "China"
+  ],
+  "correctIndex": 2,
+  "explanation": "The five permanent UNSC members are the US, UK, France, Russia and China; Germany has never held a permanent seat.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "Who was the first Secretary-General of the United Nations?",
+  "options": [
+   "U Thant",
+   "Dag Hammarskjold",
+   "Kurt Waldheim",
+   "Trygve Lie"
+  ],
+  "correctIndex": 3,
+  "explanation": "Trygve Lie of Norway served as the first UN Secretary-General, from 1946 to 1952.",
+  "difficulty": "HARD",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "In which year was the North Atlantic Treaty Organization (NATO) established?",
+  "options": [
+   "1949",
+   "1955",
+   "1945",
+   "1961"
+  ],
+  "correctIndex": 0,
+  "explanation": "NATO was founded on 4 April 1949 with the signing of the North Atlantic Treaty in Washington, D.C.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The headquarters of NATO is located in which city?",
+  "options": [
+   "Geneva",
+   "Brussels",
+   "Strasbourg",
+   "Vienna"
+  ],
+  "correctIndex": 1,
+  "explanation": "NATO's headquarters has been located in Brussels, Belgium, since 1967.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "How many countries signed the original North Atlantic Treaty in 1949?",
+  "options": [
+   "10",
+   "15",
+   "12",
+   "9"
+  ],
+  "correctIndex": 2,
+  "explanation": "Twelve countries, including the United States, Canada, and the United Kingdom, were the founding members of NATO in 1949.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The European Union was formally established by which treaty?",
+  "options": [
+   "Treaty of Rome",
+   "Treaty of Lisbon",
+   "Treaty of Amsterdam",
+   "Maastricht Treaty"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Maastricht Treaty, signed in 1992 and effective from November 1993, created the European Union.",
+  "difficulty": "HARD",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "In which year was the Association of Southeast Asian Nations (ASEAN) founded?",
+  "options": [
+   "1967",
+   "1975",
+   "1960",
+   "1980"
+  ],
+  "correctIndex": 0,
+  "explanation": "ASEAN was founded on 8 August 1967 in Bangkok.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "How many countries were founding members of ASEAN in 1967?",
+  "options": [
+   "Four",
+   "Five",
+   "Six",
+   "Eight"
+  ],
+  "correctIndex": 1,
+  "explanation": "Indonesia, Malaysia, the Philippines, Singapore, and Thailand were the five founding members of ASEAN.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The South Asian Association for Regional Cooperation (SAARC) was established in which year?",
+  "options": [
+   "1980",
+   "1990",
+   "1985",
+   "1972"
+  ],
+  "correctIndex": 2,
+  "explanation": "SAARC was founded in 1985 with the signing of its charter in Dhaka.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The permanent secretariat of SAARC is located in which city?",
+  "options": [
+   "Dhaka",
+   "Islamabad",
+   "New Delhi",
+   "Kathmandu"
+  ],
+  "correctIndex": 3,
+  "explanation": "The SAARC Secretariat has been headquartered in Kathmandu, Nepal, since 1987.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "In which year was the Organisation of Islamic Cooperation (OIC) founded?",
+  "options": [
+   "1969",
+   "1973",
+   "1962",
+   "1980"
+  ],
+  "correctIndex": 0,
+  "explanation": "The OIC (originally the Organisation of the Islamic Conference) was founded in 1969 following an emergency summit in Rabat.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The headquarters of the Organisation of Islamic Cooperation is located in which city?",
+  "options": [
+   "Mecca",
+   "Jeddah",
+   "Riyadh",
+   "Cairo"
+  ],
+  "correctIndex": 1,
+  "explanation": "The OIC's headquarters is in Jeddah, Saudi Arabia, though it was intended to move to Jerusalem once liberated.",
+  "difficulty": "HARD",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "Which of the following countries is NOT a member of the G7?",
+  "options": [
+   "Germany",
+   "Japan",
+   "China",
+   "Canada"
+  ],
+  "correctIndex": 2,
+  "explanation": "The G7 comprises the US, UK, France, Germany, Italy, Japan and Canada; China is not a member.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 1955 Bandung Conference of Asian and African nations was hosted by which country?",
+  "options": [
+   "India",
+   "Egypt",
+   "Pakistan",
+   "Indonesia"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Bandung Conference, a landmark meeting of newly independent Asian and African states, was held in Bandung, Indonesia, in April 1955.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 1978 Camp David Accords led to a peace treaty between which two countries?",
+  "options": [
+   "Egypt and Israel",
+   "Jordan and Israel",
+   "Syria and Israel",
+   "Lebanon and Israel"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Camp David Accords, brokered by US President Jimmy Carter, led to the 1979 Egypt-Israel Peace Treaty.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The Kyoto Protocol, an international treaty committing states to reduce greenhouse gas emissions, was adopted in which year?",
+  "options": [
+   "1992",
+   "1997",
+   "2001",
+   "2005"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Kyoto Protocol was adopted in Kyoto, Japan, in December 1997 and entered into force in 2005.",
+  "difficulty": "HARD",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The Paris Agreement on climate change was adopted at which UN climate conference?",
+  "options": [
+   "COP15",
+   "COP19",
+   "COP21",
+   "COP24"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Paris Agreement was adopted at COP21, held in Paris in December 2015.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 2021 UN Climate Change Conference (COP26) was held in which city?",
+  "options": [
+   "Madrid",
+   "Katowice",
+   "Bonn",
+   "Glasgow"
+  ],
+  "correctIndex": 3,
+  "explanation": "COP26 was hosted by the United Kingdom in Glasgow, Scotland, in November 2021.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 2022 UN Climate Change Conference (COP27) was held in which country?",
+  "options": [
+   "Egypt",
+   "Morocco",
+   "UAE",
+   "Tunisia"
+  ],
+  "correctIndex": 0,
+  "explanation": "COP27 was held in Sharm el-Sheikh, Egypt, in November 2022.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 2023 UN Climate Change Conference (COP28) was hosted by which country?",
+  "options": [
+   "Qatar",
+   "United Arab Emirates",
+   "Saudi Arabia",
+   "Oman"
+  ],
+  "correctIndex": 1,
+  "explanation": "COP28 was held in Dubai, United Arab Emirates, in November-December 2023.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 2024 UN Climate Change Conference (COP29) was held in which city?",
+  "options": [
+   "Tbilisi",
+   "Yerevan",
+   "Baku",
+   "Astana"
+  ],
+  "correctIndex": 2,
+  "explanation": "COP29 was hosted in Baku, Azerbaijan, in November 2024.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 2025 UN Climate Change Conference (COP30) was hosted in which Brazilian city?",
+  "options": [
+   "Brasilia",
+   "Rio de Janeiro",
+   "Sao Paulo",
+   "Belem"
+  ],
+  "correctIndex": 3,
+  "explanation": "COP30 was held in Belem, a city on the edge of the Amazon basin, in November 2025.",
+  "difficulty": "HARD",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 2020 Abraham Accords normalised relations between Israel and which two Arab states?",
+  "options": [
+   "UAE and Bahrain",
+   "Saudi Arabia and Qatar",
+   "Jordan and Egypt",
+   "Morocco and Oman"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Abraham Accords, brokered by the US in 2020, saw the UAE and Bahrain establish formal diplomatic relations with Israel.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 'S' was added to BRIC to form 'BRICS' in 2010 when which country joined the grouping?",
+  "options": [
+   "Egypt",
+   "South Africa",
+   "Saudi Arabia",
+   "Nigeria"
+  ],
+  "correctIndex": 1,
+  "explanation": "South Africa joined the original BRIC bloc (Brazil, Russia, India, China) in 2010, forming BRICS.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "Which of the following countries formally joined BRICS as a new member on 1 January 2024?",
+  "options": [
+   "Indonesia",
+   "Nigeria",
+   "Egypt",
+   "Argentina"
+  ],
+  "correctIndex": 2,
+  "explanation": "Egypt, along with Ethiopia, Iran and the UAE, formally joined BRICS on 1 January 2024, expanding the bloc.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The G20 summit of 2022 was hosted by which country?",
+  "options": [
+   "India",
+   "Japan",
+   "Italy",
+   "Indonesia"
+  ],
+  "correctIndex": 3,
+  "explanation": "Indonesia hosted the 2022 G20 summit in Bali.",
+  "difficulty": "HARD",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The G20 summit of 2023 was hosted by which country?",
+  "options": [
+   "India",
+   "Brazil",
+   "South Africa",
+   "Indonesia"
+  ],
+  "correctIndex": 0,
+  "explanation": "India hosted the 2023 G20 summit in New Delhi.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The G20 summit of 2024 was hosted by which country?",
+  "options": [
+   "Argentina",
+   "Brazil",
+   "Mexico",
+   "Chile"
+  ],
+  "correctIndex": 1,
+  "explanation": "Brazil hosted the 2024 G20 summit in Rio de Janeiro.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 2025 G20 summit, the first ever held on the African continent, was hosted by which country?",
+  "options": [
+   "Nigeria",
+   "Kenya",
+   "South Africa",
+   "Egypt"
+  ],
+  "correctIndex": 2,
+  "explanation": "South Africa hosted the 2025 G20 summit in Johannesburg, the first G20 summit held in Africa.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The treaty that formally ended the First World War between Germany and the Allied Powers was signed in which year?",
+  "options": [
+   "1917",
+   "1918",
+   "1920",
+   "1919"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Treaty of Versailles was signed on 28 June 1919, formally ending the First World War.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The 1944 Bretton Woods Conference led to the creation of which two international financial institutions?",
+  "options": [
+   "IMF and World Bank",
+   "WTO and IMF",
+   "World Bank and ADB",
+   "IMF and BIS"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Bretton Woods Conference established the International Monetary Fund and the International Bank for Reconstruction and Development (World Bank).",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The World Health Organization, founded in 1948, has its headquarters in which city?",
+  "options": [
+   "Vienna",
+   "Geneva",
+   "Paris",
+   "Rome"
+  ],
+  "correctIndex": 1,
+  "explanation": "The WHO was established in 1948 and is headquartered in Geneva, Switzerland.",
+  "difficulty": "HARD",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "UNESCO, the UN's cultural and educational agency, is headquartered in which city?",
+  "options": [
+   "Geneva",
+   "Rome",
+   "Paris",
+   "Brussels"
+  ],
+  "correctIndex": 2,
+  "explanation": "UNESCO was founded in 1945 and is headquartered in Paris, France.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "Unlike the other Nobel Prizes, the Nobel Peace Prize is awarded each year in which city?",
+  "options": [
+   "Stockholm",
+   "Copenhagen",
+   "Geneva",
+   "Oslo"
+  ],
+  "correctIndex": 3,
+  "explanation": "While other Nobel Prizes are awarded in Stockholm, the Peace Prize is awarded in Oslo, Norway, per Alfred Nobel's will.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The International Court of Justice, the principal judicial organ of the UN, sits in which city?",
+  "options": [
+   "The Hague",
+   "Geneva",
+   "Strasbourg",
+   "Brussels"
+  ],
+  "correctIndex": 0,
+  "explanation": "The International Court of Justice is seated at the Peace Palace in The Hague, Netherlands.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The Schengen Agreement, which abolished internal border checks among most European states, was signed in which year?",
+  "options": [
+   "1975",
+   "1985",
+   "1993",
+   "2000"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Schengen Agreement was signed in 1985 near the town of Schengen, Luxembourg.",
+  "difficulty": "HARD",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The Joint Comprehensive Plan of Action (JCPOA), the Iran nuclear deal, was signed in which year?",
+  "options": [
+   "2013",
+   "2018",
+   "2015",
+   "2010"
+  ],
+  "correctIndex": 2,
+  "explanation": "The JCPOA was signed in July 2015 between Iran and the P5+1 group of world powers.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "AUKUS, a trilateral security partnership announced in 2021, involves Australia, the United Kingdom and which other country?",
+  "options": [
+   "Canada",
+   "New Zealand",
+   "Japan",
+   "United States"
+  ],
+  "correctIndex": 3,
+  "explanation": "AUKUS is a security pact between Australia, the United Kingdom and the United States, announced in September 2021.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The Berlin Wall, which divided East and West Berlin, fell in which year?",
+  "options": [
+   "1989",
+   "1991",
+   "1985",
+   "1993"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Berlin Wall fell on 9 November 1989, paving the way for German reunification in 1990.",
+  "difficulty": "EASY",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The Soviet Union formally dissolved in which year?",
+  "options": [
+   "1989",
+   "1991",
+   "1993",
+   "1990"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Soviet Union was formally dissolved on 26 December 1991.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The concept of the modern sovereign nation-state is commonly traced to which 1648 treaty?",
+  "options": [
+   "Treaty of Utrecht",
+   "Treaty of Vienna",
+   "Treaty of Westphalia",
+   "Treaty of Tordesillas"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Peace of Westphalia in 1648 ended the Thirty Years' War and established the principle of state sovereignty.",
+  "difficulty": "MEDIUM",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The Organization of the Petroleum Exporting Countries (OPEC), founded in 1960, is headquartered in which city?",
+  "options": [
+   "Geneva",
+   "Riyadh",
+   "Kuwait City",
+   "Vienna"
+  ],
+  "correctIndex": 3,
+  "explanation": "OPEC was founded in Baghdad in 1960 and has been headquartered in Vienna, Austria, since 1965.",
+  "difficulty": "HARD",
+  "topic": "world-affairs"
+ },
+ {
+  "text": "The first FIFA World Cup, held in 1930, was hosted by which country?",
+  "options": [
+   "Uruguay",
+   "Brazil",
+   "Argentina",
+   "Italy"
+  ],
+  "correctIndex": 0,
+  "explanation": "Uruguay hosted and won the inaugural FIFA World Cup in 1930.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 1950 FIFA World Cup was hosted by which country?",
+  "options": [
+   "Argentina",
+   "Brazil",
+   "Chile",
+   "Uruguay"
+  ],
+  "correctIndex": 1,
+  "explanation": "Brazil hosted the 1950 FIFA World Cup, famously losing the deciding match to Uruguay at the Maracana.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "Which country won the 1950 FIFA World Cup, held in Brazil, in the famous 'Maracanazo' upset?",
+  "options": [
+   "Argentina",
+   "Brazil",
+   "Uruguay",
+   "Paraguay"
+  ],
+  "correctIndex": 2,
+  "explanation": "Uruguay defeated the host nation Brazil in the deciding match to win the 1950 World Cup.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "England won its only FIFA World Cup title as host nation in which year?",
+  "options": [
+   "1958",
+   "1962",
+   "1970",
+   "1966"
+  ],
+  "correctIndex": 3,
+  "explanation": "England won the 1966 FIFA World Cup, which it also hosted, defeating West Germany in the final.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "Brazil won its third FIFA World Cup title at the 1970 tournament held in which country?",
+  "options": [
+   "Mexico",
+   "Chile",
+   "Peru",
+   "Argentina"
+  ],
+  "correctIndex": 0,
+  "explanation": "Brazil won the 1970 World Cup in Mexico, becoming the first team to win the title three times.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "The 1974 FIFA World Cup was won by the host nation, which was:",
+  "options": [
+   "East Germany",
+   "West Germany",
+   "Netherlands",
+   "Austria"
+  ],
+  "correctIndex": 1,
+  "explanation": "West Germany hosted and won the 1974 FIFA World Cup, defeating the Netherlands in the final.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "Argentina won its first FIFA World Cup title as host nation in which year?",
+  "options": [
+   "1982",
+   "1974",
+   "1978",
+   "1986"
+  ],
+  "correctIndex": 2,
+  "explanation": "Argentina hosted and won the 1978 FIFA World Cup.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "The 1986 FIFA World Cup, famous for Diego Maradona's 'Hand of God' goal, was hosted by which country?",
+  "options": [
+   "Spain",
+   "Colombia",
+   "USA",
+   "Mexico"
+  ],
+  "correctIndex": 3,
+  "explanation": "Mexico hosted the 1986 World Cup, which Argentina won under the captaincy of Diego Maradona.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 1990 FIFA World Cup, won by West Germany, was hosted by which country?",
+  "options": [
+   "Italy",
+   "Spain",
+   "France",
+   "England"
+  ],
+  "correctIndex": 0,
+  "explanation": "Italy hosted the 1990 FIFA World Cup, which West Germany won for a third time.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 1994 FIFA World Cup, the first held in the United States, was won by which country?",
+  "options": [
+   "Italy",
+   "Brazil",
+   "Argentina",
+   "Germany"
+  ],
+  "correctIndex": 1,
+  "explanation": "Brazil won the 1994 World Cup, held in the United States, beating Italy on penalties in the final.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "France won its first FIFA World Cup title as host nation in which year?",
+  "options": [
+   "1994",
+   "2002",
+   "1998",
+   "2006"
+  ],
+  "correctIndex": 2,
+  "explanation": "France hosted and won the 1998 FIFA World Cup, defeating Brazil in the final.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2002 FIFA World Cup, the first held in Asia, was jointly hosted by which two countries?",
+  "options": [
+   "China and Japan",
+   "Thailand and South Korea",
+   "Malaysia and Japan",
+   "Japan and South Korea"
+  ],
+  "correctIndex": 3,
+  "explanation": "Japan and South Korea co-hosted the 2002 FIFA World Cup, the first tournament held in Asia and the first co-hosted edition.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2006 FIFA World Cup, hosted by Germany, was won by which country?",
+  "options": [
+   "Italy",
+   "France",
+   "Brazil",
+   "Germany"
+  ],
+  "correctIndex": 0,
+  "explanation": "Italy won the 2006 FIFA World Cup in Germany, defeating France on penalties in the final.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2010 FIFA World Cup, the first held on the African continent, was won by which country?",
+  "options": [
+   "Netherlands",
+   "Spain",
+   "Germany",
+   "Uruguay"
+  ],
+  "correctIndex": 1,
+  "explanation": "Spain won its first World Cup title at the 2010 tournament hosted by South Africa.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2014 FIFA World Cup, hosted by Brazil, was won by which country?",
+  "options": [
+   "Argentina",
+   "Netherlands",
+   "Germany",
+   "Brazil"
+  ],
+  "correctIndex": 2,
+  "explanation": "Germany won the 2014 World Cup in Brazil, defeating Argentina in the final.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2018 FIFA World Cup, hosted by Russia, was won by which country?",
+  "options": [
+   "Croatia",
+   "Belgium",
+   "England",
+   "France"
+  ],
+  "correctIndex": 3,
+  "explanation": "France won the 2018 FIFA World Cup in Russia, defeating Croatia in the final.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2022 FIFA World Cup, the first held in the Middle East, was hosted by which country?",
+  "options": [
+   "Qatar",
+   "UAE",
+   "Saudi Arabia",
+   "Bahrain"
+  ],
+  "correctIndex": 0,
+  "explanation": "Qatar hosted the 2022 FIFA World Cup, the first World Cup held in the Middle East; Argentina won the title.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2026 FIFA World Cup will be the first ever jointly hosted by three countries. Which three?",
+  "options": [
+   "Mexico, Brazil and USA",
+   "USA, Canada and Mexico",
+   "Canada, UK and USA",
+   "Mexico, USA and Argentina"
+  ],
+  "correctIndex": 1,
+  "explanation": "The 2026 FIFA World Cup will be co-hosted by the United States, Canada and Mexico, the first edition hosted by three nations.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "FIFA, football's global governing body, was founded in 1904 and is headquartered in which city?",
+  "options": [
+   "Geneva",
+   "Paris",
+   "Zurich",
+   "Lausanne"
+  ],
+  "correctIndex": 2,
+  "explanation": "FIFA was founded in Paris in 1904 but has been headquartered in Zurich, Switzerland, since 1932.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "As of the 2022 tournament, which country has won the most FIFA World Cup titles?",
+  "options": [
+   "Germany",
+   "Argentina",
+   "Italy",
+   "Brazil"
+  ],
+  "correctIndex": 3,
+  "explanation": "Brazil has won the FIFA World Cup a record five times: 1958, 1962, 1970, 1994 and 2002.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "The first modern Olympic Games were held in 1896 in which city?",
+  "options": [
+   "Athens",
+   "Paris",
+   "Rome",
+   "London"
+  ],
+  "correctIndex": 0,
+  "explanation": "The first modern Olympic Games were held in Athens, Greece, in 1896.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The modern Olympic Games were revived in the 19th century largely due to the efforts of which Frenchman?",
+  "options": [
+   "Jules Rimet",
+   "Pierre de Coubertin",
+   "Henri de Baillet-Latour",
+   "Avery Brundage"
+  ],
+  "correctIndex": 1,
+  "explanation": "Pierre de Coubertin founded the International Olympic Committee and is credited with reviving the modern Olympic Games.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "The International Olympic Committee, founded in 1894, is headquartered in which city?",
+  "options": [
+   "Geneva",
+   "Zurich",
+   "Lausanne",
+   "Bern"
+  ],
+  "correctIndex": 2,
+  "explanation": "The IOC was founded in 1894 and is headquartered in Lausanne, Switzerland.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "Many Western countries, led by the United States, boycotted the 1980 Summer Olympics held in which city, in protest at the Soviet invasion of Afghanistan?",
+  "options": [
+   "Beijing",
+   "Los Angeles",
+   "Seoul",
+   "Moscow"
+  ],
+  "correctIndex": 3,
+  "explanation": "The US led a boycott of the 1980 Moscow Olympics after the Soviet invasion of Afghanistan in 1979.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2008 Summer Olympics were hosted by which city?",
+  "options": [
+   "Beijing",
+   "Tokyo",
+   "Seoul",
+   "Shanghai"
+  ],
+  "correctIndex": 0,
+  "explanation": "Beijing hosted the 2008 Summer Olympics, its first as an Olympic host city.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "London became the first city to host the Summer Olympics three times when it hosted the Games in which year?",
+  "options": [
+   "2004",
+   "2012",
+   "2016",
+   "2000"
+  ],
+  "correctIndex": 1,
+  "explanation": "London hosted the Summer Olympics in 1908, 1948, and 2012, becoming the first three-time host city.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2016 Summer Olympics, the first held in South America, were hosted by which city?",
+  "options": [
+   "Buenos Aires",
+   "Santiago",
+   "Rio de Janeiro",
+   "Bogota"
+  ],
+  "correctIndex": 2,
+  "explanation": "Rio de Janeiro hosted the 2016 Summer Olympics, the first Games held in South America.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2020 Summer Olympics, hosted by Tokyo, were actually held in which year due to the COVID-19 pandemic?",
+  "options": [
+   "2020",
+   "2019",
+   "2023",
+   "2021"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Tokyo Olympics, officially the 2020 Games, were postponed and held in the summer of 2021 because of the COVID-19 pandemic.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "Beijing became the first city to host both the Summer and Winter Olympics when it hosted the Winter Games in which year?",
+  "options": [
+   "2022",
+   "2018",
+   "2026",
+   "2014"
+  ],
+  "correctIndex": 0,
+  "explanation": "Beijing hosted the 2022 Winter Olympics, having also hosted the 2008 Summer Olympics, making it the first city to host both.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2024 Summer Olympics were hosted by which city, hosting the Games for a third time?",
+  "options": [
+   "London",
+   "Paris",
+   "Athens",
+   "Los Angeles"
+  ],
+  "correctIndex": 1,
+  "explanation": "Paris hosted the 2024 Summer Olympics, having previously hosted in 1900 and 1924.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2026 Winter Olympics are being co-hosted by Milan and which other Italian town?",
+  "options": [
+   "Turin",
+   "Bormio",
+   "Cortina d'Ampezzo",
+   "Sestriere"
+  ],
+  "correctIndex": 2,
+  "explanation": "The 2026 Winter Olympics are jointly hosted by Milan and Cortina d'Ampezzo in northern Italy.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The first Winter Olympic Games were held in 1924 in which town?",
+  "options": [
+   "St. Moritz",
+   "Lake Placid",
+   "Garmisch-Partenkirchen",
+   "Chamonix"
+  ],
+  "correctIndex": 3,
+  "explanation": "The first Winter Olympics were held in Chamonix, France, in 1924.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "What is the traditional Olympic motto, in Latin?",
+  "options": [
+   "Citius, Altius, Fortius",
+   "Fortius, Citius, Altius",
+   "Altius, Fortius, Citius",
+   "Unus pro Omnibus"
+  ],
+  "correctIndex": 0,
+  "explanation": "'Citius, Altius, Fortius' (Faster, Higher, Stronger) has been the Olympic motto since 1894.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The five interlocking rings of the Olympic flag represent:",
+  "options": [
+   "The five founding nations",
+   "The five inhabited continents",
+   "The five original sports",
+   "The five ancient Greek city-states"
+  ],
+  "correctIndex": 1,
+  "explanation": "The five Olympic rings symbolise the union of the five inhabited continents participating in the Games.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "The first Cricket World Cup, held in 1975, was won by which team?",
+  "options": [
+   "Australia",
+   "England",
+   "West Indies",
+   "India"
+  ],
+  "correctIndex": 2,
+  "explanation": "The West Indies won the inaugural Cricket World Cup, held in England in 1975.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "India won its first Cricket World Cup title in which year, defeating West Indies in the final?",
+  "options": [
+   "1975",
+   "1979",
+   "1987",
+   "1983"
+  ],
+  "correctIndex": 3,
+  "explanation": "India won the 1983 Cricket World Cup, defeating the two-time defending champions West Indies in the final at Lord's.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "Pakistan won its only Cricket World Cup title in 1992, a tournament co-hosted by which two countries?",
+  "options": [
+   "Australia and New Zealand",
+   "England and Wales",
+   "India and Pakistan",
+   "South Africa and Zimbabwe"
+  ],
+  "correctIndex": 0,
+  "explanation": "Pakistan, captained by Imran Khan, won the 1992 Cricket World Cup, co-hosted by Australia and New Zealand.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "Sri Lanka won its only Cricket World Cup title in which year?",
+  "options": [
+   "1992",
+   "1996",
+   "1999",
+   "2003"
+  ],
+  "correctIndex": 1,
+  "explanation": "Sri Lanka won the 1996 Cricket World Cup, held on the subcontinent, defeating Australia in the final.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "The 1999 Cricket World Cup, hosted by England, was won by which team?",
+  "options": [
+   "Pakistan",
+   "South Africa",
+   "Australia",
+   "New Zealand"
+  ],
+  "correctIndex": 2,
+  "explanation": "Australia won the 1999 Cricket World Cup, defeating Pakistan in the final at Lord's.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "India won its second Cricket World Cup title in 2011, a tournament it co-hosted with which countries?",
+  "options": [
+   "Pakistan and UAE",
+   "England and Ireland",
+   "South Africa and Zimbabwe",
+   "Sri Lanka and Bangladesh"
+  ],
+  "correctIndex": 3,
+  "explanation": "India co-hosted the 2011 Cricket World Cup with Sri Lanka and Bangladesh, and won the title on home soil.",
+  "difficulty": "HARD",
+  "topic": "sports"
+ },
+ {
+  "text": "England won its first Cricket World Cup title in 2019 in a final decided by a Super Over against which team?",
+  "options": [
+   "New Zealand",
+   "Australia",
+   "India",
+   "South Africa"
+  ],
+  "correctIndex": 0,
+  "explanation": "England won the 2019 Cricket World Cup final against New Zealand, which was tied and decided by a Super Over.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "The 2023 Cricket World Cup, hosted by India, was won by which country for a record sixth time?",
+  "options": [
+   "England",
+   "Australia",
+   "New Zealand",
+   "South Africa"
+  ],
+  "correctIndex": 1,
+  "explanation": "Australia defeated host nation India in the final to win a record sixth Cricket World Cup title in 2023.",
+  "difficulty": "EASY",
+  "topic": "sports"
+ },
+ {
+  "text": "The International Cricket Council was originally founded in 1909 under which name?",
+  "options": [
+   "World Cricket Council",
+   "Commonwealth Cricket Conference",
+   "Imperial Cricket Conference",
+   "Test Cricket Board"
+  ],
+  "correctIndex": 2,
+  "explanation": "The ICC began in 1909 as the Imperial Cricket Conference, comprising England, Australia and South Africa, before being renamed in 1965 and again in 1989.",
+  "difficulty": "MEDIUM",
+  "topic": "sports"
+ },
+ {
+  "text": "Sputnik 1, the world's first artificial satellite, was launched in 1957 by which country?",
+  "options": [
+   "United States",
+   "United Kingdom",
+   "China",
+   "Soviet Union"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Soviet Union launched Sputnik 1 on 4 October 1957, starting the Space Age.",
+  "difficulty": "HARD",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Who became the first human to journey into outer space, in 1961?",
+  "options": [
+   "Yuri Gagarin",
+   "Neil Armstrong",
+   "Alan Shepard",
+   "Valentina Tereshkova"
+  ],
+  "correctIndex": 0,
+  "explanation": "Soviet cosmonaut Yuri Gagarin orbited the Earth aboard Vostok 1 on 12 April 1961, becoming the first human in space.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The first crewed Moon landing was achieved by which mission in 1969?",
+  "options": [
+   "Apollo 8",
+   "Apollo 11",
+   "Apollo 13",
+   "Apollo 17"
+  ],
+  "correctIndex": 1,
+  "explanation": "Apollo 11 landed the first humans on the Moon on 20 July 1969.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Who was the first person to walk on the surface of the Moon?",
+  "options": [
+   "Buzz Aldrin",
+   "Michael Collins",
+   "Neil Armstrong",
+   "John Glenn"
+  ],
+  "correctIndex": 2,
+  "explanation": "Neil Armstrong stepped onto the lunar surface first during the Apollo 11 mission on 20 July 1969.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "NASA, the US space agency, was established in which year?",
+  "options": [
+   "1961",
+   "1965",
+   "1969",
+   "1958"
+  ],
+  "correctIndex": 3,
+  "explanation": "NASA was created in 1958, largely in response to the Soviet launch of Sputnik.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The Voyager 1 and Voyager 2 space probes, which studied the outer planets, were launched in which year?",
+  "options": [
+   "1977",
+   "1969",
+   "1981",
+   "1990"
+  ],
+  "correctIndex": 0,
+  "explanation": "Both Voyager probes were launched in 1977 and have since travelled beyond the outer planets into interstellar space.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The Hubble Space Telescope was launched into orbit in which year?",
+  "options": [
+   "1985",
+   "1990",
+   "1995",
+   "2001"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Hubble Space Telescope was launched aboard the Space Shuttle Discovery in April 1990.",
+  "difficulty": "HARD",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The first module of the International Space Station was launched in which year?",
+  "options": [
+   "1993",
+   "1995",
+   "1998",
+   "2000"
+  ],
+  "correctIndex": 2,
+  "explanation": "The ISS's first module, Zarya, was launched in November 1998, beginning assembly of the station in orbit.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "NASA's Curiosity rover landed on Mars in which year?",
+  "options": [
+   "2008",
+   "2010",
+   "2015",
+   "2012"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Curiosity rover landed in Gale Crater on Mars in August 2012.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "NASA's Perseverance rover, which carried the Ingenuity helicopter, landed on Mars in which year?",
+  "options": [
+   "2021",
+   "2019",
+   "2023",
+   "2017"
+  ],
+  "correctIndex": 0,
+  "explanation": "Perseverance landed in Jezero Crater on Mars in February 2021.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "In August 2023, India's Chandrayaan-3 mission achieved which milestone?",
+  "options": [
+   "First orbiter around Mars",
+   "First soft landing near the Moon's south pole",
+   "First sample return from an asteroid",
+   "First crewed lunar flyby"
+  ],
+  "correctIndex": 1,
+  "explanation": "Chandrayaan-3 made India the first country to land near the Moon's south pole and the fourth to achieve a soft lunar landing, in August 2023.",
+  "difficulty": "HARD",
+  "topic": "science-tech"
+ },
+ {
+  "text": "NASA's Artemis I mission, an uncrewed test flight of the Orion spacecraft around the Moon, launched in which year?",
+  "options": [
+   "2020",
+   "2021",
+   "2022",
+   "2023"
+  ],
+  "correctIndex": 2,
+  "explanation": "Artemis I launched in November 2022, testing the Space Launch System rocket and Orion capsule ahead of future crewed Moon missions.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The James Webb Space Telescope, the successor to Hubble, was launched in which month and year?",
+  "options": [
+   "June 2020",
+   "March 2021",
+   "September 2022",
+   "December 2021"
+  ],
+  "correctIndex": 3,
+  "explanation": "The James Webb Space Telescope was launched on 25 December 2021.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The first-ever direct image of a black hole was released in which year?",
+  "options": [
+   "2019",
+   "2015",
+   "2021",
+   "2012"
+  ],
+  "correctIndex": 0,
+  "explanation": "The Event Horizon Telescope collaboration released the first image of a black hole, at the centre of galaxy M87, in April 2019.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Gravitational waves, predicted by Einstein a century earlier, were first directly detected in which year?",
+  "options": [
+   "2012",
+   "2015",
+   "2018",
+   "2009"
+  ],
+  "correctIndex": 1,
+  "explanation": "The LIGO observatories made the first direct detection of gravitational waves in September 2015, announced in February 2016.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The Higgs boson particle was experimentally confirmed in 2012 at which research facility?",
+  "options": [
+   "Fermilab",
+   "Kennedy Space Center",
+   "CERN",
+   "ISRO"
+  ],
+  "correctIndex": 2,
+  "explanation": "The Higgs boson was discovered at CERN's Large Hadron Collider in 2012, confirming a particle theorised in 1964.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "CERN, the European Organization for Nuclear Research, was founded in which year?",
+  "options": [
+   "1945",
+   "1957",
+   "1961",
+   "1954"
+  ],
+  "correctIndex": 3,
+  "explanation": "CERN was established in 1954 and operates the Large Hadron Collider near Geneva.",
+  "difficulty": "HARD",
+  "topic": "science-tech"
+ },
+ {
+  "text": "India's Chandrayaan-1 mission, launched in 2008, is credited with helping confirm the presence of what on the Moon?",
+  "options": [
+   "Water molecules",
+   "Liquid methane",
+   "Diamond deposits",
+   "Molten iron core"
+  ],
+  "correctIndex": 0,
+  "explanation": "Data from Chandrayaan-1, launched in 2008, provided key evidence of water molecules on the lunar surface.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "India's Mars Orbiter Mission ('Mangalyaan') successfully entered Mars orbit in which year, making India the first Asian country to reach Mars?",
+  "options": [
+   "2013",
+   "2014",
+   "2016",
+   "2012"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mangalyaan reached Mars orbit in September 2014, making ISRO the first Asian space agency to do so.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "China's Chang'e 4 mission achieved the first-ever soft landing on which part of the Moon, in January 2019?",
+  "options": [
+   "The equator",
+   "The north pole",
+   "The far side",
+   "The south pole"
+  ],
+  "correctIndex": 2,
+  "explanation": "Chang'e 4 became the first spacecraft to land on the far side of the Moon, in January 2019.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "SpaceX achieved the first successful landing of an orbital-class rocket's first stage in which year?",
+  "options": [
+   "2010",
+   "2012",
+   "2018",
+   "2015"
+  ],
+  "correctIndex": 3,
+  "explanation": "SpaceX first landed a Falcon 9 first stage successfully in December 2015, a milestone for reusable rockets.",
+  "difficulty": "HARD",
+  "topic": "science-tech"
+ },
+ {
+  "text": "In 2020, which company launched the first crewed orbital spaceflight from US soil since the Space Shuttle era, to the ISS?",
+  "options": [
+   "SpaceX",
+   "Boeing",
+   "Blue Origin",
+   "Northrop Grumman"
+  ],
+  "correctIndex": 0,
+  "explanation": "SpaceX's Crew Dragon Demo-2 mission in May 2020 carried NASA astronauts to the ISS, the first crewed US orbital launch since 2011.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Aditya-L1, launched by India in 2023, is a mission to study which celestial body?",
+  "options": [
+   "The Moon",
+   "The Sun",
+   "Mars",
+   "Venus"
+  ],
+  "correctIndex": 1,
+  "explanation": "Aditya-L1 is ISRO's first dedicated mission to study the Sun, launched in September 2023.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The double-helix structure of DNA was described in 1953 by James Watson and which co-researcher?",
+  "options": [
+   "Rosalind Franklin",
+   "Erwin Chargaff",
+   "Francis Crick",
+   "Maurice Wilkins"
+  ],
+  "correctIndex": 2,
+  "explanation": "James Watson and Francis Crick published the double-helix structure of DNA in 1953, drawing on X-ray data from Rosalind Franklin.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The Human Genome Project, which mapped nearly all human genes, was declared complete in which year?",
+  "options": [
+   "1996",
+   "2000",
+   "2010",
+   "2003"
+  ],
+  "correctIndex": 3,
+  "explanation": "The Human Genome Project was declared essentially complete in April 2003.",
+  "difficulty": "HARD",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Dolly, the first mammal successfully cloned from an adult somatic cell, was born in which year?",
+  "options": [
+   "1996",
+   "1990",
+   "2001",
+   "1985"
+  ],
+  "correctIndex": 0,
+  "explanation": "Dolly the sheep was born in 1996 at the Roslin Institute in Scotland, the first mammal cloned from an adult cell.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Penicillin, the first widely used antibiotic, was discovered by which scientist in 1928?",
+  "options": [
+   "Louis Pasteur",
+   "Alexander Fleming",
+   "Robert Koch",
+   "Joseph Lister"
+  ],
+  "correctIndex": 1,
+  "explanation": "Alexander Fleming discovered penicillin in 1928 after noticing mould inhibiting bacterial growth in his laboratory.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The World Wide Web was invented in 1989 by Tim Berners-Lee while working at which institution?",
+  "options": [
+   "MIT",
+   "Bell Labs",
+   "CERN",
+   "IBM"
+  ],
+  "correctIndex": 2,
+  "explanation": "Tim Berners-Lee proposed the World Wide Web in 1989 while working at CERN, the European particle physics laboratory.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Apple released the first iPhone in which year?",
+  "options": [
+   "2005",
+   "2009",
+   "2010",
+   "2007"
+  ],
+  "correctIndex": 3,
+  "explanation": "The first iPhone was released by Apple in June 2007.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The 2020 Nobel Prize in Chemistry was awarded for the development of which gene-editing technology?",
+  "options": [
+   "CRISPR-Cas9",
+   "PCR",
+   "Recombinant DNA",
+   "mRNA vaccines"
+  ],
+  "correctIndex": 0,
+  "explanation": "Emmanuelle Charpentier and Jennifer Doudna won the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9 gene-editing tools.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The first COVID-19 vaccine to receive widespread emergency authorisation, in December 2020, was developed by Pfizer in partnership with which company?",
+  "options": [
+   "Moderna",
+   "BioNTech",
+   "AstraZeneca",
+   "Johnson & Johnson"
+  ],
+  "correctIndex": 1,
+  "explanation": "The Pfizer-BioNTech COVID-19 vaccine received emergency authorisation in December 2020, among the first in the world to do so.",
+  "difficulty": "HARD",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Albert Einstein published his theory of general relativity in which year?",
+  "options": [
+   "1905",
+   "1910",
+   "1915",
+   "1921"
+  ],
+  "correctIndex": 2,
+  "explanation": "Einstein published his general theory of relativity in 1915, extending his 1905 special theory.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The periodic table of chemical elements, arranging elements by atomic weight and properties, was devised in 1869 by which scientist?",
+  "options": [
+   "Antoine Lavoisier",
+   "John Dalton",
+   "Marie Curie",
+   "Dmitri Mendeleev"
+  ],
+  "correctIndex": 3,
+  "explanation": "Russian chemist Dmitri Mendeleev published his periodic table of elements in 1869, successfully predicting undiscovered elements.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The first Nobel Prizes were awarded in which year?",
+  "options": [
+   "1901",
+   "1895",
+   "1910",
+   "1920"
+  ],
+  "correctIndex": 0,
+  "explanation": "The first Nobel Prizes were awarded in 1901, five years after Alfred Nobel's death, per his will.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "ARPANET, the precursor to the modern internet, transmitted its first message between computers in which year?",
+  "options": [
+   "1965",
+   "1969",
+   "1973",
+   "1977"
+  ],
+  "correctIndex": 1,
+  "explanation": "ARPANET sent its first host-to-host message in October 1969, between UCLA and Stanford Research Institute.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Pluto, discovered in 1930, was reclassified from a planet to a 'dwarf planet' by the International Astronomical Union in which year?",
+  "options": [
+   "1999",
+   "2003",
+   "2006",
+   "2010"
+  ],
+  "correctIndex": 2,
+  "explanation": "The IAU reclassified Pluto as a dwarf planet in 2006 after defining stricter criteria for what constitutes a planet.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "The Wright brothers achieved the first sustained, controlled, powered flight of an aircraft in which year?",
+  "options": [
+   "1899",
+   "1901",
+   "1905",
+   "1903"
+  ],
+  "correctIndex": 3,
+  "explanation": "Orville and Wilbur Wright achieved the first powered flight at Kitty Hawk, North Carolina, on 17 December 1903.",
+  "difficulty": "HARD",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Which 19th-century French scientist developed the process of pasteurisation and advanced the germ theory of disease?",
+  "options": [
+   "Louis Pasteur",
+   "Robert Koch",
+   "Edward Jenner",
+   "Gregor Mendel"
+  ],
+  "correctIndex": 0,
+  "explanation": "Louis Pasteur developed pasteurisation and provided key evidence for the germ theory of disease in the 19th century.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Marie Curie was the first person to win Nobel Prizes in two different scientific fields. Which two?",
+  "options": [
+   "Medicine and Chemistry",
+   "Physics and Chemistry",
+   "Physics and Medicine",
+   "Chemistry and Peace"
+  ],
+  "correctIndex": 1,
+  "explanation": "Marie Curie won the Nobel Prize in Physics in 1903 and the Nobel Prize in Chemistry in 1911.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Halley's Comet, one of the most famous periodic comets, returns to the vicinity of Earth approximately every how many years?",
+  "options": [
+   "50 years",
+   "100 years",
+   "76 years",
+   "150 years"
+  ],
+  "correctIndex": 2,
+  "explanation": "Halley's Comet has an orbital period of roughly 76 years; it was last visible from Earth in 1986 and is expected to return around 2061.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
+ },
+ {
+  "text": "mRNA vaccine technology, long researched but never before approved for public use, was first deployed at scale during which event?",
+  "options": [
+   "The 2009 H1N1 pandemic",
+   "The 2014 Ebola outbreak",
+   "The 2003 SARS outbreak",
+   "The COVID-19 pandemic"
+  ],
+  "correctIndex": 3,
+  "explanation": "The COVID-19 pandemic saw the first large-scale approval and rollout of mRNA vaccines, developed by Pfizer-BioNTech and Moderna, from late 2020.",
+  "difficulty": "HARD",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Charles Darwin's 'On the Origin of Species', which introduced the theory of evolution by natural selection, was published in which year?",
+  "options": [
+   "1859",
+   "1871",
+   "1845",
+   "1900"
+  ],
+  "correctIndex": 0,
+  "explanation": "Darwin published 'On the Origin of Species' in 1859, setting out the theory of evolution by natural selection.",
+  "difficulty": "EASY",
+  "topic": "science-tech"
+ },
+ {
+  "text": "Alexander Graham Bell was granted a patent for the telephone in which year?",
+  "options": [
+   "1869",
+   "1876",
+   "1880",
+   "1890"
+  ],
+  "correctIndex": 1,
+  "explanation": "Alexander Graham Bell received a patent for the telephone in 1876.",
+  "difficulty": "MEDIUM",
+  "topic": "science-tech"
  }
 ]
